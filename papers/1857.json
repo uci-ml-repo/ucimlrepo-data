@@ -1,0 +1,11 @@
+{
+    "datasetID": 46,
+    "supportID": "B59EFC945ACD390FD067C30FCC412DB19F2C24A3",
+    "rexaID": "118fe8f48c22375803e81b47d91c0bfd96c19999",
+    "author": "Wl/odzisl/aw Duch and Rafal Adamczak and Geerd H. F Diercksen",
+    "title": "Neural Networks from Similarity Based Perspective",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "85.5% (with 20 neurons), and inserting a new value that does not appear in the data, such as -100, decreased accuracy to 81.5% (using 22 neurons). The same behavior has been observed for <b>Hepatitis</b> dataset taken from the same source. the data contains 155 vectors, 18 attributes, 13 of them are binary, other have integer values. The last attribute has 67 missing values, attribute 16 has 29 missing",
+    "mykey": 1857
+}

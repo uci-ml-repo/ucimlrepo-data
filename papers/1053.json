@@ -1,0 +1,11 @@
+{
+    "datasetID": 19,
+    "supportID": "6CEA5EF59096948B99F761531EFC55FEA9819322",
+    "rexaID": "3e9ebff12a232c9f091156827e92c55d259b95f3",
+    "author": "Nikunj C. Oza and Stuart J. Russell",
+    "title": "Online Bagging and Boosting",
+    "venue": "Computer Science Division University of California",
+    "year": "",
+    "window": "ITI online algorithm [14]; batch and online Naive Bayes algorithms are essentially identical. To illustrate the convergence of batch and online learning, we experimented with the <b>Car</b> Evaluation dataset from the UCI Machine Learning Repository [2]. The dataset has 1728 examples, of which we retained 346 (20%) as a test set and used 200, 400, 600, 800, 1000, 1200, and all the remaining 1382 examples",
+    "mykey": 1053
+}

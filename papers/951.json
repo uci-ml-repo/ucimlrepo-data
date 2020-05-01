@@ -1,0 +1,11 @@
+{
+    "datasetID": 110,
+    "supportID": "65F20FD9350002D8A3011B4BF633843A13CBDD9D",
+    "rexaID": "76b4e0dc34501a39e272d5331e363877c2522d31",
+    "author": "Samuel Kaski and Jaakko Peltonen",
+    "title": "Informative Discriminant Analysis",
+    "venue": "ICML",
+    "year": "2003",
+    "window": "of noise in parameter validation. 5. Analysis of Gene Expression Data In this section we demonstrate one way of using the extracted components for exploratory analysis of <b>yeast</b> gene expression. The data set (Hughes et al., 2000) consists of measurements of the expression of each yeast gene in 300 knock-out mutation experiments. After leaving out all genes and experiments without significant expression,",
+    "mykey": 951
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 110,
+    "supportID": "66FC0D5F52CD4284E14FDAECE247F6A0D8FB078F",
+    "rexaID": "5047fbe99b73ea1e127150b6688d65effd51f4c1",
+    "author": "Manoranjan Dash and Kiseok Choi and Peter Scheuermann and Huan Liu",
+    "title": "Feature Selection for Clustering - A Filter Solution",
+    "venue": "ICDM",
+    "year": "2002",
+    "window": "is taken from the recently publicized clustering software CLUTO available from the web site http://www-users.cs.umn.edu/ ~ karypis/cluto/. In this, there is a dataset called Genes2 which has 99 <b>yeast</b> genes (or data points) described using 7 profiles (or features). When ForwardSelect is run over this data, it shows the minimum entropy for subset fF3,F5g (see",
+    "mykey": 974
+}

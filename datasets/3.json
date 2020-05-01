@@ -1,0 +1,23 @@
+{
+    "ID": 3,
+    "Name": "Annealing",
+    "Abstract": "Steel annealing data",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer, Real",
+    "NumInstances": 798,
+    "NumAttributes": 38,
+    "DateDonated": "",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/annealing/",
+    "URLReadme": "../machine-learning-databases/annealing/anneal.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "",
+    "Source": "Donors:\r\n\r\nDavid Sterling and Wray Buntine",
+    "Acknowledgements": "",
+    "Area": "Physical",
+    "RelevantPapers": "",
+    "AttributeInfo": "Attribute Listing:\r\n    1. family:\t\t--,GB,GK,GS,TN,ZA,ZF,ZH,ZM,ZS\r\n    2. product-type:\tC, H, G\r\n    3. steel:\t\t-,R,A,U,K,M,S,W,V\r\n    4. carbon:\t\tcontinuous\r\n    5. hardness:\tcontinuous\r\n    6. temper_rolling:\t-,T\r\n    7. condition:\t-,S,A,X\r\n    8. formability:\t-,1,2,3,4,5\r\n    9. strength:\tcontinuous\r\n   10. non-ageing:\t-,N\r\n   11. surface-finish:\tP,M,-\r\n   12. surface-quality: -,D,E,F,G\r\n   13. enamelability:\t-,1,2,3,4,5\r\n   14. bc:\t\tY,-\r\n   15. bf:\t\tY,-\r\n   16. bt:\t\tY,-\r\n   17. bw/me:\t\tB,M,-\r\n   18. bl:\t\tY,-\r\n   19. m:\t\tY,-\r\n   20. chrom:\t\tC,-\r\n   21. phos:\t\tP,-\r\n   22. cbond:\t\tY,-\r\n   23. marvi:\t\tY,-\r\n   24. exptl:\t\tY,-\r\n   25. ferro:\t\tY,-\r\n   26. corr:\t\tY,-\r\n   27. blue/bright/varn/clean:\t\tB,R,V,C,-\r\n   28. lustre:\t\tY,-\r\n   29. jurofm:\t\tY,-\r\n   30. s:\t\tY,-\r\n   31. p:\t\tY,-\r\n   32. shape:\t\tCOIL, SHEET\r\n   33. thick:\t\tcontinuous\r\n   34. width:\t\tcontinuous\r\n   35. len:\t\tcontinuous\r\n   36. oil:\t\t-,Y,N\r\n   37. bore:\t\t0000,0500,0600,0760\r\n   38. packing:\t-,1,2,3\r\n   classes:        1,2,3,4,5,U\r\n \r\n   -- The '-' values are actually 'not_applicable' values rather than 'missing_values' (and so can be treated as legal discrete values rather than as showing the absence of a discrete value).",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 10249
+}

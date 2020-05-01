@@ -1,0 +1,11 @@
+{
+    "datasetID": 39,
+    "supportID": "2F472C3373C3F7E50370FBDBA9E98F99FECB1A95",
+    "rexaID": "1c1424dac83eee4c354e1de77ef9daf5f3fa5742",
+    "author": "Charles X. Ling and Qiang Yang and Jianning Wang and Shichao Zhang",
+    "title": "Decision trees with minimal costs",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "total cost.   Aimed at minimizing the total cost of test and  misclassification, our new decision-tree algorithm has  several desirable features. We will discuss these features  below, using the dataset  <b>Ecoli</b>  as an example (Blake &  Merz 1998). This dataset, after pre-processing, has 332  labelled examples, which are described by six attributes.  The numerical attributes are first discretized",
+    "mykey": 406
+}

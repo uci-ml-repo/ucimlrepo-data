@@ -1,0 +1,23 @@
+{
+    "ID": 263,
+    "Name": "ser Knowledge Modeling Data (Students' Knowledge Levels on DC Electrical Machines)",
+    "Abstract": "The dataset is about the users' learning activities and knowledge levels on subjects of DC  Electrical Machines. The dataset had been obtained from online web-courses  and reported in my Ph.D. Thesis.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 403,
+    "NumAttributes": 5,
+    "DateDonated": "2013-06-20",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00263/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "-- The users' knowledge class were classified by the authors\r\n      using intuitive knowledge classifier (a hybrid ML technique of k-NN and meta-heuristic exploring methods), k-nearest neighbor algorithm. \r\n      See article for more details on how the users' data was collected and evaluated by the user modeling server.\r\n\r\n\tKahraman, H. T., Sagiroglu, S., Colak, I., Developing intuitive knowledge classifier and modeling of users' domain dependent data in web, \r\n        Knowledge Based Systems, vol. 37, pp. 283-295, 2013. \r\n\t\r\n        Kahraman, H. T. (2009). Designing and Application of Web-Based Adaptive Intelligent Education System. Gazi University Ph. D. Thesis, Turkey, 1-156.",
+    "Source": " -- Creators: Hamdi Tolga Kahraman, Ilhami Colak, Seref Sagiroglu\r\n   -- Institution: Faculty of Technology, Department of Software Engineering, Karadeniz Technical University, Trabzon, Turkiye\r\n   -- Donor: Students of Department of Electrical Education of Gazi University   \r\n   -- Date: October, 2009\r\nKahraman, H. T. (2009). Designing and Application of Web-Based Adaptive Intelligent Education System. Gazi University Ph. D. Thesis, Turkey, 1-156.",
+    "Acknowledgements": "NOTE: Reuse of this database is unlimited with citation for \r\nDr. Hamdi Tolga KAHRAMAN and et. al, the following published paper:\r\n\r\n\tKahraman, H. T., Sagiroglu, S., Colak, I., Developing intuitive knowledge classifier and modeling of users' domain dependent data in web, \r\n        Knowledge Based Systems, vol. 37, pp. 283-295, 2013. \r\n\t",
+    "Area": "Computer",
+    "RelevantPapers": "        Kahraman, H. T., Sagiroglu, S., Colak, I., Developing intuitive knowledge classifier and modeling of users' domain dependent data in web, \r\n        Knowledge Based Systems, vol. 37, pp. 283-295, 2013. \r\n\t",
+    "AttributeInfo": "\r\n        STG (The degree of study time for goal object materails), (input value) \r\n\tSCG (The degree of repetition number of user for goal object materails) (input value) \r\n\tSTR (The degree of study time of user for related objects with goal object) (input value) \r\n\tLPR (The exam performance of user for related objects with goal object) (input value) \r\n\tPEG (The exam performance of user for goal objects) (input value) \r\n\tUNS (The knowledge level of user) (target value) \r\n \r\nClass Distribution: the class value (UNS).\r\n        Very Low: 50\r\n\tLow:129\r\n\tMiddle: 122\r\n\thigh 130",
+    "FormatType": "",
+    "NumHits": 8
+}

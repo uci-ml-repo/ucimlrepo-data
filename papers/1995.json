@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "C5E4B20ED612B93444217F385FD169BF04C7343E",
+    "rexaID": "104a89897dc4a05cb068858194d1d78ad98d5012",
+    "author": "Sugato Basu",
+    "title": "Semi-Supervised Clustering with Limited Background Knowledge",
+    "venue": "AAAI",
+    "year": "2004",
+    "window": "Experiments were conducted on several datasets from the UCI repository: Iris, <b>Wine</b>  and representative randomly sampled subsets from the Pen-Digits and Letter datasets. For Pen-Digits and Letter, we chose two sets of three classes: fI, J, Lg",
+    "mykey": 1995
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 81,
+    "supportID": "1B1C671C9F423A7622E15D2E11BCCF149E2884EE",
+    "rexaID": "865daf468f10c99d290f47cc77c2a1c463e001ce",
+    "author": "Manoranjan Dash and Huan Liu and Peter Scheuermann and Kian-Lee Tan",
+    "title": "Fast hierarchical clustering and its validation",
+    "venue": "Data Knowl. Eng, 44",
+    "year": "2003",
+    "window": "consists of 10,992 objects in 16 dimensions. There are 10 classes corresponding to <b>digits</b> 0...9. The 16 dimensions are drawn by re-sampling from <b>handwritten</b> digits. Iris dataset has 150 points in 4 dimensions in 3 clusters. Dimensions are sepal length, sepal width, petal length, and petal width. Clusters are Iris Setosa, Iris Versicolour, and Iris Virginia. Each of the 3",
+    "mykey": 239
+}

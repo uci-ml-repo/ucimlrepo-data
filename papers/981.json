@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "67B7280E2466BE2AEFDD53215E9680147A9078B1",
+    "rexaID": "bc9fc18577f413262d1fc743ab3438d4b37d689e",
+    "author": "Denver Dash and Gregory F. Cooper",
+    "title": "Model Averaging with Discrete Bayesian Network Classifiers",
+    "venue": "Decision Systems Laboratory Intelligent Systems Program University of Pittsburgh",
+    "year": "",
+    "window": "variable is considered to be the \"positive\" state; therefore, the scores in Table 5 are average scores for all ROC curves associated with a particular classification variable; therefore some data sets (e.g., <b>wine</b>  have no zero entries when two or more classifiers score highest on di\u00aeerent curves. We have underlined the top two scoring classifiers for each data set to emphasize the fact that AMA",
+    "mykey": 981
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 81,
+    "supportID": "53C136F820E1D0FB928FA08420A3E4265128598D",
+    "rexaID": "4ce0d7e58fb5a580416fc6aa07ca54a2829a0091",
+    "author": "Ethem Alpaydin",
+    "title": "Combined 5 x 2 cv F Test for Comparing Supervised Classification Learning Algorithms",
+    "venue": "Neural Computation, 11",
+    "year": "1999",
+    "window": "2 no VOWEL 2 no ODR 8 yes DIGIT 7 yes PEN 10 yes changing the numerator where we compare a single layer perceptron (LP) with a multilayer perceptron with one hidden layer (MLP). ODR, DIGIT are two datasets on optical <b>handwritten</b> digit <b>recognition</b> and PEN is on pen-based handwritten digit recognition. These three datasets are available from the author. The other datasets are from the UCI repository",
+    "mykey": 760
+}

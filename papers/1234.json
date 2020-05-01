@@ -1,0 +1,11 @@
+{
+    "datasetID": 46,
+    "supportID": "7D019669E542567169D476AA1F55E7A9E15EA2EB",
+    "rexaID": "7372c1c34417795a4d0752a07c77b3595dba16c4",
+    "author": "Wl/odzisl/aw Duch and Karol Grudzinski",
+    "title": "Ensembles of Similarity-based Models",
+    "venue": "Intelligent Information Systems",
+    "year": "2001",
+    "window": "(except for the data described here we have tried sonar and <b>hepatitis</b> datasets from UCI [12]) the improvements have been insignificant. This shows that an ensemble of models of similar types may sometimes fail to improve the results. One reason for this may come from",
+    "mykey": 1234
+}

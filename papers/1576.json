@@ -1,0 +1,11 @@
+{
+    "datasetID": 146,
+    "supportID": "9B0ED36480B43C38D03240BD6A9B05CF89AD707B",
+    "rexaID": "f91a9d851efd2169d5f16f8bfd5c7b9d2b81655c",
+    "author": "C. esar and Cesar Guerra-Salcedo and Darrell Whitley",
+    "title": "Feature Selection Mechanisms for Ensemble Creation : A Genetic Search Perspective",
+    "venue": "Department of Computer Science Colorado State University",
+    "year": "",
+    "window": "the RSM method. To classify an unseen case x, each classifier in the ensemble votes on the class for x. The class with the most votes is the class predicted by the ensemble (majority-vote scheme). Dataset Features Classes Train Size Test Size <b>LandSat</b> 36 6 4435 2000 DNA 180 39 2000 1186 Segment 19 7 210 2100 Cloud 204 10 1000 633 Table 1: Dataset employed for the experiments. In the DNA dataset the",
+    "mykey": 1576
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 69,
+    "supportID": "FAFD8B0B11124865007D034342A69261777FB486",
+    "rexaID": "3b8e310b092f79f90f6c4aac5dda1185d5a1aac7",
+    "author": "Pedro Domingos",
+    "title": "Using Partitioning to Speed Up Specific-to-General Rule Induction",
+    "venue": "Department of Information and Computer Science University of California, Irvine",
+    "year": "",
+    "window": "rules on different partitions, to the increase in accuracy that can result from combining multiple models (Wolpert 1992; Breiman in press), and possibly to other factors. On the <b>splice</b> junctions dataset, the success of applying partitioning to RISE using a simple combination scheme contrasts with the results obtained by Chan and Stolfo for general-to-specific learners (Chan & Stolfo 1995a). In",
+    "mykey": 2541
+}

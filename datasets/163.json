@@ -1,0 +1,23 @@
+{
+    "ID": 163,
+    "Name": "Reuters Transcribed Subset",
+    "Abstract": "This dataset is created by reading out 200 files from the 10 largest Reuters \r\nclasses and using an Automatic Speech Recognition system to create \r\ncorresponding transcriptions.",
+    "Types": "Text",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 200,
+    "NumAttributes": 0,
+    "DateDonated": "2008-03-08",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/reuters_transcribed/reuters_transcribed.html-mld/",
+    "URLReadme": "../machine-learning-databases/reuters_transcribed-mld/README.txt",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Data Characteristics:\r\n--------------------\r\nThis data was created by selecting 20 files each from the 10 largest classes \r\nin the Reuters-21578 collection \r\n(http://www.daviddlewis.com/resources/testcollections/reuters21578/). \r\nThe files were read out by 3 Indian speakers and an Automatic Speech \r\nRecognition (ASR) system was used to generate the transcripts. More about the \r\nASR system can be found in [1]. Such a dataset will be really helpful to \r\nstudy the effect of speech recognition noise on text mining algorithms. \r\nThe first work which refered to this dataset was on noisy text classification[2].\r\n\r\nData Format:\r\n----------\r\nThere are 10 directories labeled by the topic name. \r\nEach contains 20 files of transcriptions.\r\n\r\nReferences:\r\n----------\r\n[1] L. R. Bahl, S. Balakrishnan-Aiyer, J. Bellegarda, M. Franz,\r\nP. Gopalakrishnan, D. Nahamoo, M. Novak, M. Padmanabhan,\r\nM. Picheny, and S. Roukos,\r\nPerformance of the IBM large vocabulary continuous speech recognition system on\r\nthe ARPA wall street journal task. \r\nIn Proc. of ICASSP \u201995,\r\npages 41\u201344, Detroit, MI, 1995.\r\n[2] S. Agarwal, S. Godbole, D. Punjani and S. Roy,\r\nHow Much Noise is too Much: A Study in Automatic Text Classification',\r\nIn Proc. of ICDM 2007",
+    "Source": "Shourya Roy\r\nshourya.roy@gmail.com\r\nand\r\nShantanu Godbole\r\nshantanu@godbole.net\r\n",
+    "Acknowledgements": "",
+    "Area": "Business",
+    "RelevantPapers": "'\u201cHow Much Noise in Text is too Much: A Study in Automatic Document Classification\u201d, ICDM 2007, Sumeet Agarwal, Shantanu Godbole, Diwakar Punjani and Shourya Roy",
+    "AttributeInfo": "Provide information about each attribute in your data set.",
+    "FormatType": "",
+    "NumHits": 9
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "7E450DE0A684E429F33CB2CA1E6F47F0B46BC962",
+    "rexaID": "6f9e5db8e117763c59d6ffabcb511900b9f62159",
+    "author": "Cesar Guerra-Salcedo and L. Darrell Whitley",
+    "title": "Genetic Approach to Feature Selection for Ensemble Creation",
+    "venue": "GECCO",
+    "year": "1999",
+    "window": "Features Classes Train Size Test Size LandSat 36 6 4435 2000 DNA 180 39 2000 1186 Segment 19 7 210 2100 3 EXPERIMENTAL SETUP A series of experiments were carried out using publicly available datasets provided by the Project <b>Statlog</b> 1 and by UCI machine learning repository [C. Blake and Merz, 1998]. Table 1 shows the datasets employed for this research. 3.1 ENSEMBLE RELATED SETUPS Our main",
+    "mykey": 1261
+}

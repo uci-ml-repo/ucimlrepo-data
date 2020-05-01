@@ -1,0 +1,11 @@
+{
+    "datasetID": 57,
+    "supportID": "40863506086353FC045BBDDF0B6A6FA344C0518B",
+    "rexaID": "7286601416a1cec780621a415323a2bc6c958e11",
+    "author": "Vikas Sindhwani and P. Bhattacharya and Subrata Rakshit",
+    "title": "Information Theoretic Feature Crediting in Multiclass Support Vector Machines",
+    "venue": "",
+    "year": "",
+    "window": "1. The relevant features are very sharply identified. Feature 1 gets maximum credit on account of being relevant for the most informative SVM, in this case decided purely by the input bias. <b>LED Dataset</b> This 10-class dataset, drawn from the UCI repository, consists of 200 training and 500 test examples of 24 binary-valued features each. The first 7 features are relevant, and correspond to LEDs on a",
+    "mykey": 527
+}

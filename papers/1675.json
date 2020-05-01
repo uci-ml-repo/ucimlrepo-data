@@ -1,0 +1,11 @@
+{
+    "datasetID": 79,
+    "supportID": "A3A1E2640DDAEED9C586CE43F217DC03D9C3B00E",
+    "rexaID": "d64d2705cabed449e8cb2ecc3c3c77c54ee71051",
+    "author": "Jeroen Eggermont and Joost N. Kok and Walter A. Kosters",
+    "title": "Genetic Programming for data classification: partitioning the search space",
+    "venue": "SAC",
+    "year": "2004",
+    "window": "The results of our refined gp algorithm using the gain ratio criterion are again worse than those of our clustering and other refined gp algorithms. The <b>Pima</b> <b>Indians</b> <b>diabetes</b> Data Set On the Pima Indians diabetes data set (see Table 5) the refined gp algorithms using the gain criterion are again better than those using the gain ratio criterion. If we compare the results of our",
+    "mykey": 1675
+}

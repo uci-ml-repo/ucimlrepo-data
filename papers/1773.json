@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "ACA6B8A99FA95E18808D75A357D999F747ED38EC",
+    "rexaID": "b154b00ca44ffdbc56ab144aa90deab78e1f0de3",
+    "author": "Jitender S. Deogun and Vijay V. Raghavan and Hayri Sever",
+    "title": "Exploiting Upper Approximation in the Rough Set Methodology",
+    "venue": "KDD",
+    "year": "1995",
+    "window": "does not match to known concepts we use 5NNR classification scheme with Euclidean distance function to determine the closest known concept. The difference between two values of an attribute are data set Size Attr. Training Test 1. <b>Glass</b> 9 66 148 2. Breast cancer 9 211 488 3. Parity 5+10 15 226 524 4. Iris 4 45 105 5. Monk 1 6 124 432 6. Monk 2 6 169 432 7. Monk 3 6 122 432 8. Vote 16 132 303 9.",
+    "mykey": 1773
+}

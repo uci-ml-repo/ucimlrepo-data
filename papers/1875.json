@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "B820BC13DD22658FD3561632089CEE83D75232C0",
+    "rexaID": "32cb39d6ec7d1af5c8f8ad0fff8300527cf9f188",
+    "author": "Edgar Acuna and Alex Rojas",
+    "title": "Ensembles of classifiers based on Kernel density estimators",
+    "venue": "Department of Mathematics University of Puerto Rico",
+    "year": "2000",
+    "window": "All of them have been analyzed already in a combining setup and nine of these datasets were analyzed in the <b>Statlog</b> Project (Michie, et. al. 1994). B) To make an analysis of the bias-variance decomposition for the misclassification error when classifiers based in kernel density",
+    "mykey": 1875
+}

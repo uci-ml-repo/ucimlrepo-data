@@ -1,0 +1,11 @@
+{
+    "datasetID": 15,
+    "supportID": "7E0D93E77081654DA2B299AD219591639C52809F",
+    "rexaID": "899bdb470e48c308144216cc22048c88816ee035",
+    "author": "Rafael S. Parpinelli and Heitor S. Lopes and Alex Alves Freitas",
+    "title": "An Ant Colony Based System for Data Mining: Applications to Medical Data",
+    "venue": "CEFET-PR, CPGEI Av. Sete de Setembro, 3165",
+    "year": "",
+    "window": "AntClass 75.13% \u00b1 6.00 5.20 \u00b1 0.87 8.80 \u00b1 1.89 C4.5 73.34% \u00b1 3.21 6.2 \u00b1 4.2 12.8 \u00b1 9.83 <b>Wisconsin</b> <b>Breast</b> <b>Cancer</b> Data Set AntClass 95.47% \u00b1 1.62 5.60 \u00b1 0.80 12.50 \u00b1 2.84 C4.5 95.02% \u00b1 0.31 11.1 \u00b1 1.45 44.1 \u00b1 7.48 Hepatitis Data Set AntClass 88.75% \u00b1 6.73 2.70 \u00b1 0.46 7.50 \u00b1 2.01 C4.5 85.96% \u00b1 1.07 4.4 \u00b1 0.93 8.5 \u00b1 3.04",
+    "mykey": 1255
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 452,
+    "Name": "GNFUV Unmanned Surface Vehicles Sensor Data",
+    "Abstract": "The data-set contains four (4) sets of mobile sensor readings data (humidity, temperature) corresponding to a swarm of four (4) Unmanned Surface Vehicles (USVs) in a test-bed in Athens (Greece). ",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 1672,
+    "NumAttributes": 5,
+    "DateDonated": "2018-05-06",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00452/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The data-set comprises (4) sets of mobile sensor readings data (humidity, temperature) corresponding to a swarm of four (4) Unmanned Surface Vehicles (USVs). Each USV set contains records of the format: {'USV-ID'; 'humidity-value'; 'temperature-value'; 'experiment-id';'sensing-time'}\r\nThe swarm of the USVs is moving according to a GPS pre-defined trajectory, whose relative way-points are specified in the README.pdf file. The USVs are floating over the sea surface in a coastal area of Athens (Greece). More information on the project: https://sites.google.com/view/gnfuv/outcome\r\n",
+    "Source": "Dr Christos Anagnostopoulos; School of Computing Science, University of Glasgow; email: christos.anagnostopoulos@glasgow.ac.uk; G12 8QQ Scotland, UK. (NETLAB Group: https://netlab.dcs.gla.ac.uk/)",
+    "Acknowledgements": "Please cite one of the following papers:\r\n[1] Harth, N. Anagnostopoulos, C. (2018) Edge-centric Efficient Regression Analytics. In: 2018 IEEE International Conference on Edge Computing (EDGE), San Francisco, CA, USA, 02-07 Jul 2018 \r\n[2] Harth, N.,  Anagnostopoulos, C., (2017) Quality-aware Aggregation & Predictive Analytics at the Edge. IEEE International Conference on Big Data (IEEE Big Data 2017), December 11-14, 2017, Boston, MA, USA.",
+    "Area": "Computer",
+    "RelevantPapers": "Please cite one of the following papers:\r\n[1] Harth, N. and Anagnostopoulos, C. (2018) Edge-centric Efficient Regression Analytics. In: 2018 IEEE International Conference on Edge Computing (EDGE), San Francisco, CA, USA, 02-07 Jul 2018 \r\n[2] Harth, N.,  Anagnostopoulos, C., (2017) Quality-aware Aggregation & Predictive Analytics at the Edge. IEEE International Conference on Big Data (IEEE Big Data 2017), December 11-14, 2017, Boston, MA, USA.",
+    "AttributeInfo": "Attributes:\r\n'device' = USV ID (String)\r\n'humidity' = sensed humidity value from the USV sensor (real value)\r\n'temperature' = sensed temperature value from the USV sensor (real value)\r\n'experiment' = 1 (constant real value)\r\n'time' = the sensing and reporting time (real value)",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 68,
+    "supportID": "CA3D2D438FA6F35DA3CC4D30D7098D2B6814139D",
+    "rexaID": "ce160518d6a429585aeeb3f7a784c5dfb124b669",
+    "author": "Kuan-ming Lin and Chih-Jen Lin",
+    "title": "A Study on Reduced Support Vector Machines",
+    "venue": "Department of Computer Science and Information Engineering National Taiwan University",
+    "year": "",
+    "window": "for handwritten digit recognition. The problem ijcnn1 is from the first problem of IJCNN challenge 2001 [21]. Note that we use the winner's transformation of raw data [2]. Problem protein, is a data set for <b>protein secondary</b> structure prediction [26]. Finally, the problem adult, from the UCI \"adult\" data set [1] and compiled by Platt [20], is also included. For the adult dataset, there are several",
+    "mykey": 2029
+}

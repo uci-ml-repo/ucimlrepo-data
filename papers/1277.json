@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "7F6A990C61B7F551156B105DC675F32D17BE2D41",
+    "rexaID": "18f3e26b60920b9b7aa5ca210057c15d0c0cc75a",
+    "author": "Stefan Mutter and Mark Hall and Eibe Frank",
+    "title": "Using Classification to Evaluate the Output of Confidence-Based Association Rule Mining",
+    "venue": "Australian Conference on Artificial Intelligence",
+    "year": "2004",
+    "window": "294 6 3 4 2 20.4 iris 150 4 0 0 3 0.0 labor 57 8 3 5 2 35.7 led7 1000 0 7 0 10 0.0 lenses 24 0 0 4 3 0.0 pima 768 8 0 0 2 0.0 tic-tac-toe 958 0 0 9 2 0.0 <b>wine</b> 178 13 0 0 3 0.0 Table 1. The UCI datasets used for the experiments and their properties. In the led7 dataset 10% of the instances are noisy. In every experiment the support threshold s min of Apriori was set to 1% of all instances and the",
+    "mykey": 1277
+}

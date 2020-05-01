@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "0B3E886EE7E63492903EFE5385D93B5B26DCCBB2",
+    "rexaID": "e6315f170eea3cc52ade688d0abb40f3372ec35d",
+    "author": "Zhi-Hua Zhou and Yuan Jiang",
+    "title": "NeC4.5: Neural Ensemble Based C4.5",
+    "venue": "IEEE Trans. Knowl. Data Eng, 16",
+    "year": "2004",
+    "window": "ensemble. Moreover, Table III shows that the generalization ability of NeC4.5 with \u00b5 = 0% is still better than that of C4.5. In detail, pairwise two-tailed t-tests indicate that there are seven data sets (cleveland, <b>diabetes</b>  ionosphere, liver, sonar, waveform21, and waveform40) where NeC4.5 with \u00b5 = 0% is significantly more accurate than C4.5, while there is no significant difference on the",
+    "mykey": 125
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "CD6FD34EA5A5C1F7388324FCCEC3B50EE74C6E1C",
+    "rexaID": "42ba5137ab9d88dc1eae5caac18cb6a1818ae700",
+    "author": "Rudy Setiono",
+    "title": "Extracting M-of-N Rules from Trained Neural Networks",
+    "venue": "School of Computing National University of Singapore",
+    "year": "",
+    "window": "M-of-N rule extraction algorithm. This problem has been used by Towell and Shavlik [3] to test their algorithms which extract symbolic rules from knowledge based neural networks. Each sample in the dataset is described by a 60-nucleotide-long <b>DNA</b> sequence. A nucleotide may assume one of the 4 possible values: G (Guanine), T (Thymine), C (Cytosine), or A (Adenine). These values are binary coded as",
+    "mykey": 2060
+}

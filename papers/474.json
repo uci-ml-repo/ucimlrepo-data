@@ -1,0 +1,11 @@
+{
+    "datasetID": 46,
+    "supportID": "37AFAF3ED198D94CD20884E8C79C3E3004FEC840",
+    "rexaID": "1c7b9b0abcac674ef129893e65f67ae6458161fb",
+    "author": "Takashi Matsuda and Hiroshi Motoda and Tetsuya Yoshida and Takashi Washio",
+    "title": "Mining Patterns from Structured Data by Beam-Wise Graph-Based Induction",
+    "venue": "Discovery Science",
+    "year": "2002",
+    "window": "attributes and predictive accuracy was evaluated. The best result obtained by this approach was better than the previously best known result. B-GBI was then applied to a real-world data, <b>Hepatitis</b> dataset provided by Chiba University. Our very preliminary results indicate that B-GBI can actually handle graphs with a few thousands nodes and extract discriminatory patterns. 1 Introduction Over the last",
+    "mykey": 474
+}

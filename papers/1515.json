@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "9759C861982F9CE41EA0A61C8E8785C3DA6C770D",
+    "rexaID": "3fe33086239c6beec412b11fde015871a85c6011",
+    "author": "Sally Jo Cunningham",
+    "title": "Dataset cataloging metadata for machine learning applications and research",
+    "venue": "Department of Computer Science University of Waikato",
+    "year": "",
+    "window": "At UCI, for example, the documentation records range from the highly specific (for example, the <b>abalone</b> dataset record in Figure 1a) to the nearly non-existent (the \"undocumented databases\" directory at UCI, as typified by the economic sanctions data description in Figure 1b). This variability is not",
+    "mykey": 1515
+}

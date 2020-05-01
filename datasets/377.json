@@ -1,0 +1,23 @@
+{
+    "ID": 377,
+    "Name": "Geo-Magnetic field and WLAN dataset for indoor localisation from wristband and smartphone",
+    "Abstract": "A multisource and multivariate dataset for indoor localisation methods based on WLAN and Geo-Magnetic \u00ef\u00ac\u0081eld \u00ef\u00ac\u0081ngerprinting",
+    "Types": "Multivariate, Sequential, Time-Series",
+    "Task": "Classification, Regression, Clustering",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 153540,
+    "NumAttributes": 25,
+    "DateDonated": "2017-01-10",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00377/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Indoor localisation is a key topic for the Ambient Intelligence (AmI) research community. \r\n\r\nIn this scenarios, recent advancements in wearable technologies, particularly smartwatches with built-in sensors, and personal devices, such as smartphones, are being seen as the breakthrough for making concrete the envisioned Smart Environment (SE) paradigm. \r\n\r\nIn particular, scenarios devoted to indoor localization represent a key challenge to be addressed. Many works try to solve the indoor localization issue, but the lack of a common dataset or frameworks to compare and evaluate solutions represent a big barrier to be overcome in the \u00ef\u00ac\u0081eld. The unavailability and uncertainty of public datasets hinders the  possibility to compare different indoor localization algorithms. This constitutes the main motivation of the proposed dataset described herein. \r\n\r\nWe collected Wi-Fi and geo-magnetic \u00ef\u00ac\u0081eld \u00ef\u00ac\u0081ngerprints, together with inertial sensor data during two campaigns performed in the same environment. Retrieving syncronized data from a smartwatch and a smartphone worn by users at the purpose of create and present a public available dataset is the goal of this work. ",
+    "Source": "Paolo Barsocchi, Antonino Crivello, Davide La Rosa, Filippo Palumbo\r\n\r\nItalian National Council of Research, ISTI-CNR, Pisa, Italy \r\n{name.surname}@isti.cnr.it ",
+    "Acknowledgements": "Barsocchi, P., Crivello, A., La Rosa, D., & Palumbo, F. (2016, October). A multisource and multivariate dataset for indoor localization methods based on WLAN and geo-magnetic field fingerprinting. In Indoor Positioning and Indoor Navigation (IPIN), 2016 International Conference on (pp. 1-8). IEEE.",
+    "Area": "Computer",
+    "RelevantPapers": "Barsocchi, P., Crivello, A., La Rosa, D., & Palumbo, F. (2016, October). A multisource and multivariate dataset for indoor localization methods based on WLAN and geo-magnetic field fingerprinting. In Indoor Positioning and Indoor Navigation (IPIN), 2016 International Conference on (pp. 1-8). IEEE.",
+    "AttributeInfo": "Pointsmapping.ods: \r\n\tA three column spreadsheet (ID,X,Y) which points mapping in local coordinates. \r\n\tEach ID represents an unique place on the map. The X-Y coordinates represents the local coordinates.\r\n\r\nFor each measure:\r\n\r\nmeasure1(2)_timestamp_id.csv:\r\n\t\r\n\tTimestamp (Unixtime) of arrival on placeID, timestamp (Unixtime) of departure by placeID, Place ID identifier (0-324)\r\n\r\nmeasure1(2)_smartphone_sens.csv:\t\r\n\r\n\tAccording to measure1(2)_timestamp_id.csv, this csv contains the data sensors retrieved by the smartphone. \r\n\tTimestamp, AccelerationX, AccelerationY, AccelerationZ, MagneticFieldX, MagneticFieldY, MagneticFieldZ, Z-AxisAgle(Azimuth), X-AxisAngle(Pitch), Y-AxisAngle(Roll), GyroX, GyroY, GyroZ\r\n\t\r\nmeasure1(2)_smartwatch_sens.csv:\r\n\t\r\n\tAccording to measure1(2)_timestamp_id.csv, this csv contains the data sensors retrieved by the smartwatch. \r\n\tTimestamp, AccelerationX, AccelerationY, AccelerationZ, MagneticFieldX, MagneticFieldY, MagneticFieldZ, Z-AxisAgle(Azimuth), X-AxisAngle(Pitch), Y-AxisAngle(Roll), GyroX, GyroY, GyroZ\r\n\r\nmeasure1(2)_smartphone_wifi.csv:\r\n\t\r\n\tEach rows contains PlaceId (ascending order) and 127 column, with RSSI level for each different\r\n\tWAPs retrieved during the campaign. Not all the WAPs are detected in each scan.\r\n\tFor these WAPs, the articial RSSI value is -100 (dbm).\r\n",
+    "FormatType": "",
+    "NumHits": 1
+}

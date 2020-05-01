@@ -1,0 +1,23 @@
+{
+    "ID": 354,
+    "Name": "GPS Trajectories",
+    "Abstract": "The dataset has been feed by Android app called Go!Track. It is available at Goolge Play Store(https://play.google.com/store/apps/details?id=com.go.router). ",
+    "Types": "Multivariate",
+    "Task": "Classification, Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 163,
+    "NumAttributes": 15,
+    "DateDonated": "2016-02-29",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00354/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset is composed by two tables. The first table go_track_tracks presents general attributes and each instance has one trajectory that is represented by the table\r\ngo_track_trackspoints.",
+    "Source": "M. O. Cruz\r\nH. T. Macedo\r\nR. Barreto\r\nA. P. Guimar\u00c3\u00a3es",
+    "Acknowledgements": "We have some papers that used this dataset. The first was presented in BRACIS (4th Brazilian Conference on Intelligent System).\r\nThe paper was accepted but not published yet. \r\nThe other paper was submitted to AT&T (IJCAI-16). \r\nThe last paper is about the dataset.\r\n\r\nPublications:\r\n1 - CRUZ, M. O.; MACEDO, H.; GUIMAR\u00c3\u00a3ES, A. P. Grouping similar trajectories for\r\ncarpooling purposes. In: Brazilian Conference on Intelligent Systems. [S.l.: s.n.], 2015. p.\r\n234\u00e2\u20ac\u201c239. ISBN 9781509000166.\r\n\r\n",
+    "Area": "Computer",
+    "RelevantPapers": "Provide references to papers that have cited this data set in the past (if any).",
+    "AttributeInfo": "(1) go_track_tracks.csv: a list of trajectories\r\nid_android - it represents the device used to capture the instance;\r\nspeed - it represents the average speed (Km/H)\r\ndistance - it represent the total distance (Km)\r\nrating - it is an evaluation parameter. Evaluation the traffic is a way to verify the volunteers perception about the traffic during the travel, in other words,\r\nif volunteers move to  some place and face traffic jam, maybe they will evaluate 'bad'. (3- good, 2- normal, 1-bad).\r\nrating_bus - it is other evaluation parameter. (1 - The amount of people inside the bus is little, 2 - The bus is not crowded, 3- The bus is crowded.\r\nrating_weather - it is another evaluation parameter. ( 2- sunny, 1- raining).\r\ncar_or_bus - (1 - car, 2-bus)\r\nlinha - information about the bus that does the pathway\r\n\r\n \r\n\r\n(2) go_track_trackspoints.csv: localization points of each trajectory\r\nid: unique key to identify each point\r\nlatitude: latitude from where the point is\r\nlongitude: longitude from where the point is\r\ntrack_id: identify the trajectory which the point belong\r\ntime: datetime when the point was collected (GMT-3)",
+    "FormatType": "",
+    "NumHits": 8
+}

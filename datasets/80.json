@@ -1,0 +1,23 @@
+{
+    "ID": 80,
+    "Name": "Optical Recognition of Handwritten Digits",
+    "Abstract": "Two versions of this database available; see folder",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 5620,
+    "NumAttributes": 64,
+    "DateDonated": "1998-07-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/optdigits/",
+    "URLReadme": "../machine-learning-databases/optdigits/optdigits.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "We used preprocessing programs made available by NIST to extract normalized bitmaps of handwritten digits from a preprinted form. From a total of 43 people, 30 contributed to the training set and different 13 to the test set. 32x32 bitmaps are divided into nonoverlapping blocks of 4x4 and the number of on pixels are counted in each block. This generates an input matrix of 8x8 where each element is an integer in the range 0..16. This reduces dimensionality and gives invariance to small distortions.\r\n\r\nFor info on NIST preprocessing routines, see M. D. Garris, J. L. Blue, G. T. Candela, D. L. Dimmick, J. Geist, P. J. Grother, S. A. Janet, and C. L. Wilson, NIST Form-Based Handprint Recognition System, NISTIR 5469, 1994.",
+    "Source": "E. Alpaydin, C. Kaynak\r\nDepartment of Computer Engineering\r\nBogazici University, 80815 Istanbul Turkey\r\nalpaydin@boun.edu.tr",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "C. Kaynak (1995) Methods of Combining Multiple Classifiers and Their Applications to Handwritten Digit Recognition, MSc Thesis, Institute of Graduate Studies in Science and Engineering, Bogazici University.\r\nhttp://rexa.info/paper/0c722818e988407290c5523f29fc56332b7fe1d7\r\n\r\nE. Alpaydin, C. Kaynak (1998) Cascading Classifiers, Kybernetika. ftp://ftp.icsi.berkeley.edu/pub/ai/ethem/kyb.ps.Z\r\nhttp://rexa.info/paper/d5a1e53955ffd29abfaa5c9fbebbdc2ff3c016d6",
+    "AttributeInfo": "All input attributes are integers in the range 0..16.\r\nThe last attribute is the class code 0..9",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 23676
+}

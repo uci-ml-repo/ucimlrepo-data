@@ -1,0 +1,11 @@
+{
+    "datasetID": 185,
+    "supportID": "",
+    "rexaID": "5E5B4042626905A9D4F561A17753319FAE4425D8",
+    "author": "Arvind Narayanan and Vitaly Shmatikov",
+    "title": "Robust De-anonymization of Large Sparse Datasets",
+    "venue": "IEEE Symposium on Security and Privacy",
+    "year": "2008",
+    "window": "Our techniques are robust to perturbation in the data and tolerate some mistakes in the adversary's background knowledge. We apply our de-anonymization methodology to the <b>Netflix</b> Prize dataset, which contains anonymous movie",
+    "mykey": 2589
+}

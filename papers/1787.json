@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "AEF4B8E2DB45268409949AE1458C0F138A82C022",
+    "rexaID": "81ff15994633ecdb2b9fd5a6d11d985c2b215442",
+    "author": "Ramesh Natarajan and Edwin P D Pednault",
+    "title": "Segmented Regression Estimators for Massive Data Sets",
+    "venue": "SDM",
+    "year": "2002",
+    "window": "Problems, SIAM, Philadelphia (1996). [4] C. Blake, E. Keogh and C. Merz, UCI repository of machine learning databases. (http://www.ics.uci.edu/ mlearn). [5] P. Brazdil and J. Gama, <b>statlog</b> project datasets, http://www.nccp.up.pt/liacc/ML/statlog. [6] L. Breiman, J. Friedman, R. Olshen and C. Stone, Classification and Regression Trees, Wadsworth, Belmont CA (1984). [7] G. H. Golub and C. F. Van Loan,",
+    "mykey": 1787
+}

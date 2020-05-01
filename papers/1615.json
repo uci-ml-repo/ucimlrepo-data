@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "9CDB1DA34B184C085D4C62BB84EEF470C90D0DA7",
+    "rexaID": "9f311a1b1421973488b673c39c8545ef006570cc",
+    "author": "Alain Rakotomamonjy",
+    "title": "Leave-One-Out errors in Bipartite Ranking SVM",
+    "venue": "PSI CNRS FRE2645 INSA de Rouen Avenue de l'universite",
+    "year": "",
+    "window": "test set and the approximated bound have been evaluated. Presented results are the average results for 20 di\u00aeerent trials of the random split. Figure (4) presents the results that we achieved for datasets <b>sonar</b> and ionosphere. In one case, we can see that the LOPO approximated bound gives interesting result since the true test AUC plot has a similar behaviour to the 17 10 -2 10 -1 10 0 10 1 10 2 10",
+    "mykey": 1615
+}

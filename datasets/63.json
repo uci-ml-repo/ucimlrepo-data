@@ -1,0 +1,23 @@
+{
+    "ID": 63,
+    "Name": "Lymphography",
+    "Abstract": "This lymphography domain was obtained from the University Medical Centre, Institute of Oncology, Ljubljana, Yugoslavia.  (Restricted access)",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 148,
+    "NumAttributes": 18,
+    "DateDonated": "1988-11-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/lymphography/",
+    "URLReadme": "../machine-learning-databases/lymphography/lymphography.names",
+    "HighestAccuracy": 85,
+    "RelevantInfo": "This is one of three domains provided by the Oncology Institute that has repeatedly appeared in the machine learning literature. (See also breast-cancer and primary-tumor.)",
+    "Source": "Donors: \r\n\r\n1. Igor Kononenko, \r\nUniversity E.Kardelj\r\nFaculty for electrical engineering\r\nTrzaska 25\r\n61000 Ljubljana (tel.: (38)(+61) 265-161\r\n\r\n2. Bojan Cestnik\r\nJozef Stefan Institute\r\nJamova 39\r\n61000 Ljubljana\r\nYugoslavia (tel.: (38)(+61) 214-399 ext.287) ",
+    "Acknowledgements": "This lymphography domain was obtained from the University Medical Centre, Institute of Oncology, Ljubljana, Yugoslavia.  Thanks go to M. Zwitter and M. Soklic for providing the data.  Please include this citation if you plan to use this database.",
+    "Area": "Life",
+    "RelevantPapers": "Cestnik,G., Konenenko,I, & Bratko,I. (1987). Assistant-86: A Knowledge-Elicitation Tool for Sophisticated Users.  In I.Bratko & N.Lavrac (Eds.) Progress in Machine Learning, 31-45, Sigma Press.\r\nhttp://rexa.info/paper/929f34b1fbef4c2335cebebf22840bcf78577ae4\r\n\r\nClark,P. & Niblett,T. (1987). Induction in Noisy Domains.  In I.Bratko & N.Lavrac (Eds.) Progress in Machine Learning, 11-30, Sigma Press.\r\nhttp://rexa.info/paper/e61e98320017b392a93c8ae4b0a9f80acc3fbc82\r\n\r\nMichalski,R., Mozetic,I. Hong,J., & Lavrac,N. (1986).  The Multi-Purpose Incremental Learning System AQ15 and its Testing Applications to Three Medical Domains.  In Proceedings of the Fifth National Conference on Artificial Intelligence, 1041-1045. Philadelphia, PA: Morgan Kaufmann.\r\nhttp://rexa.info/paper/2aba4fdd38df99d73ae0097b58ba06a02f048326",
+    "AttributeInfo": "--- NOTE: All attribute values in the database have been entered as numeric values corresponding to their index in the list of attribute values for that attribute domain as given below.\r\n    1. class: normal find, metastases, malign lymph, fibrosis\r\n    2. lymphatics: normal, arched, deformed, displaced\r\n    3. block of affere: no, yes\r\n    4. bl. of lymph. c: no, yes\r\n    5. bl. of lymph. s: no, yes\r\n    6. by pass: no, yes\r\n    7. extravasates: no, yes\r\n    8. regeneration of: no, yes\r\n    9. early uptake in: no, yes\r\n   10. lym.nodes dimin: 0-3\r\n   11. lym.nodes enlar: 1-4\r\n   12. changes in lym.: bean, oval, round\r\n   13. defect in node: no, lacunar, lac. marginal, lac. central\r\n   14. changes in node: no, lacunar, lac. margin, lac. central\r\n   15. changes in stru: no, grainy, drop-like, coarse, diluted, reticular, stripped, faint, \r\n   16. special forms: no, chalices, vesicles\r\n   17. dislocation of: no, yes\r\n   18. exclusion of no: no, yes\r\n   19. no. of nodes in: 0-9, 10-19, 20-29, 30-39, 40-49, 50-59, 60-69, >=70\r\n",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 10109
+}

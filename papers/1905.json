@@ -1,0 +1,11 @@
+{
+    "datasetID": 149,
+    "supportID": "BB0CAECAC6360753C63756B2BD957B1FB9B8A6D0",
+    "rexaID": "1a387e912f3bd68e66957cdfdebbb068ffc2149a",
+    "author": "Gisele L. Pappa and Alex Alves Freitas and Celso A A Kaestner",
+    "title": "AMultiobjective Genetic Algorithm for Attribute Selection",
+    "venue": "Computing Laboratory Pontificia Universidade Catolica do Parana University of Kent at Canterbury",
+    "year": "",
+    "window": "none of the MOFSS-found solutions were dominated by the baseline solution (the set of all attributes). In general, MOFSS found more solutions than the GA, except in the <b>Vehicle</b> data set. In 2 data sets (Arrhytmia and Crx) the majority of solutions found by MOFSS dominate the baseline solution. However, in the other 4 data sets the majority of solutions found by MOFSS are neutral.",
+    "mykey": 1905
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 94,
+    "supportID": "A28BF0579224A1160B52DA11AAA4D904006540AA",
+    "rexaID": "631197638c7e0317c98e1a8d98e5fce8921aa758",
+    "author": "Yongmei Wang and Ian H. Witten",
+    "title": "Modeling for Optimal Probability Prediction",
+    "venue": "ICML",
+    "year": "2002",
+    "window": "runs of ten-fold cross-validation. According to both the negative log-likelihood and the classification rate, the estimator New provides either the best or nearly the best results for six of the datasets. For the other two  <b>Spambase</b> and WDBC), its results are intermediate and comparable with other estimators. Along with this, it also reduces the model dimensionality, which the MLE can never do. 5.",
+    "mykey": 1658
+}

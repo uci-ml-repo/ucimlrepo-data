@@ -1,0 +1,11 @@
+{
+    "datasetID": 60,
+    "supportID": "2E536803D722A87FA2164BCA17510481136EE1BA",
+    "rexaID": "49b5aef7a515640b1dde8f9f777d5a1f0c014022",
+    "author": "Glenn Fung and M. Murat Dundar and Jinbo Bi and Bharat Rao",
+    "title": "A fast iterative algorithm for fisher discriminant using heterogeneous kernels",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "used in the literature for benchmarking from the UCI Machine Learning Repository (Murphy & Aha, 1992): Ionosphere, Cleveland Heart, Pima Indians, BUPA <b>Liver</b> and Boston Housing. Additionally, a sixth dataset, the colon CAD dataset, relates to colorectal cancer diagnosis using virtual colonoscopy derived from computer tomographic images. We will refer to this dataset as the colon CAD dataset. The",
+    "mykey": 382
+}

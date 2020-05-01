@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "C2EE689A27EF525B05E11475D3DD937C4F3A910E",
+    "rexaID": "283e535d8f512eedabbd803c72a86b891eed8474",
+    "author": "Chun-Nan Hsu and Hilmar Schuschel and Ya-Ting Yang",
+    "title": "The ANNIGMA-Wrapper Approach to Neural Nets Feature Selection for Knowledge Discovery and Data Mining",
+    "venue": "Institute of Information Science",
+    "year": "1999",
+    "window": "reported the configuration of the network in detail. Among their configuration, the learning rate 2.0 and the range of initial weights 17 [Gamma 0:3; +0:3] are adopted in our experiments. Vote This dataset consists of the <b>voting records</b> of 435 congressmen on 16 issues in the 1984 congress, 2nd session. The votes are classified into ``yea'', ``nay'', and ``unknown''. The classification problem is to",
+    "mykey": 1974
+}

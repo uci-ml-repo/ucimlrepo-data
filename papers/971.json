@@ -1,0 +1,11 @@
+{
+    "datasetID": 101,
+    "supportID": "66D0757B5B8B019707D2F06E52F97BCDF7F9CF74",
+    "rexaID": "d320ece010630c32341d927b2573372abbbca524",
+    "author": "Stephen D. Bay",
+    "title": "Combining Nearest Neighbor Classifiers Through Multiple Feature Subsets",
+    "venue": "ICML",
+    "year": "1998",
+    "window": "comparison, we used the Wilcoxon signed rank test and found that MFS1 and MFS2 were significantly better than all others with a confidence level greater than 99%. MFS only performed poorly on two datasets: Iris and <b>Tic-Tac-Toe</b>  For Iris, both MFS1 and MFS2 gave the lowest accuracy out of all the classifiers. This can possibly be explained by the small number of features in the Iris dataset. With",
+    "mykey": 971
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 149,
+    "supportID": "2C06F816C0778144F70F4350830A259AA22E285D",
+    "rexaID": "b9cc48070522b3c3f7b5d7bc3b49a06213978f8e",
+    "author": "Ron Kohavi and Mehran Sahami",
+    "title": "Error-Based and Entropy-Based Discretization of Continuous Features",
+    "venue": "KDD",
+    "year": "1996",
+    "window": "6 13 155 20.83 12 horse-colic 7 15 368 36.91 13 hypothyroid 7 18 3163 4.77 14 ionosphere 34 0 351 35.87 15 iris 4 0 150 76.67 16 sick-euthyroid 7 18 3163 9.26 17 <b>vehicle</b> 18 0 846 77.41 Table 1: Datasets, the number of continuous features, nominal features, dataset size, and baseline error (majority inducer on the 10 folds). MDL ErrorMin-T2 ErrorMin-MDL C4.5-Disc 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15",
+    "mykey": 369
+}

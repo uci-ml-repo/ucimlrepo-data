@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "A4F29992C910C8F8CF9193CE2767482FAE39507F",
+    "rexaID": "482c2024eea88014e9cff136b42fc98cccf6dad4",
+    "author": "Richard Maclin and David W. Opitz",
+    "title": "An Empirical Evaluation of Bagging and Boosting",
+    "venue": "AAAI/IAAI",
+    "year": "1997",
+    "window": "that can be drawn from the results is that both the Simple Ensemble and Bagging approaches almost always produces better performance than just training a single classifier. For some of these data sets (e.g., <b>glass</b>  kr-vs-kp, letter, segmentation, soybean, and vehicle) the gains in performance are quite significant. One aspect many of these data sets share is that they involve predictions for",
+    "mykey": 1685
+}

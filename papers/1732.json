@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "A91062CAA36819ED58BC819A3D9D76EF6C7F542C",
+    "rexaID": "6f2537b9354cfbd865cc2057f04a6216cbafd89c",
+    "author": "Ethem Alpaydin",
+    "title": "Voting over Multiple Condensed Nearest Neighbors",
+    "venue": "Artif. Intell. Rev, 11",
+    "year": "1997",
+    "window": "do not contribute much. Whether an additional subset pays off the additional complexity and memory is a trade-off that needs to be resolved depending on the particular application at hand. In three datasets, VOWEL, THYROID, and <b>GLASS</b>  we do not seem to gain anything by voting. The VOWEL database defines a quite difficult problem and is very noisy; the optimal k is 7. The result with 7-NN is the",
+    "mykey": 1732
+}

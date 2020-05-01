@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "7C8FA56A0051F59942C1FEB65E084A6D1EF4BCF6",
+    "rexaID": "6a6b4ca13137132e00185012fd7c4667ff964769",
+    "author": "S. Sathiya Keerthi and Kaibo Duan and Shirish Krishnaj Shevade and Aun Neow Poo",
+    "title": "A Fast Dual Algorithm for Kernel Logistic Regression",
+    "venue": "ICML",
+    "year": "2002",
+    "window": "much faster than the BFGS algorithm. The difference is much higher for large values of C. To see how the cost of the SMO algorithm scales with data size, an experiment was done on the UCI  <b>Adult</b>  dataset (Merz and Murphy, 1998) by gradually increasing the training set size from 1605 to 22696 in eight steps and observing the training time. A line was then fitted to the plot of the log of the training",
+    "mykey": 1228
+}

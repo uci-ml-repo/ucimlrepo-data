@@ -1,0 +1,11 @@
+{
+    "datasetID": 58,
+    "supportID": "5FD5E3B53713B79DDF8025A6AB53839182E82924",
+    "rexaID": "6c5ed6cbf453e8eaad5400424c931537c71a5e3e",
+    "author": "Ke Wang and Shiyu Zhou and Ada Wai-Chee Fu and Jeffrey Xu Yu",
+    "title": "Mining Changes of Classification by Correspondence Tracing",
+    "venue": "SDM",
+    "year": "2003",
+    "window": "from old ones. Our discussion focuses on forward change mining, but it is equally applicable to backward change mining with the roles of old and new rules exchanged. Example 3.1. We use the  <b>Lenses</b>  data set from the UCI repository [14] to illustrate our approach. There are four attributes, three classes, and 18 examples: Attributes: A 1 : Age: 1, 2, 3 A 2 : Spectacle Prescription: 1, 2 A 3 :",
+    "mykey": 895
+}

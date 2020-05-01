@@ -1,0 +1,11 @@
+{
+    "datasetID": 54,
+    "supportID": "13A5756E40383E3FE3FA54C2F28ED1F88766C98B",
+    "rexaID": "b2b8b059c73bebbf92cb80f2c45ca3ed56c3d971",
+    "author": "Jakub Zavrel",
+    "title": "An Empirical Re-Examination of Weighted Voting for k-NN",
+    "venue": "Computational Linguistics",
+    "year": "",
+    "window": "40 50 60 70 80 90 100 % correct k letter \"letter.majority\" \"letter.inverse\" \"letter.dudani\" \"letter.shepard\" Figure 1: Accuracy results from experiments on the sonar, <b>isolet</b>  PP-attach, and letter datasets as a function of k. this count. Although Shepard's function performed well on the PP-attachment dataset, it is much less robust on the UCI datasets, and only slightly outperforms majority voting.",
+    "mykey": 185
+}

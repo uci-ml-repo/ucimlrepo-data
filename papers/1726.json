@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "A7F8167058ACAB55A99F3DEDF3CAA4F647DBCFA9",
+    "rexaID": "bcac678940e7598fd6e6b5d1fc9cb5a2895c05f6",
+    "author": "Rudy Setiono and Huan Liu",
+    "title": "Fragmentation Problem and Automated Feature Construction",
+    "venue": "School of Computing National University of Singapore",
+    "year": "",
+    "window": "[21] which has 9 binary features x 1 ; x 2 ; : : : ; x 9 . The 512 instances are labeled as follows: (a) Class 1: x 1 x 2 x 3 + x 1 x 2 + x 7 x 8 x 9 + x 7 x 9 , (b) Class 2: Otherwise. ffl <b>Iris</b> dataset [6] which has 150 instances described by 4 continuous attributes: sepal length (A 1 ), sepal width (A 2 ), petal length (A 3 ), and petal width (A 4 ). Each pattern belongs to one of the 3 possible",
+    "mykey": 1726
+}

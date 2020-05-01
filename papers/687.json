@@ -1,0 +1,11 @@
+{
+    "datasetID": 57,
+    "supportID": "4DB568F72E4E2CA69BF9F228F5D9B537E75BEFD6",
+    "rexaID": "412e0644abd8fccf9fb195db3ed361c2ffd3695c",
+    "author": "Xavier Llor and David E. Goldberg and Ivan Traus and Ester Bernad i Mansilla",
+    "title": "Accuracy, Parsimony, and Generality in Evolutionary Learning Systems via Multiobjective Selection",
+    "venue": "IWLCS",
+    "year": "2002",
+    "window": "(mux and led). Initially, we used a version of the <b>led data</b> set free of noise, leaving noise considerations for the next subsection. In order to identify the optimal Pareto front, we analyze first the optimal solutions that should be obtained in each problem.",
+    "mykey": 687
+}

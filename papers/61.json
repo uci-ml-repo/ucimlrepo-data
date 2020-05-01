@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "082772D035779B7ECB6C4D9187573C4E4108E4DB",
+    "rexaID": "e2b2b723df700c90e69a31a4403b740c2d2a7b2f",
+    "author": "Alexander K. Seewald",
+    "title": "Dissertation Towards Understanding Stacking Studies of a General Ensemble Learning Scheme ausgefuhrt zum Zwecke der Erlangung des akademischen Grades eines Doktors der technischen Naturwissenschaften",
+    "venue": "",
+    "year": "",
+    "window": "#10 Training set (8-9=CV, 7=75%, 6=62%,.. 1=25%) Hold-out accuracy Figure 6.2: Learning curves for dataset balance-scale to <b>glass</b>  56 0 1 2 3 4 5 6 7 8 9 0.65 0.7 0.75 0.8 0.85 0.9 Learncurve for Dataset #11 Training set (8-9=CV, 7=75%, 6=62%,.. 1=25%) Hold-out accuracy 0 1 2 3 4 5 6 7 8 9 0.65 0.7 0.75",
+    "mykey": 61
+}

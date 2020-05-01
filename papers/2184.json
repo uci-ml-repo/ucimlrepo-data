@@ -1,0 +1,11 @@
+{
+    "datasetID": 21,
+    "supportID": "D89D572598888C820DF232F1E1F1F0D1A3210231",
+    "rexaID": "7125dc87ceddf952f1840074b40ac0526dcc03dc",
+    "author": "Marcus Hutter and Marco Zaffalon",
+    "title": "Distribution of Mutual Information from Complete and Incomplete Data",
+    "venue": "CoRR, csLG/0403025",
+    "year": "2004",
+    "window": "300 600 900 1200 1500 1800 2100 2400 2700 3000 Instance number Prediction accuracy  <b>Chess</b>  FF F Fig. 2. Comparison of the prediction accuracies of the naive Bayes with filters F and FF on the Chess data set. The gray area denotes differences that are not statistically significant. The remaining cases are described by means of the following figures. Figure 2 shows that FF allowed the naive Bayes to",
+    "mykey": 2184
+}

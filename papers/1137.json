@@ -1,0 +1,11 @@
+{
+    "datasetID": 72,
+    "supportID": "74974B74ACFD99ADF616A51144E3BD92BD032F66",
+    "rexaID": "9182a5f903de880381f975a70365a46fe603bdf3",
+    "author": "Xiaofeng He and Partha Niyogi",
+    "title": "Locality Preserving Projections",
+    "venue": "NIPS",
+    "year": "2003",
+    "window": "obtained by PCA, while they are well separated in the principal direction obtained by LPP. 4.2. 2-D Data Visulization An experiment was conducted with the <b>Multiple Features</b> Database [3]. This dataset consists of features of handwritten numbers (`0'-`9') extracted from a collection of Dutch utility maps. 200 patterns per class (for a total of 2,000 patterns) have been digitized in binary images.",
+    "mykey": 1137
+}

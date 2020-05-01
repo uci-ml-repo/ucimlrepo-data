@@ -1,0 +1,23 @@
+{
+    "ID": 140,
+    "Name": "Syskill and Webert Web Page Ratings",
+    "Abstract": "This database contains HTML source of web pages plus the ratings of a single user on these web pages. Web pages are on four seperate subjects (Bands- recording artists; Goats; Sheep; and BioMedical)",
+    "Types": "Multivariate, Text",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 332,
+    "NumAttributes": 5,
+    "DateDonated": "1998-10-20",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/SyskillWebert-mld/",
+    "URLReadme": "../machine-learning-databases/SyskillWebert-mld/SyskillWebert.data.html",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The HTML source of a web page is given. Users looked at each web page and inidated on a 3 point scale (hot medium cold) 50-100 pages per domain. However, this is realistic because we want to learn user profiles from as few examples as possible so that users have an incentitive to rate pages.",
+    "Source": "Michael Pazzani\r\nDepartment of Information and Computer Science,\r\nUniversity of California, Irvine\r\nIrvine, CA 92697-3425 \r\npazzani@ics.uci.edu\r\nhttp://www.ics.uci.edu/~pazzani",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "Pazzani M., Billsus, D. (1997). Learning and Revising User Profiles: The identification of interesting web sites. Machine Learning 27, 313-331\r\nhttp://rexa.info/paper/696ca02710344d1198615399d9117bd49bab8a45\r\n\r\nPazzani, M., Muramatsu J., Billsus, D. (1996). Syskill & Webert: Identifying interesting web sites. Proceedings of the National Conference on Artificial Intelligence, Portland, OR. PDF \r\nhttp://rexa.info/paper/62c0c4ca80321bc33a495c541643dc5499dd52b2",
+    "AttributeInfo": "Each subject is in a separate directory. Within each directory, there is an file named \"index\". The index contains information on the other files. Each entry is a line of the form:\r\n\r\n file-name  |  rating  |  url  |  date-rated  |  title \r\n\r\nwhere file-name is the name of a file (usually an integer), rating is hot, medium, or cold. There are so few medium's that mediums are usually merged with cold in experiments.\r\n\r\nThe other fields aren't used in learning, but they are collected by the interface for other purposes. They are the url of the html source, the date rated and the title of the web oage. ",
+    "FormatType": "Multiple",
+    "NumHits": 5685
+}

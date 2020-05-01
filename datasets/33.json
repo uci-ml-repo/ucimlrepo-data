@@ -1,0 +1,23 @@
+{
+    "ID": 33,
+    "Name": "Dermatology",
+    "Abstract": "Aim for this dataset is to determine the type of Eryhemato-Squamous Disease.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 366,
+    "NumAttributes": 33,
+    "DateDonated": "1998-01-01",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/dermatology/",
+    "URLReadme": "../machine-learning-databases/dermatology/dermatology.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This database contains 34 attributes, 33 of which are linear valued and one of them is nominal. \r\n\r\nThe differential diagnosis of erythemato-squamous diseases is a real problem in dermatology. They all share the clinical features of erythema and scaling, with very little differences. The diseases in this group are psoriasis, seboreic dermatitis, lichen planus, pityriasis rosea, cronic dermatitis, and pityriasis rubra pilaris. Usually a biopsy is necessary for the diagnosis but unfortunately these diseases share many histopathological features as well. Another difficulty for the differential diagnosis is that a disease may show the features of another disease at the beginning stage and may have the characteristic features at the following stages. Patients were first evaluated clinically with 12 features. Afterwards, skin samples were taken for the evaluation of 22 histopathological features. The values of the histopathological features are determined by an analysis of the samples under a microscope. \r\n\r\nIn the dataset constructed for this domain, the family history feature has the value 1 if any of these diseases has been observed in the family, and 0 otherwise. The age feature simply represents the age of the patient. Every other feature (clinical and histopathological) was given a degree in the range of 0 to 3. Here, 0 indicates that the feature was not present, 3 indicates the largest amount possible, and 1, 2 indicate the relative intermediate values.\r\n\r\nThe names and id numbers of the patients were recently removed from the database.",
+    "Source": "Original Owners:\r\n\r\n1. Nilsel Ilter, M.D., Ph.D., \r\nGazi University, \r\nSchool of Medicine\r\n06510 Ankara, Turkey\r\nPhone: +90 (312) 214 1080\r\n\r\n2. H. Altay Guvenir, PhD., \r\nBilkent University,\r\nDepartment of Computer Engineering and Information Science,\r\n06533 Ankara, Turkey\r\nPhone: +90 (312) 266 4133\r\nEmail: guvenir@cs.bilkent.edu.tr\r\n\r\nDonor: \r\n\r\nH. Altay Guvenir,\r\nBilkent University,\r\nDepartment of Computer Engineering and Information Science,\r\n06533 Ankara, Turkey\r\nPhone: +90 (312) 266 4133\r\nEmail: guvenir@cs.bilkent.edu.tr",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "G. Demiroz, H. A. Govenir, and N. Ilter, \"Learning Differential Diagnosis of Eryhemato-Squamous Diseases using Voting Feature Intervals\", Aritificial Intelligence in Medicine\r\nhttp://rexa.info/paper/f6790d06b3e02eb2de5f4af243b3a23a934aad9e",
+    "AttributeInfo": "      Clinical Attributes: (take values 0, 1, 2, 3, unless otherwise indicated)\r\n      1: erythema\r\n      2: scaling\r\n      3: definite borders\r\n      4: itching\r\n      5: koebner phenomenon\r\n      6: polygonal papules\r\n      7: follicular papules\r\n      8: oral mucosal involvement\r\n      9: knee and elbow involvement\r\n     10: scalp involvement\r\n     11: family history, (0 or 1)\r\n     34: Age (linear)\r\n\r\n     Histopathological Attributes: (take values 0, 1, 2, 3)\r\n     12: melanin incontinence\r\n     13: eosinophils in the infiltrate\r\n     14: PNL infiltrate\r\n     15: fibrosis of the papillary dermis\r\n     16: exocytosis\r\n     17: acanthosis\r\n     18: hyperkeratosis\r\n     19: parakeratosis\r\n     20: clubbing of the rete ridges\r\n     21: elongation of the rete ridges\r\n     22: thinning of the suprapapillary epidermis\r\n     23: spongiform pustule\r\n     24: munro microabcess\r\n     25: focal hypergranulosis\r\n     26: disappearance of the granular layer\r\n     27: vacuolisation and damage of basal layer\r\n     28: spongiosis\r\n     29: saw-tooth appearance of retes\r\n     30: follicular horn plug\r\n     31: perifollicular parakeratosis\r\n     32: inflammatory monoluclear inflitrate\r\n     33: band-like infiltrate",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 11189
+}

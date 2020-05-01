@@ -1,0 +1,11 @@
+{
+    "datasetID": 46,
+    "supportID": "F2729FEB3087B04F7B27E8924E6F64F3C45EABB0",
+    "rexaID": "b0009a0081cc5fbfbae758def55cfd5b3256623b",
+    "author": "",
+    "title": "Prototype Selection for Composite Nearest Neighbor Classifiers",
+    "venue": "Department of Computer Science University of Massachusetts",
+    "year": "1997",
+    "window": "Selection. : : : : : : : : : : : : : : : : : : : : 117 4.11 Relationships between component accuracy and diversity for the Cleveland Heart Disease, LED-7 Digit, <b>Hepatitis</b> and Breast Cancer Wisconsin data sets for the four boosting algorithms. \"c\" represents the Coarse Reclassification algorithm; \"d\", Deliberate Misclassification; \"f \", Composite Fitness; and \"s\" Composite Fitness--Feature Selection. : :",
+    "mykey": 2451
+}

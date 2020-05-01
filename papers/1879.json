@@ -1,0 +1,11 @@
+{
+    "datasetID": 75,
+    "supportID": "B92890DDD4FD7A4F00DB1BF12E61403C0AEDFC3B",
+    "rexaID": "77fb0a2e40e1c957295bfa6bffb09ffc1d1bebc7",
+    "author": "Giorgio Valentini",
+    "title": "An experimental bias--variance analysis of SVM ensembles based on resampling techniques",
+    "venue": "",
+    "year": "",
+    "window": "Spam RBF-SVM 0.1292 0.1290 0.14 -0.48 1.57 2.22 Poly-SVM 0.1323 0.1318 0.35 2.11 -5.83 -1.19 D-prod SVM 0.1495 0.1389 7.15 -3.16 19.87 16.38 Data set <b>Musk</b> RBF-SVM 0.0898 0.0920 -2.36 -6.72 22.91 13.67 Poly-SVM 0.1225 0.1128 7.92 -10.49 38.17 37.26 D-prod SVM 0.1501 0.1261 15.97 -2.41 34.56 29.38 V. DISCUSSION A. Bias--Variance characteristics of",
+    "mykey": 1879
+}

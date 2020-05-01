@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "9420108AB1160C43755C76C0AE57C71F2162F004",
+    "rexaID": "4a338bab101f6721ea5dc4d76de5456721fbf0a3",
+    "author": "Marina Meila and Michael I. Jordan",
+    "title": "Learning with Mixtures of Trees",
+    "venue": "Journal of Machine Learning Research, 1",
+    "year": "2000",
+    "window": "exon, or coding section, begins. Hence, the class variable can take 3 values (EI, IE or no junction) and the other variables take 4 values corresponding to the 4 possible <b>DNA</b> bases (C, A, G, T). The dataset consists of 3,175 labeled examples 2 . We ran two series of experiments comparing the MT model with competing models. In the first series of experiments, we compared to the results of [41], who used",
+    "mykey": 1478
+}

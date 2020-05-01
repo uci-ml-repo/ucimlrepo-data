@@ -1,0 +1,23 @@
+{
+    "ID": 273,
+    "Name": "Weight Lifting Exercises monitored with Inertial Measurement Units",
+    "Abstract": "Six young health subjects were asked to perform 5 variations of the biceps curl weight lifting exercise. One of the variations is the one predicted by the health professional.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 39242,
+    "NumAttributes": 152,
+    "DateDonated": "2013-11-24",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00273/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Velloso, E.; Bulling, A.; Gellersen, H.; Ugulino, W.; Fuks, H. Qualitative Activity Recognition of Weight Lifting Exercises. Proceedings of 4th International Conference in Cooperation with SIGCHI (Augmented Human '13) . Stuttgart, Germany: ACM SIGCHI, 2013.\r\nRead more: http://groupware.les.inf.puc-rio.br/har#ixzz2lZizjhaF",
+    "Source": "Wallace Ugulino (wugulino@inf.puc-rio.br), Pontifical Catholic University of Rio de Janeiro (Brazil).\r\nEduardo Velloso (e.velloso@lancaster.ac.uk), Lancaster University - UK.",
+    "Acknowledgements": "Velloso, E.; Bulling, A.; Gellersen, H.; Ugulino, W.; Fuks, H. Qualitative Activity Recognition of Weight Lifting Exercises. Proceedings of 4th International Conference in Cooperation with SIGCHI (Augmented Human '13) . Stuttgart, Germany: ACM SIGCHI, 2013.\r\nRead more: http://groupware.les.inf.puc-rio.br/har#ixzz2lZizjhaF",
+    "Area": "Physical",
+    "RelevantPapers": "",
+    "AttributeInfo": "Each IMU has x, y, and z values + euler angles (roll, pitch and yaw). For each time window (1s of data), there are several statistics calculations, like Kurtosis, Variance, etc.",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

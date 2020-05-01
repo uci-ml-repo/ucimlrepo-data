@@ -1,0 +1,11 @@
+{
+    "datasetID": 72,
+    "supportID": "90A89D0CF28DF1B1D0B6B0ED1912F074257D9AFC",
+    "rexaID": "d594d4b87f95f33ad4a476985e45fef49afac5ee",
+    "author": "Pavel Paclik and Robert P W Duin and Geert M. P. van Kempen and Reinhard Kohlus",
+    "title": "On Feature Selection with Measurement Cost and Grouped Features",
+    "venue": "Pattern Recognition Group, Delft University of Technology",
+    "year": "",
+    "window": "algorithms per orm sequential orward selection with criterion (1). 3 Experiments 3.1 Handwritten Digit Recognition In the first experiment, we use the proposed methods on the handwritten digit <b>mfeat</b> dataset rom [1]. The dataset contains 10 digit classes with 200 samples per class and six di.erent eature sets (649 eatures). In order to lower the computational requirements in this illustrative example,",
+    "mykey": 1428
+}

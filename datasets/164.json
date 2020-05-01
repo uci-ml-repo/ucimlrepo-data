@@ -1,0 +1,23 @@
+{
+    "ID": 164,
+    "Name": "Bag of Words",
+    "Abstract": "This data set contains five text collections in the form of bags-of-words.",
+    "Types": "Text",
+    "Task": "Clustering",
+    "AttributeTypes": "Integer",
+    "NumInstances": 8000000,
+    "NumAttributes": 100000,
+    "DateDonated": "2008-03-12",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/bag-of-words/",
+    "URLReadme": "../machine-learning-databases/bag-of-words/readme.txt",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "For each text collection, D is the number of documents, W is the\r\nnumber of words in the vocabulary, and N is the total number of words\r\nin the collection (below, NNZ is the number of nonzero counts in the\r\nbag-of-words).  After tokenization and removal of stopwords, the\r\nvocabulary of unique words was truncated by only keeping words that\r\noccurred more than ten times.  Individual document names (i.e. a\r\nidentifier for each docID) are not provided for copyright reasons.\r\n\r\nThese data sets have no class labels, and for copyright reasons no\r\nfilenames or other document-level metadata.  These data sets are ideal\r\nfor clustering and topic modeling experiments.\r\n\r\nFor each text collection we provide docword.*.txt (the bag of words\r\nfile in sparse format) and vocab.*.txt (the vocab file).\r\n\r\nEnron Emails:\r\norig source: www.cs.cmu.edu/~enron\r\nD=39861\r\nW=28102\r\nN=6,400,000 (approx)\r\n\r\nNIPS full papers:\r\norig source: books.nips.cc\r\nD=1500\r\nW=12419\r\nN=1,900,000 (approx)\r\n\r\nKOS blog entries:\r\norig source: dailykos.com\r\nD=3430\r\nW=6906\r\nN=467714\r\n\r\nNYTimes news articles:\r\norig source: ldc.upenn.edu\r\nD=300000\r\nW=102660\r\nN=100,000,000 (approx)\r\n\r\nPubMed abstracts:\r\norig source: www.pubmed.gov\r\nD=8200000\r\nW=141043\r\nN=730,000,000 (approx)",
+    "Source": "David Newman\r\nnewman@uci.edu\r\nUniversity of California, Irvine ",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "",
+    "AttributeInfo": "The format of the docword.*.txt file is 3 header lines, followed by\r\nNNZ triples:\r\n---\r\nD\r\nW\r\nNNZ\r\ndocID wordID count\r\ndocID wordID count\r\ndocID wordID count\r\ndocID wordID count\r\n...\r\ndocID wordID count\r\ndocID wordID count\r\ndocID wordID count\r\n---\r\n\r\nThe format of the vocab.*.txt file is line <n> contains wordID=n.",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

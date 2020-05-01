@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "E25726B7D7AC671A0427FA7A0D39DAE50C439ADB",
+    "rexaID": "dad1e8c3efe3862d65266fb0d04ff7a8ef116f0f",
+    "author": "Eui-Hong Han and George Karypis and Vipin Kumar and Bamshad Mobasher",
+    "title": "Clustering Based On Association Rule Hypergraphs",
+    "venue": "DMKD",
+    "year": "1997",
+    "window": "the cluster which has the highest score with respect to that transaction. We performed clustering of transactions on 1984 United States Congressional <b>Voting Records</b> Database provided by [MM96]. The data set includes 435 transactions each corresponding to one Congressman's votes on 16 key issues. We removed class values from each transaction, and we followed the steps specified in Section 2.1 to",
+    "mykey": 2287
+}

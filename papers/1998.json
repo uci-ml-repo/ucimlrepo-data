@@ -1,0 +1,11 @@
+{
+    "datasetID": 90,
+    "supportID": "C710C98D7FD7350E9857950E11FCA1969956609C",
+    "rexaID": "dbd0f89e43cc274cf80effc519740af54cccef75",
+    "author": "Igor Kononenko and Edvard Simec",
+    "title": "Induction of decision trees using RELIEFF",
+    "venue": "University of Ljubljana, Faculty of electrical engineering & computer science",
+    "year": "",
+    "window": "(SOYB, IRIS, and VOTE are obtained from the Irvine database (Murphy & Aha, 1991)): SOYB: The famous <b>soybean</b> data set used by Michalski & Chilausky (1980). IRIS: The well known Fisher's problem of determining the type of iris flower. MESH3,MESH15: The problem of determining the number of elements for each of the",
+    "mykey": 1998
+}

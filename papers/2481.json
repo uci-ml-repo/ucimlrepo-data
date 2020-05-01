@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "F62350AB3B186A95A46E06EE65BCBE4FD3DC6B70",
+    "rexaID": "68ad36910e92ea5408b79e50302563fb79484cf4",
+    "author": "Chiranjib Bhattacharyya and Pannagadatta K. S and Alexander J. Smola",
+    "title": "A Second order Cone Programming Formulation for Classifying Missing Data",
+    "venue": "Department of Computer Science and Automation Indian Institute of Science",
+    "year": "",
+    "window": "of the UCI database. From left to right: Pima, Ionosphere, and <b>Heart</b> dataset. Top: small fraction of data with missing variables (50%), Bottom: large number of observations with missing variables (90%) The experimental results are summarized by the graphs(1). The robust",
+    "mykey": 2481
+}

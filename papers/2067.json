@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "CFC31FD28AF7B757D979A7559890A4BE31F04773",
+    "rexaID": "3df4cdc6ac34e8ad8f2800107ccd6373c7e3505e",
+    "author": "Guido Lindner and Rudi Studer",
+    "title": "Algorithm Selection Support for Classification",
+    "venue": "DaimlerChrysler AG, Research & Technology FT3/KL",
+    "year": "",
+    "window": "[Sleeman et al., 1995]. Such an approach is very di\u00c6cult to maintain: each time a new algorithm has to be included one has to recompute all the rules. The <b>Statlog</b> project tried to describe data sets for a meta learning step to generate rules that specify in which case which algorithm is (possibly) applicable. The generated rules use hard boundaries within their condition part. However, instead",
+    "mykey": 2067
+}

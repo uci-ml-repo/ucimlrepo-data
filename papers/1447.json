@@ -1,0 +1,11 @@
+{
+    "datasetID": 12,
+    "supportID": "93187059BF6EAB8DBAE1762B80ED7071F9A435BF",
+    "rexaID": "e2b2b723df700c90e69a31a4403b740c2d2a7b2f",
+    "author": "Alexander K. Seewald",
+    "title": "Dissertation Towards Understanding Stacking Studies of a General Ensemble Learning Scheme ausgefuhrt zum Zwecke der Erlangung des akademischen Grades eines Doktors der technischen Naturwissenschaften",
+    "venue": "",
+    "year": "",
+    "window": "the baseline accuracy is already 66.7%. Interestingly in this case the best model is from DecisionStump which learns a single J48 node, obtaining 88.9% accuracy, corresponding to a single error on dataset <b>balance</b> <b>scale</b>  It seems J48 is prone to overfitting on this meta dataset. The training set model is based on meanAbsSkew. All but two times, the following model appears: meanAbsSkew <= 0.31 : class",
+    "mykey": 1447
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "596CB9844E5321DD0023BCCD9C0B978555A3E9FE",
+    "rexaID": "c3f9c3303aa080beec901b74703cef88ee2b2f24",
+    "author": "Wl odzisl and Rafal Adamczak and Krzysztof Grabczewski and Grzegorz Zal",
+    "title": "A hybrid method for extraction of logical rules from data",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "for benchmark applications were taken from the UCI machine learning repository [14]. Application of the constructive MLP2LN approach to the classical <b>Iris</b> dataset was already presented in detail [15], therefore only new aspects related to the hybrid method are discussed here. The Iris data has 150 vectors evenly distributed in three iris-setosa,",
+    "mykey": 812
+}

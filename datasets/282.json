@@ -1,0 +1,23 @@
+{
+    "ID": 282,
+    "Name": "LSVT Voice Rehabilitation",
+    "Abstract": "126 samples from 14 participants, 309 features. Aim: assess whether voice rehabilitation treatment lead to phonations considered 'acceptable' or 'unacceptable' (binary class classification problem).",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 126,
+    "NumAttributes": 309,
+    "DateDonated": "2014-02-19",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00282/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The original paper demonstrated that it is possible to correctly replicate the experts' binary assessment with approximately 90% accuracy using both 10-fold cross-validation and leave-one-subject-out validation. We experimented with both random forests and support vector machines, using standard approaches for optimizing the SVM's hyperparameters. It will be interesting if researchers can improve on this finding using advanced machine learning tools.\r\n\r\nDetails for the dataset can be found on the following paper.\r\nA. Tsanas, M.A. Little, C. Fox, L.O. Ramig: \u00e2\u20ac\u0153Objective automatic assessment of rehabilitative speech treatment in Parkinson\u00e2\u20ac\u2122s disease\u00e2\u20ac\u009d, IEEE Transactions on Neural Systems and Rehabilitation Engineering, Vol. 22, pp. 181-190, January 2014\r\n\r\nA freely available preprint is availabe from the first author's website.",
+    "Source": "The dataset was created by Athanasios Tsanas (tsanasthanasis '@' gmail.com) of the University of Oxford.",
+    "Acknowledgements": "If you use this dataset, please cite the following paper:\r\nA. Tsanas, M.A. Little, C. Fox, L.O. Ramig: \u00e2\u20ac\u0153Objective automatic assessment of rehabilitative speech treatment in Parkinson\u00e2\u20ac\u2122s disease\u00e2\u20ac\u009d, IEEE Transactions on Neural Systems and Rehabilitation Engineering, Vol. 22, pp. 181-190, January 2014",
+    "Area": "Life",
+    "RelevantPapers": "The dataset was introduced in:\r\nA. Tsanas, M.A. Little, C. Fox, L.O. Ramig: \u00e2\u20ac\u0153Objective automatic assessment of rehabilitative speech treatment in Parkinson\u00e2\u20ac\u2122s disease\u00e2\u20ac\u009d, IEEE Transactions on Neural Systems and Rehabilitation Engineering, Vol. 22, pp. 181-190, January 2014 \r\n\r\nFurther details about the speech signal processing algorithms can be found in:\r\n\r\nA. Tsanas, Accurate telemonitoring of Parkinson\u00e2\u20ac\u2122s disease symptom severity using nonlinear speech signal processing and statistical machine learning, D.Phil. (Ph.D.) thesis, University of Oxford, UK, 2012\r\n\r\nA. Tsanas, M.A. Little, P.E. McSharry, L.O. Ramig: \u00e2\u20ac\u0153Nonlinear speech analysis algorithms mapped to a standard metric achieve clinically useful quantification of average Parkinson\u00e2\u20ac\u2122s disease symptom severity\u00e2\u20ac\u009d, Journal of the Royal Society Interface, Vol. 8, pp. 842-855, 2011 \r\n\r\nA. Tsanas, M.A. Little, P.E. McSharry, L.O. Ramig: \u00e2\u20ac\u0153New nonlinear markers and insights into speech signal degradation for effective tracking of Parkinson\u00e2\u20ac\u2122s disease symptom severity\u00e2\u20ac\u009d, International Symposium on Nonlinear Theory and its Applications (NOLTA), pp. 457-460, Krakow, Poland, 5-8 September 2010  \r\n\r\nPreprints are available on the first author's website.",
+    "AttributeInfo": "Each attribute (feature) corresponds to the application of a speech signal processing algorithm which aims to characterise objectively the signal. These algorithms include standard perturbation analysis methods, wavelet-based features, fundamental frequency-based features, and tools used to mine nonlinear time-series. Because of the extensive number of attributes we refer the interested readers to the relevant papers for further details.",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

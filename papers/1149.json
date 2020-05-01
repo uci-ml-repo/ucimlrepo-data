@@ -1,0 +1,11 @@
+{
+    "datasetID": 20,
+    "supportID": "756CC4560801E921C597466D70A05F4A43F0F258",
+    "rexaID": "ca1c2b19089d0ca0d4069b04c35d6f6c4312db79",
+    "author": "Jinyan Li and Guozhu Dong and Kotagiri Ramamohanarao and Limsoon Wong",
+    "title": "DeEPs: A New Instance-based Discovery and Classification System",
+    "venue": "Proceedings of the Fourth European Conference on Principles and Practice of Knowledge Discovery in Databases",
+    "year": "2001",
+    "window": "of DeEPs over the number of training instances. Decision speed. DeEPs is a fast classifier. Indeed, decision time per instance is typically a small fraction of a second. For only 5 of the 40 data sets  <b>census</b> inc, letter, satimage, pendigits, and waveform) decision time per instance exceeds 1 second. All these five data sets have a very large volume of training instances, high dimensions, or",
+    "mykey": 1149
+}

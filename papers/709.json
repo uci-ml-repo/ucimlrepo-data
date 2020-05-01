@@ -1,0 +1,11 @@
+{
+    "datasetID": 13,
+    "supportID": "5084909AA758ACF14841A1DDAF0DFE88CDDCEA6A",
+    "rexaID": "3f9e71cd1f71f5f65b712d5cc5c29045d0193711",
+    "author": "Ron Kohavi and George H. John and Richard Long and David Manley and Karl Pfleger",
+    "title": "MLC++: A Machine Learning Library in C",
+    "venue": "ICTAI",
+    "year": "1994",
+    "window": "octag yes no yes no yes no yes no yes no yes no yes no yes no yes no yes no yes no yes no red yellow green blue red yellow green blue red yellow green blue sword <b>balloon</b> flag Figure 5: The Monk3 dataset (top), the concept predicted by ID3 (center), and the errors in black (bottom). 14 0 100 200 300 400 TS size Monk1 0.7 0.75 0.8 0.85 0.9 0.95 1 Accuracy HOODG ID3 Figure 6: Learning curves generated",
+    "mykey": 709
+}

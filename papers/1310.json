@@ -1,0 +1,11 @@
+{
+    "datasetID": 108,
+    "supportID": "8298C9DB47FF31E1D28063938B15CA0453C6AB1D",
+    "rexaID": "19d5e6db33eb1a6c31be626538ea656f79e901b1",
+    "author": "Matthias Scherf and W. Brauer",
+    "title": "Feature Selection by Means of a Feature Weighting Approach",
+    "venue": "GSF - National Research Center for Environment and Health",
+    "year": "",
+    "window": "and compare the results of EUBAFES and RELIEF-F. <b>Waveform</b> 40 The Waveform-40 data set was introduced in [3] and applied in [25] to examine how well a feature selection algorithm works in the presence of a high number of irrelevant features. The data set enfolds 300 instances with",
+    "mykey": 1310
+}

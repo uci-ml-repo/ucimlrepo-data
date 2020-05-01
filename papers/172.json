@@ -1,0 +1,11 @@
+{
+    "datasetID": 81,
+    "supportID": "11D6084E272D8538660C52FF08BB800B55A57291",
+    "rexaID": "0e6263639bcf297001939fd27576b20c6b78f68b",
+    "author": "Luca Zanni",
+    "title": "An Improved Gradient Projection-based Decomposition Technique for Support Vector Machines",
+    "venue": "Dipartimento di Matematica, Universitdi Modena e Reggio Emilia",
+    "year": "",
+    "window": "sized 49749. The Gaussian SVM parameters are: C = 5 and \u00be = p 10. . MNIST data set The MNIST database of <b>handwritten</b> <b>digits</b> [18] contains 784-dimensional nonbinary sparse vectors; the size of the database is 60000 and the sparsity level of the inputs is \u00bc 81%. A Gaussian SVM for",
+    "mykey": 172
+}

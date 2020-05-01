@@ -1,0 +1,11 @@
+{
+    "datasetID": 54,
+    "supportID": "E354BB66D8D27FA87897536EDBD475A9E1D81A61",
+    "rexaID": "692880d7b3356df64bfa0f06a683f89e4ce6955b",
+    "author": "Vassilis Athitsos and Stan Sclaroff",
+    "title": "Boosting Nearest Neighbor Classifiers for Multiclass Recognition",
+    "venue": "Boston University Computer Science Tech. Report No, 2004-006",
+    "year": "2004",
+    "window": "et al. (2000) and the best result attained among the 6 variations of \naive\" k-nn classification. For our method we also provide the standard deviation across multiple trials, except for the <b>isolet</b> dataset where we only ran one trial of our algorithm. Dataset Boost-NN Allwein Naive k-nn glass 24.4 # 1.7 25.2 26.8 isolet 6.5 5.3 7.6 letter 3.5 # 0.2 7.1 4.5 pendigits 3.9 # 0.6 2.9 2.2 satimage 9.6 #",
+    "mykey": 2299
+}

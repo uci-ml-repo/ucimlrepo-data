@@ -1,0 +1,23 @@
+{
+    "ID": 128,
+    "Name": "Japanese Vowels",
+    "Abstract": "This dataset records 640 time series of 12 LPC cepstrum coefficients taken from nine male speakers.",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 640,
+    "NumAttributes": 12,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/JapaneseVowels-mld/",
+    "URLReadme": "../machine-learning-databases/JapaneseVowels-mld/JapaneseVowels.data.html",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The data was collected for examining our newly developed classifier for multidimensional curves (multidimensional time series). Nine male speakers uttered two Japanese vowels /ae/ successively. For each utterance, with the analysis parameters described below, we applied 12-degree linear prediction analysis to it to obtain a discrete-time series with 12 LPC cepstrum coefficients. This means that one utterance by a speaker forms a time series whose length is in the range 7-29 and each point of a time series is of 12 features (12 coefficients).\r\n\r\nThe number of the time series is 640 in total. We used one set of 270 time series for training and the other set of 370 time series for testing.\r\n\r\nNumber of Instances (Utterances):\r\n\r\n    * Training: 270 (30 utterances by 9 speakers. See file 'size_ae.train'.)\r\n    * Testing: 370 (24-88 utterances by the same 9 speakers in different opportunities. See file 'size_ae.test'.) \r\n\r\nLength of Time Series:\r\n\r\n    * 7 - 29 depending on utterances \r\n\r\nAnalysis parameters:\r\n\r\n    * Sampling rate : 10kHz\r\n    * Frame length : 25.6 ms\r\n    * Shift length : 6.4ms\r\n    * Degree of LPC coefficients : 12 \r\n\r\nFiles:\r\n\r\n    * Training file: ae.train\r\n    * Testing file: ae.test \r\n\r\nFormat:\r\n\r\nEach line in ae.train or ae.test represents 12 LPC coefficients in the increasing order separated by spaces. This corresponds to one analysis frame.\r\n\r\nLines are organized into blocks, which are a set of 7-29 lines separated by blank lines and corresponds to a single speech utterance of /ae/ with 7-29 frames.\r\n\r\nEach speaker is a set of consecutive blocks. In ae.train there are 30 blocks for each speaker. Blocks 1-30 represent speaker 1, blocks 31-60 represent speaker 2, and so on up to speaker 9. In ae.test, speakers 1 to 9 have the corresponding number of blocks: 31 35 88 44 29 24 40 50 29. Thus, blocks 1-31 represent speaker 1 (31 utterances of /ae/), blocks 32-66 represent speaker 2 (35 utterances of /ae/), and so on.",
+    "Source": "Original Owner and Donor:\r\n\r\nMineichi Kudo, Jun Toyama, Masaru Shimbo\r\nInformation Processing Laboratory\r\nDivision of Systems and Information Engineering\r\nGraduate School of Engineering\r\nHokkaido University, Sapporo 060-8628, JAPAN\r\n{mine,jun,shimbo}@main.eng.hokudai.ac.jp\r\n",
+    "Acknowledgements": "If you publish any work using the dataset, please inform the donor. Use for commercial purposes requires donor permission.",
+    "Area": "Other",
+    "RelevantPapers": "M. Kudo, J. Toyama and M. Shimbo. (1999). \"Multidimensional Curve Classification Using Passing-Through Regions\". Pattern Recognition Letters, Vol. 20, No. 11--13, pages 1103--1111.\r\nhttp://rexa.info/paper/d65009a81a3a7162be21cc041187b97c666ee9aa",
+    "AttributeInfo": "12 Real Attributes",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 22
+}

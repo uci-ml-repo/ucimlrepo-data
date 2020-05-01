@@ -1,0 +1,23 @@
+{
+    "ID": 37,
+    "Name": "EBL Domain Theories",
+    "Abstract": "Assorted small-scale domain theories",
+    "Types": "",
+    "Task": "",
+    "AttributeTypes": "",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/ebl/",
+    "URLReadme": "../machine-learning-databases/ebl/README",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "",
+    "Source": "",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 19
+}

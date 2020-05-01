@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "EEC796EDDBF66BD3F113D7710133CAF0C9720C8E",
+    "rexaID": "ded3146242d6b322f31afbf57a8afde22e4ec8e1",
+    "author": "Ilya Blayvas and Ron Kimmel",
+    "title": "Multiresolution Approximation for Classification",
+    "venue": "CS Dept. Technion",
+    "year": "2002",
+    "window": "\u00b7 D). 3 Experimental Results The proposed method was implemented in VC++ 6.0 and run on `IBM PC 300 PL' with 600MHZ Pentium III processor and 256MB RAM. It was tested on the Pima Indians <b>Diabetes</b> dataset [10], and a large artificial dataset generated with the DatGen program [11]. The results were compared to the Smooth SVM [12] and Sparse Grids [3]. 3.1 Pima Indians The Pima Indians Diabetes",
+    "mykey": 2411
+}

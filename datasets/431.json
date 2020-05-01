@@ -1,0 +1,23 @@
+{
+    "ID": 431,
+    "Name": "Discrete Tone Image Dataset",
+    "Abstract": "Discrete Tone Images(DTI)are available which needs to be analyzed in detail. Here, we created this dataset for those who do research in DTI. \r\n",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 71,
+    "NumAttributes": 11,
+    "DateDonated": "2018-01-20",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00431/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset contains a total of 71 images including 11 types of images with its distorted versions. Each and every image has its own uniqueness of discrete tone image properties. ",
+    "Source": "Creator:\r\n\r\nJ.Uthayakumar\r\nResearch Scholar,Department of Computer Science,Pondicherry University,India.\r\nContact: +91 9677583754\r\nEmail Id: uthayresearchscholar@gmail.com\r\n\r\nGuided By,\r\n\r\nDr.T.Vengattaraman\r\nAssistant Professor,Department of Computer Science,Pondicherry University,India.\r\nEmail Id: vengattaramant@gmail.com\r\n\r\nDr.P.Dhavachelvan\r\nProfessor,Department of Computer Science,Pondicherry University,India.\r\nEmail Id: dhavachelvan@gmail.com",
+    "Acknowledgements": "It has been decided to make the dataset available to the research community free of charge. If you use these images in your research, kindly cite this dataset link.",
+    "Area": "Computer",
+    "RelevantPapers": "The parameters which we used to create this dataset is referred in the paper 'Compression Techniques are Lovable or Hateful: For Discrete Tone Images'. International conference on Electronics, Communication and Aerospace Technology (ICECA), IEEE.",
+    "AttributeInfo": "Types of Images\r\n1.System Generated DTI by setting distinct pixel values \r\n2.Discrete Pixel Logo \r\n3.Business Charts\r\n4.Bi-Level \r\n5.Part of Discrete Information from an Continuous Image\r\n\r\nColorspace models\r\n1.RGB \r\n2.Grayscale \r\n3.Binary \r\n\r\nDistortion Types\r\n1.JPEG\r\n2.Gaussian White Noise (GWN)\r\n3.Salt and Pepper noise (SP)\r\n4.Multiplicative Speckle Noise (MSN)\r\n5.Poisson Noise (PN)\r\n",
+    "FormatType": "",
+    "NumHits": 0
+}

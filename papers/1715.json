@@ -1,0 +1,11 @@
+{
+    "datasetID": 144,
+    "supportID": "A784F30E5815862D3F19B6DF2552F36548466623",
+    "rexaID": "d64d2705cabed449e8cb2ecc3c3c77c54ee71051",
+    "author": "Jeroen Eggermont and Joost N. Kok and Walter A. Kosters",
+    "title": "Genetic Programming for data classification: partitioning the search space",
+    "venue": "SAC",
+    "year": "2004",
+    "window": "our refined gp algorithm using the gain criterion performs a lot better than our simple gp algorithm and C4.5. If we look at the other two data set sets  <b>German Credit</b> and Pima Indians Diabetes), we see these are also the data sets on which our simple gp performs better than or close to C4.5. It is at the moment unclear why on these two data",
+    "mykey": 1715
+}

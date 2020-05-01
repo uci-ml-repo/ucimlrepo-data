@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "8A178D2A7AAFC4E87CA76F486406ABE4CE41A8ED",
+    "rexaID": "674344e880b3ca3ce47332c3d53ed9554b661f8b",
+    "author": "Wl odzisl/aw Duch and Karol Grudzinski",
+    "title": "Prototype based rules - a new way to understand the data",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "were extracted recently [2]. For comparison we have analyzed some of these dataset here. <b>Iris</b> flowers data, taken from the UCI repository [14], has been used in many previous studies. It contains 3 classes (Iris Setosa, Virginica and Versicolor flowers), 4 attributes (sepal and",
+    "mykey": 1386
+}

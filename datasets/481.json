@@ -1,0 +1,23 @@
+{
+    "ID": 481,
+    "Name": "EMG data for gestures",
+    "Abstract": "These are files of raw EMG data recorded by MYO Thalmic bracelet",
+    "Types": "Time-Series",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 30000,
+    "NumAttributes": 6,
+    "DateDonated": "2019-01-07",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00481/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "For recording patterns, we used a MYO Thalmic bracelet worn on a user\u00e2\u20ac\u2122s forearm, and a PC with a Bluetooth receiver. The bracelet is equipped with eight sensors equally spaced around the forearm that simultaneously acquire myographic signals. The signals are sent through a Bluetooth interface to a PC. \r\nWe present raw EMG data for 36 subjects while they performed series of static hand gestures.The subject performs two series, each of which consists of six (seven) basic gestures. Each gesture was performed for 3 seconds with a pause of 3 seconds between gestures.\r\n\r\nNumber of Instances is about 40000-50000 recordings in each column (30000 listed as guaranteed)",
+    "Source": "Creators:\r\nLobov S.(1), Krilova N.(2), Kastalskiy I.(3), Kazantsev V.(4), Makarov V.A.(5, 6)\r\n\r\n1 Lobachevsky State University of Nizhny Novgorod, Gagarin Ave. 23, 603950 Nizhny Novgorod, Russia. lobov@neuro.nnov.ru.\r\n2 Lobachevsky State University of Nizhny Novgorod, Gagarin Ave. 23, 603950 Nizhny Novgorod, Russia. k-nadezhda-k@yandex.ru.\r\n3 Lobachevsky State University of Nizhny Novgorod, Gagarin Ave. 23, 603950 Nizhny Novgorod, Russia. kastalskiy@neuro.nnov.ru.\r\n4 Lobachevsky State University of Nizhny Novgorod, Gagarin Ave. 23, 603950 Nizhny Novgorod, Russia. kazantsev@neuro.nnov.ru.\r\n5 Lobachevsky State University of Nizhny Novgorod, Gagarin Ave. 23, 603950 Nizhny Novgorod, Russia. vmakarov@ucm.es.\r\n6 Department of Applied Mathematics, Instituto de Matem\u00c3\u00a1tica Interdisciplinar, Universidad Complutense de Madrid, 28040 Madrid, Spain. vmakarov@ucm.es.\r\n",
+    "Acknowledgements": "Supported by the Ministry of Education and Science of the Russian Federation in the framework of megagrant allocation in accordance with the decree of the government of the Russian Federation \u00e2\u201e\u2013220, project \u00e2\u201e\u2013 14.Y26.31.0022",
+    "Area": "Life",
+    "RelevantPapers": "Relevant Paper:\r\nLobov S., Krilova N., Kastalskiy I., Kazantsev V., Makarov V.A. Latent Factors Limiting the Performance of sEMG-Interfaces. Sensors. 2018;18(4):1122. doi: 10.3390/s18041122",
+    "AttributeInfo": "Description of raw_data _*** file\r\nEach file consist of 10 columns:\r\n1) Time - time in ms;\r\n2-9) Channel - eightEMG channels of MYO Thalmic bracelet;\r\n10) Class  \u00e2\u20ac\u201cthelabel of gestures: \r\n0 - unmarked data,\r\n1 - hand at rest, \r\n2 - hand clenched in a fist, \r\n3 - wrist flexion,\r\n4 \u00e2\u20ac\u201c wrist extension,\r\n5 \u00e2\u20ac\u201c radial deviations,\r\n6 - ulnar deviations,\r\n7 - extended palm (the gesture was not performed by all subjects).",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 60,
+    "supportID": "BE80C65A6EC7C2ACF49476DBB8C6C3D57E55A757",
+    "rexaID": "4e69e64b6902aa2a91b5cda5a69eb6b030ac12c4",
+    "author": "Adil M. Bagirov and John Yearwood",
+    "title": "A new nonsmooth optimization algorithm for clustering",
+    "venue": "Centre for Informatics and Applied Optimization, School of Information Technology and Mathematical Sciences, University of Ballarat",
+    "year": "",
+    "window": "that these values of c allow significant reduction in the number of instances and CPU time. From the results presented in Table 3 we can conclude that appropriate values of c for the <b>liver</b> disorder data set are c 2 [0, 2]. Dierences in the number of clusters when c 2 [0, 2] arise because of small clusters which contain less than 5 % of all instances. Thus using results of numerical experiments on these",
+    "mykey": 1927
+}

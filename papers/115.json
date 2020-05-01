@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "09CF46C3DD847FF00393B67945EB9BD0773DBF22",
+    "rexaID": "abe4b819b1c9858440502f14d418706d2446c387",
+    "author": "Giorgio Valentini and Francesco Masulli",
+    "title": "NEURObjects: an object-oriented library for neural network development",
+    "venue": "Neurocomputing, 48",
+    "year": "2002",
+    "window": "validation [35]. The folds can be prepared using the program dofold in a simple way: dofold <b>glass</b> data -nf 10 -na 9 -name glass This command build the folds for a ten fold cross validation test. The data set is glass from the UCI Machine Learning repository [29]. Ten folds from the data file glass.data (named glass.#.train and glass.#.test varying i from 1 to 10) are extracted (the option -na specifies",
+    "mykey": 115
+}

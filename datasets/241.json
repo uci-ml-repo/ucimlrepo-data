@@ -1,0 +1,23 @@
+{
+    "ID": 241,
+    "Name": "One-hundred plant species leaves data set",
+    "Abstract": "Sixteen samples of leaf each of one-hundred plant species. For each sample, a shape descriptor, fine scale margin and texture histogram are given.",
+    "Types": "",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 1600,
+    "NumAttributes": 64,
+    "DateDonated": "2012-12-03",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00241/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "For Each feature, a 64 element vector is given per sample of leaf. These vectors are taken as a contigous descriptors (for shape) or histograms (for texture and margin).",
+    "Source": "James Cope, Thibaut Beghin, Paolo Remagnino, Sarah Barman.\r\nThe colour images are not included in this submission.\r\nThe Leaves were collected in the Royal Botanic Gardens, Kew, UK.\r\nemail: james.cope@kingston.ac.uk\r\n\r\nThis dataset consists of work carried out by James Cope, Charles Mallah, and James Orwell. Kingston University London.\r\nDonor of database Charles Mallah: charles.mallah@kingston.ac.uk; James Cope: james.cope@kingston.ac.uk",
+    "Acknowledgements": "Charles Mallah, James Cope, James Orwell. Plant Leaf Classification Using Probabilistic Integration of Shape, Texture and Margin Features. Signal Processing, Pattern Recognition and Applications, in press. 2013.",
+    "Area": "Life",
+    "RelevantPapers": "This is a new data set, provisional paper: 'Plant Leaf Classification Using \r\n\r\nProbabilistic Integration of Shape, Texture and Margin Features' at SPPRA 2013. Authors: \r\nCharles Mallah, James Cope, and James Orwell or Kingston University London.\r\n\r\nPrevious parts of the data set relate to feature extraction of leaves from: \r\nJ. Cope, P. Remagnino, S. Barman, and P. Wilkin.\r\nPlant texture classification using gabor cooccurrences.\r\nAdvances in Visual Computing,\r\npages 669\u00e2\u20ac\u201c677, 2010.\r\n\r\nT. Beghin, J. Cope, P. Remagnino, and S. Barman.\r\nShape and texture based plant leaf classification. In\r\nAdvanced Concepts for Intelligent Vision Systems,\r\npages 345\u00e2\u20ac\u201c353. Springer, 2010.",
+    "AttributeInfo": "For Each feature, a 64 element vector is given per sample of leaf. One file for each 64-element feature vectors. Each row begins with the class label. The remaining 64 elements is the feature vector.",
+    "FormatType": "",
+    "NumHits": 8
+}

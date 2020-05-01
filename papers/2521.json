@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "FA436A1C6EFEFFF11A6B4D429D452AB09C67A0D2",
+    "rexaID": "69aaccfb9601e579827a9940738bb255a8cec3b5",
+    "author": "Mark A. Hall",
+    "title": "Correlation-based Feature Selection for Discrete and Numeric Class Machine Learning",
+    "venue": "ICML",
+    "year": "2000",
+    "window": "in accuracy. From Figure 1 it can be seen that ReliefF selects fewer attributes with a threshold of 0.01 than with a threshold of 0, but CFS selects significantly fewer attributes than both on all data sets except <b>diabetes</b>  0 5 10 15 20 25 30 35 40 0 2 4 6 8 10 12 14 16 number of features dataset Figure 1. Average number of features selected by ReliefF with threshold 0 (left), ReliefF with threshold",
+    "mykey": 2521
+}

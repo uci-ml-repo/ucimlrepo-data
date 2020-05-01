@@ -1,0 +1,23 @@
+{
+    "ID": 239,
+    "Name": "Legal Case Reports",
+    "Abstract": "A textual corpus of 4000 legal cases for automatic summarization and citation analysis. For each document we collect catchphrases, citations sentences, citation catchphrases and citation classes.",
+    "Types": "Text",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "2012-10-19",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00239/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset contains Australian legal cases from the Federal Court of Australia (FCA). The cases were downloaded from AustLII (http://www.austlii.edu.au). We included all cases from the year 2006,2007,2008 and 2009. We built it to experiment with automatic summarization and citation analysis. For each document we collected catchphrases, citations sentences, citation catchphrases, and citation classes. Catchphrases are found in the document, we used the catchphrases are gold standard for our summarization experiments. Citation sentences are found in later cases that cite the present case, we use citation sentences for summarization. Citation catchphrases are the catchphrases (where available) of both later cases that cite the present case, and older cases cited by the present case. Citation classes are indicated in the document, and indicate the type of treatment given to the cases cited by the present case.",
+    "Source": "Filippo Galgani\r\ngalganif@cse.unsw.edu.au\r\nSchool of Computer Science and Engineering\r\nThe Univeristy of New South Wales, Australia",
+    "Acknowledgements": "[1] F. Galgani, P. Compton, and A. Hoffmann. Citation based summarisation of legal texts. In PRICAI 2012, volume LNCS 7458, pages 40\u00e2\u20ac\u201c52. Springer, Heidelberg, 2012.\r\n[2] F. Galgani, P. Compton, and A. Hoffmann. Combining different summarization techniques for legal text. In Proceedings of the Workshop on Innovative Hybrid Approaches to the Processing of Textual Data, pages 115\u00e2\u20ac\u201c123, Avignon, France, April 2012. Association for Computational Linguistics.\r\n[3] F. Galgani, P. Compton, and A. Hoffmann. Knowledge acquisition for categorization of legal case re- ports. In D. Richards and B. Kang, editors, PKAW 2012, volume LNAI 7457, pages 118\u00e2\u20ac\u201c132. Springer, Heidelberg, 2012.\r\n[4] F. Galgani, P. Compton, and A. Hoffmann. Towards automatic generation of catchphrases for legal case reports. In the 13th International Conference on Intelligent Text Processing and Computational Linguistics, volume 7182 of Lecture Notes in Computer Science, pages 415\u00e2\u20ac\u201c426, New Delhi, India, 2012. Springer Berlin Heidelberg.\r\n[5] F. Galgani and A. Hoffmann. Lexa: Towards automatic legal citation classification. In J. Li, editor, AI 2010: Advances in Artificial Intelligence, volume 6464 of Lecture Notes in Computer Science, pages 445 \u00e2\u20ac\u201c454. Springer Berlin Heidelberg, 2010.",
+    "Area": "Other",
+    "RelevantPapers": "[1] F. Galgani, P. Compton, and A. Hoffmann. Citation based summarisation of legal texts. In PRICAI 2012, volume LNCS 7458, pages 40\u00e2\u20ac\u201c52. Springer, Heidelberg, 2012.\r\n[2] F. Galgani, P. Compton, and A. Hoffmann. Combining different summarization techniques for legal text. In Proceedings of the Workshop on Innovative Hybrid Approaches to the Processing of Textual Data, pages 115\u00e2\u20ac\u201c123, Avignon, France, April 2012. Association for Computational Linguistics.\r\n[3] F. Galgani, P. Compton, and A. Hoffmann. Knowledge acquisition for categorization of legal case re- ports. In D. Richards and B. Kang, editors, PKAW 2012, volume LNAI 7457, pages 118\u00e2\u20ac\u201c132. Springer, Heidelberg, 2012.\r\n[4] F. Galgani, P. Compton, and A. Hoffmann. Towards automatic generation of catchphrases for legal case reports. In the 13th International Conference on Intelligent Text Processing and Computational Linguistics, volume 7182 of Lecture Notes in Computer Science, pages 415\u00e2\u20ac\u201c426, New Delhi, India, 2012. Springer Berlin Heidelberg.\r\n[5] F. Galgani and A. Hoffmann. Lexa: Towards automatic legal citation classification. In J. Li, editor, AI 2010: Advances in Artificial Intelligence, volume 6464 of Lecture Notes in Computer Science, pages 445 \u00e2\u20ac\u201c454. Springer Berlin Heidelberg, 2010.",
+    "AttributeInfo": "Provide information about each attribute in your data set.",
+    "FormatType": "",
+    "NumHits": 8
+}

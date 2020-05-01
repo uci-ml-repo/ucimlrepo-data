@@ -1,0 +1,11 @@
+{
+    "datasetID": 101,
+    "supportID": "2ED9C34090CC5ADFEC26C7D1CCA02D4B695ADC0F",
+    "rexaID": "4018f616747e1e9c96771daa20bca34c484b966a",
+    "author": "Jochen Garcke and Michael Griebel and Michael Thess",
+    "title": "Data Mining with Sparse Grids",
+    "venue": "Computing, 67",
+    "year": "2001",
+    "window": "17572 0.1 94.4 % 94.8 % 4019 324 0.01 98.0 % 98.0 % 7491 692 43500 0.001 99.5 % 99.5 % 32587 2137 0.0001 99.7 % 99.6 % 74642 6776 0.00001 99.8 % 99.8 % 203227 19930 Table 8: Results for the Shuttle data set, only Level 1 3.4.2 <b>Tic-Tac-Toe</b> This data set comes from the UCI Machine Learning Repository [8]. The 958 instances encode the complete set of possible board configurations at the end of tic-tac-toe",
+    "mykey": 392
+}

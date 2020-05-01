@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "C194A1AF2FD5BC1896D3A2CF3ACE5680D6D5ACE8",
+    "rexaID": "535ca91c09f86e524fbd9691fb920e89528e9de7",
+    "author": "Kiri Wagstaff and Claire Cardie",
+    "title": "Clustering with Instance-level Constraints",
+    "venue": "ICML",
+    "year": "2000",
+    "window": "reflects its inherent class structure, i.e. to create one cluster per class. Talavera and B#ejar (1999), for example, use this model to place instances from the <b>mushroom</b> UCI (Blake & Merz, 1998) data set into either a poisonous\" or an edible\" cluster. We focus here on the latter model and propose the use of constraints that express information about the underlying class structure, thereby enabling",
+    "mykey": 1957
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 79,
+    "supportID": "8171D46317AFB0C794451F405AEB2ACC26D8948C",
+    "rexaID": "5f8eb537fc397ad5e506b2eae4f6676b48990ba6",
+    "author": "Thomas G. Dietterich",
+    "title": "Approximate Statistical Test For Comparing Supervised Classification Learning Algorithms",
+    "venue": "Neural Computation, 10",
+    "year": "1998",
+    "window": "measured on the 10,000 calibration examples) matched the average performance of C4.5 to within 0.1%. For the <b>Pima</b> <b>Indians</b> <b>Diabetes</b> data set, we drew 1000 data sets of size 300 from the 768 available examples. For each of these data sets, the remaining 468 examples were retained for calibration. Each of the 1000 data sets of size 300 was",
+    "mykey": 1292
+}

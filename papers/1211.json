@@ -1,0 +1,11 @@
+{
+    "datasetID": 111,
+    "supportID": "7AE7ADE5939A6BA59141B09FB62C959DE2CBC600",
+    "rexaID": "9a9186e8fcb4a3d9a2f01bb4033499e4a59833e9",
+    "author": "Neil Davey and Rod Adams and Mary J. George",
+    "title": "The Architecture and Performance of a Stochastic Competitive Evolutionary Neural Tree Network",
+    "venue": "Appl. Intell, 12",
+    "year": "2000",
+    "window": "0 7 Aquatic 1 8 Predator 1 9 Toothed 0 10 Backbone 1 11 Breathes 1 12 Venomous 0 13 Fins 0 14 Legs 4 15 Tail 1 16 Domestic 0 17 Catsize 1 Table 3. The input vector for the platypus instance in <b>Zoo</b> data set. 4.2.2 Representational Results 4.2.2.1 Picture Data Results Figure 8 shows a typical result formed by using SCENT on the 153 vector data set. Each final and non final node is represented in the",
+    "mykey": 1211
+}

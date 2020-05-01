@@ -1,0 +1,23 @@
+{
+    "ID": 338,
+    "Name": "Folio",
+    "Abstract": "20 photos of leaves for each of 32 different species.",
+    "Types": "Multivariate",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "",
+    "NumInstances": 637,
+    "NumAttributes": 20,
+    "DateDonated": "2015-07-05",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00338/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "- The leaves were placed on a white background and then photographed. \r\n- The pictures were taken in broad daylight to ensure optimum light intensity.",
+    "Source": "The leaves were taken from plants in the farm of the University of Mauritius and nearby locations.\r\n\r\nDonors:\r\n\r\nTrishen Munisami\r\ntrishen.munisami@gmail.com\r\n\r\nMahess Ramsurn\r\nramsurn.mahess@umail.uom.ac.mu\r\n\r\nSomveer Kishnah\r\ns.kishnah@uom.ac.mu\r\n\r\nSameerchand Pudaruth\r\nsameerchand.pudaruth@gmail.com",
+    "Acknowledgements": "Munisami, T., Ramsurn, M., Kishnah, S. and Pudaruth, S., 2015. Plant leaf recognition using shape features and colour histogram with k-nearest neighbour classifiers. Procedia Computer Science (Elsevier) Journal. 58, pp. 740-747.",
+    "Area": "Other",
+    "RelevantPapers": "Munisami, T., Ramsurn, M., Kishnah, S. and Pudaruth, S., 2015. Plant leaf recognition using shape features and colour histogram with k-nearest neighbour classifiers. Procedia Computer Science (Elsevier) Journal. 58, pp. 740-747.",
+    "AttributeInfo": "List of plant species:\n1. Beaumier du perou\n2. Eggplant\n3. Fruitcitere\n4. Guava\n5. Hibiscus\n6. Betel\n7. Rose\n8. Chrysanthemum\n9. Ficus\n10. Duranta gold\n11. Ashanti blood\n12. Bitter Orange\n13. Coeur Demoiselle\n14. Jackfruit\n15. Mulberry Leaf\n16. Pimento\n17. Pomme Jacquot\n18. Star Apple\n19. Barbados Cherry\n20. Sweet Olive\n21. Croton\n22. Thevetia\n23. Vieux Garcon\n24. Chocolate tree\n25. Carricature plant\n26. Coffee\n27. Ketembilla\n28. Chinese guava\n29. Lychee\n30. Geranium\n31. Sweet potato\n32. Papaya\n",
+    "FormatType": "",
+    "NumHits": 8
+}

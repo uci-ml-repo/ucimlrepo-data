@@ -1,0 +1,11 @@
+{
+    "datasetID": 80,
+    "supportID": "1457D4A2DEF6BBD29FE29251A878D171E617CABC",
+    "rexaID": "6c590e12408ebd3b9184e8f4634612e552a823e9",
+    "author": "Stephen D. Bay",
+    "title": "Nearest neighbor classification from multiple feature subsets",
+    "venue": "Intell. Data Anal, 3",
+    "year": "1999",
+    "window": "or disjoint) in combination with the CNN classifier to edit and reduce the prototypes. He also reported improvements (on five domains from the UCI repository and one <b>optical</b> character <b>recognition</b> dataset) over the baseline NN classifier if the training sets were sufficiently small and thus able to generate diverse classifiers. It is important to note that both of Alpaydin's and Skalak's work differ",
+    "mykey": 189
+}

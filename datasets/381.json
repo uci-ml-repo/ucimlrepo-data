@@ -1,0 +1,23 @@
+{
+    "ID": 381,
+    "Name": "Beijing PM2.5 Data",
+    "Abstract": "This hourly data set contains the PM2.5 data of US Embassy in Beijing. Meanwhile, meteorological data from Beijing Capital International Airport are also included. ",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Regression",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 43824,
+    "NumAttributes": 13,
+    "DateDonated": "2017-01-19",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00381/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The data\u00e2\u20ac\u2122s time period is between Jan 1st, 2010 to Dec 31st, 2014. Missing data are denoted as \u00e2\u20ac\u0153NA\u00e2\u20ac\u009d.",
+    "Source": "Song Xi Chen, csx@gsm.pku.edu.cn, Guanghua School of Management, Center for Statistical Science, Peking University.",
+    "Acknowledgements": "Liang, X., Zou, T., Guo, B., Li, S., Zhang, H., Zhang, S., Huang, H.  and Chen, S. X. (2015). Assessing Beijing's PM2.5 pollution: severity, weather impact, APEC and winter heating. Proceedings of the Royal Society A, 471, 20150257.",
+    "Area": "Physical",
+    "RelevantPapers": "Liang, X., Zou, T., Guo, B., Li, S., Zhang, H., Zhang, S., Huang, H.  and Chen, S. X. (2015). Assessing Beijing's PM2.5 pollution: severity, weather impact, APEC and winter heating. Proceedings of the Royal Society A, 471, 20150257.",
+    "AttributeInfo": "No: row number\r\nyear: year of data in this row\r\nmonth: month of data in this row\r\nday: day of data in this row\r\nhour: hour of data in this row\r\npm2.5: PM2.5 concentration (ug/m^3)\r\nDEWP: Dew Point (\u00e2\u201e\u0192)\r\nTEMP: Temperature (\u00e2\u201e\u0192)\r\nPRES: Pressure (hPa)\r\ncbwd: Combined wind direction\r\nIws: Cumulated wind speed (m/s)\r\nIs: Cumulated hours of snow\r\nIr: Cumulated hours of rain\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 1
+}

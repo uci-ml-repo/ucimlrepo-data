@@ -1,0 +1,23 @@
+{
+    "ID": 219,
+    "Name": "DBWorld e-mails",
+    "Abstract": "It contains 64 e-mails which I have manually collected from DBWorld mailing list. They are classified in: 'announces of conferences' and 'everything else'.",
+    "Types": "Text",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 64,
+    "NumAttributes": 4702,
+    "DateDonated": "2011-11-06",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00219/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "I collected 64 e-mails from DBWorld newsletter and I used them to train different algorithms in order to classify between 'announces of conferences' and 'everything else'. I used a binary bag-of-words representation with a stopword removal pre-processing task before.",
+    "Source": "Michele Filannino, PhD\r\nUniversity of Manchester\r\nCentre for Doctoral Training\r\nEmail: filannim_AT_cs.man.ac.uk",
+    "Acknowledgements": "Thanks to ACM-SIGMOD for its useful service! :)",
+    "Area": "Computer",
+    "RelevantPapers": "Michele Filannino, 'DBWorld e-mail classification using a very small corpus', Project of Machine Learning course, University of Manchester, 2011. [<a href='http://www.cs.man.ac.uk/~filannim/dbworld_email_classification.pdf'>Web link</a>]",
+    "AttributeInfo": "Each attribute corresponds to a precise word or stem in the entire data set vocabulary (I used bag-of-words representation).",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

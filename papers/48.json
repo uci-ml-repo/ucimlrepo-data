@@ -1,0 +1,11 @@
+{
+    "datasetID": 57,
+    "supportID": "0756CD080BDDC5EA0DAF92978CDE03882601FEF1",
+    "rexaID": "47f4421e112679b98c4ccf604a351b54fbb7a000",
+    "author": "Huan Liu and Rudy Setiono",
+    "title": "Incremental Feature Selection",
+    "venue": "Appl. Intell, 9",
+    "year": "1998",
+    "window": "60 80 100 120 140 160 180 200 220 0.00 20.00 40.00 60.00 80.00 100.00 240 CPU time Percent of training samples <b>LED dataset</b> CPU time Percent of training samples 100 200 300 400 500 600 700 800 900 1000 0.00 20.00 40.00 60.00 80.00 100.00 Figure 1: Average CPU time (seconds). The result for 100% data is used as the",
+    "mykey": 48
+}

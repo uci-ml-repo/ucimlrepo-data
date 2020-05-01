@@ -1,0 +1,23 @@
+{
+    "ID": 85,
+    "Name": "Qualitative Structure Activity Relationships",
+    "Abstract": "Two sets of datasets are given: pyrimidines and triazines",
+    "Types": "Domain-Theory",
+    "Task": "",
+    "AttributeTypes": "",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/qsar/",
+    "URLReadme": "../machine-learning-databases/qsar/README",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "",
+    "Source": "Ross D. King\r\nBiomolecular Modelling Laboratory\r\nImperial Cancer Research Fund\r\nP.O. Box 123\r\n44 Lincoln's Inn Fields\r\nLondon WC2A 3PX\r\nU.K.\r\n+44-71-242-0200 x3023\r\nrd_king@icrf.ac.uk",
+    "Acknowledgements": "",
+    "Area": "Physical",
+    "RelevantPapers": "",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 16
+}

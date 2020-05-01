@@ -1,0 +1,11 @@
+{
+    "datasetID": 22,
+    "supportID": "19EF7B758D745E9B4AD44318CD1DDEF4BEF19F9B",
+    "rexaID": "a0c05cdac8e9929a4113d37aa2588e7ae70a6b76",
+    "author": "Tanzeem Choudhury and James M. Rehg and Vladimir Pavlovic and Alex Pentland",
+    "title": "Boosting and Structure Learning in Dynamic Bayesian Networks for Audio-Visual Speaker Detection",
+    "venue": "ICPR (3)",
+    "year": "2002",
+    "window": "accuracy. We compare its performance to both standard structure learning and boosted parameter learning on a \u00a3xed structure. We present results for speaker detection and for the UCI  <b>chess</b>  dataset. 1. Introduction Human-centered user-interfaces based on vision and speech present challenging sensing problems in which multiple sources of information must be combined to infer the user's actions",
+    "mykey": 235
+}

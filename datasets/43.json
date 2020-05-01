@@ -1,0 +1,23 @@
+{
+    "ID": 43,
+    "Name": "Haberman's Survival",
+    "Abstract": "Dataset contains cases from study conducted on the survival of patients who had undergone surgery for breast cancer",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 306,
+    "NumAttributes": 3,
+    "DateDonated": "1999-03-04",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/haberman/",
+    "URLReadme": "../machine-learning-databases/haberman/haberman.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.",
+    "Source": "Donor:   \r\n\r\nTjen-Sien Lim (limt@stat.wisc.edu)",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "Haberman, S. J. (1976). Generalized Residuals for Log-Linear Models, Proceedings of the 9th International Biometrics Conference, Boston, pp. 104-122.\r\n\r\nLandwehr, J. M., Pregibon, D., and Shoemaker, A. C. (1984), Graphical Models for Assessing Logistic Regression Models (with discussion), Journal of the American Statistical Association 79: 61-83.\r\nhttp://rexa.info/paper/883f49956b1f22c2c7a435c7f87704e30245ea55\r\n\r\nLo, W.-D. (1993). Logistic Regression Trees, PhD thesis, Department of Statistics, University of Wisconsin, Madison, WI.\r\nhttp://rexa.info/paper/4f2ee312e02a9897433db0f1631f74b5f7bf56e6",
+    "AttributeInfo": "   1. Age of patient at time of operation (numerical)\r\n   2. Patient's year of operation (year - 1900, numerical)\r\n   3. Number of positive axillary nodes detected (numerical)\r\n   4. Survival status (class attribute)\r\n        -- 1 = the patient survived 5 years or longer\r\n        -- 2 = the patient died within 5 year",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 10931
+}

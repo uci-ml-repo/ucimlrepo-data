@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "ABBD40EBE6410B2875C2F33A0142D0E94CA8A582",
+    "rexaID": "b4f5fa80a6f5e06084e3e518c67de340a8a6aead",
+    "author": "Wl/odzisl/aw Duch",
+    "title": "Support Vector Neural Training",
+    "venue": "Index Terms--",
+    "year": "",
+    "window": "has been re-analyzed with a number of methods available in the Ghostminer package [11]. Many other results for this dataset may be found in the <b>Statlog</b> book [13]. Best results (Table I) were achieved with the k-Nearest Neighbors classifier with small k (automatic selection using crossvalidation tests found optimal k=3),",
+    "mykey": 1767
+}

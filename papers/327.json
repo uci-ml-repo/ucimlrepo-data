@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "28136B126205188A74DC58D7A8C246AABE8F86B2",
+    "rexaID": "0e637175e298e5a11f5e7a69a442a65d7245f297",
+    "author": "Sugato Basu",
+    "title": "Also Appears as Technical Report, UT-AI",
+    "venue": "PhD Proposal",
+    "year": "2003",
+    "window": "Experiments were conducted on several datasets from the UCI repository: Iris, <b>Wine</b>  and representative randomly sampled subsets from the Pen-Digits and Letter datasets. For Pen-Digits and Letter, we chose two sets of three classes: # I, J, L #",
+    "mykey": 327
+}

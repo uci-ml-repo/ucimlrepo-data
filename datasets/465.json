@@ -1,0 +1,23 @@
+{
+    "ID": 465,
+    "Name": "WESAD (Wearable Stress and Affect Detection)",
+    "Abstract": "WESAD (Wearable Stress and Affect Detection) contains data of 15 subjects during a stress-affect lab study, while wearing physiological and motion sensors.",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Classification, Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 63000000,
+    "NumAttributes": 12,
+    "DateDonated": "2018-09-14",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00465/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "WESAD is a publicly available dataset for wearable stress and affect detection. This multimodal dataset features physiological and motion data, recorded from both a wrist- and a chest-worn device, of 15 subjects during a lab study. The following sensor modalities are included: blood volume pulse, electrocardiogram, electrodermal activity, electromyogram, respiration, body temperature, and three-axis acceleration. Moreover, the dataset bridges the gap between previous lab studies on stress and emotions, by containing three different affective states (neutral, stress, amusement). In addition, self-reports of the subjects, which were obtained using several established questionnaires, are contained in the dataset. Details can be found in the dataset's readme-file, as well as in [1].",
+    "Source": "Philip Schmidt, Robert Bosch GmbH, Corporate Research, Germany, firstname.lastname@de.bosch.com\r\nAttila Reiss, Robert Bosch GmbH, Corporate Research, Germany, firstname.lastname@de.bosch.com",
+    "Acknowledgements": "You may use this data for scientific, non-commercial purposes, provided that you give credit to the owners when publishing any work based on this data. Please acknowledge publication [1].\r\nWe recommend to refer to this dataset as WESAD, or 'Wearable Stress and Affect Detection'.",
+    "Area": "Computer",
+    "RelevantPapers": "[1] Philip Schmidt, Attila Reiss, Robert Duerichen, Claus Marberger and Kristof Van Laerhoven. 2018. Introducing WESAD, a multimodal dataset for Wearable Stress and Affect Detection. In 2018 International Conference on Multimodal Interaction (ICMI \u00e2\u20ac\u212218), October 16\u00e2\u20ac\u201c20, 2018, Boulder, CO, USA. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3242969.3242985",
+    "AttributeInfo": "Raw sensor data was recorded with two devices: a chest-worn device (RespiBAN) and a wrist-worn device (Empatica E4).\r\nThe RespiBAN device provides the following sensor data: electrocardiogram (ECG), electrodermal activity (EDA), electromyogram (EMG), respiration, body temperature, and three-axis acceleration. All signals are sampled at 700 Hz.\r\nThe Empatica E4 device provides the following sensor data: blood volume pulse (BVP, 64 Hz), electrodermal activity (EDA, 4 Hz), body temperature (4 Hz), and three-axis acceleration (32 Hz).\r\n\r\nThe dataset's readme-file contains all further details with respect to the dataset structure, data format (RespiBAN device, Empatica E4 device, synchronised data), study protocol, and the self-report questionnaires.",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

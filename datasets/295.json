@@ -1,0 +1,23 @@
+{
+    "ID": 295,
+    "Name": "Urban Land Cover",
+    "Abstract": "Classification of urban land cover using high resolution aerial imagery. Intended to assist sustainable urban planning efforts.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 168,
+    "NumAttributes": 148,
+    "DateDonated": "2014-03-27",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00295/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Contains training and testing data for classifying a high resolution aerial image into 9 types of urban land cover. Multi-scale spectral, size, shape, and texture information are used for classification. There are a low number of training samples for each class (14-30) and a high number of classification variables (148), so it may be an interesting data set for testing feature selection methods. The testing data set is from a random sampling of the image.\r\n\r\nClass is the target classification variable. The land cover classes are: trees, grass, soil, concrete, asphalt, buildings, cars, pools, shadows.",
+    "Source": "Brian Johnson; \r\nInstitute for Global Environmental Strategies; \r\n2108-11 Kamiyamaguchi, Hayama, Kanagawa,240-0115 Japan; \r\nEmail: Johnson '@' iges.or.jp ",
+    "Acknowledgements": "Please cite:\r\n\r\n1. Johnson, B., Xie, Z., 2013. Classifying a high resolution image of an urban area using super-object information. ISPRS Journal of Photogrammetry and Remote Sensing, 83, 40-49.\r\n\r\n2. Johnson, B., 2013. High resolution urban land cover classification using a competitive multi-scale object-based approach. Remote Sensing Letters, 4 (2), 131-140.",
+    "Area": "Physical",
+    "RelevantPapers": "1. Johnson, B., Xie, Z., 2013. Classifying a high resolution image of an urban area using super-object information. ISPRS Journal of Photogrammetry and Remote Sensing, 83, 40-49.\r\n\r\n2. Johnson, B., 2013. High resolution urban land cover classification using a competitive multi-scale object-based approach. Remote Sensing Letters, 4 (2), 131-140.\r\n\r\n",
+    "AttributeInfo": "LEGEND\r\nClass: Land cover class (nominal)\r\nBrdIndx: Border Index (shape variable)\r\nArea: Area in m2 (size variable)\r\nRound: Roundness (shape variable)\r\nBright: Brightness (spectral variable)\r\nCompact: Compactness (shape variable)\r\nShpIndx: Shape Index (shape variable)\r\nMean_G: Green (spectral variable)\r\nMean_R: Red (spectral variable)\r\nMean_NIR: Near Infrared (spectral variable)\r\nSD_G: Standard deviation of Green (texture variable)\r\nSD_R: Standard deviation of Red (texture variable)\r\nSD_NIR: Standard deviation of Near Infrared (texture variable)\r\nLW: Length/Width (shape variable)\r\nGLCM1: Gray-Level Co-occurrence Matrix [i forget which type of GLCM metric this one is] (texture variable)\r\nRect: Rectangularity (shape variable)\r\nGLCM2: Another Gray-Level Co-occurrence Matrix attribute (texture variable)\r\nDens: Density (shape variable)\r\nAssym: Assymetry (shape variable)\r\nNDVI: Normalized Difference Vegetation Index (spectral variable)\r\nBordLngth: Border Length (shape variable)\r\nGLCM3: Another Gray-Level Co-occurrence Matrix attribute (texture variable)\r\n\r\nNote: These variables repeat for each coarser scale (i.e. variable_40, variable_60, ...variable_140).\r\n",
+    "FormatType": "",
+    "NumHits": 8
+}

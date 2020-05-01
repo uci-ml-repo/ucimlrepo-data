@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "0C543EE2403E5E986309215F48B47EF69BF46806",
+    "rexaID": "abf0c261ab7aa462cd5cbc290cb7963cdf4f9ee8",
+    "author": "Miguel Moreira and Alain Hertz and Eddy Mayoraz",
+    "title": "Data binarization by discriminant elimination",
+    "venue": "Proceedings of the ICML-99 Workshop: From Machine Learning to",
+    "year": "",
+    "window": "The bottom row shows the number of wins, including ties. Initial Final set size set n.con#icts entropy random choice data set size local global local global avg. min. <b>abalone</b> 5779 192 177 724 220 282.6 #21.6 240 allhyper 440 21 33 36 34 30.4 #4.3 22 allhypo 548 20 32 43 48 35.2 #6.2 17 anneal 134 31 31 30 30 30.9 #2.1 28",
+    "mykey": 133
+}

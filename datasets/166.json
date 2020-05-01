@@ -1,0 +1,23 @@
+{
+    "ID": 166,
+    "Name": "Hill-Valley",
+    "Abstract": "Each record represents 100 points on a two-dimensional graph. When plotted in order (from 1 through 100) as the Y co-ordinate, the points will create either a Hill (a \u201cbump\u201d in the terrain) or a Valley (a \u201cdip\u201d in the terrain).",
+    "Types": "Sequential",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 606,
+    "NumAttributes": 101,
+    "DateDonated": "2008-03-20",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/hill-valley/",
+    "URLReadme": "../machine-learning-databases/hill-valley/Hill-Valley.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Each record represents 100 points on a two-dimensional graph. When plotted in order (from 1 through 100) as the Y co-ordinate, the points will create either a Hill (a \u201cbump\u201d in the terrain) or a Valley (a \u201cdip\u201d in the terrain).\r\n\r\nThere are six files, as follows:\r\n\r\n(a) Hill_Valley_without_noise_Training.data\r\n(b) Hill_Valley_without_noise_Testing.data\r\n\r\nThese first two datasets (without noise) are a training/testing set pair where the hills or valleys have a smooth transition.\r\n\r\n(c) Hill_Valley_with_noise_Training.data\r\n(d) Hill_Valley_with_noise_Testing.data\r\n\r\nThese next two datasets (with noise) are a training/testing set pair where the terrain is uneven, and the hill or valley is not as obvious when viewed closely. \r\n\r\n(e) Hill_Valley_sample_arff.text\r\n\r\nThe sample ARFF file is useful for setting up experiments, but is not necessary.\r\n\r\n(f) Hill_Valley_visual_examples.jpg\r\n\r\nThis graphic file shows two example instances from the data.\r\n",
+    "Source": "Lee Graham (lee@stellaralchemy.com)\r\n\r\nFranz Oppacher (oppacher@scs.carleton.ca)\r\nCarleton University, Department of Computer Science\r\nIntelligent Systems Research Unit\r\n1125 Colonel By Drive, Ottawa, Ontario, Canada, K1S5B6\r\n",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "1. Non-published. Evaluation of dataset by various learning algorithms in the Waikato Environment for Knowledge Analysis (WEKA).",
+    "AttributeInfo": "1-100: Labeled \u201cX##\u201d. Floating point values (numeric)\r\n101: Labeled \u201cclass\u201d. Binary {0, 1} representing {valley, hill}\r\n",
+    "FormatType": "",
+    "NumHits": 9
+}

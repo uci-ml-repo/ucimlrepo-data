@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "C98EAEB264C9E873FF7996140718DD34CEBA917B",
+    "rexaID": "38848f2f66b7de9e40f1576d9dcb59b8361fccac",
+    "author": "G. Ratsch and B. Scholkopf and Alex Smola and Sebastian Mika and T. Onoda and K. -R Muller",
+    "title": "Robust Ensemble Learning for Data Mining",
+    "venue": "GMD FIRST, Kekul#estr",
+    "year": "",
+    "window": "generalization performance of AdaBoost in the low noise regime. However, AdaBoost performs worse than other learning machines on noisy tasks [6, 7], such as the <b>iris</b> and the breast cancer benchmark data sets [5]. The present paper addresses the overfitting problem of AdaBoost in two ways. Primarily, it makes an algorithmic contribution to the problem of constructing regularized boosting algorithms.",
+    "mykey": 2009
+}

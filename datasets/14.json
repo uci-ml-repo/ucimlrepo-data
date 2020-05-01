@@ -1,0 +1,23 @@
+{
+    "ID": 14,
+    "Name": "Breast Cancer",
+    "Abstract": "Breast Cancer Data (Restricted Access)",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 286,
+    "NumAttributes": 9,
+    "DateDonated": "1988-07-11",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/breast-cancer/",
+    "URLReadme": "../machine-learning-databases/breast-cancer/breast-cancer.names",
+    "HighestAccuracy": 78,
+    "RelevantInfo": "This is one of three domains provided by the Oncology Institute that has repeatedly appeared in the machine learning literature. (See also lymphography and primary-tumor.)\r\n\r\nThis data set includes 201 instances of one class and 85 instances of another class.  The instances are described by 9 attributes, some of which are linear and some are nominal.\r\n",
+    "Source": "Creators:\r\n\r\nMatjaz Zwitter & Milan Soklic (physicians)\r\nInstitute of Oncology \r\nUniversity Medical Center\r\nLjubljana, Yugoslavia\r\n\r\nDonors: \r\n\r\nMing Tan and Jeff Schlimmer (Jeffrey.Schlimmer@a.gp.cs.cmu.edu)",
+    "Acknowledgements": "This breast cancer domain was obtained from the University Medical Centre, Institute of Oncology, Ljubljana, Yugoslavia.  Thanks go to M. Zwitter and M. Soklic for providing the data.  Please include this citation if you plan to use this database.",
+    "Area": "Life",
+    "RelevantPapers": "Michalski,R.S., Mozetic,I., Hong,J., & Lavrac,N. (1986). The Multi-Purpose Incremental Learning System AQ15 and its Testing Application to Three Medical Domains.  In Proceedings of the Fifth National Conference on Artificial Intelligence, 1041-1045, Philadelphia, PA: Morgan Kaufmann.\r\nhttp://rexa.info/paper/2aba4fdd38df99d73ae0097b58ba06a02f048326\r\n\r\nClark,P. & Niblett,T. (1987). Induction in Noisy Domains.  In Progress in Machine Learning (from the Proceedings of the 2nd European Working Session on Learning), 11-30, Bled, Yugoslavia: Sigma Press.\r\nhttp://rexa.info/paper/e61e98320017b392a93c8ae4b0a9f80acc3fbc82\r\n\r\nTan, M., & Eshelman, L. (1988). Using weighted networks to represent classification knowledge in noisy domains.  Proceedings of the Fifth International Conference on Machine Learning, 121-134, Ann Arbor, MI.\r\nhttp://rexa.info/paper/9caf1d9fd8292532ba2a5348c6f381ca5421b59e\r\n\r\nCestnik,G., Konenenko,I, & Bratko,I. (1987). Assistant-86: A Knowledge-Elicitation Tool for Sophisticated Users.  In I.Bratko & N.Lavrac (Eds.) Progress in Machine Learning, 31-45, Sigma Press.\r\nhttp://rexa.info/paper/929f34b1fbef4c2335cebebf22840bcf78577ae4\r\n",
+    "AttributeInfo": "   1. Class: no-recurrence-events, recurrence-events\r\n   2. age: 10-19, 20-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80-89, 90-99.\r\n   3. menopause: lt40, ge40, premeno.\r\n   4. tumor-size: 0-4, 5-9, 10-14, 15-19, 20-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55-59.\r\n   5. inv-nodes: 0-2, 3-5, 6-8, 9-11, 12-14, 15-17, 18-20, 21-23, 24-26, 27-29, 30-32, 33-35, 36-39.\r\n   6. node-caps: yes, no.\r\n   7. deg-malig: 1, 2, 3.\r\n   8. breast: left, right.\r\n   9. breast-quad: left-up, left-low, right-up,\tright-low, central.\r\n  10. irradiat:\tyes, no.",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 34193
+}

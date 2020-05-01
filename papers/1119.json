@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "739EA27FE24EC5E11A27EFE980FBC887003F7B6B",
+    "rexaID": "63ebbe51c9c4dea76320f7b6a40f2a59f10cc7c0",
+    "author": "Kristin P. Bennett and Erin J. Bredensteiner",
+    "title": "A Parametric Optimization Method for Machine Learning",
+    "venue": "INFORMS Journal on Computing, 9",
+    "year": "1997",
+    "window": "is available via anonymous ftp from the UCI Repository Of Machine Learning Databases [MA92]. Pima Indians <b>Diabetes</b> Database The Pima Diabetes dataset consists of 768 female patients who are at least 21 years of age and are of Pima Indian heritage. The 8 numeric attributes describe physical features of each patient. This dataset is also available",
+    "mykey": 1119
+}

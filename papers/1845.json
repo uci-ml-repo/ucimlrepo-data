@@ -1,0 +1,11 @@
+{
+    "datasetID": 69,
+    "supportID": "B360A43EFFEC793BB362B2A8111F4572A930D8DB",
+    "rexaID": "f006e50cdba5e00538e2b48452e1d0bab8ed02b9",
+    "author": "Mukund Deshpande and George Karypis",
+    "title": "Evaluation of Techniques for Classifying Biological Sequences",
+    "venue": "PAKDD",
+    "year": "2002",
+    "window": "# Sessions Avg. Length Dataset # Sessions Avg. Length <b>Splice</b> (S-EI) 1, 527 60.0 Peptidias (P-) 1,584 511.3 Exon 762 60.0 cysteine 416 854.3 Intron 765 60.0 metallo 580 512.6 Mouse Genome (MG-GN) 10,918 361.6 serine 775 500.5 exon",
+    "mykey": 1845
+}

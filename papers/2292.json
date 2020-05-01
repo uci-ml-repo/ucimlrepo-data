@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "E2F4209356D021DC822428AFDD99DC00E35155DB",
+    "rexaID": "a90748cae4d3621106986b907d23da04fbc59c59",
+    "author": "John W. Chinneck",
+    "title": "Fast Heuristics for the Maximum Feasible Subsystem Problem",
+    "venue": "Systems and Computer Engineering, Carleton University",
+    "year": "",
+    "window": "Data Set Net Points Number of Features <b>breast</b> <b>cancer</b> 683 9 bupa 345 6 glass (type 2 vs.others) 214 9 ionosphere 351 34 iris (versicolor vs.others) 150 4 iris (virginica vs.others) 150 4 new thyroid (normal",
+    "mykey": 2292
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 32,
+    "supportID": "28BBE8AB2BB3C6F5C8073C41BE6E10ACA0D05814",
+    "rexaID": "43960812b02c29db1368816cd996112a9af54a99",
+    "author": "Juan J. Rodr##guez and Carlos J. Alonso",
+    "title": "Applying Boosting to Similarity Literals for Time Series Classification",
+    "venue": "Department of Informatics University of Valladolid, Spain",
+    "year": "2000",
+    "window": "in the same way than the previous one, but 19 points are added at the end of each example, with mean 0 and variance 6 1. Again, we used the first 300 examples of each class of the corresponding dataset from the UCI ML Repository. <b>Cylinder</b>  Bell and Funnel (CBF). This is an artificial problem, introduced by Saito [Saito, 1994]. The learning task is to distinguish between these three classes:",
+    "mykey": 332
+}

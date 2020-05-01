@@ -1,0 +1,23 @@
+{
+    "ID": 438,
+    "Name": "Health News in Twitter",
+    "Abstract": "The data was collected in 2015 using Twitter API. This dataset contains health news from more than 15 major health news agencies such as BBC, CNN, and NYT. ",
+    "Types": "Text",
+    "Task": "Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 58000,
+    "NumAttributes": 25000,
+    "DateDonated": "2018-02-19",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00438/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Each file is related to one Twitter account of a news agency. For example, bbchealth.txt is related to BBC health news. Each line contains tweet id|date and time|tweet. The separator is '|'. This text data has been used to evaluate the performance of topic models on short text data. However, it can be used for other tasks such as clustering. ",
+    "Source": "Amir Karami  \r\nkarami@sc.edu\r\nUniversity of South Carolina",
+    "Acknowledgements": "Karami, A., Gangopadhyay, A., Zhou, B., & Kharrazi, H. (2017). Fuzzy approach topic discovery in health and medical corpora. International Journal of Fuzzy Systems, 1-12.",
+    "Area": "Computer",
+    "RelevantPapers": "Karami, A., Gangopadhyay, A., Zhou, B., & Kharrazi, H. (2017). Fuzzy approach topic discovery in health and medical corpora. International Journal of Fuzzy Systems, 1-12.",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 0
+}

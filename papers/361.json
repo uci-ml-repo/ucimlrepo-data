@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "2B92384C002B697B9645D8E3FCA47F906B407675",
+    "rexaID": "b569ce235d64605aedc2e0bddb7006bd30fcad9f",
+    "author": "Fran ois Poulet",
+    "title": "Cooperation between automatic algorithms, interactive algorithms and visualization tools for Visual Data Mining",
+    "venue": "ESIEA Recherche",
+    "year": "",
+    "window": "by the user on the screen and the right part shows the transformed line (the best separating plane computed with the convex hulls). Fig. 6. An example of the automatic best separating plane on <b>iris</b> data set 2.3 Clustering The interactive algorithm described in the previous section can also be used for unsupervised classification. The computation of the convex hulls and the nearest points can be",
+    "mykey": 361
+}

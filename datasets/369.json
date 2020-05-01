@@ -1,0 +1,23 @@
+{
+    "ID": 369,
+    "Name": "UbiqLog (smartphone lifelogging)",
+    "Abstract": "UbiqLog is the smartphone lifelogging tool that runs on the smartphone of 35 users for about 2 months. \r\n",
+    "Types": "Multivariate",
+    "Task": "Causal-Discovery",
+    "AttributeTypes": "",
+    "NumInstances": 9782222,
+    "NumAttributes": 0,
+    "DateDonated": "2016-06-16",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00369/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This is the first smartphone based lifelogging dataset that is going to be available for public use. Please consider that the user of this dataset are obliged NOT to perform any sort of analysis that can harm the privacy of participants. This dataset is not for any privacy related analysis that can re-identify users.\r\nThe UbiqLog tool is open source and accessible here:  https://github.com/Rezar/Ubiqlog",
+    "Source": "Reza Rawassizadeh rrawassizadeh@acm.org. University of California Riverside.",
+    "Acknowledgements": "Please cite both of the following paper and NOT only one of them:\r\n\r\nRawassizadeh, R., Tomitsch, M., Wac, K., & Tjoa, A. M. (2013). UbiqLog: a generic mobile phone-based life-log framework. Personal and ubiquitous computing, 17(4), 621-637.\r\n\r\nRawassizadeh, R., Momeni, E., Dobbins, C., Mirza-Babaei, P., & Rahnamoun, R. (2015). Lesson Learned from Collecting Quantified Self Information via Mobile and Wearable Devices. Journal of Sensor and Actuator Networks, 4(4), 315-335.\r\n",
+    "Area": "Computer",
+    "RelevantPapers": "To appear: Scalable Daily Human Behavioral Pattern Mining from Multivariate Temporal Data. ",
+    "AttributeInfo": "With respect to users privacy UbiqLog collects their Calls, SMS headers (no content), App use, WiFi & Bluetooth devices in user's  proximity, geographical location (if available and GPS works), physical activities form Google play API.\r\nData format is in JSON, because there are different sensors and they have different variables. Nevertheless, we have the code for cleaning and converting the data into CSV + smoothing the time. Moreover, we can share our visualization code. Interested individuals could contact the given email address.",
+    "FormatType": "",
+    "NumHits": 8
+}

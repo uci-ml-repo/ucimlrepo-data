@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "7E4FD48EB811B940D3BEDB07504205AD23FE6850",
+    "rexaID": "8432b52f06e00a68cb8a7a49e3938190338231de",
+    "author": "Yin Zhang and W. Nick Street",
+    "title": "Bagging with Adaptive Costs",
+    "venue": "Management Sciences Department University of Iowa Iowa City",
+    "year": "",
+    "window": "[14]: Autompg, Bupa, Glass, Haberman, Housing, Cleveland-heart-disease, Hepatitis, Ion, Pima, <b>Sonar</b>  Vehicle, WDBC, Wine and WPBC. These data sets were picked mainly because they are relatively small in size so that the SVM problem can be solved in reasonable time. Some of the data sets do not originally depict two-class problems so we did",
+    "mykey": 1262
+}

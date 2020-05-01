@@ -1,0 +1,11 @@
+{
+    "datasetID": 16,
+    "supportID": "49FDF822B2C887B00F7868C231AC09B9110E04FA",
+    "rexaID": "3a500f9d0b3bfdadc810cde1043178b2d127888e",
+    "author": "Hussein A. Abbass",
+    "title": "An evolutionary artificial neural networks approach for breast cancer diagnosis",
+    "venue": "Artificial Intelligence in Medicine, 25",
+    "year": "2002",
+    "window": "well, compared to the previous studies. In another study, Setiono [26] used his rule extraction from ANNs algorithm [28, 29] to extract useful rules that can predict <b>breast</b> <b>cancer</b> from the <b>Wisconsin</b> dataset. He needed first to train an ANN using BP and achieved an accuracy level on the test data of approximately 94%. After applying his rule extraction technique, the accuracy of the extracted rule set",
+    "mykey": 645
+}

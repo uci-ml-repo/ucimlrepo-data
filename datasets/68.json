@@ -1,0 +1,23 @@
+{
+    "ID": 68,
+    "Name": "Molecular Biology (Protein Secondary Structure)",
+    "Abstract": "From CMU connectionist bench repository; Classifies secondary structure of certain globular proteins",
+    "Types": "Sequential",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 128,
+    "NumAttributes": 0,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/molecular-biology/protein-secondary-structure/",
+    "URLReadme": "../machine-learning-databases/molecular-biology/protein-secondary-structure/protein-secondary-structure.names",
+    "HighestAccuracy": 64,
+    "RelevantInfo": "This is a data set used by Ning Qian and Terry Sejnowski in their study using a neural net to predict the secondary structure of certain globular proteins [1].  The idea is to take a linear sequence of amino acids and to predict, for each of these amino acids, what secondary structure it is a part of within the protein.  There are three choices: alpha-helix, beta-sheet, and random-coil.  The data set contains both a large set of training data and a distinct set of data that can be used for testing the resulting network.  Qian and Sejnowski use a Nettalk-like approach and report an accuracy of 64.3% on the test set, and they speculate that this is about the best that can be done using only local context.\r\n\r\nThere is also a domain theory in the folder, donated and created by Jude Shavlik & Rich Maclin",
+    "Source": "The data set was contributed to the benchmark collection by Terry Sejnowski, now at the Salk Institute and the University of California at San Deigo.  The data set was developed in collaboration with Ning Qian of Johns-Hopkins University.",
+    "Acknowledgements": "Copyright (C) 1988 by Terrence J. Sejnowski.  Permission is hereby given to use the included data for non-commercial research purposes.  Contact the John Hopkins University, Cognitive Science Center, Baltimore MD, USA for information on commercial use.\r\n",
+    "Area": "Life",
+    "RelevantPapers": "Ning Qian and Terrnece J. Sejnowski (1988), \"Predicting the Secondary Structure of Globular Proteins Using Neural Network Models\" in Journal of Molecular Biology 202, 865-884.  Academic Press.\r\nhttp://rexa.info/paper/caa9c369816e8a49bd8a35bd54d531a47e30d8d7",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 8753
+}

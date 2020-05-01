@@ -1,0 +1,23 @@
+{
+    "ID": 51,
+    "Name": "Internet Advertisements",
+    "Abstract": "This dataset represents a set of possible advertisements on Internet pages.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer, Real",
+    "NumInstances": 3279,
+    "NumAttributes": 1558,
+    "DateDonated": "1998-07-01",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/internet_ads/",
+    "URLReadme": "../machine-learning-databases/internet_ads/ad.DOCUMENTATION",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset represents a set of possible advertisements on Internet pages.  The features encode the geometry of the image (if available) as well as phrases occuring in the URL, the image's URL and alt text, the anchor text, and words occuring near the anchor text. The task is to predict whether an image is an advertisement (\"ad\") or not (\"nonad\").",
+    "Source": "Creator & donor: \r\n\r\nNicholas Kushmerick <nick@ucd.ie>",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "N. Kushmerick (1999). \"Learning to remove Internet advertisements\", 3rd Int Conf Autonomous Agents.  Available at www.cs.ucd.ie/staff/nick/research/download/kushmerick-aa99.ps.gz.\r\nhttp://rexa.info/paper/2fdc1cee89b7f4f2c9227d6f5d9b05d22c5ab3e9\r\n",
+    "AttributeInfo": "(3 continous; others binary; this is the \"STANDARD encoding\" mentioned in the [Kushmerick, 99].)\r\n\r\nOne or more of the three continous features are missing in 28% of the instances; missing values should be interpreted as \"unknown\".",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 17652
+}

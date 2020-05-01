@@ -1,0 +1,11 @@
+{
+    "datasetID": 70,
+    "supportID": "F1A2B03BBC2588D3EFBE86DA0AAB311F85CF3D81",
+    "rexaID": "e100b0bcc229ac20bf69c9a7a6bcc360ea16a720",
+    "author": "Wl/odzisl/aw Duch and Karol Grudzinski",
+    "title": "Meta-learning: searching in the model space",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "The goal of further search for the best model should therefore include not only accuracy but also reduction of variance, i.e. stabilization of the classifier. 4.1 <b>Monk</b> problems The artificial dataset Monk-1 [11] is designed for rule-based symbolic machine learning algorithms (the data was taken from the UCI repository [12]). The nearest neighbor algorithms usually do not work well in such cases.",
+    "mykey": 2436
+}

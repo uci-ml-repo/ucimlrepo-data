@@ -1,0 +1,23 @@
+{
+    "ID": 287,
+    "Name": "Activity Recognition from Single Chest-Mounted Accelerometer",
+    "Abstract": "The dataset collects data from a wearable accelerometer mounted on the chest. The dataset is intended for Activity Recognition research purposes.",
+    "Types": "Univariate, Sequential, Time-Series",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "2014-03-02",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00287/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "   --- The dataset collects data from a wearable accelerometer mounted on the chest\r\n   --- Sampling frequency of the accelerometer: 52 Hz\r\n   --- Accelerometer Data are Uncalibrated\r\n   --- Number of Participants: 15\r\n   --- Number of Activities: 7\r\n   --- Data Format: CSV",
+    "Source": "Uncalibrated Accelerometer Data are collected from 15 participantes performing 7 activities.  The dataset provides challenges for identification and authentication of people using motion patterns.",
+    "Acknowledgements": "Casale, P. Pujol, O. and Radeva, P. \r\n       'Personalization and user verification in wearable systems using biometric walking patterns'\r\n       Personal and Ubiquitous Computing, 16(5), 563-580, 2012",
+    "Area": "Other",
+    "RelevantPapers": "   --- Casale, P. Pujol, O. and Radeva, P. \r\n       'BeaStreamer-v0.1: a new platform for Multi-Sensors Data Acquisition in Wearable Computing Applications', \r\n       CVCRD09, ISBN: 978-84-937261-1-9, 2009\r\n       available on https://www.researchgate.net/publication/257132489_BeaStreamer-v0.1_a_new_platform_for_Multi-Sensors_Data_Acquisition_in_Wearable_Computing_Applications?ev=prf_pub\r\n\r\n   --- Casale, P. Pujol, O. and Radeva, P. \r\n       'Human activity recognition from accelerometer data using a wearable device', \r\n       IbPRIA'11, 289-296, Springer-Verlag, 2011\r\n       available on https://www.researchgate.net/publication/221258784_Human_Activity_Recognition_from_Accelerometer_Data_Using_a_Wearable_Device?ev=prf_pub\r\n       \r\n  --- Casale, P. Pujol, O. and Radeva, P. \r\n       'Personalization and user verification in wearable systems using biometric walking patterns'\r\n       Personal and Ubiquitous Computing, 16(5), 563-580, 2012\r\n       available on https://www.researchgate.net/publication/227192676_Personalization_and_user_verification_in_wearable_systems_using_biometric_walking_patterns?ev=prf_pub",
+    "AttributeInfo": "   --- Data are separated by participant\r\n   --- Each file contains the following information\r\n       ---- sequential number, x acceleration, y acceleration, z acceleration, label \r\n   --- Labels are codified by numbers\r\n       --- 1: Working at Computer\r\n       --- 2: Standing Up, Walking and Going updown stairs\r\n       --- 3: Standing\r\n       --- 4: Walking\r\n       --- 5: Going UpDown Stairs\r\n       --- 6: Walking and Talking with Someone\r\n       --- 7: Talking while Standing",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

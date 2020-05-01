@@ -1,0 +1,23 @@
+{
+    "ID": 213,
+    "Name": "EMG Physical Action Data Set",
+    "Abstract": "The Physical Action Data Set includes 10 normal and 10 aggressive physical actions that measure the human activity. The data have been collected by 4 subjects using the Delsys EMG wireless apparatus.",
+    "Types": "Time-Series",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 10000,
+    "NumAttributes": 8,
+    "DateDonated": "2011-07-27",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00213/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "1. Protocol:\r\n   Three male and one female subjects (age 25 to 30), who have experienced aggression in scenarios\r\n   such as physical fighting, took part in the experiment. Throughout 20 individual experiments,\r\n   each subject had to perform ten normal and ten aggressive activities. Regarding the rights of the\r\n   subjects involved, ethical regulations and safety precaution have been followed based on the code\r\n   of ethics of the British psychological society. The regulations explain the ethical legislations\r\n   to be applied when experiments with human subjects are conducted. According to the experimental\r\n   setup and the precautions taken, the ultimate risk of injuries was minimal. The subjects were aware\r\n   that since their involvement in this series of experiments was voluntary, it was made clear that\r\n   they could withdraw at any time from the study.\r\n\r\n2. Instrumentation:\r\n   The Essex robotic arena was the main experimental hall where the data collection took place.\r\n   With area 4x5.5m, the subjects expressed aggressive physical activities at random locations. A\r\n   professional kick-boxing standing bag has been used, 1.75m tall, with a human figure drawn on\r\n   its body. The subjects\u00e2\u20ac\u2122 performance has been recorded by the Delsys EMG apparatus, interfacing\r\n   human activity with myoelectrical contractions. Based on this context, the data acquisition process\r\n   involved eight skin-surface electrodes placed on the upper arms (biceps and triceps), and upper legs\r\n   (thighs and hamstrings).\r\n\r\n3. Data Setup:\r\n   The overall number of electrodes is 8, which corresponds to 8 input time series one for a muscle\r\n   channel (ch1-8). Each time series contains ~10000 samples (~15 actions per experimental session\r\n   for each subject).",
+    "Source": "Theo Theodoridis\r\nSchool of Computer Science and Electronic Engineering\r\nUniversity of Essex\r\nWivenhoe Park, Colchester, CO4 3SQ, UK\r\nttheod@gmail.com\r\nhttp://sites.google.com/site/ttheod/",
+    "Acknowledgements": "",
+    "Area": "Physical",
+    "RelevantPapers": "",
+    "AttributeInfo": "Each file in the dataset contains in overall 8 columns, and is organised as follows:\r\n\r\n+---------+---------------+---------------+---------------+---------------+\r\n| Segment |     R-Arm     |     L-Arm     |     R-Leg     |     L-Leg     |\r\n+---------+-------+-------+-------+-------+-------+-------+-------+-------+\r\n| Channel | ch1   | ch2   | ch3   | ch4   | ch5   | ch6   | ch7   | ch8   |\r\n| Muscle  | R-Bic | R-Tri | L-Bic | L-Tri | R-Thi | R-Ham | L-Thi | L-Ham |\r\n| Column  | 0     | 1     | 2     | 3     | 4     | 5     | 6     | 7     |\r\n+---------+-------+-------+-------+-------+-------+-------+-------+-------+\r\n\r\nSegment: A segment defines a body segment or limb.\r\n         - Right arm (R-Arm)\r\n\t - Left arm (L-Arm)\r\n\t - Right leg (R-Leg)\r\n\t - Left leg (L-Leg)\r\n\r\nChannel: A channel corresponds to an electrode attached on a muscle.\r\n\r\nMuscle:  A pair of muscles that corresponds to a segment.\r\n\t - R-Bic: right bicep (C1)\r\n\t - R-Tri: right tricep (C2)\r\n\t - L-Bic: left bicep (C3)\r\n\t - L-Tri: left tricep (C4)\r\n\t - R-Thi: right thigh (C5)\r\n\t - R-Ham: right hamstring (C6)\r\n\t - L-Thi: left thigh (C7)\r\n\t - L-Ham: left hamstring (C8)",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

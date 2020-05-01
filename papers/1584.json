@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "9B6CF5D98E3C9C398773066E1C56EA9E8424097E",
+    "rexaID": "8afa6796645ce4b0642db26c822cf6bfa8cc4d0d",
+    "author": "Wl odzisl/aw Duch and Rudy Setiono and Jacek M. Zurada",
+    "title": "Computational intelligence methods for rule-based data understanding",
+    "venue": "",
+    "year": "",
+    "window": "activation of the first neuron. Adding a second neuron and training it on the remaining cases generates two additional rules, R 3 handling 40 cases and R 4 handling only 8 cases. For the <b>mushroom</b> dataset, SSV tree has found a 100% accurate solution that can be described as four logical rules using only five attributes. The first two rules are identical to the rules given above, but the remaining two",
+    "mykey": 1584
+}

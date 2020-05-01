@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "CA3D2D438FA6F35DA3CC4D30D7098D2B6814139D",
+    "rexaID": "ce160518d6a429585aeeb3f7a784c5dfb124b669",
+    "author": "Kuan-ming Lin and Chih-Jen Lin",
+    "title": "A Study on Reduced Support Vector Machines",
+    "venue": "Department of Computer Science and Information Engineering National Taiwan University",
+    "year": "",
+    "window": "for protein secondary structure prediction [26]. Finally, the problem <b>adult</b>  from the UCI \"adult\" data set [1] and compiled by Platt [20], is also included. For the adult dataset, there are several realizations. Here, we only consider the realization with the smallest training set; the full dataset with",
+    "mykey": 2027
+}

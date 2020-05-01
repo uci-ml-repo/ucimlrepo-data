@@ -1,0 +1,11 @@
+{
+    "datasetID": 79,
+    "supportID": "333DDF13DA5B127679CD0E2A1CC5556E9B6EA3F5",
+    "rexaID": "954de642cab661d060a2dbc68d3023ba3a9763e1",
+    "author": "Federico Divina and Elena Marchiori",
+    "title": "Handling Continuous Attributes in an Evolutionary Inductive Learner",
+    "venue": "Department of Computer Science Vrije Universiteit",
+    "year": "",
+    "window": "by the results of the t-test, summarized in Table 7. Using 1% confidence level we get that ECL-LSDc is never outperformed, while it is significantly better than the other methods on the <b>Pima</b> <b>Indians</b> dataset, better than ECL-GSD on the Breast dataset, and better than ECL-LUD on the Ionosphere dataset, together with ECL-LSDf and ECL-GSD. If we increase the confidence level to 5% then we get that ECL-LUD",
+    "mykey": 434
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "40B90647358CA7818C58648AFE394632A26BE48B",
+    "rexaID": "ba4305796a9e2896e810fd6cf96fbe11c6d5858b",
+    "author": "Stefan R uping",
+    "title": "A Simple Method For Estimating Conditional Probabilities For SVMs",
+    "venue": "CS Department, AI Unit Dortmund University",
+    "year": "",
+    "window": "from the UCI Repository [9] (covtype, diabetes, digits, digits, ionosphere, liver, <b>mushroom</b>  promoters) and 4 other real-world data sets: a business cycle analysis problem (business), an analysis of a direct mailing application (directmailing), a data set from a life insurance company (insurance) and intensive care patient",
+    "mykey": 541
+}

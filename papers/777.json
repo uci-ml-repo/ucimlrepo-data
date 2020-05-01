@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "54C021ADACFD1C7A6C54534278E5FC62466B35A4",
+    "rexaID": "92270daca0b7d369e25eb444e918bcb74b18d682",
+    "author": "Saharon Rosset",
+    "title": "Model selection via the AUC",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "to prefer the K-NN model most of the time. This illustrates the \"bias\" in using AUC to select classi#cation models, which we discuss in section 3.2 Finally, we performed experiments on a real-life data set. We used the  <b>Adult</b>  data-set available from the UCI repository (Blake & Merz, 1998). We used only the first ten variables in this data-set, to make a largescale experiment feasible, and compared",
+    "mykey": 777
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 18,
+    "Name": "Pittsburgh Bridges",
+    "Abstract": "Bridges database that has original and numeric-discretized datasets",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 108,
+    "NumAttributes": 13,
+    "DateDonated": "1990-08-01",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/bridges/",
+    "URLReadme": "../machine-learning-databases/bridges/bridges.names",
+    "HighestAccuracy": 85,
+    "RelevantInfo": "There are two versions to the database: \r\n    -  V1 contains the original examples and \r\n     - V2 contains descriptions after discretizing numeric properties.\r\n\r\nThere are no ``classes'' in the domain. Rather this is a DESIGN domain where 5 properties (design description) need to be predicted based on 7 specification properties.",
+    "Source": "Creators:\r\n\r\nYoram Reich & Steven J. Fenves\r\nDepartment of Civil Engineering\r\n      and\r\nEngineering Design Research Center\r\nCarnegie Mellon University\r\nPittsburgh, PA 15213\r\n\r\nCompiled from various sources.\r\n\r\nDonor: \r\n\r\nYoram Reich (yoram.reich@cs.cmu.edu)",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "Reich & Fenves (1989). Incremental Learning for Capturing Design Expertise. Technical Report: EDRC 12-34-89, Engineering Design Research Center, Carnegie Mellon University, Pittsburgh, PA.\r\n\r\nReich (1989). Converging to ``Ideal'' Design Knowledge by Learning, Proceedings of the First International Workshop on Formal Methods in Engineering Design, pp: 330-349, Colorado Springs, CO, January 1990.\r\nhttp://rexa.info/paper/117cd78482084dc3694630ecec96eeb6c09b5a3f\r\n\r\nReich (1989) Combining Nominal and Continuous Properties in an Incremental Learning System for Design. Technical Report: EDRC 12-33-89.\r\n\r\nReich (1989) Incremental Concept Formation with Mixed Property Types. Unpublished Manuscript.\r\n\r\n",
+    "AttributeInfo": "The type field state whether a property is continuous/integer (c) or nominal (n).\r\n\r\nFor properties with c,n type, the range of continuous numbers is given first and the possible values of the nominal follow the semi-colon.\r\n\r\nName / Type / Possible values / Comments\r\n\r\n   1.  IDENTIF / -- /\t-- / identifier of the examples\r\n   2.  RIVER / n / A, M, O / --\r\n   3.  LOCATION / n / 1 to 52 / --\r\n   4.  ERECTED / c,n / 1818-1986 ; CRAFTS, EMERGING, MATURE, MODERN / --\r\n   5.  PURPOSE / n / WALK, AQUEDUCT, RR, HIGHWAY / --\r\n   6.  LENGTH / c,n / 804-4558 ; SHORT, MEDIUM, LONG / --\r\n   7.  LANES / c,n / 1, 2, 4, 6 ; 1, 2, 4, 6 / --\r\n   8.  CLEAR-G / n / N, G / --\r\n   9.  T-OR-D / n / THROUGH, DECK / --\r\n   10. MATERIAL / n / WOOD, IRON, STEEL / --\r\n   11. SPAN / n / SHORT, MEDUIM, LONG / --\r\n   12. REL-L / n / S, S-F, F / --\r\n   13. TYPE / n / WOOD, SUSPEN, SIMPLE-T, ARCH, CANTILEV, CONT-T / --",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 7067
+}

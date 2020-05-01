@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "B0FFA8725C65C4A0C1E61FF9F154253F8EE7941B",
+    "rexaID": "9b1e690eee045665891881f050354585bd20bd54",
+    "author": "Aik Choon Tan and David Gilbert",
+    "title": "An Empirical Comparison of Supervised Machine Learning Techniques in Bioinformatics",
+    "venue": "APBC",
+    "year": "2003",
+    "window": "with the addition of nuclear localisation information. <b>Promoter</b> data set. The task of the classifier is to predict whether a DNA sequence from E.coli is either a promoter or not (Towell et al., 1990). The input data is a 57-nucleotide sequence (A, C, T or G). HIV data",
+    "mykey": 1821
+}

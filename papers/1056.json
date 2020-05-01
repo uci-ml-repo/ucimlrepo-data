@@ -1,0 +1,11 @@
+{
+    "datasetID": 22,
+    "supportID": "6CEA5EF59096948B99F761531EFC55FEA9819322",
+    "rexaID": "3e9ebff12a232c9f091156827e92c55d259b95f3",
+    "author": "Nikunj C. Oza and Stuart J. Russell",
+    "title": "Online Bagging and Boosting",
+    "venue": "Computer Science Division University of California",
+    "year": "",
+    "window": "AdaBoost performed significantly worse and online boosting performed marginally worse. On the Car Evaluation and <b>Chess</b> datasets, AdaBoost and online boosting performed significantly better than Naive Bayes. On the Nursery dataset, AdaBoost performed significantly better and online boosting performed marginally better. 5",
+    "mykey": 1056
+}

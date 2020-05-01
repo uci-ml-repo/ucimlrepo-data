@@ -1,0 +1,11 @@
+{
+    "datasetID": 81,
+    "supportID": "BE80C65A6EC7C2ACF49476DBB8C6C3D57E55A757",
+    "rexaID": "4e69e64b6902aa2a91b5cda5a69eb6b030ac12c4",
+    "author": "Adil M. Bagirov and John Yearwood",
+    "title": "A new nonsmooth optimization algorithm for clustering",
+    "venue": "Centre for Informatics and Applied Optimization, School of Information Technology and Mathematical Sciences, University of Ballarat",
+    "year": "",
+    "window": "of all features were 1. In numerical experiments we take = 10 -2 and the initial number of clusters q 0 = 2 with c = 1.5 for pen-based recognition of <b>handwritten</b> <b>digits</b> and the image segmentation data sets whereas for all others we used the entire data set. First we applied Algorithm 3.1 to calculate clusters. Then the k-means algorithm was applied with the same number of clusters as calculated by",
+    "mykey": 1928
+}

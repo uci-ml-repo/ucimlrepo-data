@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "B19BCB2705D3A970E1A2235C7F042EBCA49A13F5",
+    "rexaID": "b8a6771d62cfaaffe0071e498102432d8d800573",
+    "author": "Geoffrey Holmes and Bernhard Pfahringer and Richard Kirkby and Eibe Frank and Mark A. Hall",
+    "title": "Multiclass Alternating Decision Trees",
+    "venue": "ECML",
+    "year": "2002",
+    "window": "(class sizes 3-13) but struggles against two of the later datasets. For <b>soybean</b> 1-against-1 uses a tree of size 1710, and for primary-tumor it uses a tree of size 2310. Perhaps the most remarkable result is for half-letter where 1against-1 using 780 tests has an",
+    "mykey": 1830
+}

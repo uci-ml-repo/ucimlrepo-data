@@ -1,0 +1,11 @@
+{
+    "datasetID": 19,
+    "supportID": "FB9D0E16A7153662666E3B418B0E61EED5CD6F42",
+    "rexaID": "f14d3edaeac2280dc4e49948d9d0fc1159bd05ca",
+    "author": "Daniel J. Lizotte and Omid Madani and Russell Greiner",
+    "title": "Budgeted Learning of Naive-Bayes Classifiers",
+    "venue": "UAI",
+    "year": "2003",
+    "window": "at 50 purchases is better than its performance at 50 when the budget is set at 300. Other policies do not take the budget into account. We have observed the same overall patterns on several other datasets that we have tested the policies on so far  <b>CAR</b>  DIABETES, CHESS, BREAST): the performance of SFL is superior or comparable to the performance of other policies, and Biased-Robin is the best",
+    "mykey": 2548
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 154,
+    "supportID": "B505D5151B9E07D6B485294BA0985B51D129BC0B",
+    "rexaID": "6a9871da32f3042a5de9082a36a11d5aecda6df8",
+    "author": "Kai Ming Ting and Boon Toh Low",
+    "title": "Model Combination in the Multiple-Data-Batches Scenario",
+    "venue": "ECML",
+    "year": "1997",
+    "window": "DNA nucleotide positions and each position can have one of the four base values. The task is to recognize, given a DNA sequence, two types of the splice junction or neither. The <b>protein</b> coding dataset, introduced by Craven and Shavlik (1993), contains DNA nucleotide sequences and its classification task is to differentiate the coding sequences from the non-coding ones. Each sequence has fifteen",
+    "mykey": 1852
+}

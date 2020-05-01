@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "D39896F8AEEB2BB375D3CD93182975288E55147F",
+    "rexaID": "ccde1df96c7ca5add43e1578b912d95bb86da659",
+    "author": "Wai Lam and Kin Keung and Charles X. Ling",
+    "title": "PR 1527",
+    "venue": "Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong",
+    "year": "2001",
+    "window": "from di3erent real-world application in various domains, such as the city-cycle fuel consumption (Am), Wisconsin breast cancer (Bc) and the 43 famous <b>iris</b> plant database (Ir). Table 1 shows the data sets and their corresponding code used in this paper. 45 For each data set, we randomly partitioned the data into ten even portions. Ten trials derived from 10-fold 47 cross-validation were conducted",
+    "mykey": 2119
+}

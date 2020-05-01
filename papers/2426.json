@@ -1,0 +1,11 @@
+{
+    "datasetID": 129,
+    "supportID": "F014207F5E6B34D3A0626B63501A2DE163165F41",
+    "rexaID": "48dc427a3536d7bef34e910efc1f34171bf98729",
+    "author": "Chris Giannella and Bassem Sayrafi",
+    "title": "An Information Theoretic Histogram for Single Dimensional Selectivity Estimation",
+    "venue": "Department of Computer Science, Indiana University Bloomington",
+    "year": "",
+    "window": "were found under the \"Forest CoverType\" heading, covtype.data file -- attributes four and nine, respectively. The attributes represent various geographic measurements. The cup199 and cup472 datasets can be found under the  <b>KDD</b> <b>CUP</b> <b>1998</b> Data\" heading, cup98lrn file -- attributes 199 (IC1, median household income) and 472 (TARGET D, donation amount quantized into 60 groups), respectively. The",
+    "mykey": 2426
+}

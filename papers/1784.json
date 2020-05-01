@@ -1,0 +1,11 @@
+{
+    "datasetID": 130,
+    "supportID": "AEBFCD088646B6ED3D0E4896C24086B57967E6A9",
+    "rexaID": "c58fd4c0c5b8fefc00686150d5af26f6966807ef",
+    "author": "Stephen D. Bay and Dennis F. Kibler and Michael J. Pazzani and Padhraic Smyth",
+    "title": "The UCI KDD Archive of Large Data Sets for Data Mining Research and Experimentation",
+    "venue": "SIGKDD Explorations, 2",
+    "year": "2000",
+    "window": "Fan, Lee, Stolfo, and Miller [2] worked on the problem of reducing operational costs (the cost of running the system) for a real-time network intrusion detection system. They used the <b>KDD</b> <b>CUP</b> <b>1999</b> data set which is based on processed tcpdump files and includes intrusions such as probing, denial of service, illegal local access, and illegal root access. They developed multiple rule sets to identify",
+    "mykey": 1784
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 361,
+    "Name": "Twin gas sensor arrays",
+    "Abstract": "5 replicates of an 8-MOX gas sensor array were exposed to different gas conditions (4 volatiles at 10 concentration levels each).",
+    "Types": "Multivariate, Time-Series, Domain-Theory",
+    "Task": "Classification, Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 640,
+    "NumAttributes": 480000,
+    "DateDonated": "2016-05-19",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00361/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset includes the recordings of five replicates of an 8-sensor array. Each unit holds 8 MOX sensors and integrates custom-designed electronics for sensor operating temperature control and signal acquisition.\r\n\r\nThe same experimental protocol was followed to measure the response of the 5 twin units. Each day, a different unit was tested, which included the presentation\r\nof 40 different gas conditions, presented in random order. In particular, the unit under test was exposed to 10 concentration levels of Ethanol, Methane, Ethylene, and Carbon Monoxide.\r\nThe duration of each experiment was 600 s, and the conductivity of each sensor was acquired at 100Hz.\r\n\r\nChannel, sensor type (from Figaro), and mean voltage in the heater are as follows: \r\n0: TGS2611 5.65 V\r\n1: TGS2612 5.65 V\r\n2: TGS2610 5.65 V\r\n3: TGS2602 5.65 V\r\n4: TGS2611 5.00 V\r\n5: TGS2612 5.00 V\r\n6: TGS2610 5.00 V\r\n7: TGS2602 5.00 V\r\n\r\nPresented concentration levels are as follows (in ppm):\r\nEthylene: 12.5, 25, 37.5, 50.0, 62.5, 75.0, 87.5, 100.0 , 112.5, 125.0\r\nEthanol: 12.5, 25.0, 37.5, 50.0, 62.5, 75.0, 87.5, 100.0 , 112.5, 125.0\r\nCarbon Monoxide: 25.0, 50.0, 75.0, 100.0 , 125.0 ,150.0, 175.0, 200.0, 225.0 , 250.0\r\nMethane: 25.0, 50.0, 75.0, 100.0 , 125.0 ,150.0, 175.0, 200.0, 225.0 , 250.0\r\n \r\nDays in which each detection platform was tested.\r\nUnit 1: 4,10,15,21\r\nUnit 2: 1,7,11,16\r\nUnit 3: 2,8,14,17\r\nUnit 4: 3,9\r\nUnit 5: 18,22\r\n\r\nMore information at:\r\nJ. Fonollosa, L. Fernandez, A. Gutierrez-Galvez, R. Huerta, S. Marco. 'Calibration transfer and drift counteraction in chemical sensor arrays using Direct Standardization'. Sensors and Actuators B: Chemical (2016). \r\nhttp://dx.doi.org/10.1016/j.snb.2016.05.089\r\n\r\nThe data set can be used exclusively for research purposes. Commercial purposes are fully excluded. ",
+    "Source": "Jordi Fonollosa, jfonollosa@ibecbarcelona.eu, Institute for Bioengineering of Catalunya. ",
+    "Acknowledgements": "Citation required:\r\nJ. Fonollosa, L. Fernandez, A. Gutierrez-Galvez, R. Huerta, S. Marco. 'Calibration transfer and drift counteraction in chemical sensor arrays using Direct Standardization'. Sensors and Actuators B: Chemical (2016). \r\nhttp://dx.doi.org/10.1016/j.snb.2016.05.089\r\n",
+    "Area": "Computer",
+    "RelevantPapers": "N/A",
+    "AttributeInfo": "The responses of the sensors are provided in a .txt file for each experiment. File name codes the unit number, gas (Ea: Ethanol, CO: CO, Ey: Ethylene, Me: Methane), concentration (010-100 of the corresponding gas), and repetition. \r\nFor example, B1_GEa_F040_R2.txt indicates B1 (board 1), Ea (Ethanol), 50 ppm, Repetition 2.\r\n\r\nEach file includes the elapsed time (in seconds) and the resistance of each sensor (in KOhm). First column is time, and 8 following columns are channels 0-7 as specified before. ",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

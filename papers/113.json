@@ -1,0 +1,11 @@
+{
+    "datasetID": 56,
+    "supportID": "097855A85DDB73849B9AFA38CF76BF2DDA9D0F06",
+    "rexaID": "d4ea16b5ea06d216f7d2be28615fa9c66b98bbea",
+    "author": "George H. John and Ron Kohavi and Karl Pfleger",
+    "title": "Irrelevant Features and the Subset Selection Problem",
+    "venue": "ICML",
+    "year": "1994",
+    "window": "was divided by Quinlan into 490 training instances and 200 test instances. <b>Labor</b> The dataset contains instances for acceptable and unacceptable contracts. It is a small dataset with 16 features, a training set of 40 instances, and a test set of 17 instances. Our results show that the main",
+    "mykey": 113
+}

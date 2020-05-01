@@ -1,0 +1,11 @@
+{
+    "datasetID": 8,
+    "supportID": "D31BEE63C05B00FE2C2ACB117FA3EA55BAC72971",
+    "rexaID": "81a75649d5acc1cc428ca756dac221bac3c8fe01",
+    "author": "Geoffrey I. Webb",
+    "title": "OPUS: An Efficient Admissible Algorithm for Unordered Search",
+    "venue": "J. Artif. Intell. Res. (JAIR, 3",
+    "year": "1995",
+    "window": "B. C. 465,058 * 1,211,211 * * * Execution terminated after exceeding the 24 CPU hour limit. # Only three of ten runs completed. Table 4: Number of nodes explored under best-first fixed-order search Data set Runs Minimum Mean sd <b>Audiology</b> 0 --- --- --- House Votes 84 10 451,038 1,319,911 624,957 Lenses 10 51 64 9 Lymphography 10 597,842 2,251,652 1,454,583 Monk 1 10 463 788 225 Monk 2 10 4,283 5,895 931",
+    "mykey": 2099
+}

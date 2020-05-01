@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "ABB6B8F33845E2E76689FD838F46BA7AFF8AF56A",
+    "rexaID": "63fb13048c106214f91a999900e7efd5a3dcdef1",
+    "author": "Chris Drummond and Robert C. Holte",
+    "title": "Exploiting the Cost (In)sensitivity of Decision Tree Splitting Criteria",
+    "venue": "ICML",
+    "year": "2000",
+    "window": "<b>sonar</b> a classifier with a normalized expected cost that is totally independent of misclassification costs and priors. Figure 15 shows cost curves for the different splitting criteria on the sonar data set. For a given splitting criterion the classifier corresponding to the intersection would be a horizontal line through the highest point on the cost curve. In all cases this cost-insensitive",
+    "mykey": 1765
+}

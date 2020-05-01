@@ -1,0 +1,11 @@
+{
+    "datasetID": 30,
+    "supportID": "A7B9ECDA37828776A14147E3F7B137D41E2E71A3",
+    "rexaID": "80d25f1152aed1f55fc47bd0f450312debe7617e",
+    "author": "Jos'e L. Balc'azar",
+    "title": "Rules with Bounded Negations and the Coverage Inference Scheme",
+    "venue": "Dept. LSI, UPC",
+    "year": "",
+    "window": "a car labelled ``acceptable'' for five or more persons must not have low safety. Both rules hold at a low support close to the threshold but very high confidence. The <b>Contraceptive</b> Method Choice dataset [[LLS]] has 1473 instances with 10 attributes each, one of them being the class. The data comes from a national survey in Indonesia, and consists of sociodemographical and personal information about",
+    "mykey": 1721
+}

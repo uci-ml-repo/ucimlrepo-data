@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "F744A847C17CFDEED20E4B1363BDCFAA9490CA1B",
+    "rexaID": "e140ecaac8486469d0ef5b237f4fa08d7315c5ed",
+    "author": "Remco R. Bouckaert",
+    "title": "Accuracy bounds for ensembles under 0 { 1 loss",
+    "venue": "Xtal Mountain Information Technology & Computer Science Department, University of Waikato",
+    "year": "2002",
+    "window": "of 100 cases were generated and the cardinality of the variables was varied from 2 to 12, 3 Weka can be obtained from http://www.cs.waikato.ac.nz/ml/ 4 The following datasets were used: autos, balance-scale, <b>breast</b> <b>cancer</b>  breast-w, horsecolic, credit-rating, german-credit, pima-diabetes, glass, heart-c, heart-h, heart-statlog, hepatitis, iris, labor, lymphography,",
+    "mykey": 2505
+}

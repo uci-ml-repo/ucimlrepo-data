@@ -1,0 +1,11 @@
+{
+    "datasetID": 47,
+    "supportID": "C1664239D276062B38DB65251983020A1C4B4AA1",
+    "rexaID": "1b77c2b6fd8a261af286cf411879f9f520824bd6",
+    "author": "Marc Sebban and Richard Nock and St\u00e9phane Lallich",
+    "title": "Stopping Criterion for Boosting-Based Data Reduction Techniques: from Binary to Multiclass Problem",
+    "venue": "Journal of Machine Learning Research, 3",
+    "year": "2002",
+    "window": "a weighted decision rule provides better results than the unweighted rule. Among them, 7 datasets (Balance, Echocardiogram, German, <b>Horse</b> <b>Colic</b>  Led, Pima and Vehicle) see important improvements, ranging from 1% to } 5%. In contrast, only one dataset sees significant accuracy decrease (Car,",
+    "mykey": 1956
+}

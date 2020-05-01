@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "6C79B6228AA533774359EB0CBDDB6C7EF0240041",
+    "rexaID": "01ede1d6464c9533cd6ec1a4492d134729ce99bd",
+    "author": "Christophe Giraud and Tony Martinez and Christophe G. Giraud-Carrier",
+    "title": "University of Bristol Department of Computer Science ILA: Combining Inductive Learning with Prior Knowledge and Reasoning",
+    "venue": "",
+    "year": "1995",
+    "window": "are found, ILA degenerates into a restricted form of MBR [21]. This allows ILA to perform well, even with simple (and possibly weak) generalization mechanisms (see for example the <b>soybean</b> small dataset in Section 3). Going further, one may consider extending ILA with some of the well established mechanisms of MBR to further improve ILA's performance in situations where only few rules are",
+    "mykey": 1050
+}

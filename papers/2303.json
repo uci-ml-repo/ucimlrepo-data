@@ -1,0 +1,11 @@
+{
+    "datasetID": 110,
+    "supportID": "E354BB66D8D27FA87897536EDBD475A9E1D81A61",
+    "rexaID": "692880d7b3356df64bfa0f06a683f89e4ce6955b",
+    "author": "Vassilis Athitsos and Stan Sclaroff",
+    "title": "Boosting Nearest Neighbor Classifiers for Multiclass Recognition",
+    "venue": "Boston University Computer Science Tech. Report No, 2004-006",
+    "year": "2004",
+    "window": "where that method does better than the other methods. There are also two datasets (glass and <b>yeast</b>  where the results of our algorithm and the best results from ECOC-based boosting and naive k-nn classification are quite similar. We should mention that, in the Allwein et al.",
+    "mykey": 2303
+}

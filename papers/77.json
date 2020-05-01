@@ -1,0 +1,11 @@
+{
+    "datasetID": 108,
+    "supportID": "084BA61B8622B1C836C11FB7AD2D898E82386C61",
+    "rexaID": "bcf7a3acb12b41b9b37ec937c2c9aea2d1d1c855",
+    "author": "Juan J Rodr\u00edguez Diez and Carlos Alonso Gonz\u00e1lez and Henrik Bostr\u00f6m",
+    "title": "Learning First Order Logic Time Series Classifiers: Rules and Boosting",
+    "venue": "PKDD",
+    "year": "2000",
+    "window": "x k(t). Figure 2.b shows two examples of each class. The data used were obtained from the UCI KDD Archive [4]. It contains 100 examples of each class, with 60 points in each example. <b>Waveform</b>  This dataset was introduced by [9]. The purpouse is to distinguish between three classes, defined by the evaluation for i = 1; 2 : : : 21, of the following functions: x 1 (i) = uh 1 (i) + (1 u)h 2 (i) + #(i) x 2",
+    "mykey": 77
+}

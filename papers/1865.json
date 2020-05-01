@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "B648975290D78C64B21D2ECF80EC43DACFDF9F8B",
+    "rexaID": "8931d2a4a8256ea88abea3ea3ac820fd421ce0b1",
+    "author": "Stephen D. Bay and Michael J. Pazzani",
+    "title": "Detecting Group Differences: Mining Contrast Sets",
+    "venue": "Data Min. Knowl. Discov, 5",
+    "year": "2001",
+    "window": "3 This program is available from http://fuzzy.cs.Uni-Magdeburg.de/\u00b8borgelt/. Version 1.8 of his program is incorporated in the data mining tool Clementine. 18 issues. We used the following datasets which are summarized in Table 2. # <b>Adult</b>  The Adult Census data contains information extracted from the 1994 Current Population Survey. There are variables such as age, working class, education,",
+    "mykey": 1865
+}

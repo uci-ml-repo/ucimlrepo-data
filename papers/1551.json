@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "9A4AB71FA8007EBC766C93E25181A097B2216D38",
+    "rexaID": "5193dfc0a9d39b5f86fe360d6beff81aa9b7390e",
+    "author": "Nikunj C. Oza and Stuart J. Russell",
+    "title": "Experimental comparisons of online and batch versions of bagging and boosting",
+    "venue": "KDD",
+    "year": "2001",
+    "window": "We tested bagging and boosting with decision trees only on some of the smaller datasets (Promoters, Balance, <b>Breast</b> <b>Cancer</b>  Car Evaluation) because the lossless decision tree algorithm is too expensive with larger datasets in online mode. Bagging and online bagging perform comparably",
+    "mykey": 1551
+}

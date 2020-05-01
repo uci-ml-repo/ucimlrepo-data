@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "821D0F140D9DA49EE1D765307DBD744395E175C2",
+    "rexaID": "5a08d3d508c193c4964f1f3f66bdcb78b98a905b",
+    "author": "Ilya Blayvas and Ron Kimmel",
+    "title": "INVITED PAPER Special Issue on Multiresolution Analysis Machine Learning via Multiresolution Approximation",
+    "venue": "",
+    "year": "",
+    "window": "problems with huge training sets seems to be important family of problems, it was hard to find such training sets in public databases. Our method was tested on the Pima Indians <b>Diabetes</b> dataset [4], a large artificial dataset generated with the DatGen program [14] and the Forest Cover Type data set. The results were compared to [3], [8], [9], [11], [12]. 3.1 Pima Indians Dataset This is an",
+    "mykey": 1305
+}

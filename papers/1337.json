@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "84E683FAF2CD08B20401EF2471DB2B85B44F2BB7",
+    "rexaID": "edc7361f3edbcbb2421477d257bf1305834c5c61",
+    "author": "Sherrie L. W and Zijian Zheng",
+    "title": "A BENCHMARK FOR CLASSIFIER LEARNING",
+    "venue": "Basser Department of Computer Science The University of Sydney",
+    "year": "",
+    "window": "None, e.g. Lymphography and NetTalk (Phoneme) ffl Few (between 0 and 5.6%), e.g. Mushroom (1.39%) and Breast Cancer (W) (0.25%) ffl Many (more than 5.6%), e.g. <b>Soybean</b> (9.78%) and Thyroid (6.74%) 7. Dataset size (3 values): ffl Small (less than 210), e.g. Promoter (106) and Lymphography (148) ffl Medium (between 210 and 3170), e.g. Diabetes (768) and Thyroid (3163) ffl Large (more than 3170), e.g.",
+    "mykey": 1337
+}

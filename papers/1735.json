@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "A91062CAA36819ED58BC819A3D9D76EF6C7F542C",
+    "rexaID": "6f2537b9354cfbd865cc2057f04a6216cbafd89c",
+    "author": "Ethem Alpaydin",
+    "title": "Voting over Multiple Condensed Nearest Neighbors",
+    "venue": "Artif. Intell. Rev, 11",
+    "year": "1997",
+    "window": "accuracy goes higher but the variance also decreases. This indicates better generalization and is the clear advantage of voting. Complete results are given in Table 4. Results for the IRIS and <b>WINE</b> datasets are similar and are omitted. When one increases the number of voting subsets, after a certain number, new subsets do not contribute much. Whether an additional subset pays off the additional",
+    "mykey": 1735
+}

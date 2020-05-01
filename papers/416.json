@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "3117D5527496F0B6A29CF12677AB275300AB7D9A",
+    "rexaID": "8432b52f06e00a68cb8a7a49e3938190338231de",
+    "author": "Yin Zhang and W. Nick Street",
+    "title": "Bagging with Adaptive Costs",
+    "venue": "Management Sciences Department University of Iowa Iowa City",
+    "year": "",
+    "window": "and the out-of-bag margin estimation will result in better generalization as it does in stacking. 3. Computational Experiments Bacing was implemented using MATLAB and tested on 14 UCI repository data sets [2]: Autompg, Bupa, Glass, Haberman, <b>Housing</b>  Cleveland-heart-disease, Hepatitis, Ion, Pima, Sonar, Vehicle, WDBC, Wine and WPBC. Some of the data sets do not originally depict two-class problems",
+    "mykey": 416
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 30,
+    "supportID": "86C6D7774769E70C1A1CA4E2A1AA18A71F03DC1A",
+    "rexaID": "2a4fe2f7469eef9d4cc985d6caaa0afe249facf3",
+    "author": "Soumya Ray and David Page",
+    "title": "Generalized Skewing for Functions with Continuous and Nominal Attributes",
+    "venue": "Department of Computer Sciences and Department of Biostatistics and Medical Informatics, University of Wis",
+    "year": "",
+    "window": "1500 1000 500 Accuracy (%) Training Sample Size Gain/Generalized Skewing Gain Figure 11. Hard Nominal Targets, 100-v examples that a subfunction in the target (or the target itself) may be hard. The datasets we use are: <b>Contraceptive</b> Method Choice (CMC), German Credit (German), Cleveland Heart Disease (Heart), voting-records (Voting), pima-indians-diabetes (Diabetes), breast-cancerwisconsin (BCW),",
+    "mykey": 1346
+}

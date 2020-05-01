@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "C50F5A6C646634EA3588315C71F78DCE3D2FA3AA",
+    "rexaID": "5300c71ae945611a1d091404fc0461a48738e151",
+    "author": "Dmitry Pavlov and Darya Chudova and Padhraic Smyth",
+    "title": "Towards scalable support vector machines using squashing",
+    "venue": "KDD",
+    "year": "2000",
+    "window": "were ``The Microsoft Anonymous Web'' and the ''Forest Cover Type'' datasets available at UCI KDD archive [Bay99] and <b>Adult</b> dataset available at UCI machine learning repository [BM98]. Web data reflects the Web pages of www.microsoft.com that each user visited during one",
+    "mykey": 1985
+}

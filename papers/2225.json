@@ -1,0 +1,11 @@
+{
+    "datasetID": 148,
+    "supportID": "DDD93D7A7F8CD0946343DBE84F5D888E168628DD",
+    "rexaID": "2b9850dda87431cc9117f2a0a63d79863723e4b0",
+    "author": "Krzysztof Grabczewski and Wl/odzisl/aw Duch",
+    "title": "THE SEPARABILITY OF SPLIT VALUE CRITERION",
+    "venue": "Department of Computer Methods, Nicolaus Copernicus University",
+    "year": "",
+    "window": "[6] k-NN -- 99.56 [6] RBF 98.40 98.60 [6] MLP+BP 95.50 96.57 [6] Logistic discrimination 96.07 96.17 [6] Linear discrimination 95.02 95.17 [6] Table 3: Comparison of results for the NASA <b>Shuttle</b> dataset. Results for different systems are compared in the table ??. SSV results are much better than those obtained from the MLP or RBF networks (as reported in the Stalog project [?]) and comparable with",
+    "mykey": 2225
+}

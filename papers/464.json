@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "360AF352974FAD0D05CC43A8976EA71C4178A141",
+    "rexaID": "8ec82e2fc13e61b5b22da67e7ba2ac9681ec5016",
+    "author": "I\u00f1aki Inza and Pedro Larra\u00f1aga and Basilio Sierra and Ramon Etxeberria and Jose Antonio Lozano and Jos Manuel Pe\u00f1a",
+    "title": "Representing the behaviour of supervised classification learning algorithms by Bayesian networks",
+    "venue": "Pattern Recognition Letters, 20",
+    "year": "1999",
+    "window": "1,055 cases, a sufficient amount to obtain a 'not-overfitted' Bayesian network. Figure 1 summarizes the explained process. As an example, the induced simplified Bayesian network for <b>Breast</b> <b>cancer</b> dataset can be seen in Figure 2. 3.4 Concepts for interpreting the joint behaviour Once the Bayesian networks are induced, our aim is to extract assertions on the joint behaviour of Machine Learning",
+    "mykey": 464
+}

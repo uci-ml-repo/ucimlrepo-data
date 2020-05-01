@@ -1,0 +1,11 @@
+{
+    "datasetID": 146,
+    "supportID": "F2C8133A8FABCD546403337FDB6B0B5BAF8A1E79",
+    "rexaID": "2e6705a0fe8b335ec6bffc4acbe8a0665f67c8a5",
+    "author": "Jaakko Peltonen and Arto Klami and Samuel Kaski",
+    "title": "Learning More Accurate Metrics for Self-Organizing Maps",
+    "venue": "ICANN",
+    "year": "2002",
+    "window": "Data set Dimensions Classes Samples <b>Landsat</b> <b>Satellite</b> Data * 36 6 6435 Letter Recognition Data * 16 26 20000 Phoneme Data from LVQ PAK [8] 20 14 3656 TIMIT Data from [10] 12 41 14994 Bankruptcy Data used in",
+    "mykey": 2457
+}

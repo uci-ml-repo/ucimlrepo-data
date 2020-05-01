@@ -1,0 +1,11 @@
+{
+    "datasetID": 148,
+    "supportID": "F014207F5E6B34D3A0626B63501A2DE163165F41",
+    "rexaID": "48dc427a3536d7bef34e910efc1f34171bf98729",
+    "author": "Chris Giannella and Bassem Sayrafi",
+    "title": "An Information Theoretic Histogram for Single Dimensional Selectivity Estimation",
+    "venue": "Department of Computer Science, Indiana University Bloomington",
+    "year": "",
+    "window": "from the \"Esprit Project 5170 StatLog\" archive ( <b>shuttle</b>  heading): www.liacc.up.pt/ML/. It represents data concerning the operation of the NASA space shuttle. We use attribute two. The remaining datasets were obtained from the UCI KDD archive [7]. The forestcov4 and forestcov9 datasets were found under the \"Forest CoverType\" heading, covtype.data file -- attributes four and nine, respectively. The",
+    "mykey": 2427
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 454,
+    "Name": "Victorian Era Authorship Attribution",
+    "Abstract": "To create the largest authorship attribution dataset, we extracted works of 50 well-known authors. To have a non-exhaustive learning, in training there are 45 authors whereas, in the testing, it's 50",
+    "Types": "Text",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 93600,
+    "NumAttributes": 1000,
+    "DateDonated": "2018-05-31",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00454/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "To decrease the bias and create a reliable authorship attribution dataset the following criteria have been chosen to filter out authors in Gdelt database: English language writing authors, authors that have enough books available (at least 5), 19th century authors. With these criteria 50 authors have been selected and their books were queried through Big Query Gdelt database. The next task has been cleaning the dataset due to OCR reading problems in the original raw form. To achieve that, firstly all books have been scanned through to get the overall number of unique words and each words frequencies. While scanning the texts, the first 500 words and the last 500 words have been removed to take out specific features such as the name of the author, the name of the book and other word specific features that could make the classification task easier. After this step, we have chosen top 10,000 words that occurred in the whole 50 authors text data corpus. The words that are not in top 10,000 words were removed while keeping the rest of the sentence structure intact. The entire book is split into text fragments with 1000 words each. We separately maintained author and book identification number for each one of them in different arrays. Text segments with less than 1000 words were filled with zeros to keep them in the dataset as well. 1000 words make approximately 2 pages of writing, which is long enough to extract a variety of features from the document. Each instance in the training set consists of a text piece of 1000 words and an author id attached. In the testing set, there is only the text piece of 1000 words to do authorship attribution. Training data consists of 45 authors and testing data has 50 information. %34 of testing data is the percentile of unknown authors in the testing set.  ",
+    "Source": "They're extracted from the GDELT database. The GDELT Project is an open platform for research and analysis of global society and thus all datasets released by the GDELT Project are available for unlimited and unrestricted use for any academic, commercial, or governmental use of any kind without fee.",
+    "Acknowledgements": "Please site our work : \r\nGUNGOR, ABDULMECIT, Benchmarking Authorship Attribution Techniques Using Over A Thousand Books by Fifty Victorian Era Novelists, Purdue Master of Thesis, 2018-04\r\n",
+    "Area": "Computer",
+    "RelevantPapers": "E. Stamatatos, A Survey of Modern Authorship Attribution Methods. Journal\r\nof the American Society for Information Science and Technology, 2009.",
+    "AttributeInfo": "Each instance consists of 1000 word sequences that are divided from the works of every author's book. In the training, the author id is also provided.  ",
+    "FormatType": "",
+    "NumHits": 0
+}

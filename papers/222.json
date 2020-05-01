@@ -1,0 +1,11 @@
+{
+    "datasetID": 101,
+    "supportID": "186BF67295B88C9428E82A3524ECD00EED064BB8",
+    "rexaID": "c15fec7384ce8461549ba1fc09fb2d87024cf037",
+    "author": "Ron Kohavi and George H. John",
+    "title": "Automatic Parameter Selection by Minimizing Estimated Error",
+    "venue": "Computer Science Dept. Stanford University",
+    "year": "",
+    "window": "Significantly, the value 25% (the default value in C4.5) was chosen for all datasets except <b>tic-tac-toe</b> (where C4.5-AP halved the error rate of C4.5) and glass2 (where C4.5-AP improved absolute accuracy by over 4%). For the m parameter, 1 was often the best choice, or a tie for",
+    "mykey": 222
+}

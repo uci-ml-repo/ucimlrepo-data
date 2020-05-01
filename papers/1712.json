@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "A784F30E5815862D3F19B6DF2552F36548466623",
+    "rexaID": "d64d2705cabed449e8cb2ecc3c3c77c54ee71051",
+    "author": "Jeroen Eggermont and Joost N. Kok and Walter A. Kosters",
+    "title": "Genetic Programming for data classification: partitioning the search space",
+    "venue": "SAC",
+    "year": "2004",
+    "window": "records attributes classes Australian credit (statlog) 690 14 2 German credit (statlog) 1000 23 2 Pima Indians diabetes 768 8 2 Heart disease (statlog) 270 13 2 <b>Ionosphere</b> 351 34 2 total data set is divided into n parts. Each part is chosen once as the test set while the other ncross-validation. We will mention the results of C4.5 as reported by Freund and Shapire [4], in order to compare",
+    "mykey": 1712
+}

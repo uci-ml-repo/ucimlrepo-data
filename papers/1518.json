@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "979447A2F4B90A03DBDAA977E8B4F37795DB0A18",
+    "rexaID": "f820b10d6723504d343c9741f7333fbc3393fd05",
+    "author": "Lorne Mason and Jonathan Baxter and Peter L. Bartlett and Marcus Frean",
+    "title": "Boosting Algorithms as Gradient Descent",
+    "venue": "NIPS",
+    "year": "1999",
+    "window": "These results show that DOOM II generally outperforms AdaBoost and that the improvement is more pronounced in the presence of label noise. -2 -1.5 -1 -0.5 0 0.5 1 1.5 2 2.5 3 3.5 Error advantage (%) Data set <b>sonar</b> cleve ionosphere vote1 credit breast-cancer pima-indians hypo1 splice 0% noise 5% noise 15% noise Figure 1: Summary of test error advantage (with standard error bars) of DOOM II over AdaBoost",
+    "mykey": 1518
+}

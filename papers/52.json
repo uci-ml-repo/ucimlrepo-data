@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "07753406174C42BAF1807BCBE36D602C3932B291",
+    "rexaID": "59e7c62dd41ce2ed1741bafac723745eb7b80b65",
+    "author": "Josep Roure Alcobe",
+    "title": "Incremental Hill-Climbing Search Applied to Bayesian Network Structure Learning",
+    "venue": "Escola Universitria Politcnica de Mataro",
+    "year": "",
+    "window": "by means of a parameter nRSS. 3.2 Experimental Results In this section we compare the performance of repeatedly using the batch algorithms against the corresponding incremental approach. We used the datasets <b>Adult</b> 48.842 instances and 13 variables), Mushroom (8.124 inst. and 23 var.) and Nursery (12.960 inst. and 9 var.) from the UCI machine learning repository [9], the Alarm dataset (20.000 inst. and",
+    "mykey": 52
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 187,
+    "Name": "URL Reputation",
+    "Abstract": "Anonymized 120-day subset of the ICML-09 URL data containing 2.4 million examples and 3.2 million features.",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Classification",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 2396130,
+    "NumAttributes": 3231961,
+    "DateDonated": "2009-10-15",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/url/",
+    "URLReadme": "../machine-learning-databases/url/url.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Uncompressing the archive url_svmlight.tar.gz will yield a directory url_svmlight/ containing the following files:\r\n    * FeatureTypes --- A text file list of feature indices that correspond to real-valued features.\r\n    * DayX.svm (where X is an integer from 0 to 120) --- The data for day X in SVM-light format. A label of +1 corresponds to a malicious URL and -1 corresponds to a benign URL.\r\n",
+    "Source": "'Identifying Malicious URLs: An Application of Large-Scale Online Learning' (ICML-09)\r\nJustin Ma, Lawrence K. Saul, Stefan Savage, Geoffrey M. Voelker\r\n\r\nPlease visit [http://sysnet.ucsd.edu/projects/url/] for more information.",
+    "Acknowledgements": "If you use this data set in published work, please cite the ICML-09 paper in which it was first introduced and described:\r\n\r\nJustin Ma, Lawrence K. Saul, Stefan Savage, and Geoffrey M. Voelker,\r\nIdentifying Suspicious URLs: An Application of Large-Scale Online Learning\r\nProceedings of the International Conference on Machine Learning (ICML), pages 681-688, Montreal, Quebec, June 2009. ",
+    "Area": "Computer",
+    "RelevantPapers": "",
+    "AttributeInfo": "Attributes are anonymized, but correspond to lexical and host-based features gathered for each URL.",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 462,
+    "Name": "Drug Review Dataset (Drugs.com)",
+    "Abstract": "The dataset provides patient reviews on specific drugs along with related conditions and a 10 star patient rating reflecting overall patient satisfaction.",
+    "Types": "Multivariate, Text",
+    "Task": "Classification, Regression, Clustering",
+    "AttributeTypes": "Integer",
+    "NumInstances": 215063,
+    "NumAttributes": 6,
+    "DateDonated": "2018-10-04",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00462/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset provides patient reviews on specific drugs along with related conditions and a 10 star patient rating reflecting overall patient satisfaction. The data was obtained by crawling online pharmaceutical review sites. The intention was to study \r\n\r\n(1) sentiment analysis of drug experience over multiple facets, i.e. sentiments learned on specific aspects such as effectiveness and side effects,\r\n(2) the transferability of models among domains, i.e. conditions, and \r\n(3) the transferability of models among different data sources (see 'Drug Review Dataset (Druglib.com)').\r\n\r\nThe data is split into a train (75%) a test (25%) partition (see publication) and stored in two .tsv (tab-separated-values) files, respectively.\r\n\r\n\r\nImportant notes:\r\n\r\nWhen using this dataset, you agree that you\r\n1) only use the data for research purposes\r\n2) don't use the data for any commerical purposes\r\n3) don't distribute the data to anyone else\r\n4) cite us\r\n",
+    "Source": "Surya Kallumadi\r\nKansas State University\r\nManhattan, Kansas, USA\r\nsurya@ksu.edu\r\n\r\nFelix Gr\u00e4\u00dfer\r\nInstitut f\u00fcr Biomedizinische Technik\r\nTechnische Universit\u00e4t Dresden\r\nDresden, Germany\r\nfelix.graesser@tu-dresden.de",
+    "Acknowledgements": "Felix Gr\u00e4\u00dfer, Surya Kallumadi, Hagen Malberg, and Sebastian Zaunseder. 2018. Aspect-Based Sentiment Analysis of Drug Reviews Applying Cross-Domain and Cross-Data Learning. In Proceedings of the 2018 International Conference on Digital Health (DH '18). ACM, New York, NY, USA, 121-125. DOI: https://doi.org/10.1145/3194658.3194677 ",
+    "Area": "Life",
+    "RelevantPapers": "Felix Gr\u00e4\u00dfer, Surya Kallumadi, Hagen Malberg, and Sebastian Zaunseder. 2018. Aspect-Based Sentiment Analysis of Drug Reviews Applying Cross-Domain and Cross-Data Learning. In Proceedings of the 2018 International Conference on Digital Health (DH '18). ACM, New York, NY, USA, 121-125. DOI: https://doi.org/10.1145/3194658.3194677 ",
+    "AttributeInfo": "1. drugName (categorical): name of drug\r\n2. condition (categorical): name of condition\r\n3. review (text): patient review\r\n4. rating (numerical): 10 star patient rating\r\n5. date (date): date of review entry\r\n6. usefulCount (numerical): number of users who found review useful",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

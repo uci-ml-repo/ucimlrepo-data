@@ -1,0 +1,11 @@
+{
+    "datasetID": 143,
+    "supportID": "68E4CBD76EB78057876930BD7362D346BE6BFED4",
+    "rexaID": "cd11168bb19fd462bc59beefbe670bc4eb31e3eb",
+    "author": "Mark A. Hall",
+    "title": "Department of Computer Science Hamilton, NewZealand Correlation-based Feature Selection for Machine Learning",
+    "venue": "Doctor of Philosophy at The University of Waikato",
+    "year": "1999",
+    "window": "has the single most predictive attribute (physician-fee-freeze) removed. <b>Australian credit</b> screening (cr) This dataset contains 690 instances from an Australian credit company. The task is to distinguish credit-worthy from non credit-worthy customers. There are 15 attributes whose names and values have been",
+    "mykey": 1001
+}

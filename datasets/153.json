@@ -1,0 +1,23 @@
+{
+    "ID": 153,
+    "Name": "Economic Sanctions",
+    "Abstract": "Domain Theory on Economic Sanctions; Undocumented",
+    "Types": "Domain-Theory",
+    "Task": "",
+    "AttributeTypes": "",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/undocumented/pazzani/",
+    "URLReadme": "../machine-learning-databases/undocumented/pazzani/economic-sanctions",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "I think you'll find some limited documentation on Mike's database in his papers.  His dissertation would be a good reference (UCLA).  Perhaps pages 152-153 in the EWSL-1988 proceedings should help with understanding the data format.  Pages 713-718 of IJCAI-1989 should help even more.",
+    "Source": "Michael Pazzani\r\npazzani@ICS.UCI.EDU",
+    "Acknowledgements": "",
+    "Area": "Financial",
+    "RelevantPapers": "",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 6303
+}

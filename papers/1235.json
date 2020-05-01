@@ -1,0 +1,11 @@
+{
+    "datasetID": 70,
+    "supportID": "7D019669E542567169D476AA1F55E7A9E15EA2EB",
+    "rexaID": "7372c1c34417795a4d0752a07c77b3595dba16c4",
+    "author": "Wl/odzisl/aw Duch and Karol Grudzinski",
+    "title": "Ensembles of Similarity-based Models",
+    "venue": "Intelligent Information Systems",
+    "year": "2001",
+    "window": "range. A single weight corresponding to a highly-ranked feature is fixed at 1 to establish an absolute scale for distances. First the ensemble selection method has been used with two artificial datasets, <b>Monk</b> 1 and Monk-3 [13]. These problems are designed for rule-based symbolic machine learning algorithms and the nearest neighbor algorithms usually do not work well in such cases. 6 symbolic",
+    "mykey": 1235
+}

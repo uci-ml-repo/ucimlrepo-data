@@ -1,0 +1,11 @@
+{
+    "datasetID": 101,
+    "supportID": "97FC8CAD79557A06EBD7B79951BFEDC4855EC5B4",
+    "rexaID": "74b68cad54c62b62b7ad64911291e2e0b0620dd8",
+    "author": "Bart Hamers and J. A. K Suykens",
+    "title": "Coupled Transductive Ensemble Learning of Kernel Models",
+    "venue": "Bart De Moor",
+    "year": "2003",
+    "window": "second layer we will always use the sparse formulation (7), with number of support models SM \u00b7 q. This sparse solution also improves the performance as observed in the experiments. 5.2.1 <b>Tic-Tac-Toe</b> Data Set The Tic-Tac-Toe Endgame database is a UCI (Blake and Merz (1998)) data set contributed by Aha, encoding the complete set of possible board configurations at the end of the tictac-toe games. The",
+    "mykey": 1527
+}

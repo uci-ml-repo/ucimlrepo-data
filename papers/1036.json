@@ -1,0 +1,11 @@
+{
+    "datasetID": 21,
+    "supportID": "6C21FE03EFF8D65B8E0A4050AA13B513EB3A752F",
+    "rexaID": "7de1dca96d7e6789dadc875a7f1b070f9d65fff5",
+    "author": "Grigorios Tsoumakas and Ioannis P. Vlahavas",
+    "title": "Fuzzy Meta-Learning: Preliminary Results",
+    "venue": "Greek Secretariat for Research and Technology",
+    "year": "",
+    "window": "from the Machine Learning Repository at the University of Irvine, California (Blake & Merz, 1998). These were the adult and <b>chess</b> data sets, large enough (} 1000 examples) to simulate distributed environment. Only two domains were selected at this stage of our research to investigate the performance of the suggested methodology. The",
+    "mykey": 1036
+}

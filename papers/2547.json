@@ -1,0 +1,11 @@
+{
+    "datasetID": 117,
+    "supportID": "FB6DED0595C9886C3790CF16D2A282518C8D7F06",
+    "rexaID": "a158e74cc09e53ef929c43d490e983517f612292",
+    "author": "Eibe Frank and Geoffrey Holmes and Richard Kirkby and Mark A. Hall",
+    "title": "Racing Committees for Large Datasets",
+    "venue": "Discovery Science",
+    "year": "2002",
+    "window": "LogitBoost #Iterations Racing w/o pruning Racing w pruning anonymous 27.00% 60 28.24% 27.56% adult 13.51% 67 14.58% 14.72% shuttle 0.01% 86 0.08% 0.07% <b>census</b> <b>income</b> 4.43% 448 4.90% 4.93% The next dataset we consider is census-income. The first row of Figure 4 shows the results. The most striking aspect is the effect of pruning with small chunk sizes. In this domain the fluctuation in error is",
+    "mykey": 2547
+}

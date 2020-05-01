@@ -1,0 +1,11 @@
+{
+    "datasetID": 111,
+    "supportID": "25A993AF0FF666BB2BE338D3882C12ECEFD969F8",
+    "rexaID": "8fe250a2bb9e7ca099dfd176a16a08f24bb95939",
+    "author": "Manoranjan Dash and Huan Liu",
+    "title": "Hybrid Search of Feature Subsets",
+    "venue": "PRICAI",
+    "year": "1998",
+    "window": "1500 2000 2500 Ratio of #selected features to M Crossing Points of LVF and ABB 'LungCancer' 'Promoters' 'Soybean' 'Lymphography' 'Mushroom' 'Splice'  <b>Zoo</b>  'Vote' 'LED17' 'Par3+3' (b) Added over all datasets 10 11 12 13 14 15 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 Sum of ratios of #selected features to M for all datafiles Crossing Points of LVF and ABB (* TotalRuns) 'TotalRuns=1000' 'TotalRuns=2000'",
+    "mykey": 301
+}

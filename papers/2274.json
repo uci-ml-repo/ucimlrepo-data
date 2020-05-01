@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "E0E6F18BE3912B426F1E1DFD5B0F5C24A08D00F9",
+    "rexaID": "81865e4bd3f3a7a8b86c73c6144db99274e5bbaf",
+    "author": "Georgios Paliouras and David S. Br\u00e9e",
+    "title": "The Effect of Numeric Features on the Scalability of Inductive Learning Programs",
+    "venue": "ECML",
+    "year": "1995",
+    "window": "was acquired from the UCI Repository [13] and its original donor was D.J. Slate. Its author has used it as an application domain for Holland-style genetic classifier systems [7]. More recently the data set has also been used in the <b>StatLog</b> project [11]. The data set contains 20; 000 instances, of which roughly 16; 000 have been used for learning in this experiment. Each instance corresponds to an",
+    "mykey": 2274
+}

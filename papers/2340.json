@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "EB0B4ADDF0A39E2D2F4AD6085ECE2C988149D212",
+    "rexaID": "6858832ba8e9e4ac002900af151a8ffcc1796f8f",
+    "author": "Stefan Aeberhard and Danny Coomans and De Vel",
+    "title": "THE PERFORMANCE OF STATISTICAL PATTERN RECOGNITION METHODS IN HIGH DIMENSIONAL SETTINGS",
+    "venue": "James Cook University",
+    "year": "",
+    "window": "means coincide. FDP performed very well for the exponential data. The results of the real data support the observations made from the simulations. FDP does not perform very well on well-defined data sets  <b>wine</b> data, Iris data), especially when compared to FF. It however compares somewhat better in the other cases, most noticeably in the case of the tertiary institutions data, where it equals the",
+    "mykey": 2340
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "AF9DA0F1C2BCE97A5F6AA2240504B48A64670947",
+    "rexaID": "1b77c2b6fd8a261af286cf411879f9f520824bd6",
+    "author": "Marc Sebban and Richard Nock and St\u00e9phane Lallich",
+    "title": "Stopping Criterion for Boosting-Based Data Reduction Techniques: from Binary to Multiclass Problem",
+    "venue": "Journal of Machine Learning Research, 3",
+    "year": "2002",
+    "window": "In order to assess the relevance of our multiclass statistical test, we 879 SEBBAN, NOCK AND LALLICH DATASET # CLASSES |LS| # FEATURES WAVES 3 500 21 <b>ABALONE</b> 3 1000 8 GLASS 6 214 9 BALANCE 3 625 4 IRIS 3 150 4 LED 10 500 7 LED+17 10 500 24 DERMATOLOGY 6 366 34 Table 4: Multiclass classification problems. 1",
+    "mykey": 1799
+}

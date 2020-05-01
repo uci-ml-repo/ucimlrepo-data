@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "1377C81BBCFC456A4516AF409477BF269E15B1E7",
+    "rexaID": "e8e16dd19c85a91ca01760943d02f3fc5594eec4",
+    "author": "John G. Cleary and Leonard E. Trigg",
+    "title": "Experiences with OB1, An Optimal Bayes Decision Tree Learner",
+    "venue": "Department of Computer Science University of Waikato",
+    "year": "",
+    "window": "all the information in vote is contained in one attribute, and for iris two attributes contain all the class information (although most of this can be obtained using only one attribute). Some datasets, such as <b>breast</b> <b>cancer</b> and credit-g appear to contain very little class information. In general, we expect to see OB1 performance increase with tree depth up to a depth that captures the most",
+    "mykey": 181
+}

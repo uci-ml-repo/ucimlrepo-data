@@ -1,0 +1,11 @@
+{
+    "datasetID": 70,
+    "supportID": "596CB9844E5321DD0023BCCD9C0B978555A3E9FE",
+    "rexaID": "c3f9c3303aa080beec901b74703cef88ee2b2f24",
+    "author": "Wl odzisl and Rafal Adamczak and Krzysztof Grabczewski and Grzegorz Zal",
+    "title": "A hybrid method for extraction of logical rules from data",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "this hybrid method the simplest logical description for several benchmark problems (Iris, mushroom) has been found. Very good solutions were obtained for the three <b>monk</b> problems. For many medical datasets (only 3 were shown here) very simple and highly accurate results were obtained. It is not quite clear why logical rules work so well, for example in the hypothyroidor the Wisconsin breast cancer",
+    "mykey": 813
+}

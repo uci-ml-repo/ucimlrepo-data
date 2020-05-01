@@ -1,0 +1,23 @@
+{
+    "ID": 403,
+    "Name": "chestnut \u00e2\u20ac\u201c LARVIC",
+    "Abstract": "The research project presents this database, shows the images of chestnuts that will be processed to determine the presence or absence of defects",
+    "Types": "",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "",
+    "NumInstances": 1451,
+    "NumAttributes": 3,
+    "DateDonated": "2017-05-30",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00403/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Type Defect   Classification\r\n-----------   --------------  \r\nNo chestnut       -1\r\nFlawless          1\r\nEyes              2\r\nChipped           3\r\nRancid            4\r\nStained           4\r\nHusk              5\r\n\r\nNumber of images:\r\n\r\nClass    Examples\r\n-----    --------\r\n1    258\r\n2    250\r\n3    240\r\n4    503\r\n5    200\r\n-----    ----\r\nTotal    1451",
+    "Source": "Creators: Centro de Investigaci\u00c3\u00b3n en Ciencia de la Computaci\u00c3\u00b3n, Universidad Cat\u00c3\u00b3lica San Pablo (http://ucsp.edu.pe/)\r\nDonor: Grupo de Investigaci\u00c3\u00b3n en la L\u00c3\u00adnea de Automatizaci\u00c3\u00b3n Industrial, Rob\u00c3\u00b3tica y Visi\u00c3\u00b3n Computacional (LARVIC)\r\nResearch Project: Development of mechatronic components based on intelligent artificial vision for the optimization of the selection process of chestnuts\r\nResearchers: Raquel E. Pati\u00c3\u00b1o-Escarcina and Dennis Barrios-Aranibar (rpatino@ucsp.edu.pe, dbarrios@ucsp.edu.pe)\r\nCountry: Arequipa, Per\u00c3\u00ba\r\nDate: May, 2017",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "(4) Claudia Cervantes-Jilaja, Hern\u00c3\u00a1n H. \u00c3\u0081lvarez-Valera, Edwin Bolivar-Vilca, Emil E. Cuadros-Zegarra, Raquel E. Pati\u00c3\u00b1o-Escarcina and Dennis Barrios-Aranibar, Identification of Visual Defects in Chestnuts on an industrial scale using Computational Vision, 22nd IEEE International Conference on Emerging Technologies and Factory Automation,  paper accepted, 12-15 September 2017, Limassol, Cyprus.\r\n\r\n(3) Roger Ripas-Mamani, Claudia Cervantes-Jilaja, Yessica Rosas-Cuevas, Raquel E. Pati\u00c3\u00b1o-Escarcina and Dennis Barrios-Aranibar, A semi-automated approach for recognizing moving targets using a global vision system, 13th LARS Latin American Robotics Symposium and 4th SBR Brazilian Robotics Symposium, IEEE, DOI 10.1109/LARS-SBR.2016.10, pages 13 - 18, 8-12 October 2016, Recife-Brasil.\r\n\r\n(2) H. \u00c3\u0081lvarez-Valera, E. Bolivar-Vilca, C. Cervantes-Jilaja, E. Cuadros-Zegarra, R. Pati\u00c3\u00b1o-Escarcina and D. Barrios-Aranibar, An Architecture for Computational Control of an Industrial Machine for Classifying Chestnuts, 12th LARS Latin American Robotics Symposium and 3rd SBR Brazilian Robotics Symposium, IEEE, DOI 10.1109/LARS-SBR.2015.52, pages 325 - 330, 29-31 October 2015, Uberlandia-Brasil.\r\n\r\n(1) H. \u00c3\u0081lvarez-Valera, E. Bolivar-Vilca, C. Cervantes-Jilaja, E. Cuadros-Zegarra, R. Pati\u00c3\u00b1o-Escarcina and D. Barrios-Aranibar, Automation of Chestnuts Selection Process using Computer Vision in Real Time, 33rd International Conference of the Chilean Computer Science Society (SCCC), IEEE, DOI:10.1109/SCCC.2014.21, pages 87 - 91, 8-14 November 2014, Talca-Chile.",
+    "AttributeInfo": "numImg: Input image number\r\nnumLine: Production line number\r\nClassification: Classification to which the image belongs",
+    "FormatType": "",
+    "NumHits": 0
+}

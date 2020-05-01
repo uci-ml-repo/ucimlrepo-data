@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "75EBD298A57E2BBB3DE34EA2E6D6997E61E6944F",
+    "rexaID": "349644828ad3c8da8e1a15eee5aec0d704db34a1",
+    "author": "Kamal Ali and Michael J. Pazzani",
+    "title": "Error Reduction through Learning Multiple Descriptions",
+    "venue": "Machine Learning, 24",
+    "year": "1996",
+    "window": "the efficacy of using multiple models. It is important to analyze these experimental data because the amount of error reduction obtained by using multiple models varies a great deal. On the <b>wine</b> data set, for example, the error obtained by uniformly weighted voting between eleven, stochastically-generated descriptions is only one seventh that of the error obtained by using a single description. On",
+    "mykey": 1180
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 347,
+    "Name": "HEPMASS",
+    "Abstract": "The search for exotic particles requires sorting through a large number of collisions to find the events of interest. This data set challenges one to detect a new particle of unknown mass.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 10500000,
+    "NumAttributes": 28,
+    "DateDonated": "2016-01-28",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00347/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Machine learning is used in high-energy physics experiments to search for the signatures of exotic particles. These signatures are learned from Monte Carlo simulations of the collisions that produce these particles and the resulting decay products. In each of the three data sets here, the goal is to separate particle-producing collisions from a background source. \r\n\r\nThe mass of the new particle is unknown, so three separate data sets are provided. In each data set, 50% of the data is from a signal process, while 50% is from the background process. The data is separated into a training set of 7 million examples and a test set of 3.5 million for each.\r\n\r\n1) In the '1000' dataset, the signal particle has mass=1000. (Note: this dataset does not include a mass feature since all signal examples have the same mass.)\r\n\r\n2) In the 'not1000' dataset, the signal particle's mass is drawn uniformly from the set {500, 750, 1250, 1500}. The mass is included as an input feature; for the background examples, the mass is selected randomly from this same set.\r\n\r\n3) In the 'all' dataset, the signal particle's mass is drawn uniformly from the set {500, 750, 1000, 1250, 1500}. The mass is included as an input feature; for the background examples, the mass is selected randomly from this same set.",
+    "Source": "Daniel Whiteson daniel '@' uci.edu, Assistant Professor, Physics & Astronomy, Univ. of California Irvine",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Physical",
+    "RelevantPapers": "Pierre Baldi, Kyle Cranmer, Taylor Faucett, Peter Sadowski, and Daniel Whiteson. 'Parameterized Machine Learning for High-Energy Physics.' In submission.",
+    "AttributeInfo": "The first column is the class label (1 for signal, 0 for background), followed by the 27 normalized features (22 low-level features then 5 high-level features), and a 28th mass feature for datasets 2 and 3. See the original paper for more detailed information. \r\n\r\nThere is a header line in each file. \r\n",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 58,
+    "supportID": "4031CBA624BADC7214BD68E5509DAA5AC990FBC2",
+    "rexaID": "9a423aa0a4e7cdbd40006aeae5a5fecb4d28c279",
+    "author": "Jim Prentzas and Ioannis Hatzilygeroudis and Athanasios K. Tsakalidis",
+    "title": "Updating a Hybrid Rule Base with New Empirical Source Knowledge",
+    "venue": "ICTAI",
+    "year": "2002",
+    "window": "taken from the UCI Repository of Machine Learning and Domain Theories [2]. More specifically, we used the <b>lenses</b> dataset containing 24 examples/patterns of 9 component values and the tictac-toe dataset containing 958 examples/patterns of 27 component values. Additionally, we used three datasets of ours produced from a",
+    "mykey": 526
+}

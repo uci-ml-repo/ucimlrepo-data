@@ -1,0 +1,11 @@
+{
+    "datasetID": 154,
+    "supportID": "17E7C99313085AE9DD177C5FA7FAC92939F6A343",
+    "rexaID": "a210d2418e04c74da13adc0356b79daa197b9d89",
+    "author": "Zoran Obradovic and Slobodan Vucetic",
+    "title": "Challenges in Scientific Data Mining: Heterogeneous, Biased, and Large Samples",
+    "venue": "Center for Information Science and Technology Temple University",
+    "year": "",
+    "window": "is compared to the accuracy of the global classifier. The algorithm proceeds by gradually partitioning disordered proteins into more subsets in an attempt to further improve the accuracy. Data sets with 145 nonredundant disordered <b>protein</b> regions and about equal number of ordered proteins of similar length were used in the experiment. For each position in a protein sequence we extracted 18",
+    "mykey": 206
+}

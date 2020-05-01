@@ -1,0 +1,11 @@
+{
+    "datasetID": 78,
+    "supportID": "037B89497BBDDCD16AB2A47B6AB2EF8892C5FBEB",
+    "rexaID": "69547b69d3133bba06b4ce74e67e2f3a6366a2f6",
+    "author": "Adil M. Bagirov and Julien Ugon",
+    "title": "An algorithm for computation of piecewise linear function separating two sets",
+    "venue": "CIAO, School of Information Technology and Mathematical Sciences, The University of Ballarat",
+    "year": "",
+    "window": "through successive LP, Journal of Optimization Theory and Applications, 112(2), 265-293. 20 Table 3: Results of numerical experiments with Pen-based recognition of handwritten and <b>Page blocks</b> datasets Training Test |I| |J i | a 2c a mc a 2c a mc fct eval. DG. eval. Pen-based recognition of handwritten dataset 1 1 97.27 96.74 96.43 92.37 1597 1146 2 1 99.31 99.44 98.33 96.14 2607 1852 3 1 99.79",
+    "mykey": 20
+}

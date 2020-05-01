@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "21D3B6831256AD31183159806931A1ECE15FBB46",
+    "rexaID": "0fe919006360334c17c021088209b2a45eadb84d",
+    "author": "Wl odzisl/aw Duch and Karol Grudzinski",
+    "title": "Search and global minimization in similarity-based methods",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "features, the same as we have selected before using our logical rule extraction methods. Using all features the accuracy of 87.8\u00b11.1% was achieved, TABLE I RESULTS FOR THE CLEVELAND <b>HEART</b> DISEASE DATASET. Method Accuracy % Reference IncNet 90.0 [17] k-NN, k=28, 7 features 85.1\u00b10.5 this paper Linear Discriminant Anal. 84.5 [16] Fisher LDA 84.2 [16] k-NN, k=16 84.0\u00b10.6 this paper FSM, Feature Space",
+    "mykey": 267
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 108,
+    "supportID": "FE1546B387EDADC3B8E3994AFCB1583D0E5A6266",
+    "rexaID": "4d0ce57cae961e5c90bd1b3e7fdcad67731c6b5f",
+    "author": "Nir Friedman and Mois\u00e9s Goldszmidt",
+    "title": "Discretizing Continuous Attributes While Learning Bayesian Networks",
+    "venue": "ICML",
+    "year": "1996",
+    "window": "from the Irvine repository [15]. We estimated the accuracy of the learned classifiers using 5-fold cross-validation, except for the \"shuttle-small\" and  <b>waveform</b> 21\" datasets where we used the hold-out method. We report the mean of the prediction accuracies over all cross-validation folds. We also report the standard deviation of the accuracies found in each fold. These",
+    "mykey": 2579
+}

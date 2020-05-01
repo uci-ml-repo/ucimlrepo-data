@@ -1,0 +1,11 @@
+{
+    "datasetID": 94,
+    "supportID": "6347E71BF8FD792FE39465F7D322E40FA5523268",
+    "rexaID": "a2734ae038cae7393159934e860c24a52dc2754d",
+    "author": "Don R. Hush and Clint Scovel and Ingo Steinwart",
+    "title": "Los Alamos National Laboratory Stability of Unstable Learning Algorithms",
+    "venue": "Modeling, Algorithms and Informatics Group, CCS-3",
+    "year": "2003",
+    "window": "are synthetically generated according to Fukunaga's so-called I-4I and I-# distributions (Fukunaga, 1990), and the third is the <b>Spambase</b> data set from the UCI repository (Blake & Merz, 1998). For the synthetic data sets we set d = 8 and generate samples from R d # f 1; 1g according to the I-4I and I-# distributions. For both distributions the",
+    "mykey": 938
+}

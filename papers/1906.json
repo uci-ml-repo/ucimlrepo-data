@@ -1,0 +1,11 @@
+{
+    "datasetID": 81,
+    "supportID": "BB0D428FDD6709D0601C84D8DBA020326F6F8C9D",
+    "rexaID": "00b6f77ab5353f8974383e14fbef4cd03a846f8a",
+    "author": "Greg Hamerly and Charles Elkan",
+    "title": "Learning the k in k-means",
+    "venue": "NIPS",
+    "year": "2003",
+    "window": "them slow for more than 8 to 12 dimensions. All our code is written in Matlab; X-means is written in C. 3.1 Discovering true clusters in labeled data We tested these algorithms on two real-world datasets for <b>handwritten</b> digit <b>recognition</b>  the NIST dataset [12] and the Pendigits dataset [2]. The goal is to cluster the data without knowledge of the labels and measure how well the clustering captures",
+    "mykey": 1906
+}

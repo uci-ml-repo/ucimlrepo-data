@@ -1,0 +1,11 @@
+{
+    "datasetID": 69,
+    "supportID": "538E5168E724B47D2B8A6B2FD5CF528BB6EECEEB",
+    "rexaID": "70172e511a3bc27c7927119a3b2a3405fbad99e0",
+    "author": "Kai Ming Ting and Ian H. Witten",
+    "title": "Issues in Stacked Generalization",
+    "venue": "J. Artif. Intell. Res. (JAIR, 10",
+    "year": "1999",
+    "window": "can easily be interpreted. Examples of the combination weights it derives (for the probabilitybased model ~ M 0 ) appear in Table 5 for the Horse, Credit, <b>Splice</b>  Abalone, Waveform, Led24 and Vowel datasets. The weights indicate the relative importance of the level-0 generalizers for each prediction class. For example, in the Splice dataset (in Table 5(b)), NB is the dominant generalizer for",
+    "mykey": 750
+}

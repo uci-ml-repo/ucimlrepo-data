@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "100D35E18A98D1714A33B97ECC2DF0C94847D9A8",
+    "rexaID": "e876da6abdabda18a2ba345cc2b24f8053be51c9",
+    "author": "D. Randall Wilson and Roel Martinez",
+    "title": "Machine Learning: Proceedings of the Fourteenth International Conference, Morgan",
+    "venue": "In Fisher",
+    "year": "1997",
+    "window": "seem to be especially well suited for these reduction techniques. For example, RT3 required less than 2% storage for the <b>Heart</b> Swiss dataset, yet it achieved even higher generalization accuracy than the kNN algorithm. On the other hand, some datasets were not so appropriate. On the Vowel dataset, for example, RT3 required over 45% of the",
+    "mykey": 149
+}

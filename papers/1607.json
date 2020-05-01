@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "9C408B6979792C651477A6439FC4166EED001959",
+    "rexaID": "4487f47affc309f0d984645b44cdc8e1f42c2472",
+    "author": "Gaurav Marwah and Lois C. Boggess",
+    "title": "Artificial Immune Systems for Classification : Some Issues",
+    "venue": "Department of Computer Science Mississippi State University",
+    "year": "",
+    "window": "satisfying some stimulation threshold, but the stimulation threshold for out of class ARBs was somewhat relaxed as compared to in class ARBs. Table 4 shows the accuracy rates obtained for the <b>iris</b> data set using the approaches just described. Five way cross validation was performed to achieve these results. Table 4: Accuracy Rates For Iris Data Set Using Different Approaches For ARB Pool Organization",
+    "mykey": 1607
+}

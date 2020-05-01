@@ -1,0 +1,11 @@
+{
+    "datasetID": 59,
+    "supportID": "9834EC21D1762AFD5EC24E571C5FF019BCCD9314",
+    "rexaID": "5dc7f8afb0d062322bf401745db703534477a4a0",
+    "author": "Shailesh Kumar and Melba Crawford and Joydeep Ghosh",
+    "title": "A versatile framework for labelling imagery with a large number of classes",
+    "venue": "Department of Electrical and Computer Engineering",
+    "year": "",
+    "window": "for distinguishing some other pair of classes. Section 2 describes the Bayesian pairwise classifier (BPC) architecture with feature selection. Experimental results on the 26 class <b>letter recognition</b> dataset and, more importantly, the 11 class remote sensing dataset are presented in section 3. 2 Pairwise Classifier Architecture A C class problem is first decomposed into a set of C 2 # two class problems",
+    "mykey": 1532
+}

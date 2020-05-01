@@ -1,0 +1,23 @@
+{
+    "ID": 242,
+    "Name": "Energy efficiency",
+    "Abstract": "This study looked into assessing the heating load and cooling load requirements of buildings (that is, energy efficiency) as a function of building parameters.",
+    "Types": "Multivariate",
+    "Task": "Classification, Regression",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 768,
+    "NumAttributes": 8,
+    "DateDonated": "2012-11-30",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00242/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "We perform energy analysis using 12 different building shapes simulated in Ecotect. The buildings differ with respect to the glazing area, the glazing area distribution, and the orientation, amongst other parameters. We simulate various settings as functions of the afore-mentioned characteristics to obtain 768 building shapes. The dataset comprises 768 samples and 8 features, aiming to predict two real valued responses. It can also be used as a multi-class classification problem if the response is rounded to the nearest integer.",
+    "Source": "The dataset was created by Angeliki Xifara (angxifara@gmail.com, Civil/Structural Engineer) and was processed by Athanasios Tsanas (tsanasthanasis@gmail.com, Oxford Centre for Industrial and Applied Mathematics, University of Oxford, UK).",
+    "Acknowledgements": "A. Tsanas, A. Xifara: 'Accurate quantitative estimation of energy performance of residential buildings using statistical machine learning tools', Energy and Buildings, Vol. 49, pp. 560-567, 2012 (the paper can be accessed from http://people.maths.ox.ac.uk/tsanas/publications.html)\r\n\r\nFor further details on the data analysis methodology: \r\nA. Tsanas, 'Accurate telemonitoring of Parkinson\u00e2\u20ac\u2122s disease symptom severity using nonlinear speech signal processing and statistical machine learning', D.Phil. thesis, University of Oxford, 2012 (which can be accessed from http://people.maths.ox.ac.uk/tsanas/publications.html)",
+    "Area": "Computer",
+    "RelevantPapers": "A. Tsanas, A. Xifara: 'Accurate quantitative estimation of energy performance of residential buildings using statistical machine learning tools', Energy and Buildings, Vol. 49, pp. 560-567, 2012",
+    "AttributeInfo": "The dataset contains eight attributes (or features, denoted by X1...X8) and two responses (or outcomes, denoted by y1 and y2). The aim is to use the eight features to predict each of the two responses.\r\n\r\nSpecifically:\r\nX1\tRelative Compactness\r\nX2\tSurface Area\r\nX3\tWall Area\r\nX4\tRoof Area\r\nX5\tOverall Height\r\nX6\tOrientation\r\nX7\tGlazing Area\r\nX8\tGlazing Area Distribution\r\ny1\tHeating Load\r\ny2\tCooling Load",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

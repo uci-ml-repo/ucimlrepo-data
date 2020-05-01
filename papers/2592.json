@@ -1,0 +1,11 @@
+{
+    "datasetID": 185,
+    "supportID": "",
+    "rexaID": "E0427C826173FF78EFD172E0EC29A76F3DE4275B",
+    "author": "Robert M Bell and Yehuda Koren",
+    "title": "Scalable Collaborative Filtering with Jointly Derived Neighborhood Interpolation Weights",
+    "venue": "ICDM",
+    "year": "2007",
+    "window": "To this end, we suggest a novel scheme for low dimensional embedding of the users. We evaluate these methods on the <b>Netflix</b> dataset, where they deliver significantly better results than the commercial Netflix Cinematch recommender system.",
+    "mykey": 2592
+}

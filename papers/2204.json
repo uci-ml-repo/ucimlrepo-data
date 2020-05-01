@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "D9F0E1C7E240597992232840F7CB96CEEEFA1940",
+    "rexaID": "a6fa92d0caaa949b6ebd6531b2e6d4e7e0f03387",
+    "author": "David M J Tax and Robert P W Duin",
+    "title": "Support vector domain description",
+    "venue": "Pattern Recognition Letters, 20",
+    "year": "1999",
+    "window": "classi\u00aeers on the remaining class. Also visible is that the Parzen method overtrains heavily and performs poorly when class 1 is the outlier class. The SVDD performs best overall. In the <b>ionosphere</b> dataset, the Parzen density estimation again overtrains and the instability method cannot be used because only two classes are available. From the results we see that class 1 is almost Gaussian distributed",
+    "mykey": 2204
+}

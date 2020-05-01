@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "26649007A9B47FF3B290FFF2BCF6C2A93ED238E4",
+    "rexaID": "4eff6dda32898a8bdc8268d2a790a96b93f2e262",
+    "author": "Thomas G. Dietterich",
+    "title": "An Experimental Comparison of Three Methods for Constructing Ensembles of Decision Trees: Bagging, Boosting, and Randomization",
+    "venue": "Machine Learning, 40",
+    "year": "2000",
+    "window": "attribute values rather than as missing values. In auto, the class variable was the make of the automobile. In the breast cancer domains, all features were treated as continuous. The <b>heart</b> disease data sets were recoded to use discrete values where appropriate. All attributes were treated as continuous in the kingrook-vs-king (krk) data set. In lymphography, the lymph-nodes-dimin, lymph-nodes-enlar,",
+    "mykey": 302
+}

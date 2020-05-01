@@ -1,0 +1,23 @@
+{
+    "ID": 189,
+    "Name": "Parkinsons Telemonitoring",
+    "Abstract": "Oxford Parkinson's Disease Telemonitoring Dataset",
+    "Types": "Multivariate",
+    "Task": "Regression",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 5875,
+    "NumAttributes": 26,
+    "DateDonated": "2009-10-29",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/parkinsons/telemonitoring/",
+    "URLReadme": "../machine-learning-databases/parkinsons/telemonitoring/parkinsons_updrs.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset is composed of a range of biomedical voice measurements from 42 people with early-stage Parkinson's disease recruited to a six-month trial of a telemonitoring device for remote symptom progression monitoring. The recordings were automatically captured in the patient's homes.\r\n\r\nColumns in the table contain subject number, subject age, subject gender, time interval from baseline recruitment date, motor UPDRS, total UPDRS, and 16 biomedical voice measures. Each row corresponds to one of 5,875 voice recording from these individuals. The main aim of the data is to predict the motor and total UPDRS scores ('motor_UPDRS' and 'total_UPDRS') from the 16 voice measures.\r\n\r\nThe data is in ASCII CSV format. The rows of the CSV file contain an instance corresponding to one voice recording. There are around 200 recordings per patient, the subject number of the patient is identified in the first column. For further information or to pass on comments, please contact Athanasios Tsanas (tsanasthanasis@gmail.com) or Max Little (littlem@physics.ox.ac.uk).\r\n\r\nFurther details are contained in the following reference -- if you use this dataset, please cite:\r\nAthanasios Tsanas, Max A. Little, Patrick E. McSharry, Lorraine O. Ramig (2009),\r\n'Accurate telemonitoring of Parkinson\u2019s disease progression by non-invasive speech tests',\r\nIEEE Transactions on Biomedical Engineering (to appear).\r\n\r\nFurther details about the biomedical voice measures can be found in:\r\nMax A. Little, Patrick E. McSharry, Eric J. Hunter, Lorraine O. Ramig (2009), \r\n'Suitability of dysphonia measurements for telemonitoring of Parkinson's disease', \r\nIEEE Transactions on Biomedical Engineering, 56(4):1015-1022\r\n",
+    "Source": "The dataset was created by Athanasios Tsanas (tsanasthanasis@gmail.com) and Max Little (littlem@physics.ox.ac.uk) of the University of Oxford, in collaboration with 10 medical centers in the US and Intel Corporation who developed the telemonitoring device to record the speech signals. The original study used a range of linear and nonlinear regression methods to predict the clinician's Parkinson's disease symptom score on the UPDRS scale.",
+    "Acknowledgements": "If you use this dataset, please cite the following paper:\r\nA Tsanas, MA Little, PE McSharry, LO Ramig (2009)\r\n'Accurate telemonitoring of Parkinson\u2019s disease progression by non-invasive speech tests',\r\nIEEE Transactions on Biomedical Engineering (to appear).\r\n",
+    "Area": "Life",
+    "RelevantPapers": "Little MA, McSharry PE, Hunter EJ, Ramig LO (2009), \r\n'Suitability of dysphonia measurements for telemonitoring of Parkinson's disease', \r\nIEEE Transactions on Biomedical Engineering, 56(4):1015-1022\r\n\r\nLittle MA, McSharry PE, Roberts SJ, Costello DAE, Moroz IM. \r\n'Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection', \r\nBioMedical Engineering OnLine 2007, 6:23 (26 June 2007)\r\n",
+    "AttributeInfo": "subject# - Integer that uniquely identifies each subject\r\nage - Subject age\r\nsex - Subject gender '0' - male, '1' - female\r\ntest_time - Time since recruitment into the trial. The integer part is the number of days since recruitment. \r\nmotor_UPDRS - Clinician's motor UPDRS score, linearly interpolated\r\ntotal_UPDRS - Clinician's total UPDRS score, linearly interpolated\r\nJitter(%),Jitter(Abs),Jitter:RAP,Jitter:PPQ5,Jitter:DDP - Several measures of variation in fundamental frequency\r\nShimmer,Shimmer(dB),Shimmer:APQ3,Shimmer:APQ5,Shimmer:APQ11,Shimmer:DDA - Several measures of variation in amplitude\r\nNHR,HNR - Two measures of ratio of noise to tonal components in the voice\r\nRPDE - A nonlinear dynamical complexity measure\r\nDFA - Signal fractal scaling exponent\r\nPPE - A nonlinear measure of fundamental frequency variation \r\n",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

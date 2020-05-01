@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "FAC3CBFDE2AC66DEE464925F2A8967F5A0884CDE",
+    "rexaID": "d64d2705cabed449e8cb2ecc3c3c77c54ee71051",
+    "author": "Jeroen Eggermont and Joost N. Kok and Walter A. Kosters",
+    "title": "Genetic Programming for data classification: partitioning the search space",
+    "venue": "SAC",
+    "year": "2004",
+    "window": "using different the sets of internal nodes. The same behavior is seen for k = 4 and k = 5. In all cases the discovered decision trees differ syntactically per fold and random seed. The <b>Heart</b> Disease Data Set The results on the Heart disease data set are displayed in Table 6. All our gp algorithms show a large improvement in misclassification performance over our simple gp algorithm. In all but two cases",
+    "mykey": 2532
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 76,
+    "supportID": "4A695C60BD2F814C0633767185624621A6FE72EC",
+    "rexaID": "217beab6a7a7b64dc929c3c5fdb42e812f8b2431",
+    "author": "Daniel J. Lizotte",
+    "title": "Library Release Form Name of Author",
+    "venue": "Budgeted Learning of Naive Bayes Classifiers",
+    "year": "",
+    "window": "from the UCI Machine Learning Repository [BM98]. These plots show averaged validation error of the policies on a holdout set (20% of the dataset) on the mushroom, <b>nursery</b>  and votes datasets. Each point is an average of 50 trials where in each trial a random balanced partition of classes was made for training and validation. The five-fold",
+    "mykey": 654
+}

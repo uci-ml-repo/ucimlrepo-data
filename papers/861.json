@@ -1,0 +1,11 @@
+{
+    "datasetID": 47,
+    "supportID": "5D8EA619F80D1A065E482737F77A27F5716C514B",
+    "rexaID": "a32ab1b3da96c9ae515a685b4fcf50e857708f24",
+    "author": "Mukund Deshpande and George Karypis",
+    "title": "Using conjunction of attribute values for classification",
+    "venue": "CIKM",
+    "year": "2002",
+    "window": "We performed our experiments using a 10 way cross validation scheme and computed average accuracy across different runs. We ran our experiments using a support threshold of 1.0% for all the datasets, except hepati, <b>horse</b> where we used a support threshold of 2.0% and for lymph and zoo we used the support threshold of 5.0%. This was done to ensure that the composite features generated are",
+    "mykey": 861
+}

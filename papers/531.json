@@ -1,0 +1,11 @@
+{
+    "datasetID": 149,
+    "supportID": "40863506086353FC045BBDDF0B6A6FA344C0518B",
+    "rexaID": "7286601416a1cec780621a415323a2bc6c958e11",
+    "author": "Vikas Sindhwani and P. Bhattacharya and Subrata Rakshit",
+    "title": "Information Theoretic Feature Crediting in Multiclass Support Vector Machines",
+    "venue": "",
+    "year": "",
+    "window": "0.02 0.04 0 20 40 60 80 100 120 140 160 180 Credits Features <b>Vehicle</b> and Satellite Datasets The Vehicle dataset is a multiclass pattern recognition problem of classifying a given silhouette as one of four types of vehicle. There are 18 features. The Satellite dataset is a 6-class and",
+    "mykey": 531
+}

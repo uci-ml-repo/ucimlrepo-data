@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "8F3C952DA5B26AF4D092034012E9826624E1C2BC",
+    "rexaID": "d342517262ff52ffd3566bd8f520b36723486aa3",
+    "author": "M. A. Galway and Michael G. Madden",
+    "title": "DEPARTMENT OF INFORMATION TECHNOLOGY technical report NUIG-IT-011002 Evaluation of the Performance of the Markov Blanket Bayesian Classifier Algorithm",
+    "venue": "Department of Information Technology National University of Ireland, Galway",
+    "year": "",
+    "window": "and all four are equally good on the <b>Breast</b> <b>Cancer</b> dataset. Na\u00efve TAN K2 MBBC Chess 87.63\u00b1 1.61 91.68\u00b1 1.09 94.03\u00b1 0.87 97.03\u00b1 0.54 WBCD 97.81\u00b1 0.51 97.47\u00b1 0.68 97.17\u00b1 1.05 97.30\u00b1 1.01 LED-24 73.28\u00b1 0.70 73.18\u00b1 0.63 73.14\u00b1 0.73 73.14\u00b1 0.73 DNA 94.80\u00b1 0.44",
+    "mykey": 1399
+}

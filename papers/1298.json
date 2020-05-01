@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "81BCEE95A323170579DE2013114C54475378AF52",
+    "rexaID": "f624e93bd6b670bc3dc31925c1c885b538131534",
+    "author": "Chih-Wei Hsu and Cheng-Ru Lin",
+    "title": "A Comparison of Methods for Multi-class Support Vector Machines",
+    "venue": "Department of Computer Science and Information Engineering National Taiwan University",
+    "year": "",
+    "window": "iris, wine, glass, and vowel. Those problems had already been tested in [27]. From <b>Statlog</b> collection we choose all multi-class datasets: vehicle, segment, dna, satimage, letter, and shuttle. Note that except problem dna we scale all training data to be in [-1, 1]. Then test data are adjusted using the same linear transformation.",
+    "mykey": 1298
+}

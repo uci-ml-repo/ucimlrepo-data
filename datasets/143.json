@@ -1,0 +1,23 @@
+{
+    "ID": 143,
+    "Name": "Statlog (Australian Credit Approval)",
+    "Abstract": "This file concerns credit card applications. This database exists elsewhere in the repository (Credit Screening Database) in a slightly different form",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer, Real",
+    "NumInstances": 690,
+    "NumAttributes": 14,
+    "DateDonated": "",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/statlog/australian/",
+    "URLReadme": "../machine-learning-databases/statlog/australian/australian.doc",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This file concerns credit card applications.  All attribute names and values have been changed to meaningless symbols to protect confidentiality of the data.\r\n  \r\nThis dataset is interesting because there is a good mix of attributes -- continuous, nominal with small numbers of values, and nominal with larger numbers of values.  There are also a few missing values.\r\n",
+    "Source": "(confidential)\r\n\r\nSubmitted by quinlan@cs.su.oz.au",
+    "Acknowledgements": "",
+    "Area": "Financial",
+    "RelevantPapers": "Ross Quinlan. \"Simplifying decision trees\", Int J Man-Machine Studies 27, Dec 1987, pp. 221-234.\r\nhttp://rexa.info/paper/a4b6ebb7accef3ee497d6e127f4a0adc5ab16d25\r\n\r\nRoss Quinlan. \"C4.5: Programs for Machine Learning\", Morgan Kaufmann, Oct 1992\r\nhttp://rexa.info/paper/ad6784a63b18b8018e884ada406b63bc1c9fa6e3",
+    "AttributeInfo": "There are 6 numerical and 8 categorical attributes.  The labels have been changed for the convenience of the statistical algorithms.  For example, attribute 4 originally had 3 labels p,g,gg and these have been changed to labels 1,2,3.\r\n                             \r\nA1: 0,1    CATEGORICAL (formerly: a,b)\r\nA2: continuous.\r\nA3: continuous.\r\nA4: 1,2,3    CATEGORICAL  (formerly: p,g,gg)\r\nA5: 1, 2,3,4,5, 6,7,8,9,10,11,12,13,14    CATEGORICAL (formerly: ff,d,i,k,j,aa,m,c,w, e, q, r,cc, x)\r\nA6: 1, 2,3, 4,5,6,7,8,9    CATEGORICAL (formerly: ff,dd,j,bb,v,n,o,h,z)\r\nA7: continuous.\r\nA8: 1, 0    CATEGORICAL (formerly: t, f)\r\nA9: 1, 0\tCATEGORICAL (formerly: t, f)\r\nA10:  continuous.\r\nA11:  1, 0\t    CATEGORICAL (formerly t, f)\r\nA12:  1, 2, 3    CATEGORICAL (formerly: s, g, p) \r\nA13:  continuous.\r\nA14:  continuous.\r\nA15:   1,2  class attribute (formerly: +,-) ",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 14992
+}

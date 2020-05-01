@@ -1,0 +1,11 @@
+{
+    "datasetID": 74,
+    "supportID": "4B79C231DD6215FD4237361C956CB215356942FB",
+    "rexaID": "476d22372039041e04dd57d8eb40a2666f04fb50",
+    "author": "Qingping Tao and Stephen Scott and N. V. Vinodchandran and Thomas T. Osugi",
+    "title": "SVM-based generalized multiple-instance learning via approximate box counting",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "results of our new kernel on applications such as content-based image retrieval, prediction of drug affinity to bind to multiple sites simultaneously, protein sequence identification, and the <b>Musk</b> data sets. Finally, we conclude in Section 7. 2. Notation and Definitions Let X denote {0, . . . , s} d (though our results trivially generalize to X = Q d i=1 {0, . . . , s i }). Let BX denote the set of",
+    "mykey": 660
+}

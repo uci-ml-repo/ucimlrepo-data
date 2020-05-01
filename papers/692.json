@@ -1,0 +1,11 @@
+{
+    "datasetID": 107,
+    "supportID": "4EC7581789C208DF0A928FA1A781C1F2D3650FEF",
+    "rexaID": "aa89144bb32b6cbc2ad3000adba9cefe83bf54d6",
+    "author": "Zhi-Hua Zhou and W-D Wei and Gang Li and Honghua Dai",
+    "title": "On the Size of Training Set and the Benefit from Ensemble",
+    "venue": "PAKDD",
+    "year": "2004",
+    "window": "3,772 22 7 2 kr-vs-kp 3,196 36 0 2 led7 2,000 7 0 10 led24 2,000 24 0 10 sat 6,435 0 36 6 segment 2,310 0 19 7 sick 3,772 22 7 2 sick-euthyroid 3,156 22 7 2 <b>waveform</b> 5,000 0 21 3 Each original data set is partitioned into ten subsets with similar distributions. At the first time, only one subset is used; at the second time, two subsets are used; and so on. The earlier generated data sets are",
+    "mykey": 692
+}

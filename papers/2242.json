@@ -1,0 +1,11 @@
+{
+    "datasetID": 148,
+    "supportID": "DF39CAD62F3C6476AB4E5A1684FC415E44F1F0C6",
+    "rexaID": "966b8860357db1f685782971093ef9ae2e5386c3",
+    "author": "Pedro Domingos",
+    "title": "Linear-Time Rule Induction",
+    "venue": "KDD",
+    "year": "1996",
+    "window": "level of C4.5RULES's. In this paper we present CWS, a new algorithm with guaranteed O(e) complexity, and verify that it outperforms C4.5RULES and CN2 in time, accuracy and output size on two large datasets. For example, on NASA's space <b>shuttle</b> database, running time is reduced from over a month (for C4.5RULES) to a few hours, with a slight gain in accuracy. CWS is based on interleaving the induction",
+    "mykey": 2242
+}

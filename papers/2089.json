@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "D2BFE2207B2FCC01A4C2E6738664F800052BDA10",
+    "rexaID": "819bb37e80fcb500fd159702e1dc2c0fe98f38ac",
+    "author": "Petri Kontkanen and Jussi Lahtinen and Petri Myllymaki and Tomi Silander and Henry Tirri",
+    "title": "Proceedings of Pre- and Post-processing in Machine Learning and Data Mining: Theoretical Aspects and Applications, a workshop within Machine Learning and Applications",
+    "venue": "Complex Systems Computation Group (CoSCo)",
+    "year": "1999",
+    "window": "8124 23 2 Postoperative Patient 90 9 3 Thyroid Disease 215 6 3 Tic-Tac-Toe Endgame 958 10 2 Vehicle Silhouettes 846 19 4 Congressional Voting Records 435 17 2 <b>Wine</b> Recognition 178 14 3 Table 1: The datasets used in the experiments. For estimating the quality of the visualizations produced, we used the validation scheme described in the previous section. The prediction methods used are listed in Table",
+    "mykey": 2089
+}

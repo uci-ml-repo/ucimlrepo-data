@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "005EF4795950C394FE7E4B85969C64011F9FC4D5",
+    "rexaID": "f7fdf9dbb5f98a218956025550c1f603b3cb24f2",
+    "author": "Alexander G. Gray and Bernd Fischer and Johann Schumann and Wray L. Buntine",
+    "title": "Automatic Derivation of Statistical Algorithms: The EM Family and Beyond",
+    "venue": "NIPS",
+    "year": "2002",
+    "window": "extension of our running example, integrating several features, yields a Gaussian Bayes classifier model # # . # # has been successfully tested on various standard benchmarks [1], e.g., the <b>Abalone</b> dataset. Currently, the number of expected classes has to be given in advance. Mixture models and EM. A wide range of # -Gaussian mixture models can be handled by AUTOBAYES, ranging from the simple 1D ( # #",
+    "mykey": 1
+}

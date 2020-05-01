@@ -1,0 +1,11 @@
+{
+    "datasetID": 29,
+    "supportID": "2BBB90362B759FBA9908E7A3148EEEDD31EBE63A",
+    "rexaID": "3caf773de7b1ad6c9236cbd03763058bc8846e9d",
+    "author": "Dan Pelleg",
+    "title": "Scalable and Practical Probability Density Estimators for Scientific Anomaly Detection",
+    "venue": "School of Computer Science Carnegie Mellon University",
+    "year": "2004",
+    "window": "of points and linearly with the number of clusters. This allows for clustering with tens of thousands of centroids and millions of points using commodity <b>hardware</b>  7 1.1 Introduction Consider a dataset with R records, each having M attributes. Given a constant k, the clustering problem is to partition the data into k subsets such that each subset behaves \"well\" under some measure. For example, we",
+    "mykey": 364
+}

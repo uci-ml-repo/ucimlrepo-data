@@ -1,0 +1,23 @@
+{
+    "ID": 44,
+    "Name": "Hayes-Roth",
+    "Abstract": "Topic: human subjects study",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 160,
+    "NumAttributes": 5,
+    "DateDonated": "1989-03-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/hayes-roth/",
+    "URLReadme": "../machine-learning-databases/hayes-roth/hayes-roth.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This database contains 5 numeric-valued attributes.  Only a subset of 3 are used during testing (the latter 3).  Furthermore, only 2 of the 3 concepts are \"used\" during testing (i.e., those with the prototypes 000 and 111).  I've mapped all values to their zero-indexing equivalents.\r\n\r\nSome instances could be placed in either category 0 or 1.  I've followed the authors' suggestion, placing them in each category with equal probability.\r\n\r\nI've replaced the actual values of the attributes (i.e., hobby has values chess, sports and stamps) with numeric values.  I think this is how the authors' did this when testing the categorization models described in the paper.  I find this unfair.  While the subjects were able to bring background knowledge to bear on the attribute values and their relationships, the algorithms were provided with no such knowledge.  I'm uncertain whether the 2 distractor attributes (name and hobby) are presented to the authors' algorithms during testing.  However, it is clear that only the age, educational status, and marital status attributes are given during the human subjects' transfer tests.  ",
+    "Source": "Creators: \r\n\r\nBarbara and Frederick Hayes-Roth\r\n\r\nDonor: \r\n\r\nDavid W. Aha (aha@ics.uci.edu) (714) 856-8779   ",
+    "Acknowledgements": "",
+    "Area": "Social",
+    "RelevantPapers": "Hayes-Roth, B., & Hayes-Roth, F. (1977).  Concept learning and the recognition and classification of exemplars.  Journal of Verbal Learning and Verbal Behavior, 16, 321-338.\r\nhttp://rexa.info/paper/a9bd0050b1ebd05e393f665da68e190b9e57f2a0\r\n\r\nAnderson, J.R., & Kline, P.J. (1979).  A learning system and its psychological implications.  In Proceedings of the Sixth International Joint Conference on Artificial Intelligence (pp. 16-21).  Tokyo, Japan: Morgan Kaufmann.\r\n\r\nAha, D.W. (1989). Incremental learning of independent, overlapping, and graded concept descriptions with an instance-based process framework.Manuscript submitted for publication.\r\n",
+    "AttributeInfo": "      -- 1. name: distinct for each instance and represented numerically\r\n      -- 2. hobby: nominal values ranging between 1 and 3\r\n      -- 3. age: nominal values ranging between 1 and 4\r\n      -- 4. educational level: nominal values ranging between 1 and 4\r\n      -- 5. marital status: nominal values ranging between 1 and 4\r\n      -- 6. class: nominal value between 1 and 3",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 7189
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 288,
+    "Name": "Leaf",
+    "Abstract": "This dataset consists in a collection of shape and texture features extracted from digital images of leaf specimens originating from a total of 40 different plant species.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 340,
+    "NumAttributes": 16,
+    "DateDonated": "2014-02-24",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00288/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "For further details on this dataset and/or its attributes, please read the 'ReadMe.pdf' file included and/or consult the Master's Thesis 'Development of a System for Automatic Plant Species Recognition' available at http://hdl.handle.net/10216/67734.",
+    "Source": "This dataset was created by Pedro F. B. Silva and Andr\u00c3\u00a9 R. S. Mar\u00c3\u00a7al using leaf specimens collected by Rubim Almeida da Silva at the Faculty of Science, University of Porto, Portugal.",
+    "Acknowledgements": "The data included can be used for research and educational purposes only. All publications using this dataset should cite the following paper:\r\n'Evaluation of Features for Leaf Discrimination', Pedro F.B. Silva, Andre R.S. Marcal, Rubim M. Almeida da Silva (2013). Springer Lecture Notes in Computer Science, Vol. 7950, 197-204.",
+    "Area": "Computer",
+    "RelevantPapers": "",
+    "AttributeInfo": "1. Class (Species)\r\n2. Specimen Number\r\n3. Eccentricity\r\n4. Aspect Ratio\r\n5. Elongation\r\n6. Solidity\r\n7. Stochastic Convexity\r\n8. Isoperimetric Factor\r\n9. Maximal Indentation Depth\r\n10. Lobedness\r\n11. Average Intensity\r\n12. Average Contrast\r\n13. Smoothness\r\n14. Third moment\r\n15. Uniformity\r\n16. Entropy",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

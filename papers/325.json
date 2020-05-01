@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "27852E813C4F41417CD4B7D4A75222F4AAADA322",
+    "rexaID": "75334c6670ccfe65b0bcd8e7a6f01c5711511e70",
+    "author": "Nir Friedman and Dan Geiger and Mois\u00e9s Goldszmidt",
+    "title": "Bayesian Network Classifiers",
+    "venue": "Machine Learning, 29",
+    "year": "1997",
+    "window": "where the unrestricted networks performed substantially worse reveals that in these networks the number of relevant attributes influencing the classification is rather small. While these data sets (` <b>soybean</b> large'' and ``satimage'') contain 35 and 36 attributes, respectively, the classifiers induced relied only on five attributes for the class prediction. We base our definition of relevant",
+    "mykey": 325
+}

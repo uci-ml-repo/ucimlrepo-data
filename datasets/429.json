@@ -1,0 +1,23 @@
+{
+    "ID": 429,
+    "Name": "Cryotherapy Dataset ",
+    "Abstract": "This dataset contains information about wart treatment results of 90 patients using cryotherapy.",
+    "Types": "Univariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 90,
+    "NumAttributes": 7,
+    "DateDonated": "2018-01-04",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00429/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Provide all relevant information about your data set.",
+    "Source": "Name: Fahime Khozeimeh, MD\r\nemail: fahime.khozeime@yahoo.com\r\ninstitution: Faculty of  Medicine, Mashhad University of Medical Sciences, Mashhad, Iran.\r\n\r\nName: Pouran Layegh, Professor of Dermatology\r\nemail: layeghpo@mums.ac.ir\r\ninstitution: Mashhad University of Medical Sciences, Mashhad, Iran\r\nwebsite: http://research.mums.ac.ir/webdocument/load.action?webdocument_code=8001&masterCode=8000703\r\n\r\nName:Roohallah Alizadehsani, PhD student\r\nemail: alizadeh_roohallah '@' yahoo.com\r\ninstitution: Institute for Intelligent Systems Research and Innovation (IISRI), Deakin University, Victoria 3217, Australia.\r\nwebsite: http://ce.sharif.ir/~ralizadeh/\r\n\r\nName: Mohamad Roshanzamir, PhD candidate\r\nemail: mohamad.roshanzamir '@' ec.iut.ac.ir\r\ninstitution: Electrical and Computer Engineering, Isfahan University of Technology, Isfahan, Iran. ",
+    "Acknowledgements": "1. F. Khozeimeh, R. Alizadehsani, M. Roshanzamir, A. Khosravi, P. Layegh, and S. Nahavandi, 'An expert system for selecting wart treatment method,' Computers in Biology and Medicine, vol. 81, pp. 167-175, 2/1/ 2017.\r\n2. F. Khozeimeh, F. Jabbari Azad, Y. Mahboubi Oskouei, M. Jafari, S. Tehranian, R. Alizadehsani, et al., 'Intralesional immunotherapy compared to cryotherapy in the treatment of warts,' International Journal of Dermatology, 2017, DOI: 10.1111/ijd.13535",
+    "Area": "Life",
+    "RelevantPapers": "1. F. Khozeimeh, R. Alizadehsani, M. Roshanzamir, A. Khosravi, P. Layegh, and S. Nahavandi, 'An expert system for selecting wart treatment method,' Computers in Biology and Medicine, vol. 81, pp. 167-175, 2/1/ 2017.\r\n2. F. Khozeimeh, F. Jabbari Azad, Y. Mahboubi Oskouei, M. Jafari, S. Tehranian, R. Alizadehsani, et al., 'Intralesional immunotherapy compared to cryotherapy in the treatment of warts,' International Journal of Dermatology, 2017, DOI: 10.1111/ijd.13535\r\n3. Intralesional immunotherapy with Candida antigen compared to cryotherapy in the treatment of warts. M Teimoorian, F Khozeimeh, P Layegh, R Alizadehsani\r\nAmerican Academy of Dermatology, 2016\r\n",
+    "AttributeInfo": "Provide information about each attribute in your data set.",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

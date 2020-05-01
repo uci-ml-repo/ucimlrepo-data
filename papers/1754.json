@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "AB71A2A0545C8150289E459D642BB91771DC60D4",
+    "rexaID": "7a13c34f809076592c23c1e2c9c6a9a72464d911",
+    "author": "Ayhan Demiriz and Kristin P. Bennett and Mark J. Embrechts",
+    "title": "A Genetic Algorithm Approach for Semi-Supervised Clustering",
+    "venue": "E-Business Department, Verizon Inc.",
+    "year": "2002",
+    "window": "506 points), House Votes (16 variables, 435 points), Breast Cancer Diagnostic (30 variables, 569 points), Pima Diabetes ( 8 variables, 769 points), and <b>Iris</b> ( 4 variables, 150 points). The datasets have categorical dependent variables except Housing. The continuous dependent variable for this dataset was categorized at the level of 21.5. Iris is a three class problem. The other datasets are",
+    "mykey": 1754
+}

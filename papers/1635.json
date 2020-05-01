@@ -1,0 +1,11 @@
+{
+    "datasetID": 7,
+    "supportID": "9F27F44CBA9D780CBF52065C4CE07C5BBA5AD197",
+    "rexaID": "7125dc87ceddf952f1840074b40ac0526dcc03dc",
+    "author": "Marcus Hutter and Marco Zaffalon",
+    "title": "Distribution of Mutual Information from Complete and Incomplete Data",
+    "venue": "CoRR, csLG/0403025",
+    "year": "2004",
+    "window": "0 100 200 300 400 500 600 700 800 900 1000 1100 Instance number Aver. number of excluded features (Spam) F FF BF Figure 4: Average number of attributes excluded by the different filters on the Spam data set. Name #feat. #inst. #m.d. mode freq. <b>Audiology</b> 69 226 317 0.212 Crx 15 690 67 0.555 Horse-colic 18 368 1281 0.630 Hypothyroidloss 23 3163 1980 0.952 Soybean-large 35 683 2337 0.135 Table 3:",
+    "mykey": 1635
+}

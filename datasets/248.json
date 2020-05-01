@@ -1,0 +1,23 @@
+{
+    "ID": 248,
+    "Name": "Buzz in social media ",
+    "Abstract": "This data-set contains examples of buzz events from two different social networks: Twitter, and Tom's Hardware, a forum network focusing on new technology with more conservative dynamics.",
+    "Types": "Time-Series, Multivariate",
+    "Task": "Regression, Classification",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 140000,
+    "NumAttributes": 77,
+    "DateDonated": "2013-05-27",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00248/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Please see http://ama.liglab.fr/datasets/buzz/",
+    "Source": "Creators : \n   Fran\u00e7ois Kawala (1,2) Ahlame Douzal (1) Eric Gaussier (1) Eustache Diemert (2)\nInstitutions : \n   (1) Universit\u00e9  Joseph Fourier (Grenoble I)\n       Laboratoire d'informatique de Grenoble (LIG)\n   (2) BestofMedia Group\nDonor: \n   BestofMedia (ediemert@bestofmedia.com)",
+    "Acknowledgements": "Pr\u00e9dictions d\u2019activit\u00e9 dans les r\u00e9seaux sociaux en ligne (F. Kawala, A. Douzal-Chouakria, E. Gaussier, E. Dimert), In Actes de la Conf\u00e9rence sur les Mod\u00e8les et l\u2032Analyse des R\u00e9seaux : Approches Math\u00e9matiques et Informatique (MARAMI), pp. 16, 2013.",
+    "Area": "Computer",
+    "RelevantPapers": "Pr\u00e9dictions d\u2019activit\u00e9 dans les r\u00e9seaux sociaux en ligne (F. Kawala, A. Douzal-Chouakria, E. Gaussier, E. Dimert), In Actes de la Conf\u00e9rence sur les Mod\u00e8les et l\u2032Analyse des R\u00e9seaux : Approches Math\u00e9matiques et Informatique (MARAMI), pp. 16, 2013.",
+    "AttributeInfo": "Please see http://ama.liglab.fr/datasets/buzz/",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

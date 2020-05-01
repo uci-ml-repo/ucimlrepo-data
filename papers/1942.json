@@ -1,0 +1,11 @@
+{
+    "datasetID": 144,
+    "supportID": "BEE1FB17A8C6610F46EC10FE3F8CF67F5242EAA6",
+    "rexaID": "4695569c53cd581fcc193415a8a94a1f92abf607",
+    "author": "Chotirat Ann and Dimitrios Gunopulos",
+    "title": "Scaling up the Naive Bayesian Classifier: Using Decision Trees for Feature Selection",
+    "venue": "Computer Science Department University of California",
+    "year": "",
+    "window": "336 instances, 8 attributes, 8 classes. Attributes selected by SBC = 4. <b>German Credit</b> 64 66 68 70 72 74 76 78 10203040506070809099 Training Data (%) Accuracy (%) NBC SBC C4.5 Figure 3. German Credit dataset. 1,000 instances, 20 attributes, 2 classes. Attributes selected by SBC = 6. Chess Endgames (kr-vs-kp) 75 80 85 90 95 100 10 20 30 40 50 60 70 80 90 99 Training Data (%) Accuracy (%) NBC SBC C4.5",
+    "mykey": 1942
+}

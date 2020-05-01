@@ -1,0 +1,11 @@
+{
+    "datasetID": 57,
+    "supportID": "EE042EB33F4320908C19EF5C8E4863C4F84EFFF9",
+    "rexaID": "22dbe26a460522ada68b637b8a3483c717b671fa",
+    "author": "Maria Salamo and Elisabet Golobardes",
+    "title": "Analysing Rough Sets weighting methods for Case-Based Reasoning Systems",
+    "venue": "Enginyeria i Arquitectura La Salle",
+    "year": "",
+    "window": "averaged over stratified ten-fold cross-validation runs, with their corresponding standard deviations. To study the performance we use a paired one-sided t-test on these runs, except for the <b>LED dataset</b>  which was run using hold-out with a training set of 2000 instances and a test set of 4000 instances. 5.2 Experimental analysis of weighting methods Table 2 shows the experimental results for each",
+    "mykey": 2402
+}

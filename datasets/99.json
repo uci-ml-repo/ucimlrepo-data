@@ -1,0 +1,23 @@
+{
+    "ID": 99,
+    "Name": "Student Loan Relational",
+    "Abstract": "Student Loan Relational Domain",
+    "Types": "Domain-Theory",
+    "Task": "",
+    "AttributeTypes": "",
+    "NumInstances": 1000,
+    "NumAttributes": 0,
+    "DateDonated": "1993-01-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/student-loan/",
+    "URLReadme": "../machine-learning-databases/student-loan/student-loan.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The predicate no_payment_due/1 is true for those people who are not required to repay a student loan.  Auxiliary relations can be used to fully discriminate positive from negative instances of no_payment_due/1.  Closed world assumption applies to all auxiliary relations.",
+    "Source": "Donor: \r\n\r\nMichael J. Pazzani \r\nUniversity of California, Irvine\r\nIrvine, CA USA",
+    "Acknowledgements": "",
+    "Area": "Social",
+    "RelevantPapers": "Pazzani, M., & Brunk, C. (1991). Detecting and correcting errors in rule-based expert systems: an integration of empirical and explanation-based learning. Knowledge Acquisition, 3, 157-173.\r\nhttp://rexa.info/paper/9ddfe8d803d04f3dc3e4fcfdb30738bb11e80344",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 15
+}

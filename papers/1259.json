@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "7E450DE0A684E429F33CB2CA1E6F47F0B46BC962",
+    "rexaID": "6f9e5db8e117763c59d6ffabcb511900b9f62159",
+    "author": "Cesar Guerra-Salcedo and L. Darrell Whitley",
+    "title": "Genetic Approach to Feature Selection for Ensemble Creation",
+    "venue": "GECCO",
+    "year": "1999",
+    "window": "belonging to a particular class depend on the number of elements for that class and e. This modification allows us to avoid elements from different classes being mixed in one cluster. Table 1: Dataset employed for the experiments. In the <b>DNA</b> dataset the attributes values are 0 or 1. In the Segment dataset the attributes values are floats. In the LandSat dataset the attribute values are integers.",
+    "mykey": 1259
+}

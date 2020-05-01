@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "D0E4A339AF59CF076EAA84DB61F2A1DAF10544B2",
+    "rexaID": "f14d3edaeac2280dc4e49948d9d0fc1159bd05ca",
+    "author": "Daniel J. Lizotte and Omid Madani and Russell Greiner",
+    "title": "Budgeted Learning of Naive-Bayes Classifiers",
+    "venue": "UAI",
+    "year": "2003",
+    "window": "problem with nine features that can take on between two and five values. The relative performances of the policies are closer to each other, but their behaviour is similar to Figure 4(b). The <b>votes dataset</b> (Figure 4(d)) is a binary class problem (democrat vs. republican), with 16 binary features, 435 instances, and a positive class probability of 0.61. In the votes dataset, there is a high proportion",
+    "mykey": 2073
+}

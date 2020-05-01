@@ -1,0 +1,11 @@
+{
+    "datasetID": 63,
+    "supportID": "B1466AC895EAB055C95EEC6CAD0260085FCD6C7B",
+    "rexaID": "3fa8ab593f1fd58f33109aae497ca1fb67732c35",
+    "author": "Marco Zaffalon and Marcus Hutter",
+    "title": "Robust Feature Selection by Mutual Information Distributions",
+    "venue": "CoRR, csAI/0206006",
+    "year": "2002",
+    "window": "on a number of di\u00aeerent domains. For example, Shuttle-small reports data on diagnosing failures of the space shuttle; <b>Lymphography</b> and Hypothyroid are medical data sets; Spam is a body of e-mails that can be spam or non-spam; etc. The data sets presenting non-nominal features have been pre-discretized by MLC++ [KJL + 94], default options. This step may remove some",
+    "mykey": 1827
+}

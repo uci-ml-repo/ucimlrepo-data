@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "0E5715775ED4C7FCA23ADA1814AF77075D0C17E0",
+    "rexaID": "e7628956b46a78e64774af25d99c0afd0cf90001",
+    "author": "Johannes Furnkranz",
+    "title": "Pairwise Classification as an Ensemble Technique",
+    "venue": "Austrian Research Institute for Artificial Intelligence",
+    "year": "",
+    "window": "with c5.0 as a base learner. For these, we give both the absolute error rate and the performance ratio relative to the base learner c5.0. The last line shows the geometric average of these ratios. dataset c5.0 round robin boosting both <b>abalone</b> 78.48 75.08 0.957 77.88 0.992 74.67 0.951 car 7.58 5.84 0.771 3.82 0.504 1.85 0.244 glass 35.05 24.77 0.707 27.57 0.787 22.90 0.653 image 3.20 2.90 0.905 1.60",
+    "mykey": 144
+}

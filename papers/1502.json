@@ -1,0 +1,11 @@
+{
+    "datasetID": 23,
+    "supportID": "95CD9917CAE64EC65C07257E171B6430CFAD5619",
+    "rexaID": "32c4d28ceaa19d2a6906dfa39df99da7026c9cc5",
+    "author": "Douglas Burdick and Manuel Calimlim and Jason Flannick and Johannes Gehrke and Tomi Yiu",
+    "title": "MAFIA: A Performance Study of Mining Maximal Frequent Itemsets",
+    "venue": "FIMI",
+    "year": "2003",
+    "window": "0.1 0.12 Min Sup (%) Time (s) NONE ADAPTIVE Compression on BMS-WebView-2 10 100 1000 10000 0 0.01 0.02 0.03 0.04 0.05 0.06 Min Sup (%) Time (s) NONE ADAPTIVE Figure 8. Compression on more sparse datasets Compression on <b>Chess</b> 1 10 100 1000 0 5 10 15 20 25 30 35 Min Sup (%) Time (s) NONE ADAPTIVE Compression on Pumsb 10 100 1000 10000 0 10 20 30 40 50 60 70 Min Sup (%) Time (s) NONE ADAPTIVE",
+    "mykey": 1502
+}

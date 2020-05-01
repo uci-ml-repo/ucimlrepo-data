@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "375D7356B6B014034E7DB28D8EFD6D18D379115D",
+    "rexaID": "f9cf2dcf39f23bae2973a65af6de81e6438989d3",
+    "author": "Anthony Robins and Marcus Frean",
+    "title": "Learning and generalisation in a stable network",
+    "venue": "Computer Science, The University of Otago",
+    "year": "",
+    "window": "network. The effectiveness of pseudorehearsal at reducing catastrophic forgetting has been proven using a range of populations, including: randomly constructed autoassociative and hetroassociative data sets [Robins, 1995]; the <b>Iris</b> data set [Robins, 1996]; a classification task using the Mushroom data set [French, 1997]; and an alphanumeric character set using a Hopfield type network [Robins and",
+    "mykey": 470
+}

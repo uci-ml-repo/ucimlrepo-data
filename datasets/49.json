@@ -1,0 +1,23 @@
+{
+    "ID": 49,
+    "Name": "ICU",
+    "Abstract": "Data set prepared for the use of participants for the 1994 AAAI Spring Symposium on Artificial Intelligence in Medicine.",
+    "Types": "Multivariate, Time-Series",
+    "Task": "",
+    "AttributeTypes": "Real",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/icu/",
+    "URLReadme": "../machine-learning-databases/icu/README",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Please see documentation",
+    "Source": "AIM-94 data set provided by Isaac Kohane, MD, PhD, The Children's Hospital, Boston, MA",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "",
+    "AttributeInfo": "",
+    "FormatType": "Multiple",
+    "NumHits": 24
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "2903227037619BF1B20DD0F14300D666B5D690E7",
+    "rexaID": "b1a2a0423ea7baac76c75e758f784505eb8fc18f",
+    "author": "Jennifer G. Dy and Carla Brodley",
+    "title": "Feature Subset Selection and Order Identification for Unsupervised Learning",
+    "venue": "ICML",
+    "year": "2000",
+    "window": "To illustrate FSSEM on real data, we present results for two data sets: <b>ionosphere</b> (Blake & Merz, 1998) and a high resolution computed tomography images of the lungs (HRCT-lung) data set (Dy et al., 1999). See Dy (1999) for experiments on additional data sets.",
+    "mykey": 335
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 110,
+    "supportID": "B0FFA8725C65C4A0C1E61FF9F154253F8EE7941B",
+    "rexaID": "9b1e690eee045665891881f050354585bd20bd54",
+    "author": "Aik Choon Tan and David Gilbert",
+    "title": "An Empirical Comparison of Supervised Machine Learning Techniques in Bioinformatics",
+    "venue": "APBC",
+    "year": "2003",
+    "window": "of predicted lipoproteins and 3 different scoring functions on the amino acid contents whether predicted as a outer membrane or inner membrane, cleavable or uncleavable sequence signal. <b>Yeast</b> data set -- The objective is similar to the E.coli data, which is to determine the cellular localisation of the yeast proteins (Horton and Nakai, 1996). There are 10 different sites, which include: CYT",
+    "mykey": 1823
+}

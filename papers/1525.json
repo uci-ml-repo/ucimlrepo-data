@@ -1,0 +1,11 @@
+{
+    "datasetID": 143,
+    "supportID": "97FC8CAD79557A06EBD7B79951BFEDC4855EC5B4",
+    "rexaID": "74b68cad54c62b62b7ad64911291e2e0b0620dd8",
+    "author": "Bart Hamers and J. A. K Suykens",
+    "title": "Coupled Transductive Ensemble Learning of Kernel Models",
+    "venue": "Bart De Moor",
+    "year": "2003",
+    "window": "0.16 5.08e-4 0.27 0.28 7.92e-4 0.21 0.21 8.37e-4 0.15 0.14 5.08e-4 0.24 0.24 8.34e-4 1 0 1 9.8e-5 1 2.7e-3 Table 2: Misclassification rates on a test set (Tic-Tac-Toe (TTT), <b>Australian Credit</b> Card Data Set (ACR) and the Adult Data Set (ADULT)). The number of models is indicated by the second number in Table 1, example TTT11 is an ensemble model based on 11 individual models on, the TTT prediction. We",
+    "mykey": 1525
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 364,
+    "Name": "Smartphone Dataset for Human Activity Recognition (HAR) in Ambient Assisted Living (AAL)",
+    "Abstract": "This data is an addition to an existing dataset on UCI. We collected more data to improve the accuracy of our human activity recognition algorithms applied in the domain of Ambient Assisted Living.  ",
+    "Types": "Time-Series",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 5744,
+    "NumAttributes": 561,
+    "DateDonated": "2016-03-09",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00364/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset is an addition to the dataset at \r\n      https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones\r\n      We collected more dataset to improve the accuracy of our HAR algorithms applied in \r\n      a Social connectedness experiment in the domain of Ambient Assisted Living. \r\n      The dataset was collected from the in-built accelerometer and gyroscope of a \r\n      smartphone worn around the waist of participants. See waist_mounted_phone.PNG.\r\n      The data was collected from 30 participants within the age group of 22-79 years. \r\n      Each activity (standing, sitting, laying, walking, walking upstairs, walking downstairs) was \r\n      performed for 60secs and the 3-axial linear acceleration and 3-axial angular velocity  were \r\n      collected at a constant rate of 50Hz.",
+    "Source": "-- Creators: Kadian Alicia Davis (1), Evans Boateng Owusu (2)\r\n     1 -- Department of Electrical, Electronic, Telecommunications Engineering and Naval Architecture (DITEN), \r\n          University of Genova, Genoa - Italy\r\n     2 -- Independent Researcher, \r\n          Eindhoven, \r\n          The Netherlands\r\n      Donors: E. B. Owusu (owboateng@gmail.com), K. A. Davis (kadian.davis@gmail.com)  \r\n   -- Date: March, 2016",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.",
+    "AttributeInfo": "For each record in the dataset it is provided: \r\n   - Triaxial acceleration from the accelerometer (total acceleration). \r\n     Filenames: final_acc_train.txt, final_acc_test.txt\r\n   - Triaxial Angular velocity from the gyroscope. \r\n     Filenames: final_gyro_train.txt, final_gyro_test.txt\r\n   - A 561-feature vector with time and frequency domain variables \r\n     (extracted from the triaxial data) \r\n     Filenames: final_X_train.txt, final_X_test.txt\r\n     For more information about the features extracted see (features.txt and features_info.txt)\r\n   - The corresponding activity labels. Filenames: final_y_train.txt and final_y_test.txt.",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

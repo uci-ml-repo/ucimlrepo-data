@@ -1,0 +1,11 @@
+{
+    "datasetID": 63,
+    "supportID": "D4D07EEC4396CC723978AB30DF9EE1BEC22701CE",
+    "rexaID": "d2ef68752af3ba25d7fcf8275b91cf592511f2e9",
+    "author": "Mark A. Hall and Lloyd A. Smith",
+    "title": "Feature Selection for Machine Learning: Comparing a Correlation-Based Filter Approach to the Wrapper",
+    "venue": "FLAIRS Conference",
+    "year": "1999",
+    "window": "were chosen because of the prevalence of nominal features and their predominance in the literature. Three of the datasets (australian, <b>lymphography</b>  and horsecolic) contain a few continuous features; the rest contain only nominal features. Fifty runs were done for each machine learning algorithm on each dataset with",
+    "mykey": 2126
+}

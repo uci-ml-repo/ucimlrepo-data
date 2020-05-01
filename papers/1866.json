@@ -1,0 +1,11 @@
+{
+    "datasetID": 20,
+    "supportID": "B648975290D78C64B21D2ECF80EC43DACFDF9F8B",
+    "rexaID": "8931d2a4a8256ea88abea3ea3ac820fd421ce0b1",
+    "author": "Stephen D. Bay and Michael J. Pazzani",
+    "title": "Detecting Group Differences: Mining Contrast Sets",
+    "venue": "Data Min. Knowl. Discov, 5",
+    "year": "2001",
+    "window": "sized divisions by frequency (e.g. income) or interval width (e.g. age). Finally, we further randomly sampled the data to obtain a 1 in 1000 sample. Federal <b>Census</b> data is one of the most difficult data sets to mine because of the long average record width coupled with the high number of popular attribute-value pairs which occur frequently in many records. These two factors combine to result in many",
+    "mykey": 1866
+}

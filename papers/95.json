@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "08E5909A0FF33ABB6E640D6792A0E17BAFD16EAA",
+    "rexaID": "9ad134b043c73e8215bea14ecf8a270904b0b535",
+    "author": "Enes Makalic and Lloyd Allison and David L. Dowe",
+    "title": "MML INFERENCE OF SINGLE-LAYER NEURAL NETWORKS",
+    "venue": "School of Computer Science and Software Engineering Monash University",
+    "year": "",
+    "window": "0.20, overfitting was observed -- MDL inferred four hidden neurons as optimal rather than three (see Fig. 4). 780 790 800 810 820 830 840 850 1 2 3 4 5 6 Message length (nits) Hidden Neurons <b>Iris</b> Dataset MML Figure 5. MML inference of the Iris dataset Finally, we have tested both MML and MDL-based criteria on a real problem: the Iris dataset from the UCI machine learning repository. This is",
+    "mykey": 95
+}

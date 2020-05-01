@@ -1,0 +1,11 @@
+{
+    "datasetID": 146,
+    "supportID": "A599425781BE332FD01CC264603E8AA3F6C4944C",
+    "rexaID": "82c18d900119b86bada0621e2774e8fcd0b47140",
+    "author": "Xavier Giannakopoulos and Juha Karhunen and Erkki Oja",
+    "title": "A COMPARISON OF NEURAL ICA ALGORITHMS USING REAL-WORLD DATA",
+    "venue": "IDSIA",
+    "year": "",
+    "window": "roughly optimal [12]. On-line estimation of kurtosis was added also to this algorithm. 4. COMPARISON METHODS We have made experiments with crab data, <b>satellite</b> data, and MEG artefact data. These data sets will be brieAEy discussed in context with experimental results. Because we are now dealing with real-world data, the assumptions made on the ICA model (1) may not hold, or hold only approximately.",
+    "mykey": 1690
+}

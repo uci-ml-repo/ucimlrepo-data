@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "983C9D00A186B96FD243ED8F256126FD5AD747D8",
+    "rexaID": "20b8d5b9285a402f14753a766e96889e990a99f3",
+    "author": "Bob Ricks and Dan Ventura",
+    "title": "Training a Quantum Neural Network",
+    "venue": "NIPS",
+    "year": "2003",
+    "window": "an epoch refers to finding and fixing the weight of a single node. We also tried the randomized search algorithm for a few real-world machine learning problems: lenses, Hayes-Roth and the <b>iris</b> datasets [19]. The lenses data set is a data set that tries to predict whether people will need soft contact lenses, hard contact lenses or no contacts. The iris dataset details features of three different",
+    "mykey": 1535
+}

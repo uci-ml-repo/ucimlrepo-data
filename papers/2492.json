@@ -1,0 +1,11 @@
+{
+    "datasetID": 5,
+    "supportID": "F6EACF3B188FD5FF1353A0B698C3CE2558C0C9E7",
+    "rexaID": "811517480cb8dca1073ee39a37c9a343a1179aab",
+    "author": "Shay Cohen and Eytan Ruppin and Gideon Dror",
+    "title": "Feature Selection Based on the Shapley Value",
+    "venue": "School of Computer Sciences Tel-Aviv University",
+    "year": "",
+    "window": "of 93% with 109 features. For comparison, [Koller and Sahami, 1996] report that the Markov Blanket algorithm yields approximately 600 selected features with accuracy levels of 89% to 93% on this dataset. 1 The <b>Arrhythmia</b> dataset. This dataset is considered to be a difficult one. CSA with backward elimination did best, yielding an accuracy level of 84% with 21 features. Forward selection with higher",
+    "mykey": 2492
+}

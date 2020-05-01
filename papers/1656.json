@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "A26F0C396A9553D40BC6E4438697DD6455AAA25A",
+    "rexaID": "546cbe749d666efb8ff699628e535e0fd083f6bc",
+    "author": "Norbert Jankowski",
+    "title": "Survey of Neural Transfer Functions",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "results of RBF are not similar to the results of MLP. In some cases crossvalidation errors were twice as large using MLP than RBF (for example for the <b>DNA</b> dataset RBF gave 4.1% of error and was the best of all methods while MLP gave 8.8 % of errors and was on 12-th position, while for the Belgian Power data the situation is reversed, with MLP giving 1.7% of",
+    "mykey": 1656
+}

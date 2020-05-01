@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "2B1C028380934DB2B3BE5F2C86D6A8A105DF4211",
+    "rexaID": "13c8e4e9474a8fbd7bd8a66695b62f218189ac6f",
+    "author": "Andrew W. Moore and Weng-Keen Wong",
+    "title": "Optimal Reinsertion: A New Search Operator for Accelerated and More Accurate Bayesian Network Structure Learning",
+    "venue": "ICML",
+    "year": "2003",
+    "window": "if and only if an odd number of parents have value \"True\". The nodes are thus noisy exclusive-ors and so it is hard to learn a set of parents incrementally. Synth2 Synth3 Synth4 Figure 3. Synthetic datasets described in Section 3.1. RmAA <b>adult</b> 49K 15 7.7 Contributed to UCI by Ron Kohavi alarm 20K 37 2.8 Data generated from a standard Bayes Net benchmark (Beinlich et al., 1989). biosurv 150K 24 3.5",
+    "mykey": 355
+}

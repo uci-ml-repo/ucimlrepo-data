@@ -1,0 +1,11 @@
+{
+    "datasetID": 185,
+    "supportID": "",
+    "rexaID": "043F88A67C5FDAA3E5A9CF9D3BD5483359B9AAAE",
+    "author": "Ruslan Salakhutdinov and Andriy Mnih and Geoffrey E Hinton",
+    "title": "Restricted Boltzmann machines for collaborative filtering",
+    "venue": "ICML",
+    "year": "2007",
+    "window": "We present efficient learning and inference procedures for this class of models and demonstrate that RBMs can be successfully applied to the <b>Netflix</b> data set, containing over 100 million user/movie ratings. We also show that RBMs slightly outperform carefully-tuned SVD models. ",
+    "mykey": 2590
+}

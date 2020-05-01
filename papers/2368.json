@@ -1,0 +1,11 @@
+{
+    "datasetID": 146,
+    "supportID": "EC7FEEF4845B232307D7A88A8B760D1D4F5536FB",
+    "rexaID": "7ee121b26e79c0a7aa5c80979e275fc3592d0638",
+    "author": "Giorgio Valentini",
+    "title": "Ensemble methods based on bias--variance analysis Theses Series DISI-TH-2003",
+    "venue": "Dipartimento di Informatica e Scienze dell'Informazione ",
+    "year": "2003",
+    "window": "analysis with single SVMs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47 4.3 Procedure to perform bias--variance analysis on single SVMs . . . . . . . . 48 4.4 Grey <b>Landsat</b> data set. Error (a) and its decomposition in bias (b), net variance (c), unbiased variance (d), and biased variance (e) in SVM RBF, varying both C and \u00be. . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "mykey": 2368
+}

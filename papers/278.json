@@ -1,0 +1,11 @@
+{
+    "datasetID": 147,
+    "supportID": "2362D2C6BB2575C56F708612FA4C97BC4248CB1A",
+    "rexaID": "51d0dcaced0a60e995d1d228b618f89c00aab45b",
+    "author": "Amund Tveit",
+    "title": "Empirical Comparison of Accuracy and Performance for the MIPSVM classifier with Existing Classifiers",
+    "venue": "Division of Intelligent Systems Department of Computer and Information Science, Norwegian University of Science and Technology",
+    "year": "",
+    "window": "As we can see from the results in figure 1, MIPSVM performs comparably well when it comes to classification accuracy for the Waveform and <b>Image Segment</b> datasets. For the Letter Recognition dataset it performs considerably worse than the other classifiers. This is likely to be caused by that MIPSVM doesn't have any balancing mechanisms one-against-the-rest",
+    "mykey": 278
+}

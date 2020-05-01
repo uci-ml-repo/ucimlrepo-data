@@ -1,0 +1,11 @@
+{
+    "datasetID": 21,
+    "supportID": "BD4276E3CCDC388CB2A92FC51A140BB8D278978A",
+    "rexaID": "ac8fe867e1d16d4d09f9bd759ba46699055c7ca6",
+    "author": "Yk Huhtala and Juha K\u00e4rkk\u00e4inen and Pasi Porkka and Hannu Toivonen",
+    "title": "Efficient Discovery of Functional and Approximate Dependencies Using Partitions",
+    "venue": "ICDE",
+    "year": "1998",
+    "window": "out of memory. Table 2 shows performance results for TANE/MEM in the approximate dependency discovery task, for different thresholds ''. Results for the Hepatitis, Wisconsin breast cancer, and <b>Chess</b> data sets are also presented graphically in Figure 3: N '' =N 0 stands for the number of approximate dependencies found relative to the case for functional dependencies; similarly, Time '' =Time 0 denotes",
+    "mykey": 1917
+}

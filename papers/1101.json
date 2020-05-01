@@ -1,0 +1,11 @@
+{
+    "datasetID": 101,
+    "supportID": "70C855441A8DA0CDC8ED6F4C70B2EFC41CCB1794",
+    "rexaID": "f9c68e626a4939f0fad3605c9022219b7932e464",
+    "author": "Masahiro Terabe and Takashi Washio and Hiroshi Motoda",
+    "title": "The Effect of Subsampling Rate on S 3 Bagging Performance",
+    "venue": "Mitsubishi Research Institute",
+    "year": "",
+    "window": "training data even when the subsampling rate is set up to 30%. In the case of <b>Tic-tac-toe</b>  the prediction accuracy becomes better when the subsampling rate set large. Tic-tac-toe is an artifical data set which does not include any redundant instances[7]. By this feature of data set, the experimental result of tictac-toe is characteristic. The effect of preventing the deterioration of prediction",
+    "mykey": 1101
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "78701A94F998B1CD737B20E3B53571611B48FF7F",
+    "rexaID": "5b9d84cbe5327bcd60f720ca1424f815b6b08753",
+    "author": "Ilhan Uysal and H. Altay Guvenir",
+    "title": "Instance-Based Regression by Partitioning Feature Projections",
+    "venue": "Applied",
+    "year": "2004",
+    "window": "are shown in Table 2. In order to save space, they are coded with two letters (e.g., AB for <b>Abalone</b> . 72 Uysal and G\u00a8 uvenir Table 2. Datasets. Features Missing Target Dataset Code Instances (C + N)values feature Abalone [6] AB 4177 8 (7 + 1) None Rings Airport [21] AI 135 4 (4 + 0) None Tons of mail Auto [6] AU 398 7 (6 + 1) 6 Gas",
+    "mykey": 1193
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "6FAA63F0D802B80633874DB98C5545682A31B37B",
+    "rexaID": "74d13cdcdfa5836ae8056a6c6ee47d129b6512f3",
+    "author": "Guszti Bartfai",
+    "title": "VICTORIA UNIVERSITY OF WELLINGTON Te Whare Wananga o te Upoko o te Ika a Maui",
+    "venue": "Department of Computer Science PO Box 600",
+    "year": "1996",
+    "window": "from the UCI Repository (Merz and Murphy, 1996) were used: ffl <b>Soybean</b>  this data set contains 307 instances 5 described with 35 nominal attributes (and class information, which was ignored here). The attributes were encoded in generalised complement coding (see above) --- with",
+    "mykey": 1084
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 221,
+    "Name": "KEGG Metabolic Reaction Network (Undirected)",
+    "Abstract": "KEGG Metabolic pathways modeled as un-directed reaction network. Variety of graphical features presented.",
+    "Types": "Multivariate, Univariate, Text",
+    "Task": "Classification, Regression, Clustering",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 65554,
+    "NumAttributes": 29,
+    "DateDonated": "2011-11-28",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00221/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "KEGG Metabolic pathways can be realized into network. Two kinds of network / graph can be formed. These include Reaction Network and Relation Network. In Reaction network, Substrate or Product compound are considered as Node and genes are treated as edge. Whereas in the relation network, Substrate and Product componds are considered as Edges while enzyme and genes are placed as nodes. We tool large number of metabolic pathways from KEGG XML. They were modeled into the graph as described above. With the help of Cytoscape tool, variety of network features were compunted. ",
+    "Source": "1. Muhammad Naeem, Centre of Research in Data Engineering(CORDE) & Department of Computer Science, MAJU Islamabad Pakistan(naeems.naeem@gmail.com).\r\n2. Sohail Asghar, Director/Associate Professor University Institute of IT PMAS-Arid Agriculture University,Rawalpindi Pakistan, Centre of Research in Data Engineering (CORDE),(sohail.asghar@gmail.com)",
+    "Acknowledgements": "Naeem M,Asghar S, Centre of Research in Data Engineering Islamabad Pakistan, naeems.naeem@gmail.com, sohail.asg@gmail.com",
+    "Area": "Life",
+    "RelevantPapers": "Shannon,P., Markiel,A., Ozier,O., Baliga,N.S.,\tWang,J.T.,Ramage,D., Amin,N., Schwikowski,B. and Ideker,T. (2003) Cytoscape: a software environment for integrated models of biomolecular interaction networks. Genome Res., 13, 2498\u00e2\u20ac\u201c2504.",
+    "AttributeInfo": "\r\na)\tPathway\ttext \r\nb)\tConnected Components\tInteger (min:1, max:39 )\r\nc)\tDiameter\tInteger (min:1, max:46 )\r\nd)\tRadius\tInteger (min:1, max:13 )\r\ne)\tCentralization\tInteger (min:0, max:1 )\r\nf)\tShortest Path\tInteger (min:2, max:23420 )\r\ng)\tCharacteristic Path Length\tInteger (min:1, max:15.9729 )\r\nh)\tAvg.num.Neighbours\treal (min:0.67, max:3.44)\r\ni)\tDensity\treal (min:0.0082, max:1)\r\nj)\tHeterogeneity\treal (min:0, max:1.796)\r\nk)\tIsolated Nodes\tInteger (min:0, max:3)\r\nl)\tNumber of Self Loops\tInteger (min:0, max:4)\r\nm)\tMulti-edge Node Pair\tInteger (min:0, max:220)\r\nn)\tNeighborhoodConnectivity\treal (min:0.67, max:15.604)\r\no)\tNumberOfDirectedEdges\t\treal (min:0.67, max:10.22)\r\np)\tStress\t\treal (min:0, max:2112.05)\r\nq)\tSelfLoops\t\treal (min:0, max:0.67)\r\nr)\tPartner Of MultiEdged NodePairs\t\tInteger (min:0, max:3)\r\ns)\tDegree\t\treal (min:1, max:10.22)\r\nt)\tTopologicalCoefficient\treal (min:0, max:1)\r\nu)\tBetweennessCentrality\t\treal (min:0, max:0.333)\r\nv)\tRadiality\t\treal (min:0.5437, max:30744573457 )\r\nw)\tEccentricity\treal (min:0.67, max:25.034)\r\nx)\tNumberOfUndirectedEdges\treal (min:0, max:0.67)\r\ny)\tClosenessCentrality\treal (min:0.1022, max:1)\r\nz)\tAverageShortestPathLength\treal (min:0.67, max:12.67 )\r\naa)\tClusteringCoefficient\t\treal (min:0, max:1)\r\nbb)\tnodeCount\t\tInteger (min:2, max:232)\r\ncc)\tedgeCount\tInteger (min:1, max:444)\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

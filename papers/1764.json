@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "ABA0E12B6B3C3EF0B88DD575BBEF633AC2B35358",
+    "rexaID": "4c8e8cf6857f1f1bc9b43679d241b096513ee6f2",
+    "author": "Ron Kohavi and Barry G. Becker and Dan Sommerfield",
+    "title": "Improving Simple Bayes",
+    "venue": "Data Mining and Visualization Group Silicon Graphics, Inc",
+    "year": "",
+    "window": "was large or artificial, indicating that a single test set would yield accurate estimates, we used a training-set/test-set as defined in the source for the dataset (e.g., <b>Statlog</b> defined the splits for DNA, letter, satimage; CART defined the training size for waveform and led24) or a 2/3, 1/3 split, and ran the inducer once; otherwise, we performed 10-fold",
+    "mykey": 1764
+}

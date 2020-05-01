@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "7AE7ADE5939A6BA59141B09FB62C959DE2CBC600",
+    "rexaID": "9a9186e8fcb4a3d9a2f01bb4033499e4a59833e9",
+    "author": "Neil Davey and Rod Adams and Mary J. George",
+    "title": "The Architecture and Performance of a Stochastic Competitive Evolutionary Neural Tree Network",
+    "venue": "Appl. Intell, 12",
+    "year": "2000",
+    "window": "5 and 6 are illustrated in Figures 2 and 3. The <b>IRIS</b> data set is included to provide a benchmark performance. Set 1 2-D single source Gaussian cluster, zero mean and unit variance. Simple cluster, base line test. Set 2 20-D single source Gaussian cluster, zero",
+    "mykey": 1210
+}

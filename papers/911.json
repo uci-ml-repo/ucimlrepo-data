@@ -1,0 +1,11 @@
+{
+    "datasetID": 47,
+    "supportID": "61F0B4767D9D78BDFB19DB9B81F02241F2B8A2A4",
+    "rexaID": "09b1c64b200c3b3acff18a3e45a2d75ba0aef2b7",
+    "author": "Julie Greensmith",
+    "title": "New Frontiers For An Artificial Immune System",
+    "venue": "Digital Media Systems Laboratory HP Laboratories Bristol",
+    "year": "2003",
+    "window": "with a 1 and the absence of that word is marked with a 0. This gives rise to the creation of the feature vectors for use within the classifier. For example, our most informative words from the tiny dataset above were <b>horse</b> and monitor. So, the feature vector for the document D containing the words \"I rode a horse today\" would look like \"1 0\", thus denoting the presence of the word horse within the",
+    "mykey": 911
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "2ED9C34090CC5ADFEC26C7D1CCA02D4B695ADC0F",
+    "rexaID": "4018f616747e1e9c96771daa20bca34c484b966a",
+    "author": "Jochen Garcke and Michael Griebel and Michael Thess",
+    "title": "Data Mining with Sparse Grids",
+    "venue": "Computing, 67",
+    "year": "2001",
+    "window": "for B l is su\u00c6ciently limited. The operations of the matrices C l and G l on the vectors are then computed on the fly when needed in the conjugate gradient iteration. 3.4.1 Shuttle Data The shuttle data set comes from the <b>StatLog</b> Project [52]. It consists of 43 500 observations in the training set and 14 500 data in the testing set and has 9 attributes and 7 classes in 22 the original version. To",
+    "mykey": 391
+}

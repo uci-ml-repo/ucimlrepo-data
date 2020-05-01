@@ -1,0 +1,11 @@
+{
+    "datasetID": 69,
+    "supportID": "756CC4560801E921C597466D70A05F4A43F0F258",
+    "rexaID": "ca1c2b19089d0ca0d4069b04c35d6f6c4312db79",
+    "author": "Jinyan Li and Guozhu Dong and Kotagiri Ramamohanarao and Limsoon Wong",
+    "title": "DeEPs: A New Instance-based Discovery and Classification System",
+    "venue": "Proceedings of the Fourth European Conference on Principles and Practice of Knowledge Discovery in Databases",
+    "year": "2001",
+    "window": "(This will be explained in Section 8.3). Note that for data sets such as chess, flare, <b>splice</b>  mushroom, voting, soybean-l, t-t-t, and zoo which do not contain any continuous attributes, DeEPs does not require an ff. The accuracies of k-nearest neighbor and C5.0",
+    "mykey": 1154
+}

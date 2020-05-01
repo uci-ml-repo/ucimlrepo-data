@@ -1,0 +1,11 @@
+{
+    "datasetID": 16,
+    "supportID": "FAA8ACAE21B3E5D9BFF3C84D3EE3A80B3ECCFF5A",
+    "rexaID": "7d8a7f4c9a24d1127a5ded21969c82ed63037c42",
+    "author": "Erin J. Bredensteiner and Kristin P. Bennett",
+    "title": "Feature Minimization within Decision Trees",
+    "venue": "National Science Foundation",
+    "year": "1996",
+    "window": "attributes. Each patient is classified as to whether there is presence or absence of heart disease. There are 137 patients who have a presence of heart disease. <b>Wisconsin</b> <b>breast</b> <b>Cancer</b> Database This data set is used to classify 682 patients 18 with breast cancer. Each patient is represented by nine integral attributes ranging in value from 1 to 10. The two classes represented are benign and malignant:",
+    "mykey": 2528
+}

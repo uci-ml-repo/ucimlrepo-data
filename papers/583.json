@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "4357E3C12134AD70F70300666459DD3D97DE399A",
+    "rexaID": "319529c0338699404ff7d7f9d7e5c900e5294959",
+    "author": "Art B. Owen",
+    "title": "Tubular neighbors for regression and classification",
+    "venue": "Stanford University",
+    "year": "1999",
+    "window": "part of this. The tubular neighbor model performs better than polymars on this data. It is only slightly better than a global additive model with linear and quadratic terms. 7.2 <b>Ionosphere</b> data This data set comes from the Irvine repository. The goal is to separate ``good'' from ``bad'' radar returns based on 34 predictors. The first 200 observations constitute the training data and have 101 ``good''",
+    "mykey": 583
+}

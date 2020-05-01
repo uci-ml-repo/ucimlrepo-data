@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "E0072FDFA81BB50CB02DA4E884F4FC42E4A2E4F3",
+    "rexaID": "b2c60bdf066b03909792bd5d64891f3607b948c8",
+    "author": "Rich Caruana and Alexandru Niculescu-Mizil and Geoff Crew and Alex Ksikes",
+    "title": "Ensemble selection from libraries of models",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "but each ensemble is just a weighted average of models, so the average of a set of ensembles also is a simple weighted average of the base-level models. Bagging is discussed in Section 5.3. 3. Data Sets We experiment with seven problems: <b>ADULT</b>  COVER TYPE, LETTER.p1, and LETTER.p2 from the UCI Repository (Blake & Merz, 1998), MEDIS, a pneumonia data set, SLAC, data from collaborators at the",
+    "mykey": 2259
+}

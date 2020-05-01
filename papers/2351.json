@@ -1,0 +1,11 @@
+{
+    "datasetID": 146,
+    "supportID": "EBC7741BAF38DF5AB2EDE2BA54FD56B780120025",
+    "rexaID": "2b8c2489b0b9622471466385b6d5c1cf703bd4c8",
+    "author": "Kagan Tumer and Nikunj C. Oza",
+    "title": "Decimated Input Ensembles for Improved Generalization",
+    "venue": "NASA Ames Research Center",
+    "year": "1999",
+    "window": "improvement in the classification accuracy through ensembles. For the Gene data, the average combiner was significantly more accurate than the single MLP, while for the <b>Satellite</b> Image and Splice data sets, the combiner was only marginally more accurate. TABLE I Average Accuracy of Original Network and Combiners Single Average Corr. Gene 83.417 Sigma .796 86.418 Sigma .342 .7910 Splice 84.722",
+    "mykey": 2351
+}

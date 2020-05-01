@@ -1,0 +1,11 @@
+{
+    "datasetID": 19,
+    "supportID": "ED12838CCE3C7BB971D91D92D58F71829F40C955",
+    "rexaID": "14f025e969e3a0418fd852ee46e54039ab3f216a",
+    "author": "Jianbin Tan and David L. Dowe",
+    "title": "MML Inference of Decision Graphs with Multi-way Joins and Dynamic Attributes",
+    "venue": "Australian Conference on Artificial Intelligence",
+    "year": "2003",
+    "window": "- giving a total 10x10=100 tests. <b>car</b> Evaluation data set: The <b>car evaluation</b> data set from the UCI repository [1] was generated from an underlying decision tree model. There are 1728 instances with four output classes in the set. Each data item has 6",
+    "mykey": 2386
+}

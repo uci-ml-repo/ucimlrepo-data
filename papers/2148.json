@@ -1,0 +1,11 @@
+{
+    "datasetID": 46,
+    "supportID": "D60BC4C8DFB454CFB52C4B739F5CC36B6C22A0CF",
+    "rexaID": "fac79a1ce7fa29979fe50466d471cdac753f26d5",
+    "author": "Ida G. Sprinkhuizen-Kuyper and Elena Smirnova and I. Nalbantis",
+    "title": "Reliability yields Information Gain",
+    "venue": "IKAT, Universiteit Maastricht",
+    "year": "",
+    "window": "The contribution of the set not covered by VSSVM to the entropy is equal to: (1a nc log 2 a nc11All cases in table 1 resulted in a considerable information gain. We especially mention the <b>hepatitis</b> dataset (the case of polynomial kernel) of which the information gain is 0.72 (we even obtained perfect information!) and the labor dataset (the case of polynomial kernel) of which the information gain is",
+    "mykey": 2148
+}

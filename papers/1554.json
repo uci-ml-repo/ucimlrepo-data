@@ -1,0 +1,11 @@
+{
+    "datasetID": 16,
+    "supportID": "9A4AB71FA8007EBC766C93E25181A097B2216D38",
+    "rexaID": "5193dfc0a9d39b5f86fe360d6beff81aa9b7390e",
+    "author": "Nikunj C. Oza and Stuart J. Russell",
+    "title": "Experimental comparisons of online and batch versions of bagging and boosting",
+    "venue": "KDD",
+    "year": "2001",
+    "window": "learning and its effect on ensemble performance. 6. ACKNOWLEDGEMENTS The <b>Wisconsin</b> <b>Breast</b> <b>Cancer</b> dataset was obtained from the University of Wisconsin Hospitals, Madison from Dr. William H. Wolberg. The Forest Covertype is Copyrighted 1998 by Jock A. Blackard and Colorado State University. 7.",
+    "mykey": 1554
+}

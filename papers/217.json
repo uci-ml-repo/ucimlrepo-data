@@ -1,0 +1,11 @@
+{
+    "datasetID": 56,
+    "supportID": "186BF67295B88C9428E82A3524ECD00EED064BB8",
+    "rexaID": "c15fec7384ce8461549ba1fc09fb2d87024cf037",
+    "author": "Ron Kohavi and George H. John",
+    "title": "Automatic Parameter Selection by Minimizing Estimated Error",
+    "venue": "Computer Science Dept. Stanford University",
+    "year": "",
+    "window": "69.84Sigma1.77 72.44Sigma1.73 78.18Sigma0.94 .973 X vote 435 95.64Sigma0.52 95.41Sigma0.47 97.71Sigma0.68 .172 vote1 435 88.02Sigma1.77 87.58Sigma1.52 92.40Sigma1.20 .342 <b>labor</b> negotiation dataset, note that the entire dataset is very small with only 57 instances. Because of the small size, the state evaluations in C4.5-AP had high variance, and the search did not find good parameter values.",
+    "mykey": 217
+}

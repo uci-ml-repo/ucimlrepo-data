@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "3EC13CA70DBF3A01899B8D79376A99E81A970C7C",
+    "rexaID": "cfcdd7693a196acd2e60944a030abaf8d477e337",
+    "author": "Manoranjan Dash and Huan Liu",
+    "title": "Feature Selection for Clustering",
+    "venue": "PAKDD",
+    "year": "2000",
+    "window": "in Figure 3. The X-axis of the plots is for number of most important features and Y -axis is for tr(P Gamma 1 W PB ) value for the corresponding subset of most important features. For <b>Iris</b> data set trace value was the maximum for the two most important features. For D3C, D4C and D6C data trace value increases with addition of important features in a fast rate but slows down to almost a halt",
+    "mykey": 522
+}

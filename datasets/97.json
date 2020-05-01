@@ -1,0 +1,23 @@
+{
+    "ID": 97,
+    "Name": "Sponge",
+    "Abstract": "Data on sponges; Attributes in spanish",
+    "Types": "Multivariate",
+    "Task": "Clustering",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 76,
+    "NumAttributes": 45,
+    "DateDonated": "",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/sponge/",
+    "URLReadme": "../machine-learning-databases/sponge/sponge.info",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "These are atlantic-mediterranean marine sponges that belong to O.Hadromerida (Demospongiae.Porifera).",
+    "Source": "Creators: \r\n\r\nIosune Uriz and Marta Domingo\r\nCentre d'Estudis Aban\\c{c}ats de Blanes (CSIC)\r\nCami de Santa Barbara. Blanes (Girona). Spain\r\n\r\nDonor: \r\n\r\nJavier B\\'ejar and Ulises Cort\\'es (bejar@lsi.upc.es)\r\nDept. Llenguatges i Sistemes Inform\\`atics;\r\nUniversitat Politecnica de Catalunya. Barcelona; Spain",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "Domingo, M. \"Aplicaci\\'o de t\\`ecniques de I.A. (LINNEO) a la classificaci\\'o sistem\\`atica: O.Hadromerida (Demospongiae.Porifera). Master Thesis. Departament d'ecologia. Universitat de Barcelona.\r\n\r\nMartin, M and Sanguesa, R. and Cor\\'es \"Biasing induction with previous knowledge for knowledge acquisition in imprecise domains''.  Les syst\\`emes experts et leus applications. Onzi\\'emes Journ\\'ees Internationales. Avignon'91. Vol 1. pp. 359-370. Avignon, France. 1991.\r\n\r\nMartin, M. and Sanguesa, R. and Cort\\'es U. \"Knowledge acquisition combining analytical and empirical techniques''. Proceedings of the Eighth International Workshop of Machine Learning. ML 91. pp 657-661. Evanston, Illinois, USA 1991.\r\nhttp://rexa.info/paper/94cb912bf92ab598e1f3e6f4e5e7f5a8e88ca263\r\n\r\nBejar, J. and Cort\\'es, U. \"LINNEO+: Herramienta para la adquisicion de conocimiento y generacion de reglas de clasificaci\\'on en dominios poco estructurados''. Proceedings del III Congreso Iberoamericano de Inteligencia Artificial. IBERAMIA 92. pp 471-482. La Habana (Cuba).\r\nhttp://rexa.info/paper/74f8dfb83053986b3487ae94578e90eda3fc1616",
+    "AttributeInfo": "27 attributes are non-numeric and nominal.\r\n15 attributes are boolean and take the values (NO SI).\r\n3 attributes are numeric and take natural numbers.",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 15
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 123,
+    "Name": "Entree Chicago Recommendation Data",
+    "Abstract": "This data contains a record of user interactions with the Entree Chicago restaurant recommendation system.",
+    "Types": "Transactional, Sequential",
+    "Task": "Recommender-Systems",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 50672,
+    "NumAttributes": 0,
+    "DateDonated": "2000-03-09",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/entree-mld/",
+    "URLReadme": "../machine-learning-databases/entree-mld/entree.data.html",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This data records interactions with Entree Chicago restaurant recommendation system (originally http://infolab.cs.uchicago.edu/entree) from September, 1996 to April, 1999. The data is organized into files roughly spanning a quarter year -- with Q3 1996 and Q2 1999 each only containing one month. \r\n\r\nEach line in a session file represents a session of user interaction with the system. The (tab-separated) fields are as follows: \r\n\r\n     Date, IP, Entry point, Rated restaurant1, ..., Rated restaurantN, End point\r\n\r\n1. Entry point:\r\n\r\nUsers can use a restaurant from any city as a entry point, but they always get recommendations for Chicago restaurants. The entry point therefore draws from a larger universe of restaurants than the rest of the data. \r\nEntry points have the form nnnX, where nnn is a numeric restaurant ID and X is a character A-H that encodes the city. \r\n\r\n     A = Atlanta\r\n     B = Boston\r\n     C = Chicago\r\n     D = Los Angeles\r\n     E = New Orleans\r\n     F = New York\r\n     G = San Francisco\r\n     H = Washington DC\r\n\r\n2. Rated Restaurant:\r\n\r\nThese are all Chicago restaurants. \r\nThese entries have the form nnnX, where nnn is a numeric restaurant ID and X is a character L-T that encodes the navigation operation. \r\n\r\n     L = browse (move from one restaurant in a list of recommendations to another)\r\n     M = cheaper (search for a restaurant like this one, but cheaper)\r\n     N = nicer   (         \"               \"           , but nicer)\r\n     O = closer  (unused in the production version of the system)\r\n     P = more traditional (search for a restaurant like this, but serving more traditional cuisine)\r\n     Q = more creative (search for a restaurant serving more creative cuisine)\r\n     R = more lively (search for a restaurant with a livelier atmosphere)\r\n     S = quieter (search for a restaurant with a quieter atmosphere)\r\n     T = change cuisine (search for a restaurant like this, but serving a different kind of food) Note that with this tweak, we would ideally like to know what cuisine the user wanted to change to, but this information was not recorded.\r\n\r\n3. End point:\r\n\r\nJust the numeric id for the (Chicago) restaurant that the user saw last. In our experiments, we are assuming that this was a good suggestion, but it is also possible that user just gives up. \r\nSome potentially useful data is missing. In many cases, we don't know the starting point because the user input a set of selection criteria (such as \"inexpensive traditional Mexican\") using a form submission, rather than starting from a known restaurant. These queries were not recorded. This is denoted by a 0 in the entry point field. Some sessions do not have a known end point. This is marked by -1 in the end point field. \r\n\r\n\r\nIn addition to the user's interactions, there is also data linking the restaurant ID with its name and features such as \"fabulous wine lists\", \"good for younger kids\", and \"Ethopian\" cuisine. This data is stored by city (e.g. Atlanta, Boston, etc.) and is in the following format: \r\n\r\n    restaurant id [tab] restaurant name [tab] restaurant features (3 digits ids separated by spaces)\r\n\r\n",
+    "Source": "Original Owner and Donor:\r\n\r\nRobin Burke\r\nUniversity of California, Irvine\r\nDepartment of Information and Computer Science\r\nIrvine, CA 92697\r\n\r\nNow here:\r\nhttp://josquin.cti.depaul.edu/~rburke/",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "Burke, R. The Wasabi Personal Shopper: A Case-Based Recommender System. In Proceedings of the 11th National Conference on Innovative Applications of Artificial Intelligence, pages 844-849. AAAI, 1999. \r\nhttp://rexa.info/paper/82494e6c63838b791bcd5aac2e85aaed14feec45\r\n\r\nBurke, R. Knowledge-based Recommender Systems. To appear in the Encyclopedia of Library and Information Science. ",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 6773
+}

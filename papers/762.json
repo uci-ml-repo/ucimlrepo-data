@@ -1,0 +1,11 @@
+{
+    "datasetID": 8,
+    "supportID": "53DFABDDB60022FB5D0D4AE073A86B8B6B9C9C1A",
+    "rexaID": "12fe4ef85ae4ef89437a10d0a7b0daf32af2be21",
+    "author": "Jerome H. Friedman and Ron Kohavi and Youngkeol Yun",
+    "title": "To appear in AAAI-96 Lazy Decision Trees",
+    "venue": "Statistics Department and Stanford Linear Accelerator Center Stanford University",
+    "year": "",
+    "window": "that have large differences. The LazyDT's average error rate is 1.9% lower, which is a relative improvement in error of 10.6% over C4.5's 17.9% average error rate. Three datasets deserve special discussion: anneal, <b>audiology</b>  and the monk2 problem. Anneal is interesting because ID3 manages so well. An investigation of the problem shows that the main difference stems from",
+    "mykey": 762
+}

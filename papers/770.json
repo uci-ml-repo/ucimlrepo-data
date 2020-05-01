@@ -1,0 +1,11 @@
+{
+    "datasetID": 12,
+    "supportID": "53DFBC477FFB016E36D54F98E48695902D8EB566",
+    "rexaID": "944b9d70eb0a01d18c91109dfeb566936461a194",
+    "author": "Alexander K. Seewald",
+    "title": "Meta-Learning for Stacked Classification",
+    "venue": "Austrian Research Institute for Artificial Intelligence",
+    "year": "",
+    "window": "the baseline accuracy is already 66.7%. Interestingly in this case the best model is from DecisionStump which learns a single J48 node, obtaining 88.9% accuracy, corresponding to a single error on dataset <b>balance</b> <b>scale</b>  It seems J48 is prone to overfitting on this meta-dataset. The training set model is based on meanAbsSkew. The models from the nine folds are more diverse: seven times, the following",
+    "mykey": 770
+}

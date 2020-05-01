@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "26BC7F3FF5880D0E159C4823BAF333F8C5B6DD21",
+    "rexaID": "47354ca48da5014e0a8f5e4da7f3a7e9aaa6e9e5",
+    "author": "Jie Cheng and Russell Greiner",
+    "title": "Comparing Bayesian Network Classifiers",
+    "venue": "UAI",
+    "year": "1999",
+    "window": "the value \"?\" in our experiments. Chess: Chess end-game result classification based on board-descriptions. <b>DNA</b>  Recognizing the boundaries between exons and introns given a sequence of DNA. Car dataset: Car evaluation based on the six features of a car. Flare: Classifying the number of times of occurrence of certain type of solar flare. Vote: Using voting records to classify Congressmen as",
+    "mykey": 319
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "723A5D87388B1CCAF21D082569AF2DA4C64825C0",
+    "rexaID": "36d1c58be0e3c0c1d57492d050d8a71a04a72858",
+    "author": "Ayhan Demiriz and Kristin P. Bennett",
+    "title": "Chapter 1 OPTIMIZATIONAPPROACHESTOSEMI-SUPERVISED LEARNING",
+    "venue": "Department of Decision Sciences and Engineering Systems & Department of Mathematical Sciences, Rensselaer Polytechnic Institute",
+    "year": "",
+    "window": "as in the previous section. Due to the long computational times for S 3 VM-IQP and transductive SVM-Light, we limit our experiments to only the Heart, Housing, Ionosphere, and <b>Sonar</b> datasets. Linear kernel functions are used for all methods used in this section. The results given in Table 1.3 show that using unlabeled data in the case of datasets Heart and Ionosphere affects",
+    "mykey": 1106
+}

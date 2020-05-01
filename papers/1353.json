@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "876648730F2CE199B9368ED5DF5B6A6838C48DA0",
+    "rexaID": "da329267bf8880c2becb15eae121a5b002347349",
+    "author": "Rong-En Fan and P. -H Chen and C. -J Lin",
+    "title": "Working Set Selection Using the Second Order Information for Training SVM",
+    "venue": "Department of Computer Science and Information Engineering National Taiwan University",
+    "year": "",
+    "window": "D. J. Spiegelhalter, and C. C. Taylor. Machine Learning, Neural and Statistical Classification. Prentice Hall, Englewood Cliffs, N.J., 1994. Data available at http://www.ncc.up.pt/liacc/ML <b>statlog</b> datasets.html. E. Osuna, R. Freund, and F. Girosi. Training support vector machines: An application to face detection. In Proceedings of CVPR'97, pages 130--136, New York, NY, 1997. IEEE. Laura Palagi and",
+    "mykey": 1353
+}

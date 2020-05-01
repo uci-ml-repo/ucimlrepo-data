@@ -1,0 +1,11 @@
+{
+    "datasetID": 79,
+    "supportID": "EF39B8A0937010BDDF79660789B4C2C48F2D5B7B",
+    "rexaID": "21ab0b68f14e5f4b1f401fa7bca294c1dc48061b",
+    "author": "Christopher P. Diehl and Gert Cauwenberghs",
+    "title": "SVM Incremental Learning, Adaptation and Optimization",
+    "venue": "Applied Physics Laboratory Johns Hopkins University",
+    "year": "",
+    "window": "that h = 0 when the final perturbation is complete. IV. EXPERIMENTAL RESULTS In order to assess the benefits offered by the incremental framework, we conducted two experiments using the <b>Pima</b> <b>Indians</b> dataset from the UCI machine learning repository [1]. Using an RBF kernel K(x, y) = exp # - kx - yk 2 # 2 # , we first fixed the kernel width and varied (increased or decreased) the regularization parameter",
+    "mykey": 2414
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 107,
+    "supportID": "950F28AC7FCB5EC339FAB6BF3E1B61C9D055F1D5",
+    "rexaID": "939595ca638eb3390e9bb9c4e6cc1352163cbf18",
+    "author": "Kai Ming Ting and Ian H. Witten",
+    "title": "Stacked Generalization: when does it work",
+    "venue": "Department of Computer Science University of Waikato",
+    "year": "",
+    "window": "from the UCI Repository of machine learning databases [Merz and Murphy, 1996]. Details of these are given in Table 1. For the artificial datasets---Led24 and <b>Waveform</b> -- each training dataset L is generated using a different Table 1: Details of the datasets used in the experiment. Datasets # Samples # Classes # Attr & Type Led24 200--5000 10",
+    "mykey": 1490
+}

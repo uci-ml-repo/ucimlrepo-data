@@ -1,0 +1,11 @@
+{
+    "datasetID": 150,
+    "supportID": "84E683FAF2CD08B20401EF2471DB2B85B44F2BB7",
+    "rexaID": "edc7361f3edbcbb2421477d257bf1305834c5c61",
+    "author": "Sherrie L. W and Zijian Zheng",
+    "title": "A BENCHMARK FOR CLASSIFIER LEARNING",
+    "venue": "Basser Department of Computer Science The University of Sydney",
+    "year": "",
+    "window": "e.g. Promoter (106) and Lymphography (148) ffl Medium (between 210 and 3170), e.g. Diabetes (768) and Thyroid (3163) ffl Large (more than 3170), e.g. <b>NetTalk</b> (Phoneme) (5438) and Mushroom (8124) 8. Dataset density (3 values): Usually a classifier learning algorithm can learn a more accurate theory from a larger number of training examples than from fewer examples. However, because different domains",
+    "mykey": 1334
+}

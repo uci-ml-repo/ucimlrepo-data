@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "9B0ED36480B43C38D03240BD6A9B05CF89AD707B",
+    "rexaID": "f91a9d851efd2169d5f16f8bfd5c7b9d2b81655c",
+    "author": "C. esar and Cesar Guerra-Salcedo and Darrell Whitley",
+    "title": "Feature Selection Mechanisms for Ensemble Creation : A Genetic Search Perspective",
+    "venue": "Department of Computer Science Colorado State University",
+    "year": "",
+    "window": "Features Classes Train Size Test Size LandSat 36 6 4435 2000 <b>DNA</b> 180 39 2000 1186 Segment 19 7 210 2100 Cloud 204 10 1000 633 Table 1: Dataset employed for the experiments. In the DNA dataset the attributes values are 0 or 1. In the Segment and the Cloud dataset the attributes values are floats. In the LandSat dataset the attribute values",
+    "mykey": 1575
+}

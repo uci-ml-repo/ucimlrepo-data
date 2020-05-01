@@ -1,0 +1,11 @@
+{
+    "datasetID": 60,
+    "supportID": "F383AEE7C8A682037D819B6ECC22CCEFDD348502",
+    "rexaID": "cf7f2c27ddd0ac36885f5d144528580d416f2f4c",
+    "author": "Jochen Garcke and Michael Griebel",
+    "title": "Classification with sparse grids using simplicial basis functions",
+    "venue": "Intell. Data Anal, 6",
+    "year": "2002",
+    "window": "% 0.8 20.6 3 train 91.4 % 194.1 86.6 % 9.6 88.0 % 10.8 test 70.8 % 69.9 % 70.5 % 4 train 92.6 % 1217.6 94.2 % 68.3 93.1 % 75.4 test 68.8 % 71.4 % 70.5 % Table 4: Results for the BUPA <b>liver</b> disorders data set basis functions. Note that a testing correctness of 90.6 % and 91.1 % was achieved with neural networks in [39] and [38], respectively, for this data set. 3.2 Small data sets 3.2.1 BUPA Liver The",
+    "mykey": 2468
+}

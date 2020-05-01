@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "6C73DC740EEBBF4A78556DD5F89FD4E3E29BBFC2",
+    "rexaID": "77b535b98a279e3b1ee9499bead3408bc8d58c08",
+    "author": "Glenn Fung and Sathyakama Sandilya and R. Bharat Rao",
+    "title": "Rule extraction from Linear Support Vector Machines",
+    "venue": "Computer-Aided Diagnosis & Therapy, Siemens Medical Solutions, Inc",
+    "year": "",
+    "window": "from the UCI Machine Learning Repository [13]: Wisconsin Diagnosis Breast Cancer (WDBC), <b>Ionosphere</b>  and Cleveland heart. The fourth dataset is a dataset related to the nontraditional authorship attribution problem related to the federalist papers [7] and the fifth dataset is a dataset used for training in a computer aided detection",
+    "mykey": 1043
+}

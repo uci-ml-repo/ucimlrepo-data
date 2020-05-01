@@ -1,0 +1,11 @@
+{
+    "datasetID": 19,
+    "supportID": "AF9DA0F1C2BCE97A5F6AA2240504B48A64670947",
+    "rexaID": "1b77c2b6fd8a261af286cf411879f9f520824bd6",
+    "author": "Marc Sebban and Richard Nock and St\u00e9phane Lallich",
+    "title": "Stopping Criterion for Boosting-Based Data Reduction Techniques: from Binary to Multiclass Problem",
+    "venue": "Journal of Machine Learning Research, 3",
+    "year": "2002",
+    "window": "(Balance, Echocardiogram, German, Horse Colic, Led, Pima and Vehicle) see important improvements, ranging from 1% to } 5%. In contrast, only one dataset sees significant accuracy decrease  <b>Car</b>  96.0% vs. 93.9%). 9. Conclusions and Future Research This paper explores a method for prototype selection based on boosting, and gives statistical criteria",
+    "mykey": 1800
+}

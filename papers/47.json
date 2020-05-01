@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "0756CD080BDDC5EA0DAF92978CDE03882601FEF1",
+    "rexaID": "47f4421e112679b98c4ccf604a351b54fbb7a000",
+    "author": "Huan Liu and Rudy Setiono",
+    "title": "Incremental Feature Selection",
+    "venue": "Appl. Intell, 9",
+    "year": "1998",
+    "window": "critical evaluation of intrinsic dimensionality algorithms. In E.S. Gelsema and Kanal L.N., editors, Pattern Recognition in Practice, pages 415--425. Morgan Kaufmann Publishers, Inc., 1980. 19 <b>Vote dataset</b> CPU time Percent of training samples 20.00 22.00 24.00 26.00 28.00 30.00 32.00 34.00 36.00 0.00 20.00 40.00 60.00 80.00 100.00 Mushroom dataset CPU time Percent of training samples 10.00 15.00 20.00",
+    "mykey": 47
+}

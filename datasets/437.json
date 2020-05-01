@@ -1,0 +1,23 @@
+{
+    "ID": 437,
+    "Name": "Residential Building Data Set",
+    "Abstract": "Data set includes construction cost, sale prices, project variables, and economic variables corresponding to real estate single-family residential apartments in Tehran, Iran. ",
+    "Types": "Multivariate",
+    "Task": "Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 372,
+    "NumAttributes": 105,
+    "DateDonated": "2018-02-19",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00437/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "See the tab 'Descriptions' in the Excel file.",
+    "Source": "Donor and Creator:  Mohammad H. Rafiei, Ph.D.\r\n        \t    Postdoctoral Researcher, The Ohio State University, Columbus, OH 43210\r\n\t \t    rafiei.4@osu.edu\r\n\t \t    www.mhraf.com ",
+    "Acknowledgements": "Rafiei, M.H. and Adeli, H. (2015). \u00e2\u20ac\u0153A Novel Machine Learning Model for Estimation of Sale Prices of Real Estate Units.\u00e2\u20ac\u009d ASCE, Journal of Construction Engineering & Management, 142(2), 04015066.",
+    "Area": "Computer",
+    "RelevantPapers": "Rafiei, M.H. and Adeli, H. (2015). \u00e2\u20ac\u0153A Novel Machine Learning Model for Estimation of Sale Prices of Real Estate Units.\u00e2\u20ac\u009d ASCE, Journal of Construction Engineering & Management, 142(2), 04015066.\r\nRafiei, M.H. and Adeli, H. (Submitted as of Feb 19, 2018). \u00e2\u20ac\u0153A Novel Machine Learning Model for Construction Cost Estimation Taking Into Account Economic Variables and Indices.\u00e2\u20ac\u009d ASCE, Journal of Construction Engineering & Management.",
+    "AttributeInfo": "Totally 105: 8 project physical and financial variables, 19 economic variables and indices in 5 time lag numbers (5*19 = 95), and two output variables that are construction costs and sale prices",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

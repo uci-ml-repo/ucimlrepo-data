@@ -1,0 +1,11 @@
+{
+    "datasetID": 102,
+    "supportID": "179D899CBA09D8237C605014832712FD8221A6D6",
+    "rexaID": "b08639d60b3527616dc9aa4dd4770e50289e44cd",
+    "author": "Lukasz A. Kurgan and Waldemar Swiercz and Krzysztof J. Cios",
+    "title": "Semantic Mapping of XML Tags Using Inductive Machine Learning",
+    "venue": "ICMLA",
+    "year": "2002",
+    "window": "domains 73.1 course 5 10 15.6 2.3 87.5 faculty 5 10 100 0 100.0 realest 5 10 27.4 20 57.2 mean for real-life domains 81.6 total mean 77.3 Similarly, the thy domain created using the <b>thyroid</b> dataset [28, 29] includes attributes that have very different attribute names, and very similar attribute values between the two sources. 92 percent of the examples from that domain belong to the same",
+    "mykey": 203
+}

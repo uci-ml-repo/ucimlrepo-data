@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "EF6F7ECED228AA8FD8AFF9BDA1EB27C8DB7F5E77",
+    "rexaID": "ac35cdc4f306058543fb3fbf817fc84d85f89288",
+    "author": "Johannes Furnkranz",
+    "title": "Round Robin Rule Learning",
+    "venue": "Austrian Research Institute for Artificial Intelligence",
+    "year": "",
+    "window": "9 Classification time is only included in the runs that had a separate test set. In general, it can be expected to be more expensive for R \u00bf . See Section 7 for a brief discussion of this issue. 12 dataset C5 -b vs. C5 R ; vs. unord vs. order <b>abalone</b> 23.34 10.81 193.0 4.51 5.73 covertype --- --- --- ---- ---- letter 73.37 6.64 1250.0 0.51 1.14 sat 27.86 9.10 143.0 0.85 1.51 shuttle 35.98 5.67 277.0",
+    "mykey": 2415
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 12,
+    "supportID": "653A012F03822736CA9CF2694CF88AB18E3F5A02",
+    "rexaID": "2ea57412a6ce00f095ef1a23aba00961bb392bf0",
+    "author": "Nir Friedman and Mois\u00e9s Goldszmidt and Thomas J. Lee",
+    "title": "Bayesian Network Classification with Continuous Attributes: Getting the Best of Both Discretization and Parametric Fitting",
+    "venue": "ICML",
+    "year": "1998",
+    "window": "experimental results show, the additional flexibility of the mixture results in drastically improved performance in the cases where the Gaussian TAN did poorly (see, for example, the accuracy of the data sets \"anneal-U\" and  <b>balance</b> <b>scale</b>  in Table 1). In this paper, we learned mixtures only when modeling a continuous feature with discrete parents. We note, however, that learning a mixture of linear",
+    "mykey": 949
+}

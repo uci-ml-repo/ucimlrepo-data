@@ -1,0 +1,11 @@
+{
+    "datasetID": 143,
+    "supportID": "B742582D060B7B586F98BF8DFE7004A8DFFCD43F",
+    "rexaID": "af26080292d3845212afdc432dfb8a1d1cdb5c8b",
+    "author": "Xiaoming Huo",
+    "title": "FBP: A Frontier-Based Tree-Pruning Algorithm",
+    "venue": "Seoung Bum Kim",
+    "year": "2002",
+    "window": "the mean difference of the CV error between CCP and FBP is (0.0770, 0.2196). As mentioned earlier, we treat this as a \"sanity check\". Table 4: Comparison of the CV Error Rates Between CCP and FBP Data Set CCP FBP Winner <b>Australian Credit</b> Approval 14.13 14.01 FBP Cleveland Heart Disease 21.15 20.89 FBP Congressional Voting Records 4.16 4.12 FBP Wisconsin Breast Cancer 4.56 4.47 FBP Iris Plants 5.20",
+    "mykey": 1872
+}

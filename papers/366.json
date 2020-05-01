@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "2BF600B43C073DC5CAB44DE66CBE5592909F6DD6",
+    "rexaID": "e3cb1b3c129bc2be18036ad91073724543894185",
+    "author": "Luc Hoegaerts and J. A. K Suykens and J. Vandewalle and Bart De Moor",
+    "title": "Subset Based Least Squares Subspace Regression in RKHS",
+    "venue": "Katholieke Universiteit Leuven Department of Electrical Engineering, ESAT-SCD-SISTA",
+    "year": "",
+    "window": "side our approach achieves overall a much smaller O(nm) memory cost, compared to the typical O(n 2 ) and a computational complexity of O(nm 3 ) compared to the typical O(n 2 ). The <b>ADULT</b> UCI data set [33] consists of 45222 cases having 14 input variables. The aim is to classify if the income of a person is greater than 50K based on several census parameters, such as age, education, marital",
+    "mykey": 366
+}

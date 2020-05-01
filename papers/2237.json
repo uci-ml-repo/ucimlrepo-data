@@ -1,0 +1,11 @@
+{
+    "datasetID": 137,
+    "supportID": "DF2388A179AF680C50C049F507A468B16452F3F1",
+    "rexaID": "208ec47695794498051a25cd425bc385a9d19602",
+    "author": "Thomas T. Osugi and M. S",
+    "title": "EXPLORATION-BASED ACTIVE MACHINE LEARNING",
+    "venue": "Faculty of The Graduate College at the University of Nebraska In Partial Fulfillment of Requirements",
+    "year": "",
+    "window": "of e-mail, a user can label good and bad examples. The user won't have much patience in this training process, and AL can minimize the amount of input needed. In experiments, for the <b>Reuters</b> 21578 dataset, only 10% of 6 unlabeled examples had to be labeled in order to get the same accuracy as the entire labeled pool. For image classification, Luo et al. [16] use active learning to recognize di\u00aeerent",
+    "mykey": 2237
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 4,
+    "supportID": "A37D1BCD1A7A46081EADA6AC96E787D4EBE10722",
+    "rexaID": "4133f6bdbdc248e6e8cac9083cf934be0dd0fa31",
+    "author": "W. Nick Street and Yoo-Hyon Kim",
+    "title": "A streaming ensemble algorithm (SEA) for large-scale classification",
+    "venue": "KDD",
+    "year": "2001",
+    "window": "cases, 25.7% of which belong to class 1. Predictive features include nuclear grade, tumor extent, tumor size, lymph node status, and number of lymph nodes examined. # <b>anonymous</b> <b>Web</b> browsing: This data set records browsing patterns for 32,710 anonymous visitors to the Microsoft Web site. We created a classification problem in a manner similar to Breese, et al. [3] by choosing to predict whether a",
+    "mykey": 1663
+}

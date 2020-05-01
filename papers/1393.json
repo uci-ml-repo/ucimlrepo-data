@@ -1,0 +1,11 @@
+{
+    "datasetID": 19,
+    "supportID": "8D64C051CF022841541BEA3ED92C41B2098BD9EA",
+    "rexaID": "7e787ada7263180d2a9bad6a3c490e7f8b0d4cd0",
+    "author": "Daniel J. Lizotte and Omid Madani and Russell Greiner",
+    "title": "Budgeted Learning, Part II: The Na#ve-Bayes Case",
+    "venue": "Department of Computing Science University of Alberta",
+    "year": "",
+    "window": "SFL at 50 queries is better than its performance at 50 when the budget is set at 300. Other policies do not take the budget into account. We have observed the same overall patterns on several other datasets that we have tested the policies so far  <b>CAR</b>  DIABETES, CHESS, BREAST): the performance of SFL is superior or comparable to the performance of other policies, and BIASED ROBIN is the best algorithm",
+    "mykey": 1393
+}

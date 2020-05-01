@@ -1,0 +1,11 @@
+{
+    "datasetID": 90,
+    "supportID": "2837E081D5B39E72FB24F1894BEBFFB0FEABC9E1",
+    "rexaID": "72c214298c31cc6c0701010f03fc82f44f22969f",
+    "author": "Geoffrey I. Webb",
+    "title": "OPUS: A systematic search algorithm and its application to categorical attribute-value datadriven machine learning",
+    "venue": "School of Computing and Mathematics, Deakin University",
+    "year": "1993",
+    "window": "contained the least conjuncts. The OPUS o algorithm was modified to provide systematic search in this context. Cover was applied using the same experimental design as in the first study to the same data sets as well as the <b>soybean</b> large data set also from the UCI machine learning repository [19]. This data set concerns the diagnosis of soybean plant disease. It has 35 attributes, 135 attribute values,",
+    "mykey": 328
+}

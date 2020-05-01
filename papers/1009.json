@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "6960026BAFD31775813E2512360D9460B75F4A2C",
+    "rexaID": "de7b203eb1605a71f18d23d9368046bfeb381b9f",
+    "author": "Prem Melville and Raymond J. Mooney",
+    "title": "Proceedings of the 21st International Conference on Machine Learning",
+    "venue": "Department of Computer Sciences",
+    "year": "",
+    "window": "In particular, we used a sample size of two for the primary dataset, and three for breast-w, <b>soybean</b>  diabetes, vowel and credit-g. The primary aim of active learning is to reduce the amount of training data needed to induce an accurate model. Toevaluate this, we",
+    "mykey": 1009
+}

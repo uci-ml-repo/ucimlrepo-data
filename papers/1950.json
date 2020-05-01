@@ -1,0 +1,11 @@
+{
+    "datasetID": 68,
+    "supportID": "C0B2104BE51DC15544C3B7DE80FCFD568019ABDD",
+    "rexaID": "1b69a36a9cff9bb19b533eff75b2a9924e4a73b2",
+    "author": "Steven Eschrich and Nitesh V. Chawla and Lawrence O. Hall",
+    "title": "Generalization Methods in Bioinformatics",
+    "venue": "BIOKDD",
+    "year": "2002",
+    "window": "Wealsoinvestigate the abilityofover-generalization in each classifier of an ensemble to more accurately predict the non-homologous structures seen within the <b>protein secondary</b> structure prediction dataset. Several key decisions must be made with regard to the ensemble of subsamples algorithm. Random subsampling of the dataset can be done with or without replacement. Subsampling with replacement is",
+    "mykey": 1950
+}

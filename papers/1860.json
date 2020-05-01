@@ -1,0 +1,11 @@
+{
+    "datasetID": 148,
+    "supportID": "B604499A7364797F1F1366F10C98FD1580B7FD8B",
+    "rexaID": "15b7c2d67edb6f722c80cf48928bc53c17ad7bef",
+    "author": "Wl odzisl and Rafal Adamczak and Krzysztof Grabczewski",
+    "title": "Optimization of Logical Rules Derived by Neural Procedures",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "77.2 4/4 78.0 Diabetes 2/2 75.0 Hepatitis 3/5 88.4 Heart (Cleveland) 4/3 85.5 Hypothyroid 3/5 99.4 Iris 3/1 95.3 3/2 98.0 Mushrooms 2/1 98.5 3/2 99.4 4/4 99.9 5/6 100.0 A. NASA <b>Shuttle</b> The Shuttle dataset from NASA contains 9 continuos numerical attributes related to the positions of radiators in the Space Shuttle. There are 43500 training vectors and 14500 test vectors, divided into 7 classes in a",
+    "mykey": 1860
+}

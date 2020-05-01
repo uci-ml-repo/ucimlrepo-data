@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "D8A619A3F46E4F984EE7492C6067EFC3545FE050",
+    "rexaID": "e70864ddba6a15ff831fca1695141cd180729323",
+    "author": "Carlotta Domeniconi and Bojun Yan",
+    "title": "On Error Correlation and Accuracy of Nearest Neighbor Ensemble Classifiers",
+    "venue": "Information and Software Engineering Department George Mason University",
+    "year": "",
+    "window": "we consider equal priors, and thus # 1,2 =1/C C # i=1 # i 1,2 gives the total error correlation between classifiers 1 and 2. Sample results for liver and <b>sonar</b> are given in Tables 9-10. For each data set we summarize the average error correlation values computed between five classifiers. We also report the corresponding error rates of the ensembles. In each case simple voting is used. Weight-C is",
+    "mykey": 2187
+}

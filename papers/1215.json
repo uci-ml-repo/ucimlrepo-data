@@ -1,0 +1,11 @@
+{
+    "datasetID": 25,
+    "supportID": "7B4103AA3422194A8AF1D91A8A7690A2EF04FE2A",
+    "rexaID": "44c3304f0bae0a9da4798db6e28bda955a80d576",
+    "author": "Matthew Brand",
+    "title": "Pattern discovery via entropy minimization",
+    "venue": "MERL -- A MITSUBISHI ELECTRIC RESEARCH LABORATORY",
+    "year": "1998",
+    "window": "occupant. An HMM conventionally estimated from the same initial conditions is fully connected and thus too bushy to profitably illustrate or interpret. Prediction in <b>Bach</b> <b>chorales</b>  We obtained a dataset of melodic lines from 100 of J.S. Bach's 371 surviving chorales from the UCI repository [Merz and Murphy, 1998], and transposed all into the key of C. We compared entropically and conventionally",
+    "mykey": 1215
+}

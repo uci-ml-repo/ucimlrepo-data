@@ -1,0 +1,23 @@
+{
+    "ID": 340,
+    "Name": "Cuff-Less Blood Pressure Estimation",
+    "Abstract": "This Data set provides preprocessed and cleaned vital signals which can be used in designing algorithms for cuff-less estimation of the blood pressure.",
+    "Types": "Multivariate",
+    "Task": "Classification, Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 12000,
+    "NumAttributes": 3,
+    "DateDonated": "2015-07-27",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00340/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The main goal of this data set is providing clean and valid signals for designing cuff-less blood pressure estimation algorithms. The raw electrocardiogram (ECG), photoplethysmograph (PPG), and arterial blood pressure (ABP) signals are originally collected from the physionet.org and then some preprocessing and validation performed on them. (For more information about the process please refer to our paper)",
+    "Source": "-- Creators: Mohamad Kachuee, Mohammad Mahdi Kiani, Hoda Mohammadzade, Mahdi Shabany\r\n             Department of Electrical Engineering, Sharif University of Technology, Tehran, Iran\r\n-- Donor: Mohamad Kachuee (m.kachuee@gmail.com)\r\n-- Date: July, 2015\r\n",
+    "Acknowledgements": "If you found this data set useful please cite the following:\r\nM. Kachuee, M. M. Kiani, H. Mohammadzade, M. Shabany, Cuff-Less High-Accuracy Calibration-Free Blood Pressure Estimation Using Pulse Transit Time, IEEE International Symposium on Circuits and Systems (ISCAS'15), 2015.",
+    "Area": "Life",
+    "RelevantPapers": "M. Kachuee, M. M. Kiani, H. Mohammadzade, M. Shabany, Cuff-Less High-Accuracy Calibration-Free Blood Pressure Estimation Using Pulse Transit Time, IEEE International Symposium on Circuits and Systems (ISCAS'15), 2015.\r\n\r\nA. Goldberger, L. Amaral, L. Glass, J. Hausdorff, P. Ivanov, R. Mark, J.Mietus, G. Moody, C. Peng and H. Stanley, \u00e2\u20ac\u0153Physiobank, physiotoolkit,and physionet components of a new research resource for complex physiologic signals,\u00e2\u20ac\u009d Circulation, vol. 101, no. 23, pp. 215\u00e2\u20ac\u201c220, 2000.\r\n",
+    "AttributeInfo": "The data set is in matlab's v7.3 mat file, accordingly it should be opened using new versions of matlab or HDF libraries in other environments.(Please refer to the Web for more information about this format)\r\nThis database consist of a cell array of matrices, each cell is one record part.\r\nIn each matrix each row corresponds to one signal channel: \r\n1: PPG signal, FS=125Hz;  photoplethysmograph from fingertip\r\n2: ABP signal, FS=125Hz; invasive arterial blood pressure (mmHg)\r\n3: ECG signal, FS=125Hz; electrocardiogram from channel II",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

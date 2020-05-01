@@ -1,0 +1,11 @@
+{
+    "datasetID": 75,
+    "supportID": "0903095816D8E6A1CBECE976A6F2BACC97BB4CFD",
+    "rexaID": "49d2b638ade35a870fbca0a82994404cdacfa902",
+    "author": "Zhi-Hua Zhou and Min-Ling Zhang",
+    "title": "Ensembles of Multi-instance Learners",
+    "venue": "ECML",
+    "year": "2003",
+    "window": "bags, and the number of instances contained in each bag ranges from 1 to 1,044. Detailed information on the <b>Musk</b> data is tabulated in Table 2. Ten-fold cross validation is performed on each Musk data set. In each fold, Bagging is employed to build an ensemble for each of the four base multi-instance learners, i.e. Iterated-discrim APR, Diverse Density, Citation-kNN, and EM-DD. Each ensemble",
+    "mykey": 98
+}

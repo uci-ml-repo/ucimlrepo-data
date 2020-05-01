@@ -1,0 +1,23 @@
+{
+    "ID": 113,
+    "Name": "Twenty Newsgroups",
+    "Abstract": "This data set consists of 20000 messages taken from 20 newsgroups.",
+    "Types": "Text",
+    "Task": "",
+    "AttributeTypes": "",
+    "NumInstances": 20000,
+    "NumAttributes": 0,
+    "DateDonated": "1999-09-09",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/20newsgroups-mld/",
+    "URLReadme": "../machine-learning-databases/20newsgroups-mld/20newsgroups.data.html",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "",
+    "Source": "Original Owner and Donor:\r\n\r\nTom Mitchell\r\nSchool of Computer Science \r\nCarnegie Mellon University\r\ntom.mitchell@cmu.edu\r\nhttp://www.cs.cmu.edu/~tom/",
+    "Acknowledgements": "You may use this material free of charge for any educational purpose, provided attribution is given in any lectures or publications that make use of this material. ",
+    "Area": "Other",
+    "RelevantPapers": "T. Mitchell. Machine Learning, McGraw Hill, 1997. \r\n\r\nT. Joachims (1996). A probabilistic analysis of the Rocchio algorithm with TFIDF for text categorization, Computer Science Technical Report CMU-CS-96-118. Carnegie Mellon University. \r\nhttp://rexa.info/paper/7c077ad01b1a7f0605ca075ead0193d4555c2619",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 21
+}

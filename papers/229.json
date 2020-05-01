@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "197E3A315C57C9278876D95B7E522700AA112886",
+    "rexaID": "a3fca86cb1f854c7fd7975e66aae2a5ba3710f8a",
+    "author": "Mikhail Bilenko and Sugato Basu and Raymond J. Mooney",
+    "title": "Integrating constraints and metric learning in semi-supervised clustering",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "Experiments were conducted on three datasets from the UCI repository: Iris, <b>Wine</b>  and Ionosphere (Blake & Merz, 1998); the Protein dataset used by Xing et al. (2003) and Bar-Hillel et al. (2003), and randomly sampled subsets from the Digits",
+    "mykey": 229
+}

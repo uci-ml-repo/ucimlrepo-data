@@ -1,0 +1,11 @@
+{
+    "datasetID": 110,
+    "supportID": "75FD06D392304EF1E1448A068315BB993DE16052",
+    "rexaID": "80b881ba423bc64d836bde049f1e5def83c1d5f8",
+    "author": "Erin L. Allwein and Robert E. Schapire and Yoram Singer",
+    "title": "Reducing Multiclass to Binary: A Unifying Approach for Margin Classifiers",
+    "venue": "ICML",
+    "year": "2000",
+    "window": "the bars in the top row of Figure 6 correspond to large positive values.) One-against-all often results in error rates that are much higher than the error rates of other codes. For instance, for the dataset <b>Yeast</b>  the one-against-all code has an error rate of 72% while the error rate of all the other codes is no more than 47:1% (random sparse) and can be as low as 39:6% 137 ALLWEIN, SCHAPIRE & SINGER",
+    "mykey": 1183
+}

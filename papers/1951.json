@@ -1,0 +1,11 @@
+{
+    "datasetID": 78,
+    "supportID": "C0B2104BE51DC15544C3B7DE80FCFD568019ABDD",
+    "rexaID": "1b69a36a9cff9bb19b533eff75b2a9924e4a73b2",
+    "author": "Steven Eschrich and Nitesh V. Chawla and Lawrence O. Hall",
+    "title": "Generalization Methods in Bioinformatics",
+    "venue": "BIOKDD",
+    "year": "2002",
+    "window": "from the UCI Machine Learning Repository [3]. The datasets chosen were <b>page block</b>  pendigits, satimage and letter. The letter dataset was the largest with 20,000 examples. Atenfold cross-validation was performed for each combination of subsample size and",
+    "mykey": 1951
+}

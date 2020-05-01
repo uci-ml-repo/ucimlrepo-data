@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "4357E3C12134AD70F70300666459DD3D97DE399A",
+    "rexaID": "319529c0338699404ff7d7f9d7e5c900e5294959",
+    "author": "Art B. Owen",
+    "title": "Tubular neighbors for regression and classification",
+    "venue": "Stanford University",
+    "year": "1999",
+    "window": "10 runs of 13-fold cross-validation using 60 inputs and may not compare directly to the one run of 13-fold cross-validation used here on the first 10 principal components. 7.5 <b>Diabetes</b> data This data set is from the Irvine repository. The response variable is a determination of whether a given woman is diabetic. There are 8 predictors, 26 Model ` k CV-13 Acc. f SqrLin 54 ffi 81 25:10 88:0 f Sqr2 45",
+    "mykey": 582
+}

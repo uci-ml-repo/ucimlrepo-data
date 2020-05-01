@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "75EBD298A57E2BBB3DE34EA2E6D6997E61E6944F",
+    "rexaID": "349644828ad3c8da8e1a15eee5aec0d704db34a1",
+    "author": "Kamal Ali and Michael J. Pazzani",
+    "title": "Error Reduction through Learning Multiple Descriptions",
+    "venue": "Machine Learning, 24",
+    "year": "1996",
+    "window": "search using Likelihood Combination is able to statistically significantly (95% confidence) reduce or maintain error on all domains except the (Ljubljana) <b>breast</b> <b>cancer</b> domain. On that breast cancer data set few learning methods have been able to get an accuracy significantly higher than that obtained by guessing the most frequent class suggesting it lacks the attributes relevant for discriminating the",
+    "mykey": 1170
+}

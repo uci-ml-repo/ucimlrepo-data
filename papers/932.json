@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "630C070E5F44F43845A52E5C1ACA3A77F5CF8ACA",
+    "rexaID": "36d1c58be0e3c0c1d57492d050d8a71a04a72858",
+    "author": "Ayhan Demiriz and Kristin P. Bennett",
+    "title": "Chapter 1 OPTIMIZATIONAPPROACHESTOSEMI-SUPERVISED LEARNING",
+    "venue": "Department of Decision Sciences and Engineering Systems & Department of Mathematical Sciences, Rensselaer Polytechnic Institute",
+    "year": "",
+    "window": "of the working set is set to 50 points and rest of the data are used as the training set. We use the following formula to pick the penalty parameter: 1 The continuous response variable in <b>Housing</b> dataset was categorized at 21.5 12 APPLICATIONS AND ALGORITHMS OF COMPLEMENTARITY Table 1.2 Average Error Results for Inductive and Transductive SVM Methods Data Set SVM-RLP \u00d3\u00d4\u00b5\u00d6\u00d5\u00c9\u00d1 Local SVM Local \u00d3\u00ce\u00b5S\u00d5\u00d7\u00d1",
+    "mykey": 932
+}

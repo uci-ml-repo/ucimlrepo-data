@@ -1,0 +1,11 @@
+{
+    "datasetID": 149,
+    "supportID": "E01C5FD64B489477148B6D1B0A6D1D28D14EB140",
+    "rexaID": "b90249d5778eb237815fe93968e894cb5adb7f8a",
+    "author": "Ron Kohavi",
+    "title": "A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection",
+    "venue": "IJCAI",
+    "year": "1995",
+    "window": "rand, with 20 Boolean features and a Boolean random label. On one dataset, <b>vehicle</b>  the generalization accuracy of the Naive-Bayes algorithm deteriorated by more than 4% as more instances were given. A similar phenomenon was observed on the shuttle dataset. Such a",
+    "mykey": 2271
+}

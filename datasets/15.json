@@ -1,0 +1,23 @@
+{
+    "ID": 15,
+    "Name": "Breast Cancer Wisconsin (Original)",
+    "Abstract": "Original Wisconsin Breast Cancer Database",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 699,
+    "NumAttributes": 10,
+    "DateDonated": "1992-07-15",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/breast-cancer-wisconsin/",
+    "URLReadme": "../machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.names",
+    "HighestAccuracy": 96,
+    "RelevantInfo": "Samples arrive periodically as Dr. Wolberg reports his clinical cases. The database therefore reflects this chronological grouping of the data. This grouping information appears immediately below, having been removed from the data itself:\r\n\r\nGroup 1: 367 instances (January 1989)\r\nGroup 2:  70 instances (October 1989)\r\nGroup 3:  31 instances (February 1990)\r\nGroup 4:  17 instances (April 1990)\r\nGroup 5:  48 instances (August 1990)\r\nGroup 6:  49 instances (Updated January 1991)\r\nGroup 7:  31 instances (June 1991)\r\nGroup 8:  86 instances (November 1991)\r\n-----------------------------------------\r\nTotal:   699 points (as of the donated datbase on 15 July 1992)\r\n\r\nNote that the results summarized above in Past Usage refer to a dataset of size 369, while Group 1 has only 367 instances.  This is because it originally contained 369 instances; 2 were removed.  The following statements summarizes changes to the original Group 1's set of data:\r\n\r\n#####  Group 1 : 367 points: 200B 167M (January 1989)\r\n\r\n#####  Revised Jan 10, 1991: Replaced zero bare nuclei in 1080185 & 1187805\r\n\r\n#####  Revised Nov 22,1991: Removed 765878,4,5,9,7,10,10,10,3,8,1 no record\r\n#####                  : Removed 484201,2,7,8,8,4,3,10,3,4,1 zero epithelial\r\n#####                  : Changed 0 to 1 in field 6 of sample 1219406\r\n#####                  : Changed 0 to 1 in field 8 of following sample:\r\n#####                  : 1182404,2,3,1,1,1,2,0,1,1,1",
+    "Source": "Creator:\r\n\r\nDr. WIlliam H. Wolberg (physician)\r\nUniversity of Wisconsin Hospitals\r\nMadison, Wisconsin, USA\r\n \r\nDonor: \r\n\r\nOlvi Mangasarian (mangasarian@cs.wisc.edu)\r\nReceived by David W. Aha (aha@cs.jhu.edu)",
+    "Acknowledgements": "This breast cancer databases was obtained from the University of Wisconsin Hospitals, Madison from Dr. William H. Wolberg.  If you publish results when using this database, then please include this information in your acknowledgements.  Also, please cite one or more of:\r\n1. O. L. Mangasarian and W. H. Wolberg: \"Cancer diagnosis via linear programming\", SIAM News, Volume 23, Number 5, September 1990, pp 1 & 18.\r\n2. William H. Wolberg and O.L. Mangasarian: \"Multisurface method of pattern separation for medical diagnosis applied to breast cytology\", Proceedings of the National Academy of Sciences, U.S.A., Volume 87, December 1990, pp 9193-9196.\r\n3. O. L. Mangasarian, R. Setiono, and W.H. Wolberg: \"Pattern recognition via linear programming: Theory and application to medical diagnosis\", in: \"Large-scale numerical optimization\", Thomas F. Coleman and Yuying Li, editors, SIAM Publications, Philadelphia 1990, pp 22-30.\r\n4. K. P. Bennett & O. L. Mangasarian: \"Robust linear programming discrimination of two linearly inseparable sets\", Optimization Methods and Software 1, 1992, 23-34 (Gordon & Breach Science Publishers).",
+    "Area": "Life",
+    "RelevantPapers": "Wolberg, W.H., & Mangasarian, O.L. (1990). Multisurface method of pattern separation for medical diagnosis applied to breast cytology. In Proceedings of the National Academy of Sciences, 87, 9193--9196.\r\nhttp://rexa.info/paper/781d2581b297dad058cf6f1be2a009144b5306fb\r\n\r\nZhang, J. (1992). Selecting typical instances in instance-based learning.  In Proceedings of the Ninth International Machine Learning Conference (pp. 470--479).  Aberdeen, Scotland: Morgan Kaufmann.\r\nhttp://rexa.info/paper/8530b076d4e5d17b52264686e9d23ef329eb33ee",
+    "AttributeInfo": "1. Sample code number:            id number\r\n2. Clump Thickness:               1 - 10\r\n3. Uniformity of Cell Size:       1 - 10\r\n4. Uniformity of Cell Shape:      1 - 10\r\n5. Marginal Adhesion:             1 - 10\r\n6. Single Epithelial Cell Size:   1 - 10\r\n7. Bare Nuclei:                   1 - 10\r\n8. Bland Chromatin:               1 - 10\r\n9. Normal Nucleoli:               1 - 10\r\n10. Mitoses:                       1 - 10\r\n11. Class:                        (2 for benign, 4 for malignant)",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 28129
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 16,
+    "supportID": "5A10009D3F14FB95905A28D4E0929F10ABADED75",
+    "rexaID": "7265efd898e4c045ff078fcb63fec9fbde4b1249",
+    "author": "Endre Boros and Peter Hammer and Toshihide Ibaraki and Alexander Kogan and Eddy Mayoraz and Ilya B. Muchnik",
+    "title": "An Implementation of Logical Analysis of Data",
+    "venue": "IEEE Trans. Knowl. Data Eng, 12",
+    "year": "2000",
+    "window": "the housing value is above or below the median. Using training sets of 80% of the observations, [16] reports correct prediction rates ranging from 82% to 83.2%. <b>Breast</b> <b>Cancer</b>  <b>Wisconsin</b> . The dataset, compiled by O. Mangasarian and K.P. Bennett, is widely used in the machine learning community for comparing learning algorithms. It is, however, difficult to use it for rigorous comparisons since",
+    "mykey": 822
+}

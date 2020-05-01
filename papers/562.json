@@ -1,0 +1,11 @@
+{
+    "datasetID": 148,
+    "supportID": "41764D58770E66878B84E1716D1C32BB05F1F2ED",
+    "rexaID": "78729a95fae0b658d4d1956948c16e81e46d9f8c",
+    "author": "Grigorios Tsoumakas and Ioannis P. Vlahavas",
+    "title": "Effective Stacking of Distributed Classifiers",
+    "venue": "ECAI",
+    "year": "2002",
+    "window": "the complexity of the learning problem at the combination phase is related to the product C # L, where L is the size of the meta-level training set. The variation present in the Letter and <b>Shuttle</b> data sets is due to the fact that the calculation of averages also involves time. This however is very small compared to the time needed for global learning. 0 10 20 30 40 50 60 70 80 90 0 5 10 15 20 25 30",
+    "mykey": 562
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 16,
+    "supportID": "66CC6A2866834CDCD20DCAD562D43F42E98F955B",
+    "rexaID": "c185d513badef2336ca48f64098d4b5df17bf5a4",
+    "author": "Robert Burbidge and Matthew Trotter and Bernard F. Buxton and Sean B. Holden",
+    "title": "STAR - Sparsity through Automated Rejection",
+    "venue": "IWANN (1)",
+    "year": "2001",
+    "window": "available from the UCI Machine Learning Data Repository [11], are as follows. The <b>breast</b> <b>cancer</b> <b>Wisconsin</b> data set has 699 examples in nine dimensions and is `noise-free', one feature has 16 missing values which are replaced with the feature mean. The ionosphere data set has 351 examples in 33 dimensions and is",
+    "mykey": 963
+}

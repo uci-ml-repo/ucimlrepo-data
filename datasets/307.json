@@ -1,0 +1,23 @@
+{
+    "ID": 307,
+    "Name": "AAAI 2014 Accepted Papers",
+    "Abstract": "This data set compromises the metadata for the 2014 AAAI conference's accepted papers, including paper titles, authors, abstracts, and keywords of varying granularity.",
+    "Types": "Multivariate",
+    "Task": "Clustering",
+    "AttributeTypes": "",
+    "NumInstances": 399,
+    "NumAttributes": 6,
+    "DateDonated": "2014-07-30",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00307/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "CSV format where each row is a paper and each column an attribute.",
+    "Source": "Carla Brodley\r\nc.brodley@neu.edu\r\nDean of the College of Computer and Information Science\r\nNortheastern University",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "Discovering Better AAAI Keywords via Clustering with Community-sourced Constraints\r\nKelly H. Moran, Byron C. Wallace and Carla E. Brodley\r\nAAAI Conference on Artificial Intelligence (AAAI), 2014",
+    "AttributeInfo": "Title: Free text; title of the paper\r\nAuthors: Free text; author(s) of the paper\r\nGroups: Categorical; author-selected, high-level keyword(s)\r\nKeywords: Free text; author-generated keywords\r\nTopics: Free text; author-selected, low-level keywords\r\nAbstracts: Free text; paper abstracts",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "6488EB1A04F3F3E1DB148DD78B60025C6B1487D2",
+    "rexaID": "05c326dc479677ca55b6b6e260c8622539762b62",
+    "author": "Hussein A. Abbass",
+    "title": "Pareto Neuro-Evolution: Constructing Ensemble of Neural Networks Using Multi-objective Optimization",
+    "venue": "Artificial Life and Adaptive Robotics (A.L.A.R.) Lab, School of Information Technology and Electrical Engineering, Australian Defence Force Academy",
+    "year": "",
+    "window": "size 25, the learning rate for BP 0.003, the number of hidden units is set to 5, and the number of epochs BP was applied to an individual is set to 5 for each subset incase of Prob1. The <b>diabetes</b> dataset has 768 patterns; 500 belonging to the first class and 268 to the second. It contains 8 attributes. The classification problem is difficult as the class value is a binarized form of another",
+    "mykey": 944
+}

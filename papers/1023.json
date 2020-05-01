@@ -1,0 +1,11 @@
+{
+    "datasetID": 150,
+    "supportID": "6B587A673538A05EAD7839C7BFA107131F4E211C",
+    "rexaID": "348b01031a1751ae4325c18e4dee08777b4cb9ee",
+    "author": "Steven Salzberg",
+    "title": "On Comparing Classifiers: Pitfalls to Avoid and a Recommended Approach",
+    "venue": "Data Min. Knowl. Discov, 1",
+    "year": "1997",
+    "window": "major new results using wellstudied and widely shared data. For example, Fisher's iris data has been around for 60 years and has been used in hundreds (maybe thousands) of studies. The <b>NetTalk</b> dataset of English pronunciation data (introduced by Sejnowski and Rosenberg, [21] has been used in numerous experiments, as has the protein secondary structure data (introduced by Qian and Sejnowski [19]),",
+    "mykey": 1023
+}

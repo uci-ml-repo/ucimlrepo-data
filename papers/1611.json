@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "9C55846F1A0EF7FDD40EF79C88B0EEAB52E2ABD3",
+    "rexaID": "77faaac3f85d52abea60e7152460894b085b63ec",
+    "author": "Pramod Viswanath and M. Narasimha Murty and Shalabh Bhatnagar",
+    "title": "A pattern synthesis technique to reduce the curse of dimensionality effect",
+    "venue": "E-mail",
+    "year": "",
+    "window": "We performed experiments with five different datasets, viz., OCR, <b>WINE</b>  THYROID, GLASS and PENDIGITS, respectively. Except the OCR dataset, all others are from the UCI Repository [16]. OCR dataset is also used in [17, 18]. The properties of the",
+    "mykey": 1611
+}

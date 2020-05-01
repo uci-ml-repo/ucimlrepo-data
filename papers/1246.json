@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "7D2E76C681C0D058C87E699E774A1A3C11185A77",
+    "rexaID": "a8a26052ead9d54b217e18b4e159137da340946f",
+    "author": "Jun Wang and Bin Yu and Les Gasser",
+    "title": "Concept Tree Based Clustering Visualization with Shaded Similarity Matrices",
+    "venue": "ICDM",
+    "year": "2002",
+    "window": "similarity. has a scalability limitation. One solution is to use sampling and ensemble approaches. Using small sample sizes such as 100 or 200, we have tested the sampling approach on some <b>Statlog</b> datasets, including the Shuttle dataset which contains 43, 500 instances[6]. The results are promising. 6. Summary This paper proposes a new approach for getting better interpretations for clustering",
+    "mykey": 1246
+}

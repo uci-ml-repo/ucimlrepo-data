@@ -1,0 +1,11 @@
+{
+    "datasetID": 74,
+    "supportID": "66D0757B5B8B019707D2F06E52F97BCDF7F9CF74",
+    "rexaID": "d320ece010630c32341d927b2573372abbbca524",
+    "author": "Stephen D. Bay",
+    "title": "Combining Nearest Neighbor Classifiers Through Multiple Feature Subsets",
+    "venue": "ICML",
+    "year": "1998",
+    "window": "maintain consistency with reported results (Quinlan, 1996). For Satimage, we used the original division into a training and test set, so the results represent one run of each algorithm. For the <b>Musk</b> dataset, which has 166 features, FSS and BSS took too long to run (over 24 hours for a single trial) and no results were obtained. 3.2 ACCURACY The accuracy and parameter selection results (average k or",
+    "mykey": 969
+}

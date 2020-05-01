@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "E798AFE7EF0C15D3AFDB85C05FD6281B03B0F443",
+    "rexaID": "193231e78c226995eee9f66bf9a4177b8416daf4",
+    "author": "H. -T Lin and C. -J Lin",
+    "title": "A Study on Sigmoid Kernels for SVM and the Training of non-PSD Kernels by SMO-type Methods",
+    "venue": "Department of Computer Science and Information Engineering National Taiwan University",
+    "year": "",
+    "window": "D. J. Spiegelhalter, and C. C. Taylor (1994). Machine Learning, Neural and Statistical Classification. Englewood Cliffs, N.J.: Prentice Hall. Data available at http://www.ncc.up.pt/liacc/ML <b>statlog</b> datasets.html. Nash, S. G. and A. Sofer (1996). Linear and Nonlinear Programming. McGraw-Hill. Osuna, E., R. Freund, and F. Girosi (1997). Training support vector machines: An application to face detection.",
+    "mykey": 2321
+}

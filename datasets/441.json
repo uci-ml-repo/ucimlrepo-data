@@ -1,0 +1,23 @@
+{
+    "ID": 441,
+    "Name": "Repeat Consumption Matrices",
+    "Abstract": "The dataset contains 7 datasets of User - Item matrices, where each entry represents how many times a user consumed an item. Item is used as an umbrella term for various categories.",
+    "Types": "Multivariate",
+    "Task": "Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 130000,
+    "NumAttributes": 21000,
+    "DateDonated": "2018-03-22",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00441/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "There are 7 datasets from Reddit, Twitter, Gowalla and Lastfm.\r\nEach matrix contains how many times a user 'consumed' and item. Items can be locations, artists, or subreddits. \r\nDetails about each dataset are presented below. (In the parenthesis is the number of Users x Items)\r\n\r\ntw_oc (13k x 11k): tweets with geolocation from Orange County CA area. Items are locations a user visits in this case.\r\ntw_ny (30k x 11k): Same as tw_oc but from the New York area.\r\n\r\ngo_sf (2k x 7k): Check-ins from the app Gowalla, from the San Fransisco area. Full dataset here: https://snap.stanford.edu/data/loc-gowalla.html\r\ngo_ny (1k x 7k): Same as go_sf, but from the New York area.\r\n\r\nlastfm (992 x 15k): How many times, a user listened to each artist. Covers 3 years of listening habbits, full dataset here: http://www.dtic.upf.edu/\u00e2\u02c6\u00bcocelma/MusicRecommendationDataset/lastfm-1K.html\r\n\r\nreddit_top (113k x 21k): How many times a user posted in a subreddit. These are the 130k most active users from 2015 and 20k most subscribed subreddits. This dataset is very large and can take a lot of time to load/use.\r\nreddit_sample (20k x 21k): Same as reddit_top, but a sample of 20k users.",
+    "Source": "Dimitrios Kotzias, dkotzias@ics.uci.edu, University of California Irvine",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Computer",
+    "RelevantPapers": "Predicting Consumption Patterns with Repeated and Novel Events by Dimitrios Kotzias, Moshe Lichman and Padhraic Smyth.",
+    "AttributeInfo": "The attributes represent items (categories) that uses tend to select multiple times. These can be music artists, subreddits or locations on the map.\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

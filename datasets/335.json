@@ -1,0 +1,23 @@
+{
+    "ID": 335,
+    "Name": "Online Video Characteristics and Transcoding Time Dataset",
+    "Abstract": "The dataset contains a million randomly sampled video instances listing 10 fundamental video characteristics along with the YouTube video ID. ",
+    "Types": "Multivariate",
+    "Task": "Regression",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 168286,
+    "NumAttributes": 11,
+    "DateDonated": "2015-05-19",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00335/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The presented dataset is composed of two tsv files named 'youtube_videos.tsv' \r\nand 'transcoding_mesurment.tsv'. The first contains 10 columns of fundamental \r\nvideo characteristics for 1.6 million youtube videos; It contains YouTube video id, \r\nduration, bitrate(total in Kbits), bitrate(video bitrate in Kbits), \r\nheight(in pixle), width(in pixles), framrate, estimated framerate, codec, \r\ncategory, and direct video link. This dataset can be used to gain insight\r\nin characteristics of consumer videos found on UGC(Youtube).\r\n\r\nThe second file of our dataset contains 20 columns(see column names for names) \r\nwhich include input and output video characteristics along with their transcoding \r\ntime and memory resource requirements while transcoding videos to diffrent but \r\nvalid formats. The second dataset was collected based on experiments on an Intel \r\ni7-3720QM CPU through randomly picking two rows from the first dataset and using \r\nthese as input and output parameters of a video transcoding application, ffmpeg 4 . \r\nIn section 6 we will use the second dataset to build a transcoding time prediction\r\nmodel and show the significance of our datasets.",
+    "Source": "Tewodros Deneke, tdeneke@abo.fi\r\n",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Computer",
+    "RelevantPapers": "@INPROCEEDINGS{6890256, \r\nauthor={Deneke, T. and Haile, H. and Lafond, S. and Lilius, J.}, \r\nbooktitle={Multimedia and Expo (ICME), 2014 IEEE International Conference on}, \r\ntitle={Video transcoding time prediction for proactive load balancing}, \r\nyear={2014}, \r\nmonth={July}, \r\npages={1-6}, \r\nkeywords={prediction theory;resource allocation;transcoding;video coding;video streaming;input video stream;proactive load balancing;video transcoding time prediction;Bit rate;Codecs;Load management;Load modeling;Predictive models;Transcoding;YouTube;Load Balancing;Machine Learning;Prediction;Transcoding}, \r\ndoi={10.1109/ICME.2014.6890256},}",
+    "AttributeInfo": "id  = Youtube videp id     \r\nduration = duration of video        \r\nbitrate bitrate(video) = video bitrate  \r\nheight = height of video in pixles  \r\nwidth  = width of video in pixles\r\nframe rate = actual video frame rate      \r\nframe rate(est.) =  estimated video frame rate       \r\ncodec = coding standard used for the video   \r\ncategory = YouTube video category        \r\nurl = direct link to video (has expiration date)\r\ni = number of i frames in the video    \r\np = number of p frames in the video    \r\nb = number of b frames in the video\r\nframes = number of frames in video\r\ni_size = total size in byte of i videos         \r\np_size = total size in byte of p videos        \r\nb_size = total size in byte of b videos        \r\nsize = total size of video  \r\no_codec = output codec used for transcoding\r\no_bitrate = output bitrate used for transcoding      \r\no_framerate = output framerate used for transcoding\r\no_width = output width in pixel used for transcoding\r\no_height = output height used in pixel for transcoding\r\numem = total codec allocated memory for transcoding   \r\nutime = total transcoding time for transcoding",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

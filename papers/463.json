@@ -1,0 +1,11 @@
+{
+    "datasetID": 25,
+    "supportID": "35EAF3C1D0284590525F860D36B9466161712EA2",
+    "rexaID": "cac8f7b952b6dc917dd68834c825e7f48373cafa",
+    "author": "Zoubin Ghahramani and Michael I. Jordan",
+    "title": "Factorial Hidden Markov Models",
+    "venue": "Machine Learning, 29",
+    "year": "1997",
+    "window": "HMMs of varying sizes (K ranging from 2 to 6; M ranging from 2 to 9) were also trained on the same data. To approximate the FACTORIAL HIDDEN MARKOV MODELS 17 Table 2. Attributes in the <b>Bach</b> chorale data set. The key signature and time signature attributes were constant over the duration of the chorale. All attributes were treated as real numbers and modeled using the linear-Gaussian observation model",
+    "mykey": 463
+}

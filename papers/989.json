@@ -1,0 +1,11 @@
+{
+    "datasetID": 23,
+    "supportID": "68E4CBD76EB78057876930BD7362D346BE6BFED4",
+    "rexaID": "cd11168bb19fd462bc59beefbe670bc4eb31e3eb",
+    "author": "Mark A. Hall",
+    "title": "Department of Computer Science Hamilton, NewZealand Correlation-based Feature Selection for Machine Learning",
+    "venue": "Doctor of Philosophy at The University of Waikato",
+    "year": "1999",
+    "window": "without feature selection using merged subsets. . . . . . . . . . . . . . . . . . . . . . . . . . 115 6.9 Top eight feature-class correlations assigned by CFS-UC and CFS-MDL on the <b>chess</b> end-game dataset. . . . . . . . . . . . . . . . . . . . . . . . 116 7.1 Comparison between naive Bayes without feature selection and naive Bayes with feature selection by the wrapper and CFS. . . . . . . . . . . .",
+    "mykey": 989
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 39,
+    "supportID": "086B189A5B7FF3F466BDB748C0CF272EC1186EDB",
+    "rexaID": "b4b7ea88c807c5c8746bf3067f13b1d07899bcc9",
+    "author": "Andrew Watkins and Jon Timmis and Lois C. Boggess",
+    "title": "Artificial Immune Recognition System (AIRS): An ImmuneInspired Supervised Learning Algorithm",
+    "venue": "(abw5,jt6@kent.ac.uk) Computing Laboratory, University of Kent",
+    "year": "",
+    "window": "thorough examination of the tie-breaking mechanism in the k-nn algorithm. In the course of this latter experimentation, it was found that AIRS outperforms the best reported accuracy for the E <b>coli</b> data set found in the UCI repository [4]. The majority of AIS techniques use the metaphor of somatic hypermutation or a\u00b1nity proportional mutation. To date, AIRS does not employ this metaphor but instead",
+    "mykey": 81
+}

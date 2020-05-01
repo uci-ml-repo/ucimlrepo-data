@@ -1,0 +1,11 @@
+{
+    "datasetID": 70,
+    "supportID": "FC31BDC87B2667D02DC0F197AEFBA3988DB4B0C0",
+    "rexaID": "dd3f32548422fd3db3846c2fba689a4406d9cf0c",
+    "author": "Ron Kohavi",
+    "title": "The Power of Decision Tables",
+    "venue": "ECML",
+    "year": "1995",
+    "window": "Breiman et al. (1984), Devijver & Kittler (1982)). The results demonstrate that IDTM can achieve high accuracy in discrete domains using the simple hypothesis space of DTMs. In corral, dna, the <b>Monk</b> Dataset Features sizes Accuracy Accuracy Accuracy Accuracy australian 14 690 CV 55.5Sigma2.3 85.4Sigma1.1 84.9Sigma 1.7 89.4Sigma1.3 breast 10 699 CV 65.5Sigma1.7 95.4Sigma0.7 90.6Sigma 0.9",
+    "mykey": 2556
+}

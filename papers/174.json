@@ -1,0 +1,11 @@
+{
+    "datasetID": 54,
+    "supportID": "125863C37F7A29383A2E9A817FF0B10FA30FB8E0",
+    "rexaID": "9acaa3dfebccac9d79abb08f7eced65482be1631",
+    "author": "Inderjit S. Dhillon and Dharmendra S. Modha and W. Scott Spangler",
+    "title": "Class visualization of high-dimensional data with applications",
+    "venue": "Department of Computer Sciences, University of Texas",
+    "year": "2002",
+    "window": "(a d#n matrix where n is the number of data points), which has a computational complexity of O(d 2 n). Typically n is much larger than k as can be seen from two sample data sets we will use later in this paper. In the <b>ISOLET</b> speech recognition data set, k = 26, n = 7797 and d = 617, while in the PENDIGITS example k = 10, n = 10992 and d = 16. The non-linear SOM and MDS",
+    "mykey": 174
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 126,
+    "Name": "Internet Usage Data",
+    "Abstract": "This data contains general demographic information on internet users in 1997.",
+    "Types": "Multivariate",
+    "Task": "",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 10104,
+    "NumAttributes": 72,
+    "DateDonated": "1999-06-30",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/internet_usage-mld/",
+    "URLReadme": "../machine-learning-databases/internet_usage-mld/internet_usage.data.html",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This data comes from a survey conducted by the Graphics and Visualization Unit at Georgia Tech October 10 to November 16, 1997. The full details of the survey are available here: http://www.cc.gatech.edu/gvu/user_surveys/survey-1997-10/\r\n\r\nThe particular subset of the survey provided here is the \"general demographics\" of internet users. The data have been recoded as entirely numeric, with an index to the codes described in the \"Coding\" file. \r\n\r\nThe full survey is available from the web site above, along with summaries, tables and graphs of their analyses. In addition there is information on other parts of the survey, including technology demographics and web commerce. \r\n\r\nThe data is stored in an ASCII files with one observation per line. Spaces separate fields. ",
+    "Source": "Original Owner:\r\n\r\nGraphics, Visualization, & Usability Center\r\nCollege of Computing\r\nGeogia Institute of Technology\r\nAtlanta, GA\r\nhttp://www.gvu.gatech.edu/gvu/user_surveys/survey-1997-10/\r\n\r\nDonor:\r\n\r\nDr Di Cook\r\nDepartment of Statistics\r\nIowa State University\r\nhttp://www.public.iastate.edu/~dicook/\r\n",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "This data was used in the American Statistical Association Statistical Graphics and Computing Sections 1999 Data Exposition. ",
+    "AttributeInfo": "",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 14
+}

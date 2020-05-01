@@ -1,0 +1,23 @@
+{
+    "ID": 243,
+    "Name": "Yacht Hydrodynamics",
+    "Abstract": "Delft data set, used to predict the hydodynamic performance of sailing yachts from dimensions and velocity.",
+    "Types": "Multivariate",
+    "Task": "Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 308,
+    "NumAttributes": 7,
+    "DateDonated": "2013-01-03",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00243/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Prediction of residuary resistance of sailing yachts at the initial design stage is of a great value for evaluating the ship\u00e2\u20ac\u2122s performance and for estimating the required propulsive power. Essential inputs include the basic hull dimensions and the boat velocity. \r\n\r\nThe Delft data set comprises 308 full-scale experiments, which were performed at the Delft Ship Hydromechanics Laboratory for that purpose. \r\nThese experiments include 22 different hull forms, derived from a parent form closely related to the \u00e2\u20ac\u02dcStandfast 43\u00e2\u20ac\u2122 designed by Frans Maas.\r\n",
+    "Source": "Creator: \r\n\r\nShip Hydromechanics Laboratory, Maritime and Transport Technology Department, Technical University of Delft. \r\n\r\nDonor: \r\n\r\nDr Roberto Lopez\r\nE-mail: roberto-lopez@users.sourceforge.net\r\n",
+    "Acknowledgements": "",
+    "Area": "Physical",
+    "RelevantPapers": "J. Gerritsma, R. Onnink, and A. Versluis. Geometry, resistance and stability of the delft systematic yacht hull series. In International Shipbuilding\r\nProgress, volume 28, pages 276\u00e2\u20ac\u201c297, 1981.\r\n\r\nI. Ortigosa, R. Lopez and J. Garcia. A neural networks approach to residuary resistance of sailing\r\nyachts prediction. In Proceedings of the International Conference on Marine Engineering MARINE\r\n2007, 2007.\r\n",
+    "AttributeInfo": "Variations concern hull geometry coefficients and the Froude number:\r\n\r\n1. Longitudinal position of the center of buoyancy, adimensional.\r\n2. Prismatic coefficient, adimensional.\r\n3. Length-displacement ratio, adimensional.\r\n4. Beam-draught ratio, adimensional.\r\n5. Length-beam ratio, adimensional.\r\n6. Froude number, adimensional.\r\n\r\nThe measured variable is the residuary resistance per unit weight of displacement:\r\n\r\n7. Residuary resistance per unit weight of displacement, adimensional.\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

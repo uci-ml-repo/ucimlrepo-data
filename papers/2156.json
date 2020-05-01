@@ -1,0 +1,11 @@
+{
+    "datasetID": 110,
+    "supportID": "D6B52F66BE336143D86BC65091C47187D5554E7B",
+    "rexaID": "b355244c8f3224bf7b73360037b45c7e2ceb865c",
+    "author": "Alain Rakotomamonjy",
+    "title": "Analysis of SVM regression bounds for variable ranking",
+    "venue": "P.S.I CNRS FRE 2645, INSA de Rouen Avenue de l'Universite",
+    "year": "",
+    "window": "performance considering that an oracle has selected the optimal number of variables to use. In bold, the best performance with respect to the mean normalized absolute error are highlighted. Datasets olitos <b>yeast</b> colon lymphoma Algo Mean Var. p-val Mean Var. p-val Mean Var p-val. Mean Var p-val. SVM 30.93 25 - 16.50 79 - 53.75 2000 - 58.80 4026 - CC 30.38 13 0.424 14.73 23 0.045 51.01 300 0.517",
+    "mykey": 2156
+}

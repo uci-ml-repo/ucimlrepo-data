@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "A9581E5B9CDB67A124DACC66C2C98C723A9F67E3",
+    "rexaID": "1383360e8bb2cfd7a98219f867869a9f6d7e0db0",
+    "author": "Wei-Chun Kao and Kai-Min Chung and Lucas Assun and Chih-Jen Lin",
+    "title": "Decomposition Methods for Linear Support Vector Machines",
+    "venue": "Neural Computation, 16",
+    "year": "2004",
+    "window": "used are in Table 3.2. The four small problems are from the statlog collection (Michie, Spiegelhalter, and Taylor 1994). The problem <b>adult</b> is compiled by Platt (1998) from the UCI \"adult\" data set (Blake and Merz 1998). Problem web is also from Platt. Problem ijcnn is from the first problem of IJCNN challenge 2001 (Prokhorov 2001). Note that we use the winner's transformation of the raw data",
+    "mykey": 1736
+}

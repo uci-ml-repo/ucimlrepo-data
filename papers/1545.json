@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "98D6E2E3F83BB855FAEF19CF78C0CD69E6F4683F",
+    "rexaID": "8931d2a4a8256ea88abea3ea3ac820fd421ce0b1",
+    "author": "Stephen D. Bay and Michael J. Pazzani",
+    "title": "Detecting Group Differences: Mining Contrast Sets",
+    "venue": "Data Min. Knowl. Discov, 5",
+    "year": "2001",
+    "window": "The Adult Census data contains information extracted from the 1994 CurrentPopulation Survey. There are variables such as age, working class, education, sex, hours worked, salary, etc. <b>Mushroom</b>  This data set describes mushrooms and their physical properties such as shape, odor, habitat, etc. Mushroom is not a true observational data set as the examples are not drawn from individual instances but rather",
+    "mykey": 1545
+}

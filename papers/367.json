@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "2BF600B43C073DC5CAB44DE66CBE5592909F6DD6",
+    "rexaID": "e3cb1b3c129bc2be18036ad91073724543894185",
+    "author": "Luc Hoegaerts and J. A. K Suykens and J. Vandewalle and Bart De Moor",
+    "title": "Subset Based Least Squares Subspace Regression in RKHS",
+    "venue": "Katholieke Universiteit Leuven Department of Electrical Engineering, ESAT-SCD-SISTA",
+    "year": "",
+    "window": "took unity values. The use of other kernels, like the polynomial or the sigmoidal kernel, did not produce such good results as the Gaussian kernel. 6.2 Real world data examples The Boston <b>Housing</b> data set [31] consists of 506 cases having p = 13 input variables. The aim is to predict the housing prices. We standardized the data to zero mean and unit variance. We picked at random a training set of",
+    "mykey": 367
+}

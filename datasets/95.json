@@ -1,0 +1,23 @@
+{
+    "ID": 95,
+    "Name": "SPECT Heart",
+    "Abstract": "Data on cardiac Single Proton Emission Computed Tomography (SPECT) images. Each patient classified into two categories: normal and abnormal.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 267,
+    "NumAttributes": 22,
+    "DateDonated": "2001-10-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/spect/",
+    "URLReadme": "../machine-learning-databases/spect/SPECT.names",
+    "HighestAccuracy": 90,
+    "RelevantInfo": "The dataset describes diagnosing of cardiac Single Proton Emission Computed Tomography (SPECT) images. Each of the patients is classified into two categories: normal and abnormal. The database of 267 SPECT image sets (patients) was processed to extract features that summarize the original SPECT images. As a result, 44 continuous feature pattern was created for each patient. The pattern was further processed to obtain 22 binary feature patterns. The CLIP3 algorithm was used to generate classification rules from these patterns. The CLIP3 algorithm generated rules that were 84.0% accurate (as compared with cardilogists' diagnoses).\r\n\r\nSPECT is a good data set for testing ML algorithms; it has 267 instances that are descibed by 23 binary attributes",
+    "Source": "Original Owners: \r\n\r\nKrzysztof J. Cios, Lukasz A. Kurgan\r\nUniversity of Colorado at Denver, Denver, CO 80217, U.S.A.\r\nKrys.Cios@cudenver.edu\r\nLucy S. Goodenday\r\nMedical College of Ohio, OH, U.S.A.\r\n\r\nDonors: \r\n\r\nLukasz A.Kurgan, Krzysztof J. Cios",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "Kurgan, L.A., Cios, K.J., Tadeusiewicz, R., Ogiela, M. & Goodenday, L.S. \"Knowledge Discovery Approach to Automated Cardiac SPECT Diagnosis\" Artificial Intelligence in Medicine, vol. 23:2, pp 149-169, Oct 2001\r\nhttp://rexa.info/paper/c39661d8583e5afeff3a9dfa694e66e053c8b45f\r\n\r\nCios, K.J., Wedding, D.K. & Liu, N. CLIP3: cover learning using integer programming. Kybernetes, 26:4-5, pp 513-536, 1997\r\n\t\r\nCios K. J. & Kurgan L. Hybrid Inductive Machine Learning: An Overview of CLIP Algorithms,  In: Jain L.C., and Kacprzyk J. (Eds). New Learning Paradigms in Soft Computing, Physica-Verlag (Springer), 2001\r\nhttp://rexa.info/paper/0e8ca2f73a5cd43ac85798fd3731149349acdca3",
+    "AttributeInfo": "   1.  OVERALL_DIAGNOSIS: 0,1 (class attribute, binary)\r\n   2.  F1:  0,1 (the partial diagnosis 1, binary)\r\n   3.  F2:  0,1 (the partial diagnosis 2, binary)\r\n   4.  F3:  0,1 (the partial diagnosis 3, binary)\r\n   5.  F4:  0,1 (the partial diagnosis 4, binary)\r\n   6.  F5:  0,1 (the partial diagnosis 5, binary)\r\n   7.  F6:  0,1 (the partial diagnosis 6, binary)\r\n   8.  F7:  0,1 (the partial diagnosis 7, binary)\r\n   9.  F8:  0,1 (the partial diagnosis 8, binary)\r\n   10. F9:  0,1 (the partial diagnosis 9, binary)\r\n   11. F10: 0,1 (the partial diagnosis 10, binary)\r\n   12. F11: 0,1 (the partial diagnosis 11, binary)\r\n   13. F12: 0,1 (the partial diagnosis 12, binary)\r\n   14. F13: 0,1 (the partial diagnosis 13, binary)\r\n   15. F14: 0,1 (the partial diagnosis 14, binary)\r\n   16. F15: 0,1 (the partial diagnosis 15, binary)\r\n   17. F16: 0,1 (the partial diagnosis 16, binary)\r\n   18. F17: 0,1 (the partial diagnosis 17, binary)\r\n   19. F18: 0,1 (the partial diagnosis 18, binary)\r\n   20. F19: 0,1 (the partial diagnosis 19, binary)\r\n   21. F20: 0,1 (the partial diagnosis 20, binary)\r\n   22. F21: 0,1 (the partial diagnosis 21, binary)\r\n   23. F22: 0,1 (the partial diagnosis 22, binary)\r\n   - dataset is divided into:\r\n\t-- training data (\"SPECT.train\" 80 instances)\r\n\t-- testing data (\"SPECT.test\" 187 instances)",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 11655
+}

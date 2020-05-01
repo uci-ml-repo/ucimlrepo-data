@@ -1,0 +1,11 @@
+{
+    "datasetID": 19,
+    "supportID": "E34233BA549E351487B1F97D7C6A1C881D2B01F5",
+    "rexaID": "6aae20aa5fd96e903634bb73244782652cd4e947",
+    "author": "Zhiqiang Yang and Sheng Zhong and Rebecca N. Wright",
+    "title": "Privacy-Preserving Classification of Customer Data without Loss of Accuracy",
+    "venue": "Computer Science Department, Stevens Institute of Technology",
+    "year": "",
+    "window": "of size d, then the number of joint frequencies that need to be counted is exponential in m. In some cases we have small m and d and thus we can still achieve reasonable overhead. For example, the data set of <b>Car</b> Evaluation Database from UCI repository [BM98] has six nominal attributes: buying, maint, doors, persons, lug boot and safety, and the class attribute has a domain of size four. For such 9 a",
+    "mykey": 2293
+}

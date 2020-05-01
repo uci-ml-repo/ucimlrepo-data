@@ -1,0 +1,11 @@
+{
+    "datasetID": 137,
+    "supportID": "9ACFD6C46DC7B85BEFED23535BDBEB734B1AD849",
+    "rexaID": "03a71aaf988c71c8022be08734da8e376f7fe037",
+    "author": "Omid Madani and David M. Pennock and Gary William Flake",
+    "title": "Co-Validation: Using Model Disagreement to Validate Classification Algorithms",
+    "venue": "Yahoo! Research Labs",
+    "year": "",
+    "window": "unlabeled data does not tend to wildly underestimate error, even though it's theoretically possible. 3 Experiments We conducted experiments on the 20 Newsgroups and <b>Reuters</b> 21578 test categorization datasets 1 , and the Votes, Chess, Adult, and Optics datasets from the UCI collection [BKM98]. We chose 1 Available from http://www.ics.uci.edu/ and http://www.daviddlewis.com/resources/testcollections/ two",
+    "mykey": 1571
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "CD357542A63AACEAA111F454330F8A9CDC39ED36",
+    "rexaID": "3e9ebff12a232c9f091156827e92c55d259b95f3",
+    "author": "Nikunj C. Oza and Stuart J. Russell",
+    "title": "Online Bagging and Boosting",
+    "venue": "Computer Science Division University of California",
+    "year": "",
+    "window": "Bagging and online bagging performed noticeably better than single decision trees on all except the <b>Breast</b> <b>Cancer</b> dataset. With Naive Bayes, bagging and online bagging never performed noticeably better than Naive Bayes, which we expected because of the stability of Naive Bayes [3]. Boosting and online boosting",
+    "mykey": 2048
+}

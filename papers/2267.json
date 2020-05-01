@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "E01C5FD64B489477148B6D1B0A6D1D28D14EB140",
+    "rexaID": "b90249d5778eb237815fe93968e894cb5adb7f8a",
+    "author": "Ron Kohavi",
+    "title": "A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection",
+    "venue": "IJCAI",
+    "year": "1995",
+    "window": "then an over-represented class in one subset will be a underrepresented in the other. To demonstrate the issue, we simulated a 2/3, 1/3 split of Fisher's famous <b>iris</b> dataset and used a majority inducer that builds a classifier predicting the prevalent class in the training set. The iris dataset describes iris plants using four continuous features, and the task is to",
+    "mykey": 2267
+}

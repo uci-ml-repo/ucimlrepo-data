@@ -1,0 +1,23 @@
+{
+    "ID": 483,
+    "Name": "Behavior of the urban traffic of the city of Sao Paulo in Brazil",
+    "Abstract": "The database was created with records of behavior of the urban traffic of the city of Sao Paulo in Brazil.",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Classification, Regression",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 135,
+    "NumAttributes": 18,
+    "DateDonated": "2018-12-12",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00483/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The database was created with records of behavior of the urban traffic of the city of Sao Paulo in Brazil from December 14, 2009 to December 18, 2009 (From Monday to Friday). Registered from 7:00 to 20:00 every 30 minutes. The data set Behavior of the urban traffic of the city of Sao Paulo in Brazil was used in academic research at the Universidade Nove de Julho - Postgraduate Program in Informatics and Knowledge Management.",
+    "Source": "Creators original owner and donors: Ricardo Pinto Ferreira (1), Andrea Martiniano (2) and Renato Jose Sassi (3).\r\n\r\nE-mail address: \r\nlog.kasparov'@'gmail.com (1) - PhD student;\r\nandrea.martiniano'@'gmail.com (2) - PhD student;\r\nsassi'@'uni9.pro.br (3) - Prof. Doctor.\r\n\r\nUniversidade Nove de Julho - Postgraduate Program in Informatics and Knowledge Management.\r\n\r\nAddress: Rua Vergueiro, 235/249 Liberdade, Sao Paulo, SP, Brazil. Zip code: 01504-001.\r\n\r\nWebsite: http://www.uninove.br/curso/informatica-e-gestao-do-conhecimento/",
+    "Acknowledgements": "Ferreira, R. P., Affonso, C., & Sassi, R. J. (2011, November). Combination of Artificial Intelligence Techniques for Prediction the Behavior of Urban Vehicular Traffic in the City of S\u00c3\u00a3o Paulo. In 10th Brazilian Congress on Computational Intelligence (CBIC) - Fortaleza, Cear\u00c3\u00a1 \u00e2\u20ac\u201c Brazil. (pp.1-7), 2011.",
+    "Area": "Computer",
+    "RelevantPapers": "Sassi, R. J., Affonso, C., & Ferreira, R. P. (2011, August). Rough Neuro-Fuzzy Network Applied to Traffic Flow Breakdown in the City of Sao Paulo. In Management and Service Science (MASS), International Conference on (pp. 1-5). IEEE, 2011.\r\n\r\nAffonso, C., Sassi, R. J., & Ferreira, R. P. (2011, July). Traffic flow breakdown prediction using feature reduction through rough-neuro fuzzy networks. In Neural Networks (IJCNN), The International Joint Conference Neural Networks (pp. 1943-1947). IEEE, 2011.\r\n\r\nFerreira, R. P., Affonso, C., & Sassi, R. J. (2011, November). Combination of Artificial Intelligence Techniques for Prediction the Behavior of Urban Vehicular Traffic in the City of S\u00c3\u00a3o Paulo. In 10th Brazilian Congress on Computational Intelligence (CBIC\u00e2\u20ac\u21222011) - Fortaleza, Cear\u00c3\u00a1 \u00e2\u20ac\u201c Brazil. (pp.1-7), 2011.\r\n\r\nFerreira, R. P., Affonso, C., & Sassi, R. J. (2010, June). Application of a neuro fuzzy network to forecast the behavior of the urban traffic of the city of S\u00c3\u00a3o Paulo. In Information Systems and Technologies (CISTI), 2010 5th Iberian Conference on (pp. 1-4). IEEE, 2010.",
+    "AttributeInfo": "1.\tHour\r\n2.\tImmobilized bus\r\n3.\tBroken Truck\r\n4.\tVehicle excess\r\n5.\tAccident victim\r\n6.\tRunning over\r\n7.\tFire Vehicles\r\n8.\tOccurrence involving freight\r\n9.\tIncident involving dangerous freight\r\n10.\tLack of electricity\r\n11.\tFire\r\n12.\tPoint of flooding\r\n13.\tManifestations\r\n14.\tDefect in the network of trolleybuses\r\n15.\tTree on the road\r\n16.\tSemaphore off\r\n17.\tIntermittent Semaphore\r\n18.\tSlowness in traffic (%) (Target)\r\n\r\n.arff header for Weka: \r\n@relation Behavior\r\n@attribute Hour {7:00, 7:30, 8:00, 8:30, 9:00, 9:30, 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:00, 13:30, 14:00, 14:30, 15:00, 15:30, 16:00, 16:30, 17:00, 17:30, 18:00, 18:30, 19:00, 19:30, 20:00}\r\n@attribute Immobilized_bus INTEGER\r\n@attribute Broken_Truck INTEGER\r\n@attribute Vehicle_excess INTEGER\r\n@attribute Accident_victim INTEGER\r\n@attribute Running_over INTEGER\r\n@attribute Fire_vehicles INTEGER\r\n@attribute Occurrence_involving_freight INTEGER\r\n@attribute Incident_involving_dangerous_freight INTEGER\r\n@attribute Lack_of_electricity INTEGER\r\n@attribute Fire INTEGER\r\n@attribute Point_of_flooding INTEGER\r\n@attribute Manifestations INTEGER\r\n@attribute Defect_in_the_network_of_trolleybuses INTEGER\r\n@attribute Tree_on_the_road INTEGER\r\n@attribute Semaphore_off INTEGER\r\n@attribute Intermittent_Semaphore INTEGER\r\n@attribute Slowness_in_traffic_percent REAL",
+    "FormatType": "",
+    "NumHits": 0
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 25,
+    "supportID": "5C6D1AA078B4372CB0D8B465C4A8F11279629C72",
+    "rexaID": "cac8f7b952b6dc917dd68834c825e7f48373cafa",
+    "author": "Zoubin Ghahramani and Michael I. Jordan",
+    "title": "Factorial Hidden Markov Models",
+    "venue": "Machine Learning, 29",
+    "year": "1997",
+    "window": "EM). Factorial HMMs of varying sizes (K ranging from 2 to 6; M ranging from 2 to 9) were also trained on the same data. To 262 Z. GHAHRAMANI AND M.I. JORDAN Table 2. Attributes in the <b>Bach</b> chorale data set. The key signature and time signature attributes were constant over the duration of the chorale. All attributes were treated as real numbers and modeled as linear-Gaussian observations (4a).",
+    "mykey": 852
+}

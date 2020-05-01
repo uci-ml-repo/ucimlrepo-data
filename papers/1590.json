@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "9B7F1C9CCB6F45393F9F47AE01BF7E0DFF955FB7",
+    "rexaID": "8e36921ac4908ffda6ec3eeef41d8c840c9fd884",
+    "author": "Francesco Masulli and Giorgio Valentini",
+    "title": "Quantitative Evaluation of Dependence among Outputs in ECOC Classifiers Using Mutual Information Based Measures",
+    "venue": "Universitdi Genova DISI - Dipartimento di Informatica e Scienze dell'Informazione INFM - Istituto Nazionale per la Fisica della Materia",
+    "year": "",
+    "window": "the dependence among codeword bits errors [12, 8]. In our experimentation we evaluate this dependence in ECOC monolithic and ECOC PND learning machines. 3.2 The data In our experiments we have used data sets from the UCI repository of Irvine  <b>glass</b>  letter, optdigits) [11] and a synthetic data set (d5) made up by five threedimensional classes, each composed by two normal distributed disjoint clusters",
+    "mykey": 1590
+}

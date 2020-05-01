@@ -1,0 +1,23 @@
+{
+    "ID": 451,
+    "Name": "Breast Cancer Coimbra",
+    "Abstract": "Clinical features were observed or measured for 64 patients with breast cancer and 52 healthy controls. ",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 116,
+    "NumAttributes": 10,
+    "DateDonated": "2018-03-06",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00451/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "There are 10 predictors, all quantitative, and a binary dependent variable, indicating the presence or absence of breast cancer. \r\nThe predictors are anthropometric data and parameters which can be gathered in routine blood analysis. \r\nPrediction models based on these predictors, if accurate, can potentially be used as a biomarker of breast cancer.",
+    "Source": "Miguel Patr\u00edcio(miguelpatricio@gmail.com), Jos\u00e9 Pereira (jafcpereira@gmail.com), Joana Cris\u00f3stomo (joanacrisostomo@hotmail.com), Paulo Matafome (paulomatafome@gmail.com), Raquel Sei\u00e7a (rmfseica@gmail.com), Francisco Caramelo (fcaramelo@fmed.uc.pt), all from the Faculty of Medicine of the University of Coimbra and also Manuel Gomes (manuelmgomes@gmail.com) from the University Hospital Centre of Coimbra",
+    "Acknowledgements": "This dataset is publicly available for research. The details are described in [Patricio, 2018] - https://bmccancer.biomedcentral.com/articles/10.1186/s12885-017-3877-1. \r\nPlease include this citation if you plan to use this database: \r\n[Patricio, 2018] Patr\u00edcio, M., Pereira, J., Cris\u00f3stomo, J., Matafome, P., Gomes, M., Sei\u00e7a, R., & Caramelo, F. (2018). Using Resistin, glucose, age and BMI to predict the presence of breast cancer. BMC Cancer, 18(1). doi:10.1186/s12885-017-3877-1",
+    "Area": "Life",
+    "RelevantPapers": "https://link.springer.com/article/10.1007/s12020-016-0893-x\r\nhttps://bmccancer.biomedcentral.com/articles/10.1186/s12885-017-3877-1",
+    "AttributeInfo": "Quantitative Attributes: \r\nAge (years)\r\nBMI (kg/m2)\r\nGlucose (mg/dL)\r\nInsulin (\u00b5U/mL)\r\nHOMA\r\nLeptin (ng/mL)\r\nAdiponectin (\u00b5g/mL)\r\nResistin (ng/mL)\r\nMCP-1(pg/dL)\r\n\r\nLabels:\r\n1=Healthy controls\r\n2=Patients",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

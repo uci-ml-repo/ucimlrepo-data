@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "813DB67CE83A6E5C9BCC9B54717999E2E2E66267",
+    "rexaID": "177158d5e743e0f71b640c20a162ee8af5c79dcf",
+    "author": "Takao Mohri and Hidehiko Tanaka",
+    "title": "An Optimal Weighting Criterion of Case Indexing for Both Numeric and Symbolic Attributes",
+    "venue": "Information Engineering Course, Faculty of Engineering The University of Tokyo",
+    "year": "",
+    "window": "that they maximize the variance ratio j 2 . Therefore, they have a theoretical basis and clear meaning. Experiments The experimental results for several benchmark data are shown in Table 3. Four data sets (vote, <b>soybean</b>  crx, hypo) were in the distribution floppy disk of Quinlan's C4.5 book (Quinlan 1993). The remaining four data sets (iris, hepatitis, led, led-noise) were obtained from the Irvine",
+    "mykey": 1289
+}

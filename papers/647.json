@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "4A57C0FFEEC2665CAF8E11574CE5A9618304B979",
+    "rexaID": "de9b2ac4ef9c6449914cdc375972f722190fee7a",
+    "author": "Chris Drummond and Robert C. Holte",
+    "title": "C4.5, Class Imbalance, and Cost Sensitivity: Why Under-Sampling beats Over-Sampling",
+    "venue": "Institute for Information Technology, National Research Council Canada",
+    "year": "",
+    "window": "The bold dashed curve in Figure 2 shows the performance of C4.5 using under-sampling on the <b>Sonar</b> data set. Sonar has 208 instances, 111 <b>mines</b> and 97 <b>rocks</b>  with 60 real valued attributes. Undersampling produces a cost curve that is reasonably cost sensitive, it is quite smooth and largely within the",
+    "mykey": 647
+}

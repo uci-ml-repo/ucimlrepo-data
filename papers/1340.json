@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "866FFDF4A75BB5A8C0DFE89C86FE1954D9E74C3E",
+    "rexaID": "945d8ba4c7eacfaed696aaf0bd72fd576efa78d5",
+    "author": "Aynur Akku and H. Altay Guvenir",
+    "title": "Weighting Features in k Nearest Neighbor Classification on Feature Projections",
+    "venue": "Department of Computer Engineering and Information Science Bilkent University",
+    "year": "",
+    "window": "Data Set: bcancerw cleveland glass hungarian <b>ionosphere</b> iris liver wine No. of Instances 273 303 214 294 351 150 345 178 No. of Features 9 13 9 13 34 4 6 13 No. of Classes 2 2 6 2 2 3 2 3 No. of Missing",
+    "mykey": 1340
+}

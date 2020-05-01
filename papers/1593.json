@@ -1,0 +1,11 @@
+{
+    "datasetID": 15,
+    "supportID": "9B9DD22D0660646FD6F2B09E8BD50E2A5EC172A2",
+    "rexaID": "095d7064837557bdfbca12fb9c12dbaaeb3a8b0d",
+    "author": "Adam H. Cannon and Lenore J. Cowen and Carey E. Priebe",
+    "title": "Approximate Distance Classification",
+    "venue": "Department of Mathematical Sciences The Johns Hopkins University",
+    "year": "",
+    "window": "data before implementing the ADC classification algorithm. Here, only the raw data has been analyzed using the same procedure described above. 5 Conclusions Results on the <b>Wisconsin</b> <b>breast</b> <b>cancer</b> data set and the Fisher iris data set compare very well with previous work on these data. The Pima Indian diabetes results are also nearly competitive with previous work. In all three cases it should be",
+    "mykey": 1593
+}

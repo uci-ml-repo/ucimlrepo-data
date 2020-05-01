@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "0AF9BBB399027FD905DBF49D122F9DB486CE2434",
+    "rexaID": "96246754b7958de8a635165e8b145c264240cd3d",
+    "author": "Huan Liu and Rudy Setiono",
+    "title": "Feature Transformation and Multivariate Decision Tree Induction",
+    "venue": "Discovery Science",
+    "year": "1998",
+    "window": "351 34 continuous 11 Iris 150 4 continuous 12 Pima-diabetes 768 8 continuous 13 Sonar 208 60 continuous 14 Australian 690 14 mixed 15 HeartDisease 297 13 mixed 16 <b>Housing</b> 506 13 mixed Table 1. Dataset Summary. #Data - data size, Type - attribute type, and #A - number of attributes. neural networks (NN) based on which BMDT builds MDT's. We want to understand whether the difference between every",
+    "mykey": 121
+}

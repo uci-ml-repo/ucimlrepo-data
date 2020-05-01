@@ -1,0 +1,23 @@
+{
+    "ID": 278,
+    "Name": "EMG dataset in Lower Limb",
+    "Abstract": "3 different exercises: sitting, standing and walking in the muscles: biceps femoris, vastus medialis, rectus femoris and semitendinosus addition to goniometry in the exercises.",
+    "Types": "Multivariate, Time-Series",
+    "Task": "",
+    "AttributeTypes": "Real",
+    "NumInstances": 132,
+    "NumAttributes": 5,
+    "DateDonated": "2014-02-05",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00278/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "2.\tInformation database:\r\n\r\n2.1.\tProtocol:\r\n22 male subjects , 11 with different knee abnormalities previously diagnosed by a professional. They undergo three movements to analyze the behavior associated with the knee muscle , gait , leg extension from a sitting position , and flexion of the leg up. The acquisition process was conducted with 4 electrodes ( Vastus Medialis , semitendinosus , biceps femoris and rectus femoris ) and the goniometer in the knee .\r\n2.2.\tInstrumentation\r\nDatalog equipment was used MWX8 by Biometrics of 8 digital channels and 4 analog channels , of which 4 for sampling were used SEMG and 1 for goniometry, these data were acquired directly to the computer MWX8 internal storage with microSD card and transmitted in Real-time Datalog software through bluetooth adapter , 14-bit resolution and sampling frequency of 1000Hz .\r\n2.3.\tData configuration:\r\nThe total number of electrodes is 4, corresponding to the time series one for each channel (1 to 4). Each series contains ~ 5 shares or motion repetitions for each subject.",
+    "Source": "Samples obtained with the aid of:\nBatall\u00c3\u00b3n de sanidad (BASAN)  Universidad Militar Nueva Granada  \u00e2\u20ac\u201c Bogot\u00c3\u00a1 (samples July 2012).\nCarrera 7 No 52-48, Bogot\u00c3\u00a1.\nTecnoParque SENA nodo Manizales (samples march - july 2013).\nKm 10 route to Magdalena, Manizales.\n\nPh.D Oscar Fernando Aviles Sanchez       oscfer@gmail.com\nUniversidad MIlitar Nueva Granada\n\nPh.D Jose Luis Rodriguez Sotelo              jdw.siul@gmail.com\nMg. Marcelo Herrera Gonzales                 marhego@gmail.com\nMg. Gustavo Adolfo Mart\u00ednez Hernandez   gamhet2@gmail.com\nUniversidad Autonoma de Manizales\n",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Computer",
+    "RelevantPapers": "Provide references to papers that have cited this data set in the past (if any).",
+    "AttributeInfo": "Each data file contains 5 columns, organized as follows.\r\nSegment\tLower Limb\r\nChannel\tCh1\tCh2\tCh3\tCh4\tCh5\r\nMuscle\tRF\tBF\tVM\tST\tFX\r\nColumn\t0\t1\t2\t3\t4\r\n",
+    "FormatType": "",
+    "NumHits": 8
+}

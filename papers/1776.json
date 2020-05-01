@@ -1,0 +1,11 @@
+{
+    "datasetID": 101,
+    "supportID": "AD47527C92AFE3025C157D5436379755D51E8020",
+    "rexaID": "4c690aed8465fe41ec10e225d9de6dbaeafedc2a",
+    "author": "Michael Bain",
+    "title": "Structured Features from Concept Lattices for Unsupervised Learning and Classification",
+    "venue": "Australian Joint Conference on Artificial Intelligence",
+    "year": "2002",
+    "window": "for problems of constructive induction (e.g. [11]), the <b>tic-tac-toe</b> data set from the UCI repository. The problem is to predict whether each of 958 legal endgame boards for tic-tac-toe is won for `x'. The results are shown in Table 3. Accuracy (%) Tree size Attributes",
+    "mykey": 1776
+}

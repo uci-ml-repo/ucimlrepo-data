@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "CFF54D1C3089FAE2CDE4296F986137EE7D6EAAF7",
+    "rexaID": "b417429a1fe95e22673736db6f6adc8ecae2ef7d",
+    "author": "Lawrence O. Hall and Nitesh V. Chawla and Kevin W. Bowyer",
+    "title": "Decision Tree Learning on Very Large Data Sets",
+    "venue": "Department of Computer Science and Engineering, ENB 118 University of South Florida",
+    "year": "",
+    "window": "0.6 < Petal-Width <= 1.5 and Petal-Length } 4.9 --} <b>Iris</b> Viginica R5: If 1.5 < Petal-Width <= 1.7 and Petal-Length } 4.9 --} Iris-Versicolor <= 1.7 Figure 1. The C4.5 tree produced on the full Iris dataset and the corresponding rules. The final rules will be ordered by their accuracy taken from the original tree in all cases except for conflict resolution rules for which the accuracy is calculated on",
+    "mykey": 2068
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "360AF352974FAD0D05CC43A8976EA71C4178A141",
+    "rexaID": "8ec82e2fc13e61b5b22da67e7ba2ac9681ec5016",
+    "author": "I\u00f1aki Inza and Pedro Larra\u00f1aga and Basilio Sierra and Ramon Etxeberria and Jose Antonio Lozano and Jos Manuel Pe\u00f1a",
+    "title": "Representing the behaviour of supervised classification learning algorithms by Bayesian networks",
+    "venue": "Pattern Recognition Letters, 20",
+    "year": "1999",
+    "window": "treatment is done for unknown values, exploiting each algorithm its own characteristics. PEBLS and HOODG algorithms are not able to handle unknown values: thus, they are only used in the four datasets without unknown values  <b>diabetes</b>  heart, liver and lymphography). For each database and algorithm, a classification model is induced using the specified training set: when run with fixed default",
+    "mykey": 465
+}

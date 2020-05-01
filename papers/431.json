@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "333DDF13DA5B127679CD0E2A1CC5556E9B6EA3F5",
+    "rexaID": "954de642cab661d060a2dbc68d3023ba3a9763e1",
+    "author": "Federico Divina and Elena Marchiori",
+    "title": "Handling Continuous Attributes in an Evolutionary Inductive Learner",
+    "venue": "Department of Computer Science Vrije Universiteit",
+    "year": "",
+    "window": "The other datasets (Echocardiogram, Glass 2, <b>Heart</b>  and Hepatitis) are small, and the results of the experiments are not normally distributed, so the t-test cannot be applied. Dataset ECL-LSDc ECL-LSDf ECL-LUD",
+    "mykey": 431
+}

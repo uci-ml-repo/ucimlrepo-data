@@ -1,0 +1,11 @@
+{
+    "datasetID": 111,
+    "supportID": "F53573C8757F9E2F330F47BF259E611386943EE2",
+    "rexaID": "af8d7875705c4e2cfa6e62edef98f148bab7cd4c",
+    "author": "D. Randall Wilson and Tony R. Martinez",
+    "title": "Heterogeneous Radial Basis Function Networks",
+    "venue": "Proceedings of the International Conference on Neural Networks (ICNN",
+    "year": "1996",
+    "window": "higher generalization accuracy than RBF in 12 out of 23 cases, 10 of which were significant at the 95% level or above. RBF had a higher accuracy in only four cases, and only one of those (the <b>Zoo</b> data set) had a difference that was statistically significant. It is interesting to note that in the Zoo data set, 15 out of 16 of the attributes are boolean, and the remaining attribute, while not linear,",
+    "mykey": 2472
+}

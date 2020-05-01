@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "48520C7B8FFCAED34318562A748E4B486DC24CBE",
+    "rexaID": "545d588c45ddf6031f6472c1573778506fbae9cf",
+    "author": "Dick de Ridder and Olga Kouropteva and Oleg Okun and Matti Pietik\u00e4inen and Robert P W Duin",
+    "title": "Supervised Locally Linear Embedding",
+    "venue": "ICANN",
+    "year": "2003",
+    "window": "retained in the remaining M dimensions [3]. This local intrinsic dimensionality estimate is denoted by ML . The feature extraction process is illustrated in Figure 1: the C = 3 classes in the <b>iris</b> data set [1] are mapped onto single points by 1-SLLE. #-SLLE retains some of the class structure, but reduces within-class dispersion compared to LLE. Clearly, SLLE is suitable as a feature extraction step",
+    "mykey": 628
+}

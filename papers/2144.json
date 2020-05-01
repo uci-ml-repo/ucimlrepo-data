@@ -1,0 +1,11 @@
+{
+    "datasetID": 90,
+    "supportID": "D5E67451F92883D0FC956C7C000B9ADD4C63A877",
+    "rexaID": "70172e511a3bc27c7927119a3b2a3405fbad99e0",
+    "author": "Kai Ming Ting and Ian H. Witten",
+    "title": "Issues in Stacked Generalization",
+    "venue": "J. Artif. Intell. Res. (JAIR, 10",
+    "year": "1999",
+    "window": "are given in Table 10, and indicate that the three methods are very competitive. 4 Stacking performs better than both arcing and bagging in three datasets (Waveform, <b>Soybean</b> and Breast Cancer), and is better than arcing but worse than bagging in the Diabetes dataset. Note that stacking performs very poorly on Glass and Ionosphere, two small",
+    "mykey": 2144
+}

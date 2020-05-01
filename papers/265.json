@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "21103B8C4EAA40BC1DC85B3F063F9FE1E7ADD1B3",
+    "rexaID": "93e4d326f6a322d66e034c1b88773f3a7f621526",
+    "author": "Justin Bradley and Kristin P. Bennett and Bennett A. Demiriz",
+    "title": "Constrained K-Means Clustering",
+    "venue": "Microsoft Research Dept. of Mathematical Sciences One Microsoft Way Dept. of Decision Sciences and Eng. Sys",
+    "year": "2000",
+    "window": "tailored to network optimization [2]. These codes usually run 1 or 2 orders of magnitude faster than general linear programming (LP) codes. 4 Numerical Evaluation We report results using two real datasets: the Johns Hopkins <b>Ionosphere</b> dataset and the Wisconsin Diagnostic Breast Cancer dataset (WDBC) [7]. The Ionosphere dataset contains 351 data points in R 33 and values along each dimension",
+    "mykey": 265
+}

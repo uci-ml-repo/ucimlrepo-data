@@ -1,0 +1,11 @@
+{
+    "datasetID": 10,
+    "supportID": "0900E65BB45CC80D3E4FC1A5AE3E655589EC9907",
+    "rexaID": "e746c17201da2dd72583f7b9b0c2a6ba310412f4",
+    "author": "Geraldine E. Rosario and Elke A. Rundensteiner and David C. Brown and Matthew O. Ward",
+    "title": "Mapping Nominal Values to Numbers for Effective Visualization",
+    "venue": "INFOVIS",
+    "year": "2003",
+    "window": "strength of association between two nominal variables)? In general, which quantification do you feel is better (easier to understand, more believable ordering and spacing)? 7.5.1 <b>Automobile</b> Data Set Case Study We chose the Automobile Data Set because it is easy to interpret. The variables we analyzed are make, fuel type, aspiration, number of doors, body type, wheels, engine location, engine",
+    "mykey": 96
+}

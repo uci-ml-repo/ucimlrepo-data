@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "B97D3EEB77C2511B8852477BF8D159193337CE84",
+    "rexaID": "e5d994d772cfe5ec4d0f3e6d669f0bc28180a3ae",
+    "author": "Elena Smirnova and Ida G. Sprinkhuizen-Kuyper and I. Nalbantis and b. ERIM and Universiteit Rotterdam",
+    "title": "Unanimous Voting using Support Vector Machines",
+    "venue": "IKAT, Universiteit Maastricht",
+    "year": "",
+    "window": "(polynomial kernel) for which the gain is 0.72 and the <b>Sonar</b> dataset (polynomial kernel) for which the gain is 0.68. 1 Note VS(I + , I - ) = VS(I + f , I - f )  VS(I + n , I - n ) and VS(I + , I - ) = VS(I + f , I - f )NVS. 6 Conclusion This paper proposes a new",
+    "mykey": 1883
+}

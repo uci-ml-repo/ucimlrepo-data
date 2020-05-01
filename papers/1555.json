@@ -1,0 +1,11 @@
+{
+    "datasetID": 19,
+    "supportID": "9A4AB71FA8007EBC766C93E25181A097B2216D38",
+    "rexaID": "5193dfc0a9d39b5f86fe360d6beff81aa9b7390e",
+    "author": "Nikunj C. Oza and Stuart J. Russell",
+    "title": "Experimental comparisons of online and batch versions of bagging and boosting",
+    "venue": "KDD",
+    "year": "2001",
+    "window": "for which we ran the bagging and boosting algorithms with decision trees was the <b>Car</b> Evaluation dataset from the UCI Repository. Figure 5 shows the learning curve. Batch and online bagging with decision trees perform almost identically (and always significantly better than a single decision tree).",
+    "mykey": 1555
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 15,
+    "supportID": "3E2A354E0823F33D8DCB3667E28624F9793079BB",
+    "rexaID": "dd4500e327a5f555d2f594711dc50b0f9faccd30",
+    "author": "Gavin Brown",
+    "title": "Diversity in Neural Network Ensembles",
+    "venue": "The University of Birmingham",
+    "year": "2004",
+    "window": "critical to consider values for the strength parameter outside the originally specified range. Table 5.3 shows the classification error rates of two empirical tests, on the <b>Wisconsin</b> <b>breast</b> <b>cancer</b> dataset from the UCI repository (699 patterns), and the Heart disease dataset from Statlog (270 patterns). An ensemble consisting of two networks, each with five hidden nodes, was trained using NC. We use",
+    "mykey": 512
+}

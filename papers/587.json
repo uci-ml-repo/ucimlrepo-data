@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "43E0A7051D99C2DF9F55D8C842922837FBCAABB3",
+    "rexaID": "91c9c07720ed14d74e8cda2ec09b5b6789dda2b2",
+    "author": "Daniel C. St and Ralph W. Wilkerson and Cihan H. Dagli",
+    "title": "RULE SET QUALITY MEASURES FOR INDUCTIVE LEARNING ALGORITHMS",
+    "venue": "proceedings of the Artificial Neural Networks In Engineering Conference 1996 (ANNIE",
+    "year": "1996",
+    "window": "distribution of the 148 instances among the four classes \"normal\" with 2 instances, \"metastases\" with 81 instances, \"malign\" with 61 instances, and \"fibrosis\" with 4 instances. The <b>Iris</b> data set, developed by R. A. Fisher (1936), lists the measurements of four characteristics of Iris flowers: petal length, petal width, sepal length, and sepal width. The set includes the measurements of 50",
+    "mykey": 587
+}

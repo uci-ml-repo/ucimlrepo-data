@@ -1,0 +1,11 @@
+{
+    "datasetID": 149,
+    "supportID": "536B979DB33793D8525FBBB573D7E6B4FDCF4960",
+    "rexaID": "f51be2f205fbe38436ed150a6627139668eb002a",
+    "author": "Thierry Denoeux",
+    "title": "A neural network classifier based on Dempster-Shafer theory",
+    "venue": "IEEE Transactions on Systems, Man, and Cybernetics, Part A, 30",
+    "year": "2000",
+    "window": "by Ripley [20], 29 instances were discarded, and the remaining 185 were re-grouped in four classes: window float glass (70), window nonfloat glass (76), <b>vehicle</b> window glass (17) and other (22). The data set was split randomly in a training set of size 89 and a test set of size 96. Our method (with normalized outputs) was compared to three neural network classifiers: learning vector quantization (LVQ)",
+    "mykey": 741
+}

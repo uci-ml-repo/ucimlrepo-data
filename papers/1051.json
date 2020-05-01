@@ -1,0 +1,11 @@
+{
+    "datasetID": 111,
+    "supportID": "6C79B6228AA533774359EB0CBDDB6C7EF0240041",
+    "rexaID": "01ede1d6464c9533cd6ec1a4492d134729ce99bd",
+    "author": "Christophe Giraud and Tony Martinez and Christophe G. Giraud-Carrier",
+    "title": "University of Bristol Department of Computer Science ILA: Combining Inductive Learning with Prior Knowledge and Reasoning",
+    "venue": "",
+    "year": "1995",
+    "window": "none of the continuous attributes are discretized. Table 1 - Selected Applications and Attributes Dataset #instances #inputs Input space flout. values <b>zoo</b> 90 16 Nominal 7 iris 150 4 Linear 3 lenses 24 4 Lin/Nom 3 hepatitis 155 19 Linear 2 voting-84 435 16 Boolean 2 glass 214 9 Linear 7 breast-cancer 699",
+    "mykey": 1051
+}

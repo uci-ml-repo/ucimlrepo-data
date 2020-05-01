@@ -1,0 +1,23 @@
+{
+    "ID": 276,
+    "Name": "Predict keywords activities in a online social media",
+    "Abstract": "The data from Twitter was collected during 360 consecutive days. It was done by querying 1497 English keywords sampled from Wikipedia. This dataset is proposed in a Learning to rank setting.",
+    "Types": "Multivariate, Sequential, Time-Series",
+    "Task": "",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 51,
+    "NumAttributes": 35,
+    "DateDonated": "2013-12-12",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00276/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "See files and/or http://ama.liglab.fr/resourcestools/datasets/predict-keywords-activities-in-a-online-social-media/",
+    "Source": "Fran\u00e7ois Kawala (1,2) Ahlame Douzal (1) Eric Gaussier (1) Eustache Diemert (2) \nInstitutions :\n(1) Universit\u00e9 Joseph Fourier (Grenoble I) - Laboratoire d'informatique de Grenoble (LIG) - Equipe AMA\n(2) TechMediaNetwork - www.techmedianetwork.com\n\nCorresponding author:\nFran\u00e7ois Kawala : francois.kawala@imag.fr / fkawala@techmedianetwork.com",
+    "Acknowledgements": "Apprentissage d\u2019ordonnancement et influence de l\u2019ambigu\u00eft\u00e9 pour la pr\u00e9diction d\u2019activit\u00e9 sur les r\u00e9seaux sociaux (F. Kawala, A. Douzal-Chouakria, E. Gaussier, E. Dimert), In Actes de la Conf\u00e9rence en Recherche d'Infomations et Applications (CORIA), pp. 22, 2014.",
+    "Area": "Computer",
+    "RelevantPapers": "Apprentissage d\u2019ordonnancement et influence de l\u2019ambigu\u00eft\u00e9 pour la pr\u00e9diction d\u2019activit\u00e9 sur les r\u00e9seaux sociaux (F. Kawala, A. Douzal-Chouakria, E. Gaussier, E. Dimert), In Actes de la Conf\u00e9rence en Recherche d'Infomations et Applications (CORIA), pp. 22, 2014.",
+    "AttributeInfo": "See files and/or http://ama.liglab.fr/resourcestools/datasets/predict-keywords-activities-in-a-online-social-media/",
+    "FormatType": "",
+    "NumHits": 8
+}

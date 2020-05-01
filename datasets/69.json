@@ -1,0 +1,23 @@
+{
+    "ID": 69,
+    "Name": "Molecular Biology (Splice-junction Gene Sequences)",
+    "Abstract": "Primate splice-junction gene sequences (DNA) with associated imperfect domain theory",
+    "Types": "Sequential, Domain-Theory",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 3190,
+    "NumAttributes": 61,
+    "DateDonated": "1992-01-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/molecular-biology/splice-junction-gene-sequences/",
+    "URLReadme": "../machine-learning-databases/molecular-biology/splice-junction-gene-sequences/splice.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Problem Description: \r\n      \r\nSplice junctions are points on a DNA sequence at which `superfluous' DNA is removed during the process of protein creation in higher organisms.  The problem posed in this dataset is to recognize, given a sequence of DNA, the boundaries between exons (the parts of the DNA sequence retained after splicing) and introns (the parts of the DNA sequence that are spliced out). This problem consists of two subtasks: recognizing exon/intron boundaries (referred to as EI sites), and recognizing intron/exon boundaries (IE sites). (In the biological community, IE borders are referred to a ``acceptors'' while EI borders are referred to as ``donors''.)\r\n\r\nThis dataset has been developed to help evaluate a \"hybrid\" learning algorithm (KBANN) that uses examples to inductively refine preexisting knowledge.  Using a \"ten-fold cross-validation\" methodology on 1000 examples randomly selected from the complete set of 3190, the following  error rates were produced by various ML algorithms (all experiments run at the Univ of Wisconsin, sometimes with local implementations of published algorithms). \r\n\r\nSystem -- Neither -- EI -- IE\r\n---------------------------------------------------\r\nKBANN -- 4.62 -- 7.56 --  8.47\r\nBACKPROP -- 5.29 --  5.74 -- 10.75\r\nPEBLS -- 6.86 -- 8.18 -- 7.55\r\nPERCEPTRON -- 3.99 -- 16.32 -- 17.41\r\nID3 -- 8.84 -- 10.58 -- 13.99\r\nCOBWEB  -- 11.80 -- 15.04 -- 9.46\r\nNear. Neighbor -- 31.11 -- 11.65 -- 9.09",
+    "Source": "Creators: \r\n\r\n1. All examples taken from Genbank 64.1 (ftp site: genbank.bio.net)\r\n2. Categories \"ei\" and \"ie\" include every \"split-gene\" for primates in Genbank 64.1\r\n3. non-splice examples taken from sequences known not to include a splicing site \r\n\r\nDonor: \r\n\r\nG. Towell, M. Noordewier, and J. Shavlik, \r\n{towell,shavlik}@cs.wisc.edu, noordewi@cs.rutgers.edu",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "M. O. Noordewier and G. G. Towell and J. W. Shavlik, 1991; \"Training Knowledge-Based Neural Networks to Recognize Genes in DNA Sequences\".  Advances in Neural Information Processing Systems, volume 3, Morgan Kaufmann.\r\nhttp://rexa.info/paper/fa41b2382523a41a7842eac3dda0625f7869897a\r\n\r\nG. G. Towell and J. W. Shavlik and M. W. Craven, 1991;  \"Constructive Induction in Knowledge-Based Neural Networks\",  In Proceedings of the Eighth International Machine Learning Workshop, Morgan Kaufmann.\r\nhttp://rexa.info/paper/a3d216a5362c7604c773adb70488eb93a41ded2d\r\n\r\nG. G. Towell, 1991; \"Symbolic Knowledge and Neural Networks: Insertion, Refinement, and Extraction\", PhD Thesis, University of Wisconsin - Madison.\r\nhttp://rexa.info/paper/176aca97d8e0ff00dac888df879d3fa4aed603ca\r\n\r\nG. G. Towell and J. W. Shavlik, 1992; \"Interpretation of Artificial Neural Networks: Mapping Knowledge-based Neural Networks into Rules\", In Advances in Neural Information Processing Systems, volume 4, Morgan Kaufmann.\r\nhttp://rexa.info/paper/38d40238d3c994c7d26766af72b2de9e327ee5f5",
+    "AttributeInfo": "1.   One of {n ei ie}, indicating the class.\r\n2.   The instance name.\r\n3-62.   The remaining 60 fields are the sequence, starting at position -30 and ending at position +30. Each of these fields is almost always filled by one of {a, g, t, c}. Other characters indicate ambiguity among the standard characters according to the following table:\r\n\t\t\t\r\ncharacter: meaning\r\nD:  A or G or T\r\nN:  A or G or C or T\r\nS:  C or G\r\nR:  A or G",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 14545
+}

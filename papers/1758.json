@@ -1,0 +1,11 @@
+{
+    "datasetID": 17,
+    "supportID": "AB7BC67A4A55EE0FFAA6E5A0F6EC971E0C8E420E",
+    "rexaID": "79b9012d7063a4c0e98d98ebd63d63044c8da997",
+    "author": "W. Nick Street",
+    "title": "A Neural Network Model for Prognostic Prediction",
+    "venue": "ICML",
+    "year": "1998",
+    "window": "of the models to separate cases with favorable and unfavorable prognoses (see Section 3.3). 3 Experimental Results Computational experiments were performed on two very different <b>breast</b> <b>cancer</b> data sets. The first is known as <b>Wisconsin</b> Prognostic Breast Cancer (WPBC) and is characterized by a small number of cases, relatively high dimensionality, very precise values and almost no missing data. The",
+    "mykey": 1758
+}

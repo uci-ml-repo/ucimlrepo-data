@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "6B97F7C9C8CEFF17179AA8782DBD96FF54AB3AE7",
+    "rexaID": "64b5cc377a38b3f27da4b5ec9de3391f634beb4b",
+    "author": "Avelino J. Gonzalez and Lawrence B. Holder and Diane J. Cook",
+    "title": "Graph-Based Concept Learning",
+    "venue": "FLAIRS Conference",
+    "year": "2001",
+    "window": "Voting Records Database available from the UCI machine learning repository (Keogh et. al 1998). The diabetes domain is the Pima Indians Diabetes Database, and the credit domain is the German Credit Dataset from the <b>Statlog</b> Project Databases (Keogh et. Al 1998). The Tic-Tac-Toe domain consists of 958 exhaustively generated examples. Positive examples are those where \"X\" starts moving and wins the game",
+    "mykey": 1025
+}

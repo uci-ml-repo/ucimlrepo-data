@@ -1,0 +1,11 @@
+{
+    "datasetID": 60,
+    "supportID": "D97C395FC546457D38AE4CD03549D2577C5F6DDC",
+    "rexaID": "8978cfdbc009102478ae8b1d327fafd076c14538",
+    "author": "Petri Kontkanen and Jussi Lahtinen and Petri Myllym\u00e4ki and Henry Tirri",
+    "title": "Unsupervised Bayesian visualization of high-dimensional data",
+    "venue": "KDD",
+    "year": "2000",
+    "window": "experimental results confirm this hypothesis: in cases where the leave-one-out crossvalidated classification accuracy of the NB classifier is poor in the absolute sense (as with the <b>Liver</b> Disorders data set), or in the relative sense with respect to the default classification accuracy (as with the Postoperative Patient data set), the class labeled colored images are somewhat blurred. Nevertheless, we",
+    "mykey": 2193
+}

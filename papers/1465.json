@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "93199F00DDCF1A8444714E0D38F66EECE480CF18",
+    "rexaID": "80463673ea023e8c5162497b051bd8c54346d686",
+    "author": "Fernando Fern#andez and Pedro Isasi",
+    "title": "Designing Nearest Neighbour Classifiers by the Evolution of a Population of Prototypes",
+    "venue": "Universidad Carlos III de Madrid",
+    "year": "",
+    "window": "first version is due to the high number of centroids to eliminate. An example of the classifier found is given in #gure1(a), showing the centroids located in the mean of the distributions. 3.2 <b>Iris</b> Data Set Iris Data Set from UCI Machine Learning Repository 1 [3] is used in the second experiment. This dataset consits of 150 samples of three classes, where each class has 50 examples. The dimension of",
+    "mykey": 1465
+}

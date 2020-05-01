@@ -1,0 +1,11 @@
+{
+    "datasetID": 154,
+    "supportID": "E0E2BBC7F5341BC46F90D4F9A6DD866892DE7A26",
+    "rexaID": "e949e51c587c01cc64b362cb4fedfaa7dcf5dd68",
+    "author": "Michihiro Kuramochi and George Karypis",
+    "title": "Finding Frequent Patterns in a Large Sparse Graph",
+    "venue": "SDM",
+    "year": "2004",
+    "window": "we removed undirected edges to show \"near to\" relation between two vertices because those edges form cliques which makes this graph difficult to mine. The Contact Map dataset is made of 170 proteins from the <b>Protein</b> Data Bank [4] with pairwise sequence identity lower than 25%. The vertices in these graphs correspond to the different amino acids and the edges connect two",
+    "mykey": 2272
+}

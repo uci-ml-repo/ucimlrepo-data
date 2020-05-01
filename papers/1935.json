@@ -1,0 +1,11 @@
+{
+    "datasetID": 39,
+    "supportID": "BEE1FB17A8C6610F46EC10FE3F8CF67F5242EAA6",
+    "rexaID": "4695569c53cd581fcc193415a8a94a1f92abf607",
+    "author": "Chotirat Ann and Dimitrios Gunopulos",
+    "title": "Scaling up the Naive Bayesian Classifier: Using Decision Trees for Feature Selection",
+    "venue": "Computer Science Department University of California",
+    "year": "",
+    "window": "from the UCI databases, 5 of which Na\u00efve Bayesian classifier outperforms C4.5 and the other 5 of which C4.5 outperforms Na\u00efve Bayesian classifier. Table 1. Descriptions of domains used Dataset #Attributes #Classes #Instances <b>Ecoli</b> 8 8 336 GermanCredit 20 2 1,000 KrVsKp 37 2 3,198 Monk 6 2 554 Mushroom 22 2 8,124 Pima 8 2 768 Promoter 57 2 106 Soybean 35 19 307 Wisconsin 9 2 699 Vote 16 2",
+    "mykey": 1935
+}

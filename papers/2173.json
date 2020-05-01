@@ -1,0 +1,11 @@
+{
+    "datasetID": 92,
+    "supportID": "D6E9D6F5B8A803B7FEFB1F487FCCD64945A3514E",
+    "rexaID": "660eddc9c8a809e94ad8d5837952f89d8997ab92",
+    "author": "Mohammed Waleed Kadous and Claude Sammut",
+    "title": "The University of New South Wales School of Computer Science and Engineering Temporal Classification: Extending the Classification Paradigm to Multivariate Time Series",
+    "venue": "",
+    "year": "",
+    "window": "analysis technique (i.e. a technique that allows the system to cope with the problem that patterns occur at different temporal scales) and applies them to <b>space</b> <b>shuttle</b> data as well as an artificial dataset. Mannila et al [MTV95] have also been looking at temporal classification problems, in particular applying it to network traffic analysis. In their model, streams are a sequence of time-labelled",
+    "mykey": 2173
+}

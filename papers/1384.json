@@ -1,0 +1,11 @@
+{
+    "datasetID": 69,
+    "supportID": "8A070118793051ED47394A317202EB7C6844CD81",
+    "rexaID": "379f34d22ceaf54a97c9a95f0cb0e6eb2a44c1dc",
+    "author": "Cesar Guerra-Salcedo and Stephen Chen and Darrell Whitley and Sarah Smith",
+    "title": "Fast and Accurate Feature Selection Using Hybrid Genetic Strategies",
+    "venue": "Department of Computer Science Colorado State University",
+    "year": "",
+    "window": "is a DNA dataset. The dataset represents Primate <b <b>splice</b> junction</b> gene sequences (DNA). There are 2000 training cases, 1186 test cases, and 180 binary features for each case. Three different classes exist in this",
+    "mykey": 1384
+}

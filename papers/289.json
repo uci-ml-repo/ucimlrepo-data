@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "24FE229EF9E1C59693D37500628A6CE1DFE997BE",
+    "rexaID": "ff68b57a8755189599b4cbefec533e7fc64a5195",
+    "author": "Dennis DeCoste",
+    "title": "Anytime Interval-Valued Outputs for Kernel Machines: Fast Support Vector Machine Classification via Distance Geometry",
+    "venue": "ICML",
+    "year": "2002",
+    "window": "the S i in our embedding point sequence being defined in terms of multiple z i vectors (and/or non-uniform # i 's) seems worthy of future research. 7. Experiments We checked our approach on two UCI datasets (Blake & Merz, 1998): <b>Sonar</b> (to test relatively high d (high kernel costs)) and Haberman (to contrast with related experiments (Downs et al., 2001)). We also report MISR cloud classification",
+    "mykey": 289
+}

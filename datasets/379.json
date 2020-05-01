@@ -1,0 +1,23 @@
+{
+    "ID": 379,
+    "Name": "Website Phishing",
+    "Abstract": "\r\n\r\n",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 1353,
+    "NumAttributes": 10,
+    "DateDonated": "2016-11-02",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00379/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The phishing problem is considered a vital issue in \u00e2\u20ac\u0153.COM\u00e2\u20ac\u009d industry especially e-banking and e-commerce taking the number of online transactions involving payments. \r\nWe have identified different features related to legitimate and phishy websites and collected 1353 different websites from difference sources.Phishing websites were collected from Phishtank data archive (www.phishtank.com), which is a free community site where users can submit, verify, track and share phishing data. The legitimate websites were collected from Yahoo and starting point directories using a web script developed in PHP. The PHP script was plugged with a browser and we collected 548 legitimate websites out of 1353 websites. There is 702 phishing URLs, and 103 suspicious URLs.  \r\n\r\nWhen a website is considered SUSPICIOUS that means it can be either phishy or legitimate, meaning the website held some legit and phishy features. ",
+    "Source": "\r\nNeda Abdelhamid\r\nAuckland Institute of Studies\r\nnedah@ais.ac.nz",
+    "Acknowledgements": "Abdelhamid  et al.,(2014a) Phishing Detection based Associative Classification Data Mining.  Expert Systems With Applications  (ESWA), 41 (2014) 5948\u00e2\u20ac\u201c5959.",
+    "Area": "Computer",
+    "RelevantPapers": "You can view all citations that used the paper that has applied this data,  mentioned below  \r\nat https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14774391168886397497",
+    "AttributeInfo": "URL Anchor\t\r\nRequest URL\t\r\nSFH\t\r\nURL Length\t\r\nHaving \u00e2\u20ac\u2122@\u00e2\u20ac\u2122\t\r\nPrefix/Suffix\t\r\nIP\t\r\nSub Domain\t\r\nWeb traffic\t\r\nDomain age\t\r\nClass\r\n\r\n\r\n\r\n collected features hold the categorical values , \u00e2\u20ac\u0153Legitimate\u00e2\u20ac\u009d, \u00e2\u20ac\u009dSuspicious\u00e2\u20ac\u009d and \u00e2\u20ac\u0153Phishy\u00e2\u20ac\u009d, these values have been replaced with numerical values 1,0 and -1 respectively.\r\ndetails of each feature are mentioned in the research paper mentioned below\r\n",
+    "FormatType": "",
+    "NumHits": 1
+}

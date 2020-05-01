@@ -1,0 +1,11 @@
+{
+    "datasetID": 146,
+    "supportID": "B92890DDD4FD7A4F00DB1BF12E61403C0AEDFC3B",
+    "rexaID": "77fb0a2e40e1c957295bfa6bffb09ffc1d1bebc7",
+    "author": "Giorgio Valentini",
+    "title": "An experimental bias--variance analysis of SVM ensembles based on resampling techniques",
+    "venue": "",
+    "year": "",
+    "window": "we randomly split all the available data in a training and a test set of about equal size, except for the Grey <b>Landsat</b> data set for which we maintained the original size for both the training and test set. To measure the bias--variance decomposition of error, for each data set we used 100 sets (parameter n = 100 in Sect.",
+    "mykey": 1880
+}

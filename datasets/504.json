@@ -1,0 +1,23 @@
+{
+    "ID": 504,
+    "Name": "QSAR fish toxicity",
+    "Abstract": "Data set containing values for 6 attributes (molecular descriptors) of 908 chemicals used to predict quantitative acute aquatic toxicity towards the fish Pimephales promelas (fathead minnow).",
+    "Types": "Multivariate",
+    "Task": "Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 908,
+    "NumAttributes": 7,
+    "DateDonated": "2019-09-23",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00504/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset was used to develop quantitative regression QSAR models to predict acute aquatic toxicity towards the fish Pimephales promelas (fathead minnow) on a set of 908 chemicals. LC50 data, which is the concentration that causes death in 50% of test fish over a test duration of 96 hours, was used as model response. The model comprised 6 molecular descriptors: MLOGP (molecular properties), CIC0 (information indices), GATS1i (2D autocorrelations), NdssC (atom-type counts), NdsCH ((atom-type counts), SM1_Dz(Z) (2D matrix-based descriptors). Details can be found in the quoted reference: M. Cassotti, D. Ballabio, R. Todeschini, V. Consonni. A similarity-based QSAR model for predicting acute toxicity towards the fathead minnow (Pimephales promelas), SAR and QSAR in Environmental Research (2015), 26, 217-243; doi: 10.1080/1062936X.2015.1018938",
+    "Source": "Davide Ballabio (davide.ballabio @ unimib.it), Matteo Cassotti, Viviana Consonni, Roberto Todeschini, Milano Chemometrics and QSAR Research Group (http://www.michem.unimib.it/), Universit\u00c3\u00a0 degli Studi Milano - Bicocca, Milano (Italy)",
+    "Acknowledgements": "Please, cite the following paper if you publish results based on the QSAR fish toxicity dataset: M. Cassotti, D. Ballabio, R. Todeschini, V. Consonni. A similarity-based QSAR model for predicting acute toxicity towards the fathead minnow (Pimephales promelas), SAR and QSAR in Environmental Research (2015), 26, 217-243; doi: 10.1080/1062936X.2015.1018938",
+    "Area": "Physical",
+    "RelevantPapers": "M. Cassotti, D. Ballabio, R. Todeschini, V. Consonni. A similarity-based QSAR model for predicting acute toxicity towards the fathead minnow (Pimephales promelas), SAR and QSAR in Environmental Research (2015), 26, 217-243; doi: 10.1080/1062936X.2015.1018938",
+    "AttributeInfo": "6 molecular descriptors and 1 quantitative experimental response:\r\n1) CIC0\r\n2) SM1_Dz(Z)\r\n3) GATS1i\r\n4) NdsCH\r\n5) NdssC\r\n6) MLOGP\r\n7) quantitative response, LC50 [-LOG(mol/L)]",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

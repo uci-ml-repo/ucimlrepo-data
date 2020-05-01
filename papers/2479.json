@@ -1,0 +1,11 @@
+{
+    "datasetID": 16,
+    "supportID": "F6225261FC5C278286E88780919558E91E0EBA18",
+    "rexaID": "dba0c3d458498a4eef66d37b0f3b1cb310086d31",
+    "author": "Bart Baesens and Stijn Viaene and Tony Van Gestel and J. A. K Suykens and Guido Dedene and Bart De Moor and Jan Vanthienen and Katholieke Universiteit Leuven",
+    "title": "An Empirical Assessment of Kernel Type Performance for Least Squares Support Vector Machine Classifiers",
+    "venue": "Dept. Applied Economic Sciences",
+    "year": "",
+    "window": "Liver Disorders (bld), German Credit (gcr), Heart Disease (hea), Johns Hopkins Ionosphere (ion), Pima Indians Diabetes (pid), Sonar (snr), Tic-Tac-Toe (ttt) and the <b>Wisconsin</b> <b>Breast</b> <b>Cancer</b> (wbc) data set. We start with presenting the empirical setup used to construct the LS-SVM classifier. This is followed by a discussion of the obtained results. 3.1 Constructing the LS-SVM Classifier The",
+    "mykey": 2479
+}

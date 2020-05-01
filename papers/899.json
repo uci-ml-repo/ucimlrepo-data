@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "5FD66E44BB96F8919F46F1E20FB1F1CBECB487F3",
+    "rexaID": "632fe4095475bee152843a02969ade56a290db39",
+    "author": "Igor Kononenko and Edvard Simec and Marko Robnik-Sikonja",
+    "title": "Overcoming the Myopia of Inductive Learning Algorithms with RELIEFF",
+    "venue": "Appl. Intell, 7",
+    "year": "1997",
+    "window": "We compared the performance of the algorithms also on the following non-medical real world data sets (SOYB, <b>IRIS</b>  and VOTE are obtained from the Irvine database[21], SAT is obtained from the StatLog database [18]): SOYB: The famous soybean data set used by Michalski & Chilausky [17]. IRIS: The",
+    "mykey": 899
+}

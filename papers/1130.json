@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "744E899403D1C695F542B25AAEAC399142C05A44",
+    "rexaID": "62c14fc762e0504f5b978f5eb120399e06c64cbe",
+    "author": "Nicholas Howe and Claire Cardie",
+    "title": "Examining Locally Varying Weights for Nearest Neighbor Algorithms",
+    "venue": "ICCBR",
+    "year": "1997",
+    "window": "has 307 designated training instances, and 376 designated test instances. from the benchmark with continuous features were discarded. Also, NetTalk was not used because of its similarity to the NLP datasets described below, and <b>Mushroom</b> was found to be too easy. We also include an artificial task constructed specifically to exhibit feature importance that varies locally at the class level, and several",
+    "mykey": 1130
+}

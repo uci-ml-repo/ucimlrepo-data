@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "2C06F816C0778144F70F4350830A259AA22E285D",
+    "rexaID": "b9cc48070522b3c3f7b5d7bc3b49a06213978f8e",
+    "author": "Ron Kohavi and Mehran Sahami",
+    "title": "Error-Based and Entropy-Based Discretization of Continuous Features",
+    "venue": "KDD",
+    "year": "1996",
+    "window": "to discretize using Ent-MDL were Sick-euthyroid and Hypothyroid, which each took about 31 seconds per fold on an SGI Challenge. The longest running time for ErrorMin was encountered with the <b>Glass</b> dataset which took 153 seconds per fold to discretize, although this was much longer than any other of the datasets examined. The ErrorMin method could not be run on the Letter domain with 300MB of main",
+    "mykey": 368
+}

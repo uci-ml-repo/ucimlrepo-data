@@ -1,0 +1,23 @@
+{
+    "ID": 425,
+    "Name": "University of Tehran Question Dataset 2016 (UTQD.2016)",
+    "Abstract": "Persian questions gathered from a jeopardy game broadcasted on Iranian national television. ",
+    "Types": "Text",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 1175,
+    "NumAttributes": 3,
+    "DateDonated": "2017-09-27",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00425/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The format of each record: Coarse-grained:Fine-grained|Question\r\n",
+    "Source": "Mohammad Razzaghnoori/Dept. of Mathematics, Statistics and Computer Science, College of Science, University of Tehran/m.razzaghnoori@ut.ac.ir\r\nHedieh Sajedi/ Dept. of Mathematics, Statistics and Computer Science, College of Science, University of Tehran/hhsajedi@ut.ac.ir\r\nIman Khani Jazani/Dept. of Computer Engineering and Information Technology, AmirKabirUniversity of Technology/imankhanijazani@aut.ac.ir",
+    "Acknowledgements": "Use of this dataset in publications must be acknowledged by referencing the following publication: \r\n\r\nRazzaghnoori, M., Sajedi, H., & Khani Jazani, I. (In Press). Question classification in Persian using word vectors and frequencies. Cognitive Systems Research. doi: 10.1016/j.cogsys.2017.07.002",
+    "Area": "Other",
+    "RelevantPapers": "M. Razzaghnoori, H. Sajedi, I Khani Jazani: 'Question classification in Persian using word vectors and frequencies', Cognitive Systems Research, 2018.",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 0
+}

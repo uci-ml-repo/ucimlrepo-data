@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "8FB40528206D2A347D66E6064BD8E287FEED39C3",
+    "rexaID": "5d88347a087b01681bec3121a13b7b29465cdc71",
+    "author": "Mauro Birattari and Gianluca Bontempi and Hugues Bersini",
+    "title": "Lazy Learning Meets the Recursive Least Squares Algorithm",
+    "venue": "NIPS",
+    "year": "1998",
+    "window": "classical mean square error criterion: ^ y q = x 0 q ^ fi( ^ k); with ^ k = arg min k MSE(k) = arg min k P k i=1 ! i (e cv i (k)) 2 P k i=1 ! i ; (9) Table 1: A summary of the characteristics of the datasets considered. Dataset <b>Housing</b> Cpu Prices Mpg Servo Ozone Number of examples 506 209 159 392 167 330 Number of regressors 13 6 16 7 8 8 where ! i are weights than can be conveniently used to discount",
+    "mykey": 1411
+}

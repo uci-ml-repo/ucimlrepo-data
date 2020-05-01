@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "D174FB126EF41AB1A0DC96DA273D57E5BDF4A8C5",
+    "rexaID": "5b3417aa2824988405f9ac934b692af30729b447",
+    "author": "Jennifer G. Dy and Carla Brodley",
+    "title": "Feature Selection for Unsupervised Learning",
+    "venue": "Journal of Machine Learning Research, 5",
+    "year": "2004",
+    "window": "features. 25 Dy and Brodley . Feature selection obtained better results than without feature selection. 6.5 Experiments on Real Data We examine the FSSEM variants on the <b>iris</b>  wine, and ionosphere data set from the UCI learning repository (Blake & Merz, 1998), and on a high resolution computed tomography (HRCT) lung image data which we collected from IUPUI medical center (Dy et al., 2003; Dy et al.,",
+    "mykey": 2081
+}

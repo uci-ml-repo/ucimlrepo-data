@@ -1,0 +1,23 @@
+{
+    "ID": 331,
+    "Name": "Sentiment Labelled Sentences",
+    "Abstract": "The dataset contains sentences labelled with positive or negative sentiment.",
+    "Types": "Text",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 3000,
+    "NumAttributes": 0,
+    "DateDonated": "2015-05-30",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00331/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset was created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015\r\nPlease cite the paper if you want to use it :)\r\n\r\nIt contains sentences labelled with positive or negative sentiment.\r\n\r\n=======\r\nFormat:\r\n=======\r\nsentence \t score \n\r\n\r\n\r\n=======\r\nDetails:\r\n=======\r\nScore is either 1 (for positive) or 0 (for negative)\t\r\nThe sentences come from three different websites/fields:\r\n\r\nimdb.com\r\namazon.com\r\nyelp.com\r\n\r\nFor each website, there exist 500 positive and 500 negative sentences. Those were selected randomly for larger datasets of reviews. \r\nWe attempted to select sentences that have a clearly positive or negative connotaton, the goal was for no neutral sentences to be selected.\r\n\r\n",
+    "Source": "Dimitrios Kotzias dkotzias@ics.uci.edu",
+    "Acknowledgements": "'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015",
+    "Area": "Other",
+    "RelevantPapers": "'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015",
+    "AttributeInfo": "The attributes are text sentences, extracted from reviews of products, movies, and restaurants",
+    "FormatType": "",
+    "NumHits": 8
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 235,
+    "Name": "Individual household electric power consumption",
+    "Abstract": "Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Regression, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 2075259,
+    "NumAttributes": 9,
+    "DateDonated": "2012-08-30",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00235/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This archive contains 2075259 measurements gathered in a house located in Sceaux (7km of Paris, France) between December 2006 and November 2010 (47 months).\r\nNotes: \r\n1.(global_active_power*1000/60 - sub_metering_1 - sub_metering_2 - sub_metering_3) represents the active energy consumed every minute (in watt hour) in the household by electrical equipment not measured in sub-meterings 1, 2 and 3.\r\n2.The dataset contains some missing values in the measurements (nearly 1,25% of the rows). All calendar timestamps are present in the dataset but for some timestamps, the measurement values are missing: a missing value is represented by the absence of value between two consecutive semi-colon attribute separators. For instance, the dataset shows missing values on April 28, 2007.",
+    "Source": "Georges Hebrail (georges.hebrail@edf.fr), Senior Researcher, EDF R&D, Clamart, France\r\nAlice Berard, TELECOM ParisTech Master of Engineering Internship at EDF R&D, Clamart, France",
+    "Acknowledgements": "This dataset is made available under the \u201cCreative Commons Attribution 4.0 International (CC BY 4.0)\u201d license",
+    "Area": "Physical",
+    "RelevantPapers": "",
+    "AttributeInfo": "1.date: Date in format dd/mm/yyyy\r\n2.time: time in format hh:mm:ss\r\n3.global_active_power: household global minute-averaged active power (in kilowatt)\r\n4.global_reactive_power: household global minute-averaged reactive power (in kilowatt)\r\n5.voltage: minute-averaged voltage (in volt)\r\n6.global_intensity: household global minute-averaged current intensity (in ampere)\r\n7.sub_metering_1: energy sub-metering No. 1 (in watt-hour of active energy). It corresponds to the kitchen, containing mainly a dishwasher, an oven and a microwave (hot plates are not electric but gas powered).\r\n8.sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.\r\n9.sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.",
+    "FormatType": "",
+    "NumHits": 9
+}

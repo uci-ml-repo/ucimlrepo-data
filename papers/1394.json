@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "8D64C051CF022841541BEA3ED92C41B2098BD9EA",
+    "rexaID": "7e787ada7263180d2a9bad6a3c490e7f8b0d4cd0",
+    "author": "Daniel J. Lizotte and Omid Madani and Russell Greiner",
+    "title": "Budgeted Learning, Part II: The Na#ve-Bayes Case",
+    "venue": "Department of Computing Science University of Alberta",
+    "year": "",
+    "window": "problem with nine features that can take on between two and five values. The relative performances of the policies are closer to each other, but their behaviour is similar to Figure 4(a). The <b>votes dataset</b> (Figure 4(c)) is a binary class problem (whether or not republican), with 16 binary features, 435 instances, and a positive class probability of 0:61. In the votes dataset, there is a high",
+    "mykey": 1394
+}

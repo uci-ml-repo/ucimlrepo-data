@@ -1,0 +1,23 @@
+{
+    "ID": 55,
+    "Name": "Kinship",
+    "Abstract": "Relational dataset",
+    "Types": "Relational",
+    "Task": "Relational-Learning",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 104,
+    "NumAttributes": 12,
+    "DateDonated": "1990-07-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/kinship/",
+    "URLReadme": "../machine-learning-databases/kinship/kinship.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This relational database consists of 24 unique names in two families (they have equivalent structures).  Hinton used one unique output unit for each person and was interested in predicting the following relations: wife, husband, mother, father, daughter, son, sister, brother, aunt, uncle, niece, and nephew.  Hinton used 104 input-output vector pairs (from a space of 12x24=288 possible pairs).  The prediction task is as follows: given a name and a relation, have the outputs be on for only those individuals (among the 24) that satisfy the relation.  The outputs for all other individuals should be off.\r\n\r\nHinton's results: Using 100 vectors as input and 4 for testing, his results on two passes yielded 7 correct responses out of 8.  His network of 36 input units, 3 layers of hidden units, and 24 output units used 500 sweeps of the training set during training.\r\n\r\nQuinlan's results: Using FOIL, he repeated the experiment 20 times (rather than Hinton's 2 times).  FOIL was correct 78 out of 80 times on the test cases.  ",
+    "Source": "Creator: \r\n\r\nGeoff Hinton\r\n\r\nDonor: \r\n\r\nJ. Ross Quinlan",
+    "Acknowledgements": "",
+    "Area": "Social",
+    "RelevantPapers": "Hinton, G.E (1986). Learning distributed representations of concepts, Proceedings of CogSci 1986.\r\nhttp://rexa.info/paper/c371233f9299765c79aeac1d2db329d96f4e59ba\r\n\r\nQuinlan, J.R. (1989).  Learning relations: Comparison of a symbolic and a connectionist approach.\r\nhttp://rexa.info/paper/bde8f64fc89bc7d6a205e86846e9cf555d38c28e",
+    "AttributeInfo": "   -- The relation names are:\r\n      wife\r\n      husband\r\n      mother\r\n      father\r\n      daughter\r\n      son\r\n      sister\r\n      brother\r\n      aunt\r\n      uncle\r\n      niece\r\n      nephew\r\n",
+    "FormatType": "",
+    "NumHits": 15
+}

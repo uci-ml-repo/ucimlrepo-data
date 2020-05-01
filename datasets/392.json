@@ -1,0 +1,23 @@
+{
+    "ID": 392,
+    "Name": "Early biomarkers of Parkinson\u2019s disease based on natural connected speech",
+    "Abstract": "Predict a pattern of neurodegeneration in the dataset of speech features obtained from patients with early untreated Parkinson\u00e2\u20ac\u2122s disease and patients at high risk developing Parkinson\u00e2\u20ac\u2122s disease.",
+    "Types": "Multivariate",
+    "Task": "Classification, Regression",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 130,
+    "NumAttributes": 65,
+    "DateDonated": "2017-02-15",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00392/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset include 30 patients with early untreated Parkinson\u00e2\u20ac\u2122s disease (PD), 50 patients with REM sleep behaviour disorder (RBD), which are at high risk developing Parkinson\u00e2\u20ac\u2122s disease or other synucleinopathies; and 50 healthy controls (HC). All patients were scored clinically by a well-trained professional neurologist with experience in movement disorders. All subjects were examined during a single session with a speech specialist. All subjects performed reading of standardized, phonetically-balanced text of 80 words and monologue about their interests, job, family or current activities for approximately 90\u00e2\u20ac\u2030seconds. Speech features were automatically analyzed by Hlavni\u00c4\u008dka et al. (2017). \r\n\r\nThe dataset is provided in xls and csv format. The table is organized as follows:\r\n\r\n\u00e2\u20ac\u00a2\tFirst two rows include header\r\n\u00e2\u20ac\u00a2\tFirst row denote sections (Demographic information, Clinical information, etc.)\r\n\u00e2\u20ac\u00a2\tSecond row denote attribute\r\n\u00e2\u20ac\u00a2\tEach row in range from 3 to 132 corresponds to one particular subject identified by a unique code (first column). The code indicate also clinical diagnosis of the subject (PD, RBD, or HC)\r\n\r\nFor further details about the computational procedures, please see Hlavni\u00c4\u008dka (2017), or contact rusz.mz (at) gmail.com. ",
+    "Source": "The dataset was collected at Charles University in Prague, First Faculty of Medicine, Department of Neurology and Centre of Clinical Neuroscience, Prague, Czech Republic. Speech features were automatically analysed by Hlavni\u00c4\u008dka et al. (2017).",
+    "Acknowledgements": "If you use this dataset, please cite the following paper: \r\n\r\nHlavni\u00c4\u008dka, J., \u00c4\u0152mejla, R., Tykalov\u00c3\u00a1, T., \u00c5\u00a0onka, K., R\u00c5\u00af\u00c5\u00bei\u00c4\u008dka, E., and Rusz, J. (2017). Automated analysis of connected speech reveals early biomarkers of Parkinson\u00e2\u20ac\u2122s disease in patients with rapid eye movement sleep behaviour disorder. Scientific Reports, 7(1), 12.",
+    "Area": "Life",
+    "RelevantPapers": "Hlavni\u00c4\u008dka, J., \u00c4\u0152mejla, R., Tykalov\u00c3\u00a1, T., \u00c5\u00a0onka, K., R\u00c5\u00af\u00c5\u00bei\u00c4\u008dka, E., and Rusz, J. (2017). Automated analysis of connected speech reveals early biomarkers of Parkinson\u00e2\u20ac\u2122s disease in patients with rapid eye movement sleep behaviour disorder. Scientific Reports, 7(1), 12.",
+    "AttributeInfo": "\u00e2\u20ac\u00a2\tParticipant code = unique code for identification of a subject and diagnosis (PD = Parkinson\u00e2\u20ac\u2122s disease, RBD = rapid eye movement sleep behaviour disorder, HC = Healthy control)\r\n\u00e2\u20ac\u00a2\tUPDRS III = Unified Parkinson\u00e2\u20ac\u2122s Disease Rating Scale III, accordingly to: Stebbins, G. T. & Goetz, C. G. Factor structure of the Unified Parkinson\u00e2\u20ac\u2122s Disease Rating Scale: motor examination section. Mov. Disord 13, 633\u00e2\u20ac\u201c636 (1998).\r\n\u00e2\u20ac\u00a2\tGender 'F' = female\r\n\u00e2\u20ac\u00a2\tGender 'M' = male\r\n\u00e2\u20ac\u00a2\tSpeech examination: speaking task of reading passage = speech features analyzed on reading passage\r\n\u00e2\u20ac\u00a2\tSpeech examination: speaking task of monologue = speech features analyzed on monologue\r\n\r\nFor further details about the analyzed speech features, please see Hlavni\u00c4\u008dka (2017), or contact rusz.mz (at) gmail.com.",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

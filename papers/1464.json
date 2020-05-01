@@ -1,0 +1,11 @@
+{
+    "datasetID": 111,
+    "supportID": "93187059BF6EAB8DBAE1762B80ED7071F9A435BF",
+    "rexaID": "e2b2b723df700c90e69a31a4403b740c2d2a7b2f",
+    "author": "Alexander K. Seewald",
+    "title": "Dissertation Towards Understanding Stacking Studies of a General Ensemble Learning Scheme ausgefuhrt zum Zwecke der Erlangung des akademischen Grades eines Doktors der technischen Naturwissenschaften",
+    "venue": "",
+    "year": "",
+    "window": "#26 Training set (8-9=CV, 7=75%, 6=62%,.. 1=25%) Hold-out accuracy Figure 6.4: Learning curves for dataset primary-tumor to <b>zoo</b>  58 Chapter 7 Towards a Theoretical Framework In this chapter, we show that the ensemble learning scheme Stacking is universal in the sense that most ensemble learning schemes",
+    "mykey": 1464
+}

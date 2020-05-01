@@ -1,0 +1,11 @@
+{
+    "datasetID": 146,
+    "supportID": "D9564C076A9FBF4DC4F5E5F19B158598AA4BA910",
+    "rexaID": "ca1479cb43feeda16386d2e50460bd2c1230bc8b",
+    "author": "Robert E. Schapire and Yoav Freund and Peter Bartlett and Wee Sun Lee",
+    "title": "The Annals of Statistics, to appear. Boosting the Margin: A New Explanation for the Effectiveness of Voting Methods",
+    "venue": "AT&T Labs",
+    "year": "1998",
+    "window": "Each stimulus was converted into 16 primitive numerical attributes (statistical moments and edge counts) which were then scaled to fit into a range of integer values from 0 through 15.\" The satimage dataset is the statlog version of a <b>satellite</b> image dataset. According to the documentation, \"This database consists of the multi-spectral values of pixels in 3 # 3 neighborhoods in a satellite image, and",
+    "mykey": 2190
+}

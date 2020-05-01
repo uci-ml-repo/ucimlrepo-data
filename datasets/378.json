@@ -1,0 +1,23 @@
+{
+    "ID": 378,
+    "Name": "DrivFace",
+    "Abstract": "The DrivFace contains images sequences of subjects while driving in real scenarios. It is composed of 606 samples of 640\u00c3\u2014480, acquired over different days from 4 drivers with several facial features.",
+    "Types": "Multivariate",
+    "Task": "Classification, Regression, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 606,
+    "NumAttributes": 6400,
+    "DateDonated": "2016-05-26",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00378/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The DrivFace database contains images sequences of subjects while driving in real scenarios. It is composed of 606 samples of 640\u00c3\u2014480 pixels each, acquired over different days from 4 drivers (2 women and 2 men) with several facial features like glasses and beard.\r\n\r\nAdditional files:\r\ndrivFace.mat contains the dataset in Matlab (under prtools library) with the driver faces normalised to 80x80 pixels each and their associated gaze direction labels \u00e2\u20ac\u0153looking-right\u00e2\u20ac\u009d, \u00e2\u20ac\u0153frontal\u00e2\u20ac\u009d and  \u00e2\u20ac\u0153looking-left\u00e2\u20ac\u009d.\r\n",
+    "Source": "Katerine Diaz-Chito*\r\nAura Hern\u00c3\u00a1ndez-Sabat\u00c3\u00a9\r\nAntonio M. L\u00c3\u00b3pez\r\n\r\nCentre de Visi\u00c3\u00b3 per Computador\r\nUniversitat Aut\u00c3\u00b3noma de Barcelona\r\n\r\n*Corresponding author:{kdiaz@cvc.uab.es}\r\n",
+    "Acknowledgements": "Katerine Diaz-Chito, Aura Hern\u00c3\u00a1ndez-Sabat\u00c3\u00a9, Antonio M. L\u00c3\u00b3pez, A reduced feature set for driver head pose estimation, Applied Soft Computing, Volume 45, August 2016, Pages 98-107, ISSN 1568-4946, ",
+    "Area": "Computer",
+    "RelevantPapers": "Katerine Diaz-Chito, Aura Hern\u00c3\u00a1ndez-Sabat\u00c3\u00a9, Antonio M. L\u00c3\u00b3pez, A reduced feature set for driver head pose estimation, Applied Soft Computing, Volume 45, August 2016, Pages 98-107, ISSN 1568-4946, ",
+    "AttributeInfo": "The ground truth contains the annotation of the face bounding box and the facial key points (eyes, nose and mouth). \r\nA set of labels assigning each image into 3 possible gaze direction classes are given. \r\nThe first class is the \u00e2\u20ac\u0153looking-right\u00e2\u20ac\u009d class and contains the head angles between -45\u00c2\u00ba and -30\u00c2\u00ba. \r\nThe second one is the \u00e2\u20ac\u0153frontal\u00e2\u20ac\u009d class and contains the head angles between -15\u00c2\u00ba and 15\u00c2\u00ba. \r\nThe last one is the \u00e2\u20ac\u0153looking-left\u00e2\u20ac\u009d class and contains the head angles between 30\u00c2\u00ba and 45\u00c2\u00ba. \r\n\r\nFiles and scripts\r\n\u00e2\u20ac\u00a2 DrivImages.zip has the driver images. The imag's name has the format:\r\n    * YearMonthDay_subject_Driv_imNum_HeadPose.jpg \r\n\r\ni.e. 20130529_01_Driv_011_f .jpg is a frame of the fisrts driver corresponding to the 11 sequence's image and the head pose is frontal.\r\nsubject = [1:4], imNum = [001:...], HeadPose = lr (looking-right), f (frontal) and lf (looking-left).\r\n  \r\n\r\n\u00e2\u20ac\u00a2 drivPoints.txt contains the ground truth in table's format, where the columns have the follow information:\r\n    * fileName is the imagen's name into DrivImages.zip\r\n    * subject = [1:4]\r\n    * imgNum  = int\r\n    * label   = [1/2/3] (head pose class that corresponding to [lr/f/lf], respectively) \r\n    * ang     = [-45, -30/ -15 0 15/ 30 15] (head pose angle)\r\n    * [xF yF wF hF] = face position \r\n    * [xRE yRE]     = rigth eye position \r\n    * [xLE yL]      = left eye position \r\n    * [xN yN]       = Nose position \r\n    * [xRM yRM]     = rigth corner of mouth\r\n    * [xLM yLM]     = left corner of mouth   \r\n\r\n\r\n\u00e2\u20ac\u00a2 read_drivPoints.m is a Matlab function to read the drivPoints file. You can also use:\r\n    * Table = readtable('drivPoints.txt');\r\n\r\n\u00e2\u20ac\u00a2 drivFace.mat contains the dataset in Matlab (under prtools library) with the driver faces normalised to 80x80 pixels each and their associated gaze direction labels \u00e2\u20ac\u0153looking-right\u00e2\u20ac\u009d, \u00e2\u20ac\u0153frontal\u00e2\u20ac\u009d and  \u00e2\u20ac\u0153looking-left\u00e2\u20ac\u009d.\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 1
+}

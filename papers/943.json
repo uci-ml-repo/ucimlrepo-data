@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "642E47B14E7BCD832996218E268B19AFA35984CF",
+    "rexaID": "f15ee3b90f8d2dd6218e7cffa513b49d9f6dda1c",
+    "author": "Jing Peng and Bir Bhanu",
+    "title": "Feature Relevance Estimation for Image Databases",
+    "venue": "Multimedia Information Systems",
+    "year": "1999",
+    "window": "significant performance improvement across the tasks. In general, PFRL seems to outperform MARS on all the tasks. Superior performance by PFRL is particularly pronounced on the SegData and <b>Sonar</b> data sets. Moreover, the results show that PFRL can handle large problems with high dimensionality well by its superb performance on the 60 dimensional Sonar data set. Table 1: Average retrieval precision",
+    "mykey": 943
+}

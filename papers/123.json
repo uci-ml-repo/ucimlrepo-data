@@ -1,0 +1,11 @@
+{
+    "datasetID": 152,
+    "supportID": "0AFCE6FDD485F3847D9541C716A903945DB40B61",
+    "rexaID": "61f13a0ee6d86b2c3576af921d81a77e5d82809e",
+    "author": "M. Layton and M. J. F Gales",
+    "title": "CAMBRIDGE UNIVERSITY ENGINEERING DEPARTMENT Maximum Margin Training of Generative Kernels",
+    "venue": "CUED",
+    "year": "2004",
+    "window": "the number of iterations required for convergence increased significantly (34 iterations were required for C = 10, whereas 1,084 were required for C = 0.1). 15 5.2 <b>Deterding</b> data The Deterding dataset [6] consists of the steady-state portion of 11 vowels in British English, spoken in the context of h*d. The recorded speech samples were low-pass filtered at 4.7KHz before being digitised at 10KHz",
+    "mykey": 123
+}

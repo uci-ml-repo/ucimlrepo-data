@@ -1,0 +1,23 @@
+{
+    "ID": 246,
+    "Name": "3D Road Network (North Jutland, Denmark)",
+    "Abstract": "3D road network with highly accurate elevation information (+-20cm) from Denmark used in eco-routing and fuel/Co2-estimation routing algorithms.",
+    "Types": "Sequential, Text",
+    "Task": "Regression, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 434874,
+    "NumAttributes": 4,
+    "DateDonated": "2013-04-16",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00246/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset was constructed by adding elevation information to a 2D road network in North Jutland, Denmark (covering a region of 185 x 135 km^2). Elevation values where extracted from a publicly available massive Laser Scan Point Cloud for Denmark (available at : http://download.kortforsyningen.dk/ (Bottom-most dataset)). This 3D road network was eventually used for benchmarking various fuel and CO2 estimation algorithms. This dataset can be used by any applications that require to know very\r\naccurate elevation information of a road network to perform more accurate routing for eco-routing, cyclist routes etc. For the data mining and machine learning community, this dataset can be used as 'ground-truth' validation in spatial mining techniques and satellite image processing. It has no class labels, but can be used in unsupervised learning and regression to guess some missing elevation information for some points on the road. \r\nThe work was supported by the Reduction project that is funded by the European Comission as FP7-ICT-2011-7 STREP project number 288254.\r\n",
+    "Source": "Manohar Kaul, Department of Computer Science, Aarhus University, Denmark (mkaul@cs.au.dk) ",
+    "Acknowledgements": "Use of this dataset in publications must be acknowledged by referencing the following publication: \r\n\r\nBuilding Accurate 3D Spatial Networks to Enable Next Generation Intelligent Transportation Systems (Accepted and to be published in June)\r\nProceedings of International Conference on Mobile Data Management (IEEE MDM), June 3-6 2013, Milan, Italy\r\n",
+    "Area": "Computer",
+    "RelevantPapers": "[1] Chenjuan Guo, Yu Ma, Bin Yang, Christian S. Jensen, Manohar Kaul: EcoMark: evaluating models of vehicular environmental impact. SIGSPATIAL/GIS 2012: 269-278",
+    "AttributeInfo": "<OSM_ID,LONGITUDE,LATITUDE,ALTITUDE(mts)>\r\n\r\n1. OSM_ID: OpenStreetMap ID for each road segment or edge in the graph.\r\n2. LONGITUDE: Web Mercaptor (Google format) longitude \r\n3. LATITUDE: Web Mercaptor (Google format) latitude\r\n4. ALTITUDE: Height in meters. \r\n\r\nNote: OSM_ID is the ID assigned by OpenStreetMaps (http://www.openstreetmap.org/) to the road segments. Each (long,lat,altitude) point on a road segment (with unique OSM ID) is sorted in the same order as they appear on the road. So a 3D-polyline can be drawn by joining points of each row for each OSM_ID road segment.",
+    "FormatType": "",
+    "NumHits": 8
+}

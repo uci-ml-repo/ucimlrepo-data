@@ -1,0 +1,23 @@
+{
+    "ID": 324,
+    "Name": "Firm-Teacher_Clave-Direction_Classification",
+    "Abstract": "The data are binary attack-point vectors and their clave-direction class(es) according to the partido-alto-based paradigm.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 10800,
+    "NumAttributes": 20,
+    "DateDonated": "2015-04-24",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00324/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The data consist of 16 binary inputs and one 'four-bit' one-hot classification output. The 16-bit inputs are binary-valued attack-point vectors. 1 indicates the substantial presence (0, absence) of an onset (note start) in a certain time window during one bar of 4/4 time music (not limited to percussion, hence *onset* vectors without duration) quantized to 16th-note subdivisions. Each vector has 16 positions in which there may be or not be an onset. The output classes (left to right: neutral, reverse clave, forward clave, and incoherent) were determined through the music-theoretic/ethnomusicological portion of the my dissertation studies, based on both double-blind listening tests and informal interviews with with four professional master-musicians, as well as decades of studying the music. Future uploads (subject only to formatting) can include an additional column of fuzzy descriptors (of the degree of match to the output class).",
+    "Source": "Name: Mehmet Vurka\u00c3\u00a7, Ph.D.\r\nE-mail address: mehmet.vurkac@gmail.com, mehmet.vurkac@oit.edu, engineer@fastmail.com\r\nInstitutions: Oregon Institute of Technology (current), Portland State University (where data were obtained)\r\nOther contact information: Daytime phone: 1-541-885-1258",
+    "Acknowledgements": "Please refer to Machine Learning Repository's citation policy.",
+    "Area": "Other",
+    "RelevantPapers": "A Cross-Cultural Grammar for Temporal Harmony in Afro-Latin Musics: Clave, Partido-Alto and Other Timelines (Current Musicology, No. 94, 2014 with Fall 2012 imprint: http://academiccommons.columbia.edu/catalog/ac:180566)\r\nOn the Need for Clave-Direction Analysis: A New Arena for Educational and Creative Applications of Music Technology (Journal of Music, Technology and Education, Vol. 4, No. 1, August 2011: http://www.ingentaconnect.com/content/intellect/jmte/2011/00000004/00000001/art00003)\r\nBalan\u00c3\u00a7o: the Contour of Selective Offbeatness (Bridges 2012: Mathematics, Music, Art, Architecture, Culture: http://archive.bridgesmathart.org/2012/bridges2012-329.html)\r\nWorkshop: Make Your Own MP3 with \u00e2\u20ac\u0153Algorhythmic\u00e2\u20ac\u009d Generation and Aksak\u00e2\u20ac\u201cEuclidean Synthesis (2013 for 2015 Presentation, Bridges 2013: Mathematics, Music, Art, Architecture, Culture: archive.bridgesmathart.org/2013/bridges2013-593.pdf)",
+    "AttributeInfo": "In terms of divisive rhythm counting, the first 16 attributes (input bits) correspond to a significant onset at:\r\n1 e & a 2 e & a 3 e & a 4 e & a \r\nof one bar of 4/4 time.\r\n\r\nThe last four are the output classes (3 - neutral, 2 - reverse clave, 1 - forward clave, 0 - incoherent) in one-hot (one-up) encoding.\r\n",
+    "FormatType": "",
+    "NumHits": 8
+}

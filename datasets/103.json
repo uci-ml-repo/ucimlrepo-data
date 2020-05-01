@@ -1,0 +1,23 @@
+{
+    "ID": 103,
+    "Name": "Trains",
+    "Abstract": "2 data formats (structured, one-instance-per-line)",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 10,
+    "NumAttributes": 32,
+    "DateDonated": "1994-06-24",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/trains/",
+    "URLReadme": "../machine-learning-databases/trains/trains.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Notes:\r\n\r\n- Additional \"background\" knowledge is supplied that provides a partial ordering on some of the attribute values.\r\n\r\n- We are providing this dataset both in its original form and in a form similar to the more typical propositional datasets in our repository. Since the trains dataset records relations between attributes, this transformation was somewhat challenging.  However, it may shed some insight on this problem for people who are more familiar with the simple one-instance-per-line dataset format.\r\n\r\nHierarchy of values:\r\n     \r\nif (cshape is one of {openrect,opentrap,ushaped,dblopnrect}\r\nthen cshape is opentop\r\n    \r\nif (cshape is one of {hexagon,ellipse,closedrect,jaggedtop,slopetop, engine}\r\nthen cshape closedtop\r\n\r\nPrediction task: Determine concise decision rules distinguishing trains traveling east from those traveling west.",
+    "Source": "Original owners: \r\n\r\nRyszard S. Michalski (michalski@aic.gmu.edu) and Robert Stepp\r\n\r\nDonor: \r\n\r\nGMU, Center for AI, Software Librarian, Eric E. Bloedorn (bloedorn@aic.gmu.edu)\r\n\r\n",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "R.S. Michalski and  J.B. Larson \"Inductive Inference of VL Decision Rules\" In Proceedings of the Workshop in Pattern-Directed Inference Systems, Hawaii, May 1977.\r\nhttp://rexa.info/paper/702e780c3447ebdc01f1b93ba3376c2a920fee92\r\n\r\nStepp, R.E. and Michalski, R.S. \"Conceptual Clustering: Inventing Goal-Oriented Classifications of Structured Objects\"  In R.S. Michalski, J.G. Carbonell, and T.M. Mitchell (Eds.) \"Machine Learning: An Artificial Intelligence Approach, Volume II\".  Los Altos, Ca: Morgan Kaufmann.\r\nhttp://rexa.info/paper/3fbdb0570a535372f2b7abb6a29366f471752f16  ",
+    "AttributeInfo": " The following format was used for the \"transformed\" dataset representation as found in trains.transformed.data (one instance per line):\r\n\r\n  1. Number_of_cars (integer in [3-5])\r\n  2. Number_of_different_loads (integer in [1-4])\r\n  3-22: 5 attributes for each of cars 2 through 5: (20 attributes total)\r\n    - num_wheels (integer in [2-3])\r\n    - length (short or long)    \r\n    - shape (closedrect, dblopnrect, ellipse, engine, hexagon, jaggedtop, openrect, opentrap, slopetop, ushaped)\r\n    - num_loads (integer in [0-3])\r\n    - load_shape (circlelod, hexagonlod, rectanglod, trianglod)\r\n  23-32: 10 Boolean attributes describing whether 2 types of loads are on adjacent cars of the train\r\n    - Rectangle_next_to_rectangle (0 if false, 1 if true)\r\n    - Rectangle_next_to_triangle (0 if false, 1 if true)\r\n    - Rectangle_next_to_hexagon (0 if false, 1 if true)\r\n    - Rectangle_next_to_circle (0 if false, 1 if true)\r\n    - Triangle_next_to_triangle (0 if false, 1 if true)\r\n    - Triangle_next_to_hexagon (0 if false, 1 if true)\r\n    - Triangle_next_to_circle (0 if false, 1 if true)\r\n    - Hexagon_next_to_hexagon (0 if false, 1 if true)\r\n    - Hexagon_next_to_circle (0 if false, 1 if true)\r\n    - Circle_next_to_circle (0 if false, 1 if true)\r\n  33. Class attribute (east or west)\r\n  \r\n  The number of cars vary between 3 and 5.  Therefore, attributes referring to properties of cars that do not exist (such as the 5 attriubutes for the \"5th\" car when the train has fewer than 5 cars) are assigned a value of \"-\".",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 6117
+}

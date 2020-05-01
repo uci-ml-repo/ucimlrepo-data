@@ -1,0 +1,11 @@
+{
+    "datasetID": 27,
+    "supportID": "70BF676E462623CDDFD0DA5D6B1E682BAE21738E",
+    "rexaID": "cf33e50e2855982af7c583c8e756a28a5e8f0aeb",
+    "author": "Kagan Tumer and Joydeep Ghosh",
+    "title": "Robust Combining of Disparate Classifiers through Order Statistics",
+    "venue": "CoRR, csLG/9905013",
+    "year": "1999",
+    "window": "and the corresponding size of the MLP used, are 5 : ffl Card: a 51-dimensional, 2-class data set based on <b>credit approval</b> decision with 690 patterns; an MLP with 10 hidden units; ffl Gene: a 120-dimensional data set with two classes, based on the detection of splice junctions in DNA sequences,",
+    "mykey": 1097
+}

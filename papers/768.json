@@ -1,0 +1,11 @@
+{
+    "datasetID": 7,
+    "supportID": "53DFBC477FFB016E36D54F98E48695902D8EB566",
+    "rexaID": "944b9d70eb0a01d18c91109dfeb566936461a194",
+    "author": "Alexander K. Seewald",
+    "title": "Meta-Learning for Stacked Classification",
+    "venue": "Austrian Research Institute for Artificial Intelligence",
+    "year": "",
+    "window": "with number of classes and examples, discrete and continuous attributes, baseline accuracy (%) and entropy in bits per example (Kononenko & Bratko, 1991). Dataset cl Inst disc cont bL E <b>audiology</b> 24 226 69 0 25.22 3.51 autos 7 205 10 16 32.68 2.29 balance-scale 3 625 0 4 45.76 1.32 breast-cancer 2 286 10 0 70.28 0.88 breast-w 2 699 0 9 65.52 0.93 colic 2 368",
+    "mykey": 768
+}

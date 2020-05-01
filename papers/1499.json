@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "95A785BEB7AA9BF691CE8FB330A7D36776B9BC56",
+    "rexaID": "8f5ae7219e74a85e3f722b58b3fedb30eab7a1d7",
+    "author": "Huan Liu",
+    "title": "A Family of Efficient Rule Generators",
+    "venue": "Department of Information Systems and Computer Science National University of Singapore",
+    "year": "",
+    "window": "and to compare with the results reported in [22] since they have done some comparison with other methods such as ID3 [14] and the one by Han et al [7]. Then, we show the results for another two data sets: Golf-Playing [13] and <b>Iris</b> [4]. The authors of [13, 22] did not provide testing data. Only the Iris data is divided evenly into two sets (75 patterns each) for training and testing. Datasets CAR",
+    "mykey": 1499
+}

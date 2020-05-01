@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "8BADD7F945EF2413390D2FEBB4F9737992137E86",
+    "rexaID": "63460ee5afd1e104ba91e654e9aee9b977433c4c",
+    "author": "S. Augustine Su and Jennifer G. Dy",
+    "title": "Automated hierarchical mixtures of probabilistic principal component analyzers",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "5 wine -3-8 .478 .627 8 2 .623 .722 4 Interestingly, the mixture of PPCA approach is not always better than PCA+EM. Mixtures of PPCA performed better than PCA+EM in terms of NMI and FM on most small datasets (toy, oil, and <b>glass</b> , which are well modeled by mixtures of Gaussians. PPCA with fewer clusters has a comparable performance with EM + PCA on the large data sets (optical digits, satellite image,",
+    "mykey": 1390
+}

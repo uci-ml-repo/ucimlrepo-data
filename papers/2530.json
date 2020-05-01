@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "FAA8ACAE21B3E5D9BFF3C84D3EE3A80B3ECCFF5A",
+    "rexaID": "7d8a7f4c9a24d1127a5ded21969c82ed63037c42",
+    "author": "Erin J. Bredensteiner and Kristin P. Bennett",
+    "title": "Feature Minimization within Decision Trees",
+    "venue": "National Science Foundation",
+    "year": "1996",
+    "window": "are generated from a large set of star and galaxy images collected by Odewahn [22] at the University of Minnesota. <b>Sonar</b>  <b>Mines</b> vs. <b>Rocks</b> The Sonar data set [13] contains sixty real-valued attributes between 0.0 and 1.0 used to define 208 mines and rocks. Attributes are obtained by bouncing sonar signals off a metal cylinder (or rock) at various angles",
+    "mykey": 2530
+}

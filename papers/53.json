@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "07753406174C42BAF1807BCBE36D602C3932B291",
+    "rexaID": "59e7c62dd41ce2ed1741bafac723745eb7b80b65",
+    "author": "Josep Roure Alcobe",
+    "title": "Incremental Hill-Climbing Search Applied to Bayesian Network Structure Learning",
+    "venue": "Escola Universitria Politcnica de Mataro",
+    "year": "",
+    "window": "approaches save a significantly amount of CPU clock ticks while the quality of the final Bayesian networks is very close to the ones obtained with the batch approaches. See also that the <b>Mushroom</b> dataset is generally the most di\u00b1cult to learn incrementally in the sense that incremental algorithms obtain the lowest time gain. This may be due to the fact that there are many arcs that bring similar",
+    "mykey": 53
+}

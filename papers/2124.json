@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "D46A21A56EEE7E0DD9A329DE9444BCDE3FEE134E",
+    "rexaID": "28734e2b9b072c9ef055eefa88999a60f6a3dc81",
+    "author": "Jun Wang",
+    "title": "Classification Visualization with Shaded Similarity Matrix",
+    "venue": "Bei Yu Les Gasser Graduate School of Library and Information Science University of Illinois at Urbana-Champaign",
+    "year": "",
+    "window": "explored in the future. The purpose of this section is to see if it is effective to use simple random sampling with very small sample size. To this end, we test the ensemble classifier on 5 <b>Statlog</b> data sets: Satimage, Segment, Shuttle, Australian, and DNA. For data description, please see Table 3. The reason to use these 5 Statlog data sets is because Ankerst used them as benchmark in his PBC system",
+    "mykey": 2124
+}

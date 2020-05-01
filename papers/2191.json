@@ -1,0 +1,11 @@
+{
+    "datasetID": 149,
+    "supportID": "D9564C076A9FBF4DC4F5E5F19B158598AA4BA910",
+    "rexaID": "ca1479cb43feeda16386d2e50460bd2c1230bc8b",
+    "author": "Robert E. Schapire and Yoav Freund and Peter Bartlett and Wee Sun Lee",
+    "title": "The Annals of Statistics, to appear. Boosting the Margin: A New Explanation for the Effectiveness of Voting Methods",
+    "venue": "AT&T Labs",
+    "year": "1998",
+    "window": "4: Error curves and margin distribution graphs for three voting methods (bagging, boosting and ECOC) using C4.5 as the base learning algorithm. Results are given for the letter, satimage and <b>vehicle</b> datasets. (See caption under Figure 1 for an explanation of these curves.) 13 decision stumps Boosting Bagging ECOC letter error (%) 10 100 1000 0 20 40 60 80 100 10 100 1000 0 20 40 60 80 100 10 100 1000 0",
+    "mykey": 2191
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "E010663615E360B673DBCED359BF165B65527E71",
+    "rexaID": "44b953c24c786a0472327b47b8682b97114621d6",
+    "author": "Pedro Domingos",
+    "title": "Unifying Instance-Based and Rule-Based Induction",
+    "venue": "Machine Learning, 24",
+    "year": "1996",
+    "window": "included in the listing of empirical results in (Holte, 1993) are referred to by the same codes. In the first phase of the study, the first 15 datasets in Table 4 (from breast cancer to <b>wine</b>  were used to fine-tune the algorithms, choosing by 10-fold cross-validation the most accurate version of each. Since a complete factor analysis would be too",
+    "mykey": 2265
+}

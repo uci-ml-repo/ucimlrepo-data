@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "AEF4B8E2DB45268409949AE1458C0F138A82C022",
+    "rexaID": "81ff15994633ecdb2b9fd5a6d11d985c2b215442",
+    "author": "Ramesh Natarajan and Edwin P D Pednault",
+    "title": "Segmented Regression Estimators for Massive Data Sets",
+    "venue": "SDM",
+    "year": "2002",
+    "window": "Figure 1. A comparison of the lift on the Fingerhut data for the \"Consolidated Payout Model\"using the LRT methodology (left), and for the \"Response Model\"using the NBT methodology (right). 6.3 <b>Adult</b> data set This is a standard data set from [4] with the 32561 training and 16281 test data and about 7% missing value records in the training data. The data has 6 continuous and 8 nominal features and the",
+    "mykey": 1786
+}

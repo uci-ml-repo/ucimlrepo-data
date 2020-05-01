@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "5BBD858C7382665CC8CC4039236FC5F6C7C582B8",
+    "rexaID": "220290933c845bcae1348931e08740d3e16b5360",
+    "author": "David Hershberger and Hillol Kargupta",
+    "title": "Distributed Multivariate Regression Using Wavelet-Based Collective Data Mining",
+    "venue": "J. Parallel Distrib. Comput, 61",
+    "year": "2001",
+    "window": "use to generate a regression model may not generate the MSE model for that amount of information transfer. The result also supports the MSE model result for the wavelet basis. The second benchmark data set we employ is the Boston <b>Housing</b> data set created by Harrison and Rubinfeld [18]. This data set consists of 506 samples with 13 independent variables, 12 of which are real-valued, and one real-valued",
+    "mykey": 850
+}

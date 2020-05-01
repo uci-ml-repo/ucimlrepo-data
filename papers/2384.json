@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "ECED3D784E4F9A909B1AB737A9785000918155AE",
+    "rexaID": "ba594780aee46c6bcb4af5f3dbb56027735edecf",
+    "author": "Ayhan Demiriz and Kristin P. Bennett and Mark J. Embrechts",
+    "title": "Semi-Supervised Clustering Using Genetic Algorithms",
+    "venue": "Dept",
+    "year": "1999",
+    "window": "have all originally two-class output variable except <b>Housing</b>  The output variable for this dataset was categorized at the level of 21.5. Each dataset was divided into three subsets after a standard normalization. We call these subsets the learning, testing and working sets. Currently 40% of data",
+    "mykey": 2384
+}

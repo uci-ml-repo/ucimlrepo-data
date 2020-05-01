@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "7C389E774D4C158FFD6B8D41DB4E905DE7703B79",
+    "rexaID": "b6e169d69cd67763b95698e8961696fec9ca93bf",
+    "author": "Charles Campbell and Nello Cristianini",
+    "title": "Simple Learning Algorithms for Training Support Vector Machines",
+    "venue": "Dept. of Engineering Mathematics",
+    "year": "",
+    "window": "Service [17]. As examples of the improvements with generalisation ability which can be achieved with a soft margin we will also describe experiments with the <b>ionosphere</b> and Pima Indians diabetes datasets from the UCI Repository [4]. Though we have successfully used other kernels with KA we will only describe experiments using Gaussian kernels in this section. We will predominantly use the KA",
+    "mykey": 1225
+}

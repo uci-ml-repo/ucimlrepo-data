@@ -1,0 +1,23 @@
+{
+    "ID": 329,
+    "Name": "Diabetic Retinopathy Debrecen Data Set",
+    "Abstract": "This dataset contains features extracted from the Messidor image set to predict whether an image contains signs of diabetic retinopathy or not. ",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 1151,
+    "NumAttributes": 20,
+    "DateDonated": "2014-11-03",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00329/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset contains features extracted from the Messidor image set to predict whether an image contains signs of diabetic retinopathy or not. All features represent either a detected lesion, a descriptive feature of a anatomical part or an image-level descriptor. The underlying method image analysis and feature extraction as well as our classification technique is described in Balint Antal, Andras Hajdu: An ensemble-based system for automatic screening of diabetic retinopathy, Knowledge-Based Systems 60 (April 2014), 20-27. The image set (Messidor) is available at http://messidor.crihan.fr/index-en.php.",
+    "Source": "1. Dr. Balint Antal, Department of Computer Graphics and Image Processing\r\nFaculty of Informatics, University of Debrecen, 4010, Debrecen, POB 12, Hungary\r\nantal.balint '@' inf.unideb.hu\r\n\r\n2. Dr. Andras Hajdu, Department of Computer Graphics and Image Processing\r\nFaculty of Informatics, University of Debrecen, 4010, Debrecen, POB 12, Hungary\r\nhajdu.andras '@' inf.unideb.hu\r\n",
+    "Acknowledgements": "Please cite the following paper: Balint Antal, Andras Hajdu: An ensemble-based system for automatic screening of diabetic retinopathy, Knowledge-Based Systems 60 (April 2014), 20-27.\r\nThe dataset is based on features extracted from the Messidor image dataset: http://messidor.crihan.fr/index-en.php.",
+    "Area": "Life",
+    "RelevantPapers": "Provide references to papers that have cited this data set in the past (if any).",
+    "AttributeInfo": "0) The binary result of quality assessment. 0 = bad quality 1 = sufficient quality.\r\n1) The binary result of pre-screening, where 1 indicates severe retinal abnormality and 0 its lack.\r\n2-7) The results of MA detection. Each feature value stand for the\r\nnumber of MAs found at the confidence levels alpha = 0.5, . . . , 1, respectively.\r\n8-15) contain the same information as 2-7) for exudates. However,\r\nas exudates are represented by a set of points rather than the number of\r\npixels constructing the lesions, these features are normalized by dividing the\r\nnumber of lesions with the diameter of the ROI to compensate different image\r\nsizes.\r\n16) The euclidean distance of the center of\r\nthe macula and the center of the optic disc to provide important information\r\nregarding the patient\u00e2\u20ac\u2122s condition. This feature\r\nis also normalized with the diameter of the ROI.\r\n17) The diameter of the optic disc.\r\n18) The binary result of the AM/FM-based classification.\r\n19) Class label. 1 = contains signs of DR (Accumulative label for the Messidor classes 1, 2, 3), 0 = no signs of DR.",
+    "FormatType": "",
+    "NumHits": 9
+}

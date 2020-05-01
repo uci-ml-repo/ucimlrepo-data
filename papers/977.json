@@ -1,0 +1,11 @@
+{
+    "datasetID": 59,
+    "supportID": "67B0F4F0EC623D8382C1DC94EA9114FBAAFBC23B",
+    "rexaID": "cf50848a3edbd7599d1ff18d941d332e1fe6a673",
+    "author": "Dmitry Pavlov and Alexandrin Popescul and David M. Pennock and Lyle H. Ungar",
+    "title": "Mixtures of Conditional Maximum Entropy Models",
+    "venue": "ICML",
+    "year": "2003",
+    "window": "actual time complexity strongly depends on the sparsity of the data. By looking only at the complexity terms of Table 1, one could expect that time performance on the <b>Letter Recognition</b>  and Cover data sets would be roughly the same. However, the Cover data set is substantially more sparse and this results in an order of magnitude decrease in actual training time difference. Overall, we conclude that",
+    "mykey": 977
+}

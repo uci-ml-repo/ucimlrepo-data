@@ -1,0 +1,11 @@
+{
+    "datasetID": 95,
+    "supportID": "179D899CBA09D8237C605014832712FD8221A6D6",
+    "rexaID": "b08639d60b3527616dc9aa4dd4770e50289e44cd",
+    "author": "Lukasz A. Kurgan and Waldemar Swiercz and Krzysztof J. Cios",
+    "title": "Semantic Mapping of XML Tags Using Inductive Machine Learning",
+    "venue": "ICMLA",
+    "year": "2002",
+    "window": "module within the XMapper system. There are several reasons for low performance of the XMapper system without the learning module for the three domains. The <b>spect</b> domain created using the spect dataset [19] had attributes with completely different names between the two sources. Also, all attributes were binary and thus only the relationship between attributes could be used as indicator for mapping",
+    "mykey": 202
+}

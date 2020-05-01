@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "62B922714A7AF6A63EF7E7DF484DD91FFEF26FE2",
+    "rexaID": "500f7245b01ee7978bef7ad022c0cbe7eec8eace",
+    "author": "Christopher J. Merz",
+    "title": "Combining Classifiers Using Correspondence Analysis",
+    "venue": "NIPS",
+    "year": "1997",
+    "window": "with error rates around 80 percent. This empirically demonstrates PV's known sensitivity to learned models with highly correlated errors. On the other hand, PV performs well on the <b>glass</b> and wave data sets where the errors of the learned models are measured to be fairly uncorrelated. Here, SCANN performs similarly to PV, but S-BP and S-Bayes appear to be overfitting by making erroneous predictions",
+    "mykey": 925
+}

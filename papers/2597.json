@@ -1,0 +1,11 @@
+{
+    "datasetID": 185,
+    "supportID": "",
+    "rexaID": "2F8C05AC13F9506BA047615E59A6DF03770BA814",
+    "author": "Yew Jin Lim",
+    "title": "Variational Bayesian Approach to Movie Rating Prediction",
+    "venue": "School of Computing National University of Singapore",
+    "year": "",
+    "window": "Unfortunately SVD can easily overfit due to the extreme data sparsity of the matrix in the <b>Netflix</b> Prize challenge, and care must be taken to regularize properly. In this paper, we propose a Bayesian approach to alleviate overfitting in SVD, ",
+    "mykey": 2597
+}

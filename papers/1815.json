@@ -1,0 +1,11 @@
+{
+    "datasetID": 90,
+    "supportID": "B0BB832B18C475FC69611727FE1AB0B48C51ED7E",
+    "rexaID": "a957b37bbe915165b7cb9fdb01d643a3c40079c4",
+    "author": "Prem Melville and Raymond J. Mooney",
+    "title": "Diverse ensembles for active learning",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "In particular, we used a sample size of two for the primary dataset, and three for breast-w, <b>soybean</b>  diabetes, vowel and credit-g. The primary aim of active learning is to reduce the amount of training data needed to induce an accurate model. To evaluate this, we",
+    "mykey": 1815
+}

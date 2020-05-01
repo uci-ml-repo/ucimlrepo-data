@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "3BA0B8B5518DA698FBDBB104F9E3C33FDB52EEE6",
+    "rexaID": "510872c81d0a05f14c583cf3e8245b6c88d43db6",
+    "author": "Bernhard Pfahringer and Geoffrey Holmes and Richard Kirkby",
+    "title": "Optimizing the Induction of Alternating Decision Trees",
+    "venue": "PAKDD",
+    "year": "2001",
+    "window": "Instances Missing Numeric Nominal values (%) attributes UCI Datasets <b>breast</b> <b>cancer</b> 699 0.2 9 0 cleveland 303 0.2 6 7 credit 690 0.6 6 9 diabetes 768 0.0 8 0 hepatitis 155 5.4 6 13 hypothyroid 3772 5.4 7 22 ionosphere 351 0.0 34 0 kr-vs-kp 3196 0.0 0 36 labor 57 33.6",
+    "mykey": 495
+}

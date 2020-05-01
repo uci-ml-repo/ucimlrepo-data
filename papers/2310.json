@@ -1,0 +1,11 @@
+{
+    "datasetID": 76,
+    "supportID": "E50D12A1C66C7E353A6C42C647A5A592C3CE4327",
+    "rexaID": "cfafdb7e4ac45e3b2e7d4da635f28601b4f4a9e8",
+    "author": "Jinyan Li and Kotagiri Ramamohanarao and Guozhu Dong",
+    "title": "ICML2000 The Space of Jumping Emerging Patterns and Its Incremental Maintenance Algorithms",
+    "venue": "Department of Computer Science and Software Engineering, The University of Melbourne, Parkville",
+    "year": "",
+    "window": "in UCI repository (Blake & Murphy, 1998) to experimentally examine the maintenance algorithms, especially their efficiency. These data sets are mushroom, pima, tic-tac-toe, and <b>nursery</b>  More details can be seen in Table 1. Note that the continuous attributes in the pima data set are discretized by MLC++ techniques (Kohavi et al, 1994).",
+    "mykey": 2310
+}

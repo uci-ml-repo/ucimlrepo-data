@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "8FEA143FF02CA3A980D9BEB475E94C762B6E28AB",
+    "rexaID": "349644828ad3c8da8e1a15eee5aec0d704db34a1",
+    "author": "Kamal Ali and Michael J. Pazzani",
+    "title": "Error Reduction through Learning Multiple Descriptions",
+    "venue": "Machine Learning, 24",
+    "year": "1996",
+    "window": "class labels. 6. The r 2 's between Er and OE e without the significant error reduction restriction are: 50.7% (Uniform), 33.7% (Bayes), 6.8% (Distribution) and 31.6% (Likelihood). The <b>Mushroom</b> data set causes a problem for the Distribution combination strategy because both the ensemble error and multiple models error are close to 0 so the ratio cannot be reliably estimated. The r 2 for",
+    "mykey": 1421
+}

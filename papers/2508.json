@@ -1,0 +1,11 @@
+{
+    "datasetID": 54,
+    "supportID": "F7E43C9DA56C3BF10398B407F0869F4564FBC335",
+    "rexaID": "ece9c7ce7e687a5cd309737e5358873e424f7fb4",
+    "author": "Hiroshi Shimodaira and Jun Okui and Mitsuru Nakai",
+    "title": "IMPROVING THE GENERALIZATION PERFORMANCE OF THE MCE/GPD LEARNING",
+    "venue": "School of Information Science Japan Advanced Institute of Science and Technology Tatsunokuchi, Ishikawa",
+    "year": "",
+    "window": "and network architecture Dataset #classes #attributes #hidden nodes <b>isolet</b> UCI) 26 617 32 vowels(ATR) 5 12 12 80 85 90 95 100 0.001 0.01 0.1 1 10 Correct classification rate [%] g mMCE Figure. 2: Classification performance for the",
+    "mykey": 2508
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "62B922714A7AF6A63EF7E7DF484DD91FFEF26FE2",
+    "rexaID": "500f7245b01ee7978bef7ad022c0cbe7eec8eace",
+    "author": "Christopher J. Merz",
+    "title": "Combining Classifiers Using Correspondence Analysis",
+    "venue": "NIPS",
+    "year": "1997",
+    "window": "the direct comparison of SCANN with the S-BP and S-Bayes, SCANN posts 5 and 4 signifcant wins, respectively, and no losses. The most dramatic improvement of the combiners over PV came in the <b>abalone</b> data set. A closer look at the result revealed that 7 of the 8 learned models were very poor classifiers with error rates around 80 percent. This empirically demonstrates PV's known sensitivity to learned",
+    "mykey": 924
+}

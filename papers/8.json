@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "00D5BFDFF843700050588C025F7F5BDB6CE5E24A",
+    "rexaID": "c5da3959b262c7f9f7d339d5a61d1af0ed0ee805",
+    "author": "Federico Divina and Elena Marchiori",
+    "title": "Knowledge-Based Evolutionary Search for Inductive Concept Learning",
+    "venue": "Vrije Universiteit of Amsterdam",
+    "year": "",
+    "window": "found by ECL with the use of the EWUS operator are less simple that those found with the use of the other selection operators. In some cases, like in the <b>ionosphere</b>  the crx and the australian datasets, the difference is evident, while in other, e.g., in the glass2, the accidents and the congestions dataset, the simplicity obtained by the three methods is comparable. An explanation for this is",
+    "mykey": 8
+}

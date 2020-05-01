@@ -1,0 +1,23 @@
+{
+    "ID": 357,
+    "Name": "Occupancy Detection ",
+    "Abstract": "Experimental data used for binary classification (room occupancy) from Temperature,Humidity,Light and CO2. Ground-truth occupancy was obtained from time stamped pictures that were taken every minute.",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 20560,
+    "NumAttributes": 7,
+    "DateDonated": "2016-02-29",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00357/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Three data sets are submitted, for training and testing. Ground-truth occupancy was obtained from time stamped pictures that were taken every minute.\r\nFor the journal publication, the processing R scripts can be found in:\r\nhttps://github.com/LuisM78/Occupancy-detection-data\r\n",
+    "Source": "Luis Candanedo, luismiguel.candanedoibarra@umons.ac.be, UMONS.\r\n",
+    "Acknowledgements": "Please cite the following publication:\r\nAccurate occupancy detection of an office room from light, temperature, humidity and CO2 measurements using statistical learning models. Luis M. Candanedo, V\u00c3\u00a9ronique Feldheim. Energy and Buildings. Volume 112, 15 January 2016, Pages 28-39.",
+    "Area": "Computer",
+    "RelevantPapers": "Accurate occupancy detection of an office room from light, temperature, humidity and CO2 measurements using statistical learning models. Luis M. Candanedo, V\u00c3\u00a9ronique Feldheim. Energy and Buildings. Volume 112, 15 January 2016, Pages 28-39.",
+    "AttributeInfo": "date time year-month-day hour:minute:second\r\nTemperature, in Celsius\r\nRelative Humidity, %\r\nLight, in Lux \r\nCO2, in ppm\r\nHumidity Ratio, Derived quantity from temperature and relative humidity, in kgwater-vapor/kg-air\r\nOccupancy, 0 or 1, 0 for not occupied, 1 for occupied status",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 94,
+    "supportID": "2F28E254695E10AA2AA689127AC8C6BB1F16625B",
+    "rexaID": "48d6beec2a36a87d9d88b6de85dd85a75e5ed24d",
+    "author": "C. Titus Brown and Harry W. Bullen and Sean P. Kelly and Robert K. Xiao and Steven G. Satterfield and John G. Hagedorn and Judith E. Devaney",
+    "title": "Visualization and Data Mining in an 3D Immersive Environment: Summer Project 2003",
+    "venue": "",
+    "year": "",
+    "window": "was to determine what attributes were most meaningful in determining what the block contained. The most important attributes turned out to be the size and shape of the block. Figure 4.9: Page block data set in museum environment. 34 4.10 <b>Spambase</b> The spambase data set was analysed by Sean Kelly. This dataset contains roughly 4000 instances of 58 attributes each, representing e-mail messages. One",
+    "mykey": 402
+}

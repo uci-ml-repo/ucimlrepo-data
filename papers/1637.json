@@ -1,0 +1,11 @@
+{
+    "datasetID": 23,
+    "supportID": "9F27F44CBA9D780CBF52065C4CE07C5BBA5AD197",
+    "rexaID": "7125dc87ceddf952f1840074b40ac0526dcc03dc",
+    "author": "Marcus Hutter and Marco Zaffalon",
+    "title": "Distribution of Mutual Information from Complete and Incomplete Data",
+    "venue": "CoRR, csLG/0403025",
+    "year": "2004",
+    "window": "The remaining cases are described by means of the following figures. Figure 2 shows that FF allowed the naive Bayes to significantly do better predictions than F for the greatest part of the <b>Chess</b> data set. The maximum difference in prediction accuracy is obtained at instance 422, where the accuracies are 0.889 and 0.832 for the cases FF and F, respectively. Figure 2 does not report the BF case,",
+    "mykey": 1637
+}

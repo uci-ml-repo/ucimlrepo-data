@@ -1,0 +1,23 @@
+{
+    "ID": 155,
+    "Name": "Cloud",
+    "Abstract": "Little Documentation",
+    "Types": "Multivariate",
+    "Task": "",
+    "AttributeTypes": "Real",
+    "NumInstances": 1024,
+    "NumAttributes": 10,
+    "DateDonated": "1989-08-03",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/undocumented/taylor/",
+    "URLReadme": "../machine-learning-databases/undocumented/taylor/cloud.data",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The data sets we propose to analyse are constituted of 1024 vectors, each vector includes 10 parameters. You can think of it as a 1024*10 matrix. To produce these vectors, we proceed as follows:\r\n\r\n1. we start with two 512*512 AVHRR images  (1 in the visible, 1 in the IR)\r\n2. each images is divided in super-pixels 16*16 and in each  super-pixel we compute a set of parameters:\r\n(a) visible: mean, max, min, mean distribution, contrast, entropy, second angular momentum\r\n(b) IR: mean, max, min\r\n\r\nThe set of 10 parameters we picked to form the vectors is a compromised between various constraints. Actually we are still working on the choice of parameters for the data vectors. The data set I send you has not been normalized. The normalization of the data set is required by our classification scheme but that may not be true for yours. To normalize the data we compute the mean and standard deviation for each parameter on the entire data set then for each parameter of each vector we compute: \r\n\r\nNorm. value = (un-norm value - mean)/SD\t\r\n\r\nwhere\r\n\r\nmean = mean value for this particular parameter over the data set\r\nSD   = standard deviation .....",
+    "Source": "Philippe Collard\r\nCalifornia Space Institute \r\nA-021, UCSD\r\nLa Jolla, CA 92093\r\n(619)534-6369\r\n",
+    "Acknowledgements": "",
+    "Area": "Physical",
+    "RelevantPapers": "",
+    "AttributeInfo": "",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 9010
+}

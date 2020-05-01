@@ -1,0 +1,23 @@
+{
+    "ID": 500,
+    "Name": "MEx",
+    "Abstract": "The MEx Multi-modal Exercise dataset contains data of 7 different\r\nphysiotherapy exercises, performed by 30 subjects recorded with 2 accelerometers,\r\na pressure mat and a depth camera.",
+    "Types": "Time-Series",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 6262,
+    "NumAttributes": 710,
+    "DateDonated": "2019-09-20",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00500/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The MEx Multi-modal Exercise dataset contains data of 7 different physiotherapy\r\nexercises, performed by 30 subjects recorded four sensor modalities.\r\n**Application**\r\nThe dataset can be used for exercise recognition, exercise quality assessment and\r\nexercise counting, by developing algorithms for pre-processing, feature extraction,\r\nmulti-modal sensor fusion, segmentation and classification.\r\n\r\n** Data collection method **\r\nEach subject was given a sheet of 7 exercises with instructions to perform the\r\nexercise at the beginning of the session. At the beginning of each exercise the\r\nresearcher demonstrated the exercise to the subject, then the subject performed the\r\nexercise for maximum 60 seconds while being recorded with four sensors. During\r\nthe recording, the researcher did not give any advice or kept count or time to enforce\r\na rhythm.\r\n** Sensors**\r\nObbrec Astra Depth Camera\r\n- sampling frequency - 15Hz\u00a0\r\n- frame size - 240x320\r\nSensing Tex Pressure Mat\r\n- sampling frequency - 15Hz\r\n- frame size - 32*16\r\nAxivity AX3 3-Axis Logging Accelerometer\r\n- sampling frequency - 100Hz\r\n- range - 8g\r\n\r\n** Sensor Placement**\r\nAll the exercises were performed lying down on the mat while the subject wearing\r\ntwo accelerometers on the wrist and the thigh. The depth camera was placed above\r\nthe subject facing down-words recording an aerial view. Top of the depth camera\r\nframe was aligned with the top of the pressure mat frame and the subject\u00e2\u20ac\u2122s\r\nshoulders such that the face will not be included in the depth camera video.\r\n** Data folder **\r\nMEx folder has four folders, one for each sensor. Inside each sensor folder,\r\n30 folders can be found, one for each subject. In each subject folder, 8 files can be\r\nfound for each exercise with 2 files for exercise 4 as it is performed on two sides.\r\n(The user 22 will only have 7 files as they performed the exercise 4 on only one\r\nside.) One line in the data files correspond to one timestamped and sensory data.",
+    "Source": "Anjana Wijekoon, Nirmalie Wiratunga, Kay Cooper\r\nRobert Gordon University\r\nAberdeen, UK",
+    "Acknowledgements": "@article{wijekoon2019mex,\r\n  title={MEx: Multi-modal Exercises Dataset for Human Activity Recognition},\r\n  author={Wijekoon, Anjana and Wiratunga, Nirmalie and Cooper, Kay},\r\n  journal={arXiv preprint arXiv:1908.08992},\r\n  year={2019}\r\n}",
+    "Area": "Computer",
+    "RelevantPapers": "Wijekoon, Anjana, Nirmalie Wiratunga, and Kay Cooper. 'MEx: Multi-modal Exercises Dataset for Human Activity Recognition.' arXiv preprint arXiv:1908.08992 (2019).",
+    "AttributeInfo": "The 4 columns in the act and acw files is organized as follows:\r\n1 - timestamp\r\n2 - x value\r\n3 - y value\r\n4 - z value\r\nMin value = -8\r\nMax value = +8\r\nThe 513 columns in the pm file is organized as follows:\r\n1 - timestamp\r\n2-513 pressure mat data frame (32x16)\r\nMin value - 0\r\nMax value - 1\r\nThe 193 columns in the dc file is organized as follows:\r\n1 - timestamp\r\n2-193 depth camera data frame (12x16)\r\ndc data frame is scaled down from 240x320 to 12x16 using the OpenCV resize\r\nalgorithm\r\nMin value - 0\r\nMax value - 1",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

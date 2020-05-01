@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "8AAFF7E62C4CE8724298A276A56AC519C804BB74",
+    "rexaID": "46a760d333f90e12eb326d2b17c90aa70c01d1df",
+    "author": "John C. Platt",
+    "title": "Using Analytic QP and Sparseness to Speed Training of Support Vector Machines",
+    "venue": "NIPS",
+    "year": "1998",
+    "window": "can be found in [8, 7]. The first test set is the UCI <b>Adult</b> data set [5]. The SVM is given 14 attributes of a census form of a household and asked to predict whether that household has an income greater than $50,000. Out of the 14 attributes, eight are categorical",
+    "mykey": 1387
+}

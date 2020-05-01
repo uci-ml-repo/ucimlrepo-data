@@ -1,0 +1,11 @@
+{
+    "datasetID": 79,
+    "supportID": "40ED000B2332D6383529EB2B7A72B54AEC455515",
+    "rexaID": "076c5b4e7bf69148bcde8c83621ecf1140a7d55c",
+    "author": "Michael L. Raymer and Travis E. Doom and Leslie A. Kuhn and William F. Punch",
+    "title": "Knowledge discovery in medical and biological datasets using a hybrid Bayes classifier/evolutionary algorithm",
+    "venue": "IEEE Transactions on Systems, Man, and Cybernetics, Part B, 33",
+    "year": "2003",
+    "window": "with the nonlinear discriminant function and the knn classifier. In all cases the nonlinear discriminant classifier is significantly faster than the EC/knn---in the case of the <b>Pima</b> Indian <b>diabetes</b> data set the difference is nearly tenfold. B. Classification of Medical Data Two additional data sets, also selected from the UCI repository, were employed by [40, 41] in a comparative study of",
+    "mykey": 554
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "186BF67295B88C9428E82A3524ECD00EED064BB8",
+    "rexaID": "c15fec7384ce8461549ba1fc09fb2d87024cf037",
+    "author": "Ron Kohavi and George H. John",
+    "title": "Automatic Parameter Selection by Minimizing Estimated Error",
+    "venue": "Computer Science Dept. Stanford University",
+    "year": "",
+    "window": "being studied. We report experiments with this method on 33 datasets selected from the UCI and <b>StatLog</b> collections using C4.5 as the basic induction algorithm. At a 90% confidence level, our method improves the performance of C4.5 on nine domains, degrades",
+    "mykey": 221
+}

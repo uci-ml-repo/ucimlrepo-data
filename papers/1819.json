@@ -1,0 +1,11 @@
+{
+    "datasetID": 120,
+    "supportID": "B0FFA8725C65C4A0C1E61FF9F154253F8EE7941B",
+    "rexaID": "9b1e690eee045665891881f050354585bd20bd54",
+    "author": "Aik Choon Tan and David Gilbert",
+    "title": "An Empirical Comparison of Supervised Machine Learning Techniques in Bioinformatics",
+    "venue": "APBC",
+    "year": "2003",
+    "window": "interested readers should refer to the cited papers for details. <b>E</b> <b>coli</b> data set -- The objective of this data set is to predict the cellular localisation sites of E.coli proteins (Horton and Nakai, 1996). There are 8 different cellular sites, which are cytoplasm (cp), inner",
+    "mykey": 1819
+}

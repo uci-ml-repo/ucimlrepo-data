@@ -1,0 +1,23 @@
+{
+    "ID": 432,
+    "Name": "News Popularity in Multiple Social Media Platforms",
+    "Abstract": "Large data set of news items and their respective social feedback on multiple platforms: Facebook, Google+ and LinkedIn.",
+    "Types": "Multivariate, Time-Series, Text",
+    "Task": "Regression",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 93239,
+    "NumAttributes": 11,
+    "DateDonated": "2018-02-20",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00432/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This is a large data set of news items and their respective social feedback on multiple platforms: Facebook, Google+ and LinkedIn. \r\nThe collected data relates to a period of 8 months, between November 2015 and July 2016, accounting for about 100,000 news items on four different topics: economy, microsoft, obama and palestine. \r\nThis data set is tailored for evaluative comparisons in predictive analytics tasks, although allowing for tasks in other research areas such as topic detection and tracking, sentiment analysis in short text, first story detection or news recommendation.\r\n\r\nFurther details on the process of building the data set are provided in the article mentioned in the 'Relevant Papers' section.\r\n\r\nAn .R file is provided to provide a simple introduction to handling the data set.",
+    "Source": "Nuno Moniz\r\nLIAAD - INESC Tec; Sciences College, University of Porto\r\nEmail: nmmoniz '@' inesctec.pt\r\n\r\nLu\u00c3\u00ads Torgo\r\nLIAAD - INESC Tec; Sciences College, University of Porto\r\nEmail: ltorgo '@' dcc.fc.up.pt",
+    "Acknowledgements": "When using this data set, please cite the following article.\r\n\r\nNuno Moniz and Lu\u00c3\u00ads Torgo (2018), \u00e2\u20ac\u0153Multi-Source Social Feedback of Online News Feeds\u00e2\u20ac\u009d, CoRR, abs/1801.07055\r\n\r\n@Article{Moniz2018,\r\n   title = {Multi-Source Social Feedback of Online News Feeds},\r\n   author = {Nuno Moniz and Lu\u00e2\u20ac\u2122is Torgo},\r\n   year = {2018},\r\n   ee = {https://arxiv.org/abs/1801.07055},\r\n   volume = {abs/1801.07055},\r\n   journal = {CoRR},\r\n}",
+    "Area": "Computer",
+    "RelevantPapers": "Nuno Moniz and Lu\u00c3\u00ads Torgo (2018), \u00e2\u20ac\u0153Multi-Source Social Feedback of Online News Feeds\u00e2\u20ac\u009d, CoRR, abs/1801.07055",
+    "AttributeInfo": "#######################\r\n# VARIABLES OF NEWS DATA #\r\n#######################\r\n\r\nIDLink (numeric): Unique identifier of news items\r\nTitle (string): Title of the news item according to the official media sources\r\nHeadline (string): Headline of the news item according to the official media sources\r\nSource (string): Original news outlet that published the news item\r\nTopic (string): Query topic used to obtain the items in the official media sources\r\nPublishDate (timestamp): Date and time of the news items' publication\r\nSentimentTitle (numeric): Sentiment score of the text in the news items' title\r\nSentimentHeadline (numeric): Sentiment score of the text in the news items' headline\r\nFacebook (numeric): Final value of the news items' popularity according to the social media source Facebook\r\nGooglePlus (numeric): Final value of the news items' popularity according to the social media source Google+\r\nLinkedIn (numeric): Final value of the news items' popularity according to the social media source LinkedIn\r\n\r\n#################################\r\n# VARIABLES OF SOCIAL FEEDBACK DATA #\r\n#################################\r\n\r\nIDLink (numeric): Unique identifier of news items\r\nTS1 (numeric): Level of popularity in time slice 1 (0-20 minutes upon publication)\r\nTS2 (numeric): Level of popularity in time slice 2 (20-40 minutes upon publication)\r\nTS... (numeric): Level of popularity in time slice ...\r\nTS144 (numeric): Final level of popularity after 2 days upon publication",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

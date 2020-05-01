@@ -1,0 +1,11 @@
+{
+    "datasetID": 46,
+    "supportID": "508571DB5D2F77C17D2829878BB1DC645010DDA8",
+    "rexaID": "8cf017f4c8d633c1694c2ea3fa2a165e0d8d35f1",
+    "author": "Floriana Esposito and Donato Malerba and Giovanni Semeraro",
+    "title": "A Comparative Analysis of Methods for Pruning Decision Trees",
+    "venue": "IEEE Trans. Pattern Anal. Mach. Intell, 19",
+    "year": "1997",
+    "window": "This means that methods requiring a pruning set labor under a disadvantage. Nonetheless, the misclassification rate of the OPTT is not always lower than the error rate of the OPGT. Hence, in some data sets, like <b>Hepatitis</b>  Hungary, and Switzerland above, grown trees can be better starting points for pruning processes than trained trees. Finally, the standard error reported in Table 3 confirms the",
+    "mykey": 714
+}

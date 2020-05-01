@@ -1,0 +1,11 @@
+{
+    "datasetID": 90,
+    "supportID": "0756CD080BDDC5EA0DAF92978CDE03882601FEF1",
+    "rexaID": "47f4421e112679b98c4ccf604a351b54fbb7a000",
+    "author": "Huan Liu and Rudy Setiono",
+    "title": "Incremental Feature Selection",
+    "venue": "Appl. Intell, 9",
+    "year": "1998",
+    "window": "in two separate files containing 307 and 376 patterns respectively. It contains 35 features describing symptoms of 19 different diseases in <b>soybean</b> plant. ffl Vote This dataset includes votes from the U.S. House of Representatives Congress-persons on the 16 key votes identified by the Congressional Quarterly Almanac Volume XL. The dataset consists of 16 features, 300",
+    "mykey": 50
+}

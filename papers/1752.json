@@ -1,0 +1,11 @@
+{
+    "datasetID": 59,
+    "supportID": "AB5D8810A96E501A8B34418CBC14ABC74D4BB28F",
+    "rexaID": "ca3e1e0bf335a97cedb76be7b64610181e0f6684",
+    "author": "Kristin P. Bennett and Ayhan Demiriz and Richard Maclin",
+    "title": "Exploiting unlabeled data in ensemble methods",
+    "venue": "KDD",
+    "year": "2002",
+    "window": "ufraction 0.10 superv ufraction 0.10 semi_sup ufraction 0.25 superv ufraction 0.25 semi_sup ufraction 0.5 superv ufraction 0.5 semi_sup Figure 1: Neural network results for the <b>Letter Recognition</b> dataset using networks with 5, 10 and 20 hidden units. Results shown are for 10, 25, and 50 percent of the data marked as unlabeled (ufractions of 0.10, 0.25, and 0.5) for AdaBoost (superv) and ASSEMBLE",
+    "mykey": 1752
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 79,
+    "supportID": "FDBB5C96C8F797F850D02B2FAF035E9FC4F5925A",
+    "rexaID": "d26e510dd613f1f7821b5f6c4e9fe5868aa5f006",
+    "author": "Michalis K. Titsias and Aristidis Likas",
+    "title": "Shared Kernel Models for Class Conditional Density Estimation",
+    "venue": "",
+    "year": "",
+    "window": "and two from the UCI repository [13]  <b>Pima</b> <b>Indians</b> and Ionosphere data sets). To assess the performance of the models for each problem we have selected the five-fold cross-validation method. For each problem the original set was divided into five independent parts",
+    "mykey": 2576
+}

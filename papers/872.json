@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "5F07C4598F9B5EA3E302F4F333FE2BFEEF17E562",
+    "rexaID": "0f1456aba1cd88fe698ef134fa761a3ee2fc03f2",
+    "author": "Wl/odzisl/aw Duch and Karol Grudzinski and Geerd H. F Diercksen",
+    "title": "Minimal distance neural methods",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "optimized radius but the results were not significantly better. The failure of the minimum distance method with global parameters for this case is surprising and requires further study. Non-medical datasets included the <b>ionosphere</b> (350 cases, 34 attributes, 2 classes), satimage (4435 cases, 36 attributes, 6 classes), sonar (208 cases, 60 attributes, 2 classes) and vovel (528 training and 462 test",
+    "mykey": 872
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 107,
+    "supportID": "D5E67451F92883D0FC956C7C000B9ADD4C63A877",
+    "rexaID": "70172e511a3bc27c7927119a3b2a3405fbad99e0",
+    "author": "Kai Ming Ting and Ian H. Witten",
+    "title": "Issues in Stacked Generalization",
+    "venue": "J. Artif. Intell. Res. (JAIR, 10",
+    "year": "1999",
+    "window": "from the UCI Repository of machine learning databases (Blake, Keogh & Merz, 1998). Details of these are given in Table 1. For the artificial datasets---Led24 and <b>Waveform</b> --each training dataset L of size 200 and 300, respectively, is generated using a different seed. The algorithms used for the experiments are then tested on a separate dataset",
+    "mykey": 2146
+}

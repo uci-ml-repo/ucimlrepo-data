@@ -1,0 +1,11 @@
+{
+    "datasetID": 7,
+    "supportID": "39D3C4C0A61F0C51D5B8496DC707322624EA1BAA",
+    "rexaID": "329f1bacb6745bda5eb7f1b6c79608376af72b8f",
+    "author": "Alexander K. Seewald",
+    "title": "How to Make Stacking Better and Faster While Also Taking Care of an Unknown Weakness",
+    "venue": "ICML",
+    "year": "2002",
+    "window": "with number of classes and examples, discrete and continuous attributes, baseline accuracy (%) and entropy in bits per example (Kononenko & Bratko, 1991). Dataset cl Inst disc cont bL E <b>audiology</b> 24 226 69 0 25.22 3.51 autos 7 205 10 16 32.68 2.29 balance-scale 3 625 0 4 45.76 1.32 breast-cancer 2 286 10 0 70.28 0.88 breast-w 2 699 0 9 65.52 0.93 colic 2 368",
+    "mykey": 488
+}

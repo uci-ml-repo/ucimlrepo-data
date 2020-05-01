@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "DC3BF4B0E30710A147F98EB44B9E7874DB19AA39",
+    "rexaID": "7030f724add30a4dd1b1f84109e72675c7e629f6",
+    "author": "Bernhard Pfahringer and Hilan Bensusan and Christophe G. Giraud-Carrier",
+    "title": "Meta-Learning by Landmarking Various Learning Algorithms",
+    "venue": "ICML",
+    "year": "2000",
+    "window": "had from 5 to 12 attributes and were classified by simple parity, DNF and CNF rules as well as at random. The 18 Uci data sets were: mushrooms, <b>abalone</b>  crx, sat, acetylation, titanic, waveform, yeast, car, chess(king-rook-vs-king), led7, led24, tic-tac-toe, monk1, monk2, monk3, satimage, quisclas. The performance of every",
+    "mykey": 2216
+}

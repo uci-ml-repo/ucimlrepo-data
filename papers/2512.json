@@ -1,0 +1,11 @@
+{
+    "datasetID": 23,
+    "supportID": "F94F49DB53C70B6D23F281699503444B7E7347B2",
+    "rexaID": "5bc77452a8b6552aed91aa3294068d7110dc54af",
+    "author": "Russell Greiner and Wei Zhou",
+    "title": "Structural Extension to Logistic Regression: Discriminative Parameter Learning of Belief Net Classifiers",
+    "venue": "AAAI/IAAI",
+    "year": "2002",
+    "window": "data [Koh95]. To deal with continuous variables, we implemented supervised entropy discretization [FI93]. Table 2 summarizes the results. (x5.2.2 will later explain the line separating the first 20 datasets from the final 5.) We use the <b>CHESS</b> dataset (36 binary or ternary attributes) to illustrate the basic behaviour of the algorithms. Figure 2(a) shows the performance, on this dataset, of our NB+ELR",
+    "mykey": 2512
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 68,
+    "supportID": "B360A43EFFEC793BB362B2A8111F4572A930D8DB",
+    "rexaID": "f006e50cdba5e00538e2b48452e1d0bab8ed02b9",
+    "author": "Mukund Deshpande and George Karypis",
+    "title": "Evaluation of Techniques for Classifying Biological Sequences",
+    "venue": "PAKDD",
+    "year": "2002",
+    "window": "contains a total of 3,370 sequences, which is equal to the number of coding and non-coding regions in the e-coli genome. The <b>Protein Structure</b> dataset is made of amino acid sequences and addresses the problem of assigning a secondary structure to a protein sequence. The dataset was created by processing the SWISS-PROT [BA99] database to obtain",
+    "mykey": 1844
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "522872ED3A98BCE23FC75E6F307FAA6117AF329D",
+    "rexaID": "6bacbb21f7a1d6dee581f756cf326e0932446698",
+    "author": "Zhiyuan Chen and Johannes Gehrke and Flip Korn",
+    "title": "Query Optimization In Compressed Database Systems",
+    "venue": "SIGMOD Conference",
+    "year": "2001",
+    "window": "are not compressed. TPC-H data contains 8 tables and 61 attributes, 23 of which are string-valued. The string attributes account for about 60% of the total database size. We also used a 4MB of dataset with US census data, the <b>adult</b> data set [5] for experiments on compression strategies. The adult dataset contains a single table with 14 attributes, 8 of them string-valued, accounting for about 80%",
+    "mykey": 730
+}

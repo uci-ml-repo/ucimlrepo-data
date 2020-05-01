@@ -1,0 +1,11 @@
+{
+    "datasetID": 110,
+    "supportID": "AFAB54B1327B2E5D26ADDB8EBFD61CCB8596CE5D",
+    "rexaID": "985a564327523fe48327882fdbb7869ef7c35d9f",
+    "author": "Paul Horton and Kenta Nakai",
+    "title": "Better Prediction of Protein Cellular Localization Sites with the it k Nearest Neighbors Classifier",
+    "venue": "ISMB",
+    "year": "1997",
+    "window": "with 336 proteins sequences labeled according to 8 classes (localization sites) and a <b>yeast</b> dataset with 1462 sequences labeled according to 10 classes. The occurrence of classes for the datasets are summarized in tables 1 and 2. The 1462 yeast sequences were obtained by removing 12 sequences",
+    "mykey": 1805
+}

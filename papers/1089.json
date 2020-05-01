@@ -1,0 +1,11 @@
+{
+    "datasetID": 47,
+    "supportID": "702086AF19E8011C946FB678A7EE218CB41268D2",
+    "rexaID": "cf334aad055b27faaeece97ee1630e146388cd10",
+    "author": "H. Altay G uvenir and Aynur Akkus",
+    "title": "WEIGHTED K NEAREST NEIGHBOR CLASSIFICATION ON FEATURE PROJECTIONS",
+    "venue": "Department of Computer Engineering and Information Science Bilkent University",
+    "year": "",
+    "window": "row of each k value presents the accuracy of the WkNNFP algorithm with equal feature weigths, while the second row shows the accuracy obtained by WkNNFP using Table 1: Comparison on some real-world datasets. Data Set: cleveland glass <b>horse</b> hungarian iris liver sonar wine No. of Instances 303 214 368 294 150 345 208 178 No. of Features 13 9 22 13 4 6 60 13 No. of Classes 2 6 2 2 3 2 2 3 No. of Missing",
+    "mykey": 1089
+}

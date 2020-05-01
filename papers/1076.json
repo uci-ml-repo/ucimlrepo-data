@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "6F376C47D091989CDECCD7B8CB7971A38783AAD9",
+    "rexaID": "084aa2a0b1ffd67537222e2c439d2fadce6090ca",
+    "author": "Petri Kontkanen and Petri Myllym and Tomi Silander and Henry Tirri and Peter Gr",
+    "title": "On predictive distributions and Bayesian networks",
+    "venue": "Department of Computer Science, Stanford University",
+    "year": "2000",
+    "window": "3 we plot the performance of the methods, averaged over 100 independent test runs performed as described above, as a function of the number of the data vectors used for training in the <b>Breast</b> <b>cancer</b> dataset case. From this picture we see that in the logscore sense, the evidence-based EVU and EVJ approaches perform surprisingly well even in 15 -9 -8 -7 -6 -5 -4 -3 -2 -1 0 0 50 100 150 200 250 300",
+    "mykey": 1076
+}

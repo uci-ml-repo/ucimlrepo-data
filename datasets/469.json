@@ -1,0 +1,23 @@
+{
+    "ID": 469,
+    "Name": "PMU-UD",
+    "Abstract": "The handwritten dataset was collected from 170 participants with a total of 5,180 numeral patterns. The dataset is named Prince Mohammad Bin Fahd University - Urdu/Arabic Database (PMU-UD). ",
+    "Types": "Univariate",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 5180,
+    "NumAttributes": 9,
+    "DateDonated": "2018-08-05",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00469/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset contains handwritten Urdu/Arabic numerals from 0 to 9",
+    "Source": "Ghazanfar Latif, College of Computer Engineering and Sciences, Prince Mohammad bin Fahd University, Al Khobar, Saudi Arabia. glatif@pmu.edu.sa",
+    "Acknowledgements": "Multi-Language Handwritten Digits Recognition based on Novel Structural Features\r\nJaafar M. Alghazo, Ghazanfar Latif, Loay Alzubaidi1, Ammar Elhassan, JIST, 2018.",
+    "Area": "Computer",
+    "RelevantPapers": "Multi-Language Handwritten Digits Recognition based on Novel Structural Features\r\nJaafar M. Alghazo, Ghazanfar Latif, Loay Alzubaidi1, Ammar Elhassan\r\n",
+    "AttributeInfo": "The participants were asked to write the numerals from 0-9 five times each. Participants age ranged from 25-55 years old.",
+    "FormatType": "",
+    "NumHits": 0
+}

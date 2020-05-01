@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "A28BF0579224A1160B52DA11AAA4D904006540AA",
+    "rexaID": "631197638c7e0317c98e1a8d98e5fce8921aa758",
+    "author": "Yongmei Wang and Ian H. Witten",
+    "title": "Modeling for Optimal Probability Prediction",
+    "venue": "ICML",
+    "year": "2002",
+    "window": "(Heart Disease, Cleveland), German (Statlog Project, German Credit), Ionosphere, Pima (Pima Indian Diabetes), Spambase, and WDBC (Winsconsin <b>Breast</b> <b>Cancer</b>  WDBC). The eighth is the Crab dataset from Agresti (1996). Some of the datasets were modified slightly: some attributes and instances were deleted to eliminate missing values, multi-class problems were transformed into binary ones, a",
+    "mykey": 1657
+}

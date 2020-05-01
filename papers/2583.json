@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "FEDDECBFD85DDE82A7B9045EF69414F298CECC07",
+    "rexaID": "3133463eae0649e94c08d14ebea6aa976b8984b2",
+    "author": "Daniel Barbar and Yi Li and Julia Couto",
+    "title": "COOLCAT: an entropy-based algorithm for categorical clustering",
+    "venue": "CIKM",
+    "year": "2002",
+    "window": "used for clustering, but can be loosely used for quality measuring. (Some congressmen ``crossed'' parties to vote.) There are 435 records in the set (267 Democrats and 168 Republicans). ffl <b>mushroom</b> data set The mushroom data set was also obtained from the UCI Repository ([3]). Each record describes the physical characteristics (e.g., odor, shape) of a single mushroom. There is a ''poisonous,'' or",
+    "mykey": 2583
+}

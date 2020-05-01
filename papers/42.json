@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "05B3ECF5190D3EA19BA9B7DBE8793118D0238D1B",
+    "rexaID": "5bffb4d591b37fc0c1011681ab2cf075033ca539",
+    "author": "Anton Schwaighofer and Volker Tresp",
+    "title": "Transductive and Inductive Methods for Approximate Gaussian Process Regression",
+    "venue": "NIPS",
+    "year": "2002",
+    "window": "costs for predictions show the cost per test point. 4 Experimental Comparison In this section we will present a comparison of the different approximation methods discussed in Sec. 3. In the <b>ABALONE</b> data set [1] with 4177 examples, the goal is to predict the age of Abalones based on 8 inputs. The KIN8NM data set 2 represents the forward dynamics of an 8 link all-revolute robot arm, based on 8192",
+    "mykey": 42
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "6F29A335BB79999C91E6FB53D261EF88F5308326",
+    "rexaID": "5d851945e80949d177fa69dc5d4799f6a0f9d9f7",
+    "author": "Tapio Elomaa and Juho Rousu",
+    "title": "Finding Optimal Multi-Splits for Numerical Attributes in Decision Tree Learning",
+    "venue": "ESPRIT Working Group in Neural and Computational Learning",
+    "year": "1996",
+    "window": "used. Data set Examples Attributes Classes Num. Total <b>Iris</b> plant classification 150 4 4 3 Glass type identification 214 9 9 6 Australian credit card assessment 690 6 14 2 Wisconsin breast cancer data 699 9 9 2",
+    "mykey": 1073
+}

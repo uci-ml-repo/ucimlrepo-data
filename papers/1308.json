@@ -1,0 +1,11 @@
+{
+    "datasetID": 79,
+    "supportID": "8298C9DB47FF31E1D28063938B15CA0453C6AB1D",
+    "rexaID": "19d5e6db33eb1a6c31be626538ea656f79e901b1",
+    "author": "Matthias Scherf and W. Brauer",
+    "title": "Feature Selection by Means of a Feature Weighting Approach",
+    "venue": "GSF - National Research Center for Environment and Health",
+    "year": "",
+    "window": "of feature f2g. The application of the RBF-DDA lead to an approximately equal result, i.e. 97% classification accuracy with 152 RBF nodes. <b>Pima</b> <b>Indians</b> <b>Diabetes</b> Data Base The Pima Indians Diabetes data set contains 768 instances with 8 real valued features. The underlying task is to decide, whether an at least 21 year old female of Pima Indian heritage shows signs of diabetes according to World Health",
+    "mykey": 1308
+}

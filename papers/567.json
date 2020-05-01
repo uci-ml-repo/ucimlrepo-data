@@ -1,0 +1,11 @@
+{
+    "datasetID": 54,
+    "supportID": "42B4109A50E1A36C8BE990B2BA4DCAD306B9553C",
+    "rexaID": "80b881ba423bc64d836bde049f1e5def83c1d5f8",
+    "author": "Erin L. Allwein and Robert E. Schapire and Yoram Singer",
+    "title": "Reducing Multiclass to Binary: A Unifying Approach for Margin Classifiers",
+    "venue": "ICML",
+    "year": "2000",
+    "window": "according to the number of classes): Dermatology, Satimage, Glass, Segmentation, E-coli, Pendigits, Yeast, Vowel, Soybean-large, Thyroid, Audiology, <b>Isolet</b>  Letterrecognition. The proprties of the datasets are summarized in Table 1. In the SVM experiments, we 22 REDUCING MULTICLASS TO BINARY Hamming Decoding Problem One-vs-all Complete All-Pairs Dense Sparse dermatology 5.0 4.2 3.1 3.9 3.6 satimage",
+    "mykey": 567
+}

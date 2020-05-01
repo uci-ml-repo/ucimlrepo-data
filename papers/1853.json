@@ -1,0 +1,11 @@
+{
+    "datasetID": 102,
+    "supportID": "B505D5151B9E07D6B485294BA0985B51D129BC0B",
+    "rexaID": "6a9871da32f3042a5de9082a36a11d5aecda6df8",
+    "author": "Kai Ming Ting and Boon Toh Low",
+    "title": "Model Combination in the Multiple-Data-Batches Scenario",
+    "venue": "ECML",
+    "year": "1997",
+    "window": "are on or off, plus seventeen irrelevant binary attributes. Each attribute value is inverted with a probability of 0.1. The task is to classify the input as one of the ten digits. The euthyroid dataset is one of the sets of <b>Thyroid</b> examples from the Garvan Institute of Medical Research in Sydney described in Quinlan, Compton, Horn and Lazarus (1987). It consists of 3163 case data and diagnoses for",
+    "mykey": 1853
+}

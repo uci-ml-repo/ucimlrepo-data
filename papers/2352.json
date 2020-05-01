@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "EBE8FE3BA19E7B0B4D2EFC42149FFC918C8223CF",
+    "rexaID": "b6c6894db1f52fee42b5995fe50fc8c8f7e13fcc",
+    "author": "Marko Robnik-Sikonja and Igor Kononenko",
+    "title": "Pruning Regression Trees with MDL",
+    "venue": "ECAI",
+    "year": "1998",
+    "window": "each consisting of 10 attributes - 2, 3 or 4 important, the rest are random, and containing 1000 examples. UCI datasets used were: <b>Abalone</b>  predicting the age of the abalone, 1 nominal and 7 continuous attributes, 4177 instances. Autompg: city-cycle fuel consumption, 1 nominal, 6 continuous attributes 398 instances.",
+    "mykey": 2352
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 467,
+    "Name": "Student Academics Performance",
+    "Abstract": "The dataset tried to find the end semester percentage prediction based on different social, economic and academic attributes. ",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 300,
+    "NumAttributes": 22,
+    "DateDonated": "2018-09-16",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00467/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Student Academic Performance Dataset",
+    "Source": "Dr Sadiq Hussain, Dibrugarh University, Dibrugarh, Assam, India, sadiq@dibru.ac.in",
+    "Acknowledgements": "Hussain S, Dahan N.A, Ba-Alwi F.M, Ribata N. Educational Data Mining and Analysis of Students\u00e2\u20ac\u2122 Academic Performance Using WEKA. Indonesian Journal of Electrical Engineering and Computer Science. 2018; Vol. 9, No. 2. February. pp. 447~459",
+    "Area": "Computer",
+    "RelevantPapers": "Hussain S, Dahan N.A, Ba-Alwi F.M, Ribata N. Educational Data Mining and Analysis of Students\u00e2\u20ac\u2122 Academic Performance Using WEKA. Indonesian Journal of Electrical Engineering and Computer Science. 2018; Vol. 9, No. 2. February. pp. 447~459",
+    "AttributeInfo": "@ATTRIBUTE ge  {M,F}\r\n@ATTRIBUTE cst {G,ST,SC,OBC,MOBC}\r\n@ATTRIBUTE tnp {Best,Vg,Good,Pass,Fail}\r\n@ATTRIBUTE twp {Best,Vg,Good,Pass,Fail}\r\n@ATTRIBUTE iap {Best,Vg,Good,Pass,Fail}\r\n@ATTRIBUTE esp {Best,Vg,Good,Pass,Fail}\r\n@ATTRIBUTE arr {Y,N}\r\n@ATTRIBUTE ms  {Married,Unmarried}\r\n@ATTRIBUTE ls  {T,V}\r\n@ATTRIBUTE as  {Free,Paid}\r\n@ATTRIBUTE fmi {Vh,High,Am,Medium,Low}\r\n@ATTRIBUTE fs  {Large,Average,Small}\r\n@ATTRIBUTE fq  {Il,Um,10,12,Degree,Pg}\r\n@ATTRIBUTE mq  {Il,Um,10,12,Degree,Pg}\r\n@ATTRIBUTE fo  {Service,Business,Retired,Farmer,Others}\r\n@ATTRIBUTE mo  {Service,Business,Retired,Housewife,Others}\r\n@ATTRIBUTE nf  {Large,Average,Small}\r\n@ATTRIBUTE sh  {Good,Average,Poor}\r\n@ATTRIBUTE ss  {Govt,Private}\r\n@ATTRIBUTE me  {Eng,Asm,Hin,Ben}\r\n@ATTRIBUTE tt  {Large,Average,Small}\r\n@ATTRIBUTE atd {Good,Average,Poor}",
+    "FormatType": "",
+    "NumHits": 0
+}

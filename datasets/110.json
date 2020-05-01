@@ -1,0 +1,23 @@
+{
+    "ID": 110,
+    "Name": "Yeast",
+    "Abstract": "Predicting the Cellular Localization Sites of Proteins",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 1484,
+    "NumAttributes": 8,
+    "DateDonated": "1996-09-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/yeast/",
+    "URLReadme": "../machine-learning-databases/yeast/yeast.names",
+    "HighestAccuracy": 55,
+    "RelevantInfo": "Predicted Attribute: Localization site of protein. ( non-numeric ).\r\n\r\nThe references below describe a predecessor to this dataset and its development. They also give results (not cross-validated) for classification by a rule-based expert system with that version of the dataset.\r\n\r\nReference: \"Expert Sytem for Predicting Protein Localization Sites in Gram-Negative Bacteria\", Kenta Nakai & Minoru Kanehisa,  PROTEINS: Structure, Function, and Genetics 11:95-110, 1991.\r\n\r\nReference: \"A Knowledge Base for Predicting Protein Localization Sites in Eukaryotic Cells\", Kenta Nakai & Minoru Kanehisa, Genomics 14:897-911, 1992.",
+    "Source": "Creator and Maintainer:\r\n\r\nKenta Nakai\r\nInstitue of Molecular and Cellular Biology\r\nOsaka, University\r\n1-3 Yamada-oka, Suita 565 Japan\r\nnakai@imcb.osaka-u.ac.jp\r\nhttp://www.imcb.osaka-u.ac.jp/nakai/psort.html\r\n\r\nDonor: \r\n\r\nPaul Horton (paulh@cs.berkeley.edu)",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "Paul Horton & Kenta Nakai, \"A Probablistic Classification System for Predicting the Cellular Localization Sites of Proteins\", Intelligent Systems in Molecular Biology, 109-115. St. Louis, USA 1996.\r\nhttp://rexa.info/paper/0bdd557e38df58faa94b5bab28134b6ab77ac551\r\n\r\nThe references below describe a predecessor to this dataset and its  development. They also give results (not cross-validated) for classification by a rule-based expert system with that version of the dataset:\r\n\r\nKenta Nakai & Minoru Kanehisa, \"Expert Sytem for Predicting Protein Localization Sites in Gram-Negative Bacteria\",  PROTEINS: Structure, Function, and Genetics 11:95-110, 1991.\r\n\r\nKenta Nakai & Minoru Kanehisa, \"A Knowledge Base for Predicting Protein Localization Sites in Eukaryotic Cells\", Genomics 14:897-911, 1992.\r\nhttp://rexa.info/paper/fbb500f26399f3ca970053524afd131478039353",
+    "AttributeInfo": "  1.  Sequence Name: Accession number for the SWISS-PROT database\r\n  2.  mcg: McGeoch's method for signal sequence recognition.\r\n  3.  gvh: von Heijne's method for signal sequence recognition.\r\n  4.  alm: Score of the ALOM membrane spanning region prediction program.\r\n  5.  mit: Score of discriminant analysis of the amino acid content of the N-terminal region (20 residues long) of mitochondrial and non-mitochondrial proteins.\r\n  6.  erl: Presence of \"HDEL\" substring (thought to act as a signal for retention in the endoplasmic reticulum lumen). Binary attribute.\r\n  7.  pox: Peroxisomal targeting signal in the C-terminus.\r\n  8.  vac: Score of discriminant analysis of the amino acid content of vacuolar and extracellular proteins.\r\n  9.  nuc: Score of discriminant analysis of nuclear localization signals of nuclear and non-nuclear proteins.",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 19294
+}

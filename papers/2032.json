@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "CA467D091BA5B36ED20FAA7672080E679EE82E01",
+    "rexaID": "877f66dae749b55055910c2f9ad01e4208eb9042",
+    "author": "Michael R. Berthold and Klaus--Peter Huber",
+    "title": "From Radial to Rectangular Basis Functions: A new Approach for Rule Learning from Large Datasets",
+    "venue": "Institut fur Rechnerentwurf und Fehlertoleranz (Prof. D. Schmid) Universitat Karlsruhe",
+    "year": "",
+    "window": "C. Further Results This approach was also applied to the <b>breast</b>  <b>cancer</b> dataset (see [9]), originating from a real world application. This dataset contains about 700 patterns, each pattern described by 9 real--valued attributes. Interestingly the RecBF network trained on the",
+    "mykey": 2032
+}

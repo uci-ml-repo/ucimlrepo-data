@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "8437B2826F8E86B9EA3F5C77003859DD0484549D",
+    "rexaID": "aac8eec290538d2a1731b2b4f92c6bf401a3df8a",
+    "author": "Perry Moerland",
+    "title": "A Comparison of Mixture Models for Density Estimation",
+    "venue": "IDIAP",
+    "year": "",
+    "window": "The raw data has been pre-processed in various ways. First of all, the ordinal inputs have been normalized to have zero mean and unit standard deviation on the training data. For the  <b>soybean</b>  data set part of the inputs are categorical and these are mapped to a 1-of-c coding, thus increasing the number of attributes (see the fifth column of Table 1). Finally, for the data sets indicated with a #,",
+    "mykey": 1325
+}

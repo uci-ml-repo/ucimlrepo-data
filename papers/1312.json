@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "82E59B02699154AF3FA45D86133372F7737D69A1",
+    "rexaID": "44326d77510f1b8976c3d73c224e9a1cb80ecc3c",
+    "author": "Khaled A. Alsabti and Sanjay Ranka and Vineet Singh",
+    "title": "CLOUDS: A Decision Tree Classifier for Large Datasets",
+    "venue": "KDD",
+    "year": "1998",
+    "window": "are taken from the STATLOG project, which has been a widely used benchmark in classification. 3 The  <b>Abalone</b> \" Waveform,\" and Isolet\" datasets can be found in [13]. The Synth1\" and Synth2\" datasets have been used in [15, 17] for evaluating SLIQ and SPRINT; they have been referred to as the Function2\" dataset. The main parameter of our",
+    "mykey": 1312
+}

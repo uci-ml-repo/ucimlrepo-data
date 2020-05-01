@@ -1,0 +1,11 @@
+{
+    "datasetID": 47,
+    "supportID": "2C9C29E8266044832AFB0F0833620E35B60BB2E9",
+    "rexaID": "a914c3920de02d035db122f72172f31446e9f5e1",
+    "author": "Richard Nock and Marc Sebban and David Bernard",
+    "title": "A SIMPLE LOCALLY ADAPTIVE NEAREST NEIGHBOR RULE WITH APPLICATION TO POLLUTION FORECASTING",
+    "venue": "International Journal of Pattern Recognition and Artificial Intelligence Vol",
+    "year": "2003",
+    "window": "section. The justification for the better choice of the additional neighbors in the k-sNN algorithm is now visually evident from Fig. 2, when looking at the \u00b5(k) curves. For the <b>Horse</b> <b>Colic</b> dataset, the curve of the sNN rule is clearly located over the two other curves. For particular points of 45 # \u00b5(k) # 60, the accuracies of the NN and tNN rules are similar, but they are beaten by the sNN",
+    "mykey": 372
+}

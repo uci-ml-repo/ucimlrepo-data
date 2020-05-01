@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "BEFF54AB395765FF766DE728EDC8274A81B83D02",
+    "rexaID": "a56eb6b369952a5e696937ad2d432212563846ba",
+    "author": "Jinyan Li and Xiuzhen Zhang and Guozhu Dong and Kotagiri Ramamohanarao and Qun Sun",
+    "title": "Efficient Mining of High Confidience Association Rules without Support Thresholds",
+    "venue": "PKDD",
+    "year": "1999",
+    "window": "rules and some very high (say 90%) confidence rules using approaches similar to mining top rules. Experimental results using the Mushroom, the Cleveland <b>heart</b> disease, and the Boston housing datasets are reported to evaluate the efficiency of the proposed approach. 1 Introduction Association rules [1] were proposed to capture significant dependence between items in transactional datasets. For",
+    "mykey": 1943
+}

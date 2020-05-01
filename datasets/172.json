@@ -1,0 +1,23 @@
+{
+    "ID": 172,
+    "Name": "Ozone Level Detection",
+    "Abstract": "Two ground ozone level data sets are included in this collection. One is the eight hour peak set (eighthr.data), the other is the one hour peak set (onehr.data). Those data were collected from 1998 to 2004 at the Houston, Galveston and Brazoria area.",
+    "Types": "Multivariate, Sequential, Time-Series",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 2536,
+    "NumAttributes": 73,
+    "DateDonated": "2008-04-21",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/ozone/",
+    "URLReadme": "../machine-learning-databases/ozone/onehr.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "For a list of attributes, please refer to those two .names files.  They use the following naming convention:\r\n\r\nAll the attribute start with T means the temperature measured at different time throughout the day; and those starts with WS indicate the wind speed at various time.\r\n\r\nWSR_PK:     continuous. peek wind speed -- resultant (meaning average of wind vector)\r\n\r\nWSR_AV:     continuous. average wind speed\r\n\r\nT_PK:     continuous. Peak T\r\nT_AV:     continuous. Average T\r\nT85:     continuous. T at 850 hpa level (or about 1500 m height)\r\nRH85:     continuous. Relative Humidity at 850 hpa\r\nU85:     continuous. (U wind - east-west direction wind at 850 hpa)\r\nV85:     continuous. V wind - N-S direction wind at 850\r\nHT85:     continuous. Geopotential height at 850 hpa, it is about the same as height at low altitude\r\nT70:     continuous. T at 700 hpa level (roughly 3100 m height)\r\n\r\nRH70:     continuous.\r\nU70:     continuous.\r\nV70:     continuous.\r\nHT70:     continuous.\r\n\r\nT50:     continuous. T at 500 hpa level (roughly at 5500 m height)\r\n\r\nRH50:     continuous.\r\nU50:     continuous.\r\nV50:     continuous.\r\nHT50:     continuous.\r\n\r\nKI:     continuous. K-Index http://www.weather.gov/glossary/index.php?letter=k\r\nTT:     continuous. T-Totals http://www.theweatherprediction.com/habyhints/302/\r\nSLP:     continuous. Sea level pressure\r\nSLP_:     continuous. SLP change from previous day\r\n\r\nPrecp:    continuous. -- precipitation",
+    "Source": "Kun Zhang, zhang.kun05@gmail.com, Department of Computer Science, Xavier University of Lousiana\r\nWei Fan, wei.fan@gmail.com,  IBM T.J.Watson Research\r\nXiaoJing Yuan, xyuan@uh.edu, Engineering Technology Department, College of Technology, University of Houston\r\n",
+    "Acknowledgements": "",
+    "Area": "Physical",
+    "RelevantPapers": "Forecasting skewed biased stochastic ozone days: analyses, solutions and beyond, Knowledge and Information Systems, Vol. 14, No. 3, 2008. \r\nDiscusses details about the dataset, its use as well as various experiments (both cross-validation and streaming) using many state-of-the-art methods.\r\nA shorter version of the paper (does not contain some detailed experiments as the journal paper above) is in: \r\nForecasting Skewed Biased Stochastic Ozone Days: Analyses and Solutions. ICDM 2006: 753-764\r\n",
+    "AttributeInfo": "The following are specifications for several most important attributes that are highly valued by Texas Commission on Environmental Quality (TCEQ). More details can be found in the two relevant papers.\r\n \r\nO 3 - Local ozone peak prediction\r\nUpwind - Upwind ozone background level\r\nEmFactor - Precursor emissions related factor\r\nTmax - Maximum temperature in degrees F\r\nTb - Base temperature where net ozone production begins (50 F)\r\nSRd - Solar radiation total for the day\r\nWSa - Wind speed near sunrise (using 09-12 UTC forecast mode)\r\nWSp - Wind speed mid-day (using 15-21 UTC forecast mode) \r\n\r\nPlease refer to those two .names files.",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

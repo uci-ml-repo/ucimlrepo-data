@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "2703BDDB7960D5BBF5FD4F42E55A3E664472D72E",
+    "rexaID": "0a882383e36d72c5890e2d191326433e23e53c9b",
+    "author": "James J. Liu and James Tin and Yau Kwok",
+    "title": "An Extended Genetic Rule Induction Algorithm",
+    "venue": "Department of Computer Science Wuhan University",
+    "year": "",
+    "window": "With ESIA and other GA-based rule induction algorithms, this can easily be done by incorporating various \"interestingness\" measures [8] into 5 Following [6, 14], the glass2 variant of the <b>glass</b> dataset has classes 1 and 3 combined and classes 4 to 7 deleted, and the horse-colic dataset has attributes 3, 25, 26, 27, 28 deleted and with attribute 24 being used as the class label. We also deleted all",
+    "mykey": 322
+}

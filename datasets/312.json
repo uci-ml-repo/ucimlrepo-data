@@ -1,0 +1,23 @@
+{
+    "ID": 312,
+    "Name": "Dow Jones Index",
+    "Abstract": "This dataset contains weekly data for the Dow Jones Industrial Index.  It has been used in computational investing research.",
+    "Types": "Time-Series",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 750,
+    "NumAttributes": 16,
+    "DateDonated": "2014-10-23",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00312/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "In predicting stock prices you collect data over some period of time - day, week, month, etc. But you cannot take advantage of data from a time period until the next increment of the time period. For example, assume you collect data daily.  When Monday is over you have all of the data for that day.  However you can invest on Monday, because you don't get the data until the end of the day.  You can use the data from Monday to invest on Tuesday.  \r\n\r\nIn our research each record (row) is data for a week.  Each record also has the percentage of return that stock has in the following week (percent_change_next_weeks_price). Ideally, you want to determine which stock will produce the greatest rate of return in the following week.  This can help you train and test your algorithm.\r\n\r\nSome of these attributes might not be use used in your research.  They were originally added to our database to perform calculations.  (Brown, Pelosi & Dirska, 2013) used percent_change_price, percent_change_volume_over_last_wk, days_to_next_dividend, and percent_return_next_dividend.  We left the other attributes in the dataset\tin case you wanted to use any of them. Of course what you want to maximize is percent_change_next_weeks_price.\r\n\r\nTraining data vs Test data:\r\nIn (Brown, Pelosi & Dirska, 2013) we used quarter 1 (Jan-Mar) data for training and quarter 2 (Apr-Jun) data for testing. \r\n\r\nInteresting data points:\r\nIf you use quarter 2 data for testing, you will notice something interesting in the week ending 5/27/2011 every Dow Jones Index stock lost money.",
+    "Source": "Dr. Michael Brown, michael.brown@umuc.edu, University of Maryland University College",
+    "Acknowledgements": "We request that you provide a citation to this paper when using the dataset.  We welcome you to \r\ncompare your results against ours in (Brown, Pelosi & Dirska, 2013).",
+    "Area": "Business",
+    "RelevantPapers": "Brown, M. S., Pelosi, M. & Dirska, H. (2013). Dynamic-radius Species-conserving Genetic Algorithm for \r\nthe Financial Forecasting of Dow Jones Index Stocks. Machine Learning and Data Mining in Pattern \r\nRecognition, 7988, 27-41.",
+    "AttributeInfo": "\tquarter:  the yearly quarter (1 = Jan-Mar; 2 = Apr=Jun).\r\n\tstock: the stock symbol (see above)\r\n\tdate: the last business day of the work (this is typically a Friday)\r\n\topen: the price of the stock at the beginning of the week\r\n\thigh: the highest price of the stock during the week\r\n\tlow: the lowest price of the stock during the week\r\n\tclose: the price of the stock at the end of the week\r\n\tvolume: the number of shares of stock that traded hands in the week\r\n\tpercent_change_price: the percentage change in price throughout the week\r\n\tpercent_chagne_volume_over_last_wek: the percentage change in the number of shares of \r\n\t\tstock that traded hands for this week compared to the previous week\r\n\tprevious_weeks_volume: the number of shares of stock that traded hands in the previous week\r\n\tnext_weeks_open: the opening price of the stock in the following week\r\n\tnext_weeks_close: the closing price of the stock in the following week\r\n\tpercent_change_next_weeks_price: the percentage change in price of the stock in the \r\n\t\tfollowing week days_to_next_dividend: the number of days until the next dividend\r\n\tpercent_return_next_dividend: the percentage of return on the next dividend\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

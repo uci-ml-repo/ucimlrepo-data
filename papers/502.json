@@ -1,0 +1,11 @@
+{
+    "datasetID": 7,
+    "supportID": "3DCE4F86E1DFD9E600AD74DCA551DBFCE947CB8C",
+    "rexaID": "f5291409ace8c375dbd9f26d026f58363815f214",
+    "author": "Jihoon Yang and Rajesh Parekh and Vasant Honavar",
+    "title": "DistAl: An inter-pattern distance-based constructive learning algorithm",
+    "venue": "Intell. Data Anal, 3",
+    "year": "1999",
+    "window": "TABLE II Comparison of generalization accuracy between various algorithms. DistAl is the results of our approach and NN is the best results in [40]. Dataset DistAl NN Annealing 96.6 96.1 <b>Audiology</b> 66.0 77.5 Bridge 63.0 60.6 Cancer 97.8 95.6 Credit 87.7 81.5 Flag 65.8 58.8 Glass 70.5 72.4 Heart 86.7 83.1 Heart (Cleveland) 85.3 80.2 Heart (Hungary) 85.9",
+    "mykey": 502
+}

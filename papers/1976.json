@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "C2EE689A27EF525B05E11475D3DD937C4F3A910E",
+    "rexaID": "283e535d8f512eedabbd803c72a86b891eed8474",
+    "author": "Chun-Nan Hsu and Hilmar Schuschel and Ya-Ting Yang",
+    "title": "The ANNIGMA-Wrapper Approach to Neural Nets Feature Selection for Knowledge Discovery and Data Mining",
+    "venue": "Institute of Information Science",
+    "year": "1999",
+    "window": "starting with 0. Unknown values are set to 0.5. <b>heart</b> Disease This dataset concerning heart disease diagnosis contains 4 sub-databases col16 lected from 4 locations. Each database has the same instance format. We used two of them in our experiment: one from Cleveland",
+    "mykey": 1976
+}

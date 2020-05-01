@@ -1,0 +1,11 @@
+{
+    "datasetID": 4,
+    "supportID": "C50F5A6C646634EA3588315C71F78DCE3D2FA3AA",
+    "rexaID": "5300c71ae945611a1d091404fc0461a48738e151",
+    "author": "Dmitry Pavlov and Darya Chudova and Padhraic Smyth",
+    "title": "Towards scalable support vector machines using squashing",
+    "venue": "KDD",
+    "year": "2000",
+    "window": "2: Error on the Test Set for Various Models On the Synthetic Data. Baseline 1% srs-SMO 1% squash-SMO 1% boost-SMO full-SMO 50% 41% 34.04% 34.84% 33.54% 8 4.2 Results on Benchmark Data The public datasets were ``The <b>Microsoft</b> <b>Anonymous</b> <b>Web</b> ' and the ''Forest Cover Type'' datasets available at UCI KDD archive [Bay99] and Adult dataset available at UCI machine learning repository [BM98]. Web data",
+    "mykey": 1986
+}

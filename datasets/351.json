@@ -1,0 +1,23 @@
+{
+    "ID": 351,
+    "Name": "Mesothelioma\u00e2\u20ac\u2122s disease data set ",
+    "Abstract": "Mesothelioma\u00e2\u20ac\u2122s disease data set were prepared at Dicle University Faculty of Medicine in Turkey.\r\nThree hundred and twenty-four Mesothelioma patient data. In the dataset, all samples have 34 features.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 324,
+    "NumAttributes": 34,
+    "DateDonated": "2016-01-11",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00351/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Malignant mesotheliomas (MM) are very aggressive tumors of the pleura. These tumors are connected to asbestos exposure,\r\nhowever it may also be related to previous simian virus 40 (SV40) infection and quite possible for genetic predisposition.\r\nMolecular mechanisms can also be implicated in the development of mesothelioma.\r\nRural living is associated with the development of mesothelioma. Soil mixtures containing asbestos, known as\r\n\u00e2\u20ac\u02dcwhite-soil\u00e2\u20ac\u2122 or \u00e2\u20ac\u02dccorak\u00e2\u20ac\u2122 can be found in Anatolia, Turkey and \u00e2\u20ac\u02dcLuto\u00e2\u20ac\u2122 in Greece.\r\nMesothelioma\u00e2\u20ac\u2122s disease data set were prepared at Dicle University Faculty of Medicine in Turkey.\r\nThree hundred and twenty-four Mesothelioma patient data. In the dataset, all samples have 34 features.",
+    "Source": "This data was prepared by;\r\nAbdullah Cetin Tanrikulu from Dicle University, Faculty of Medicine, Department of Chest Diseases, 21100 Diyarbakir, Turkey\r\ne-mail:cetintanrikulu@hotmail.com\r\nOrhan Er from Bozok University, Faculty of Engineering, Department of Electrical and Electronics Eng., 66200 Yozgat, Turkey\r\ne-mail:orhan.er@bozok.edu.tr",
+    "Acknowledgements": "An approach based on probabilistic neural network for diagnosis of Mesothelioma's disease\r\nBy: Er, Orhan; Tanrikulu, Abdullah Cetin; Abakay, Abdurrahman; et al.\r\nCOMPUTERS & ELECTRICAL ENGINEERING   Volume: 38   Issue: 1   Pages: 75-81   Published: JAN 2012\r\n",
+    "Area": "Computer",
+    "RelevantPapers": "An approach based on probabilistic neural network for diagnosis of Mesothelioma's disease\r\nBy: Er, Orhan; Tanrikulu, Abdullah Cetin; Abakay, Abdurrahman; et al.\r\nCOMPUTERS & ELECTRICAL ENGINEERING   Volume: 38   Issue: 1   Pages: 75-81   Published: JAN 2012",
+    "AttributeInfo": "The features are; age, gender, city, asbestos exposure, type of MM, duration of asbestos exposure, diagnosis method, keep\r\nside, cytology, duration of symptoms, dyspnoea, ache on chest, weakness, habit of cigarette, performance status, White Blood\r\ncell count (WBC), hemoglobin (HGB), platelet count (PLT), sedimentation, blood lactic dehydrogenise (LDH), Alkaline phosphatise\r\n(ALP), total protein, albumin, glucose, pleural lactic dehydrogenise, pleural protein, pleural albumin, pleural glucose,\r\ndead or not, pleural effusion, pleural thickness on tomography, pleural level of acidity (pH), C-reactive protein (CRP), class of\r\ndiagnosis.",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

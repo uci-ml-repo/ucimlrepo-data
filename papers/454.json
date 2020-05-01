@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "35300281792001C42FD90DBDA218AF4CF423FCD6",
+    "rexaID": "fe3900fd025ca81857d2c7cd69e8f44e9836fe1b",
+    "author": "Perry Moerland and E. Fiesler and I. Ubarretxena-Belandia",
+    "title": "Incorporating LCLV Non-Linearities in Optical Multilayer Neural Networks",
+    "venue": "Preprint of an article published in Applied Optics",
+    "year": "",
+    "window": "have been used, namely the sonar benchmark [13] and the <b>wine</b> data set [14]: Sonar This data set was originally used by R. Gorman and T. Sejnowski in their study of the classification of sonar signals using a neural network. The task is to discriminate between sonar",
+    "mykey": 454
+}

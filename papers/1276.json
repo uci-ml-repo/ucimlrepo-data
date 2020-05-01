@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "7ED56AFC7EB57F7D0647981EED32026D82CD536D",
+    "rexaID": "a81018cca22b93c0c71ff6e9983d38669daeb54e",
+    "author": "Markus Breitenbach and Rodney Nielsen and Gregory Z. Grudic",
+    "title": "Probabilistic Random Forests: Predicting Data Point Specific Misclassification Probabilities",
+    "venue": "Department of Computer Science University of Colorado",
+    "year": "",
+    "window": "2, and asterisks demonstrate the bottom line efficacy of the algorithm, which adjusts the first-order predictions according to performance on the out-of-bag data within the same prediction interval. Dataset PRF MPMCL MPMCG SVML SVMG RF <b>Ionosphere</b> 80.8 \u00b1 .7 % 85.4% 93.0% 87.8% 91.5% 92.9% Sonar 81.0 \u00b1 .9 % 75.1% 89.8% 75.9% 86.7% 84.1% Breast Cancer 95.9 \u00b1 .3 % 97.2% 97.3% 92.6% 98.5% 97.1% Pima",
+    "mykey": 1276
+}

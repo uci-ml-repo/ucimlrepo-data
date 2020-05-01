@@ -1,0 +1,11 @@
+{
+    "datasetID": 60,
+    "supportID": "2ED9C34090CC5ADFEC26C7D1CCA02D4B695ADC0F",
+    "rexaID": "4018f616747e1e9c96771daa20bca34c484b966a",
+    "author": "Jochen Garcke and Michael Griebel and Michael Thess",
+    "title": "Data Mining with Sparse Grids",
+    "venue": "Computing, 67",
+    "year": "2001",
+    "window": "# = 0:01 20 3.2 6-dimensional problems 3.2.1 BUPA <b>Liver</b> The BUPA Liver Disorders data set from Irvine Machine Learning Database Repository [8] consists of 345 data points with 6 features plus a selector field used to split the data into 2 sets with 145 instances and 200 instances",
+    "mykey": 388
+}

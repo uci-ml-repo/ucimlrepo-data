@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "58E03FDBC096684DD3185EC538E082DC6CC6A464",
+    "rexaID": "1ddaa5b4eba8093faad88a5426ec586c6ac63f6e",
+    "author": "Dmitriy Fradkin and David Madigan",
+    "title": "Experiments with random projections for machine learning",
+    "venue": "KDD",
+    "year": "2003",
+    "window": "bounds on the quality of randomized dimensionality reduction. Engebretsen, Indyk and O'Donnell [9] present a deterministic algorithm for constructing mappings of the type Table 1: Description of Datasets Name # Instances # Attributes <b>Ionosphere</b> 351 34 Colon 62 2000 Leukemia 72 3571 Spam 4601 57 Ads 3279 1554 described in the JL lemma (by use of the method of conditional probabilities) and use it to",
+    "mykey": 806
+}

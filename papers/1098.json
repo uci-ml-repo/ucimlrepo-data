@@ -1,0 +1,11 @@
+{
+    "datasetID": 146,
+    "supportID": "70BF676E462623CDDFD0DA5D6B1E682BAE21738E",
+    "rexaID": "cf33e50e2855982af7c583c8e756a28a5e8f0aeb",
+    "author": "Kagan Tumer and Joydeep Ghosh",
+    "title": "Robust Combining of Disparate Classifiers through Order Statistics",
+    "venue": "CoRR, csLG/9905013",
+    "year": "1999",
+    "window": "were trained half as along as they would have been, had they been stand-alone classifiers. 5 The number of hidden units was determined experimentally. 15 ffl <b>Satellite</b>  a 36-dimensional, 6-class data set with 6435 examples of feature vectors extracted from satellite imagery; an MLP with 20 hidden units. These three sets were chosen as they have relatively large number of features, somewhat large",
+    "mykey": 1098
+}

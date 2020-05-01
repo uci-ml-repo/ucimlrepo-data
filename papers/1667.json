@@ -1,0 +1,11 @@
+{
+    "datasetID": 81,
+    "supportID": "A380817FB24FF67AE988D4CB2326573F6B7CCB02",
+    "rexaID": "dedfa4527706631a09382e23555649c7b3e37ebd",
+    "author": "Ken Tang and Ponnuthurai N. Suganthan and Xi Yao and A. Kai Qin",
+    "title": "Linear dimensionalityreduction using relevance weighted LDA",
+    "venue": "School of Electrical and Electronic Engineering Nanyang Technological University",
+    "year": "2005",
+    "window": "is generated from landsat multi-spectral scanner image data. It has 36 dimensions, 4435 training samples and 2000 testing samples belonging to 6 classes. Optdigits. This is a 60-dimensional data set on optical <b>recognition</b> of 10 <b>handwritten</b> <b>digits</b>  It has separate training and testing sets with 3823 and 1797 samples, respectively. Vehicle. This data set involves classification of a given",
+    "mykey": 1667
+}

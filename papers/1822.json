@@ -1,0 +1,11 @@
+{
+    "datasetID": 154,
+    "supportID": "B0FFA8725C65C4A0C1E61FF9F154253F8EE7941B",
+    "rexaID": "9b1e690eee045665891881f050354585bd20bd54",
+    "author": "Aik Choon Tan and David Gilbert",
+    "title": "An Empirical Comparison of Supervised Machine Learning Techniques in Bioinformatics",
+    "venue": "APBC",
+    "year": "2003",
+    "window": "The task of the classifier is to predict whether a DNA sequence from E.coli is either a promoter or not (Towell et al., 1990). The input data is a 57-nucleotide sequence (A, C, T or G). HIV data set -- The data set contains 362 octamer <b>protein</b> sequences each of which needs to be classified as an HIV protease cleavable site or uncleavable site (Cai and Chou, 1998). Data set E.coli Yeast",
+    "mykey": 1822
+}

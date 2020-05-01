@@ -1,0 +1,23 @@
+{
+    "ID": 67,
+    "Name": "Molecular Biology (Promoter Gene Sequences)",
+    "Abstract": "E. Coli promoter gene sequences (DNA) with partial domain theory",
+    "Types": "Sequential, Domain-Theory",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 106,
+    "NumAttributes": 58,
+    "DateDonated": "1990-06-30",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/molecular-biology/promoter-gene-sequences/",
+    "URLReadme": "../machine-learning-databases/molecular-biology/promoter-gene-sequences/promoters.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset has been developed to help evaluate a \"hybrid\" learning algorithm (\"KBANN\") that uses examples to inductively refine preexisting knowledge.  Using a \"leave-one-out\" methodology, the following errors were produced by various ML algorithms.  (See Towell, Shavlik, & Noordewier, 1990, for details.)\r\n\r\nSystem -- Errors -- Comments\r\n ----------------------------------------------------------------\r\nKBANN -- 4/106 -- a hybrid ML system\r\nBP --  8/106 -- std backprop with one hidden layer\r\nO'Neill -- 12/106  -- ad hoc technique from the bio. lit.\r\nNear-Neigh -- 13/106 -- a nearest-neighbor algo (k=3)\r\nID3 -- 19/106 -- Quinlan's decision-tree builder\r\n\t     \t\r\nType of domain: non-numeric, nominal (one of A, G, T, C)\r\n\r\n\r\nNote: DNA nucleotides can be grouped into a hierarchy, as shown below:\r\n\r\n\t\t      X (any)\r\n\t\t    /   \\\r\n\t  (purine) R     Y (pyrimidine)\r\n\t\t  / \\   / \\\r\n\t\t A   G T   C\r\n\r\n\r\nHere is that hierachy in a text-friendly format:\r\n\r\nX (any)\r\n. R (purine)\r\n. . A\r\n. . G\r\n. Y (pyrimidine)\r\n. . T\r\n. . C",
+    "Source": "Creators: \r\n\r\n1.  promoter instances: C. Harley (CHARLEY@McMaster.CA) and R. Reynolds \r\n\r\n2. non-promoter instances and domain theory: M. Noordewier\r\n-- (non-promoters derived from work of lab of Prof. Tom Record, University of Wisconsin Biochemistry Department)\r\n\r\nDonor: \r\n\r\nM. Noordewier and J. Shavlik, {noordewi,shavlik}@cs.wisc.edu",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "Harley, C. and Reynolds, R. 1987.  \"Analysis of E. Coli Promoter Sequences.\" Nucleic Acids Research, 15:2343-2361.\r\nhttp://rexa.info/paper/709477eb8cd1b0d93fca108f6f7093d2bc7d2d7a\r\n\r\nTowell, G., Shavlik, J. and Noordewier, M. 1990. \"Refinement of Approximate Domain Theories by Knowledge-Based Artificial Neural Networks.\" In Proceedings of the Eighth National Conference on Artificial Intelligence (AAAI-90).\r\nhttp://rexa.info/paper/69f6430bbedc799ab625c4deec7bcbba88fa436d\r\n",
+    "AttributeInfo": "1.   One of {+/-}, indicating the class (\"+\" = promoter).\r\n2.   The instance name (non-promoters named by position in the 1500-long nucleotide sequence provided by T. Record).\r\n3-59.   The remaining 57 fields are the sequence, starting at position -50 (p-50) and ending at position +7 (p7). Each of these fields is filled by one of {a, g, t, c}.",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 14887
+}

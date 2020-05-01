@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "6FD9759745E0CD054310B2F8BEF395FEFB72E409",
+    "rexaID": "b06bc893938966189c9aefe9a340bb51f7026522",
+    "author": "Matthew Mullin and Rahul Sukthankar",
+    "title": "Complete Cross-Validation for Nearest Neighbor Classifiers",
+    "venue": "ICML",
+    "year": "2000",
+    "window": "from the UCI repository (Blake & Merz, 1998). Synthetic consists of 4 Gaussians with equal variance and significant overlap, and Bayes Error # 0.504. 6 <b>Abalone</b> 6 The Bayes error for the Synthetic data set was estimated using a Monte-Carlo simulation with 60000 samples. is a 29 class problem, however many of the classes have only very few instances. Abalone-2 and Abalone-3 are twoand three-class",
+    "mykey": 1086
+}

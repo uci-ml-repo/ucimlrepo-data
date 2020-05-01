@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "BACDA5F415680E122D8B388966B324F069216840",
+    "rexaID": "26619ba87b875d7e1b11e285a01de5485a24ff88",
+    "author": "Zhihua Zhang and James T. Kwok and Dit-Yan Yeung",
+    "title": "Parametric Distance Metric Learning with Label Information",
+    "venue": "IJCAI",
+    "year": "2003",
+    "window": "(Numbers in bold indicate the better results). data set Euclidean metric learned metric <b>diabetes</b> 459/638 480/638 soybean 37/37 37/37 wine 85/118 117/118 WBC 412/469 446/469 ionosphere 168/251 221/251 iris 107/120 110/120 without changing the clustering",
+    "mykey": 1898
+}

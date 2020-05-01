@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "C710C98D7FD7350E9857950E11FCA1969956609C",
+    "rexaID": "dbd0f89e43cc274cf80effc519740af54cccef75",
+    "author": "Igor Kononenko and Edvard Simec",
+    "title": "Induction of decision trees using RELIEFF",
+    "venue": "University of Ljubljana, Faculty of electrical engineering & computer science",
+    "year": "",
+    "window": "(table 6) indicates that the attributes are irrelevant to the class. On the <b>VOTE data</b> set the naive Bayesian classifier is the worst, while both versions of Assistant are comparable to the rule based classifier by Smyth et al. (1990). The most interesting results appear in the MESH",
+    "mykey": 1996
+}

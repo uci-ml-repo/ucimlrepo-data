@@ -1,0 +1,11 @@
+{
+    "datasetID": 81,
+    "supportID": "04AEEC0F75282321D73274BB42BD6C2FEAB629D3",
+    "rexaID": "43019420b94637b63ac4fc3f94f64abd11b64f0a",
+    "author": "Perry Moerland",
+    "title": "Mixtures of latent variable models for density estimation and classification",
+    "venue": "E S E A R C H R E P R O R T I D I A P D a l l e M o l l e I n s t i t u t e f o r Pe r cep t ua l A r t i f i c i a l Intelligence ",
+    "year": "",
+    "window": "of the ten digit classes with a 10-component 10-factor Mfa. This is comparable to the best scores we obtained with large Mlps. 7.3 Experiments: MNIST Data We also performed experiments on the MNIST data set, a large collection of <b>handwritten</b> <b>digits</b> which can be obtained from (LeCun 2000). It comes as 28#28 grey level images in a training set of 60,000 examples and a test set of 10,000 examples. Each of",
+    "mykey": 32
+}

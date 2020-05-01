@@ -1,0 +1,11 @@
+{
+    "datasetID": 15,
+    "supportID": "A69C85F6BF728B015E2FDA44CDBBA454FCFF30ED",
+    "rexaID": "271b9c67f2a11a31962a436a41aaa5ed148dda6e",
+    "author": "Lorne Mason and Peter L. Bartlett and Jonathan Baxter",
+    "title": "Direct Optimization of Margins Improves Generalization in Combined Classifiers",
+    "venue": "NIPS",
+    "year": "1998",
+    "window": "sets were reduced in size to makeoverfitting more likely, so that complexity regularization with DOOM could haveaneffect. (The details are given in the full version [MBB98].) In three of the datasets (Credit Application, <b>Wisconsin</b> <b>Breast</b> <b>Cancer</b> and Pima Indians Diabetes), AdaBoost gained no advantage from using more than a single classifier. In these datasets, the number of classifiers was",
+    "mykey": 1699
+}

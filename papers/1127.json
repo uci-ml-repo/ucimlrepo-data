@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "73AA4BA03F087EBAE0F88AC0AF397F54CA5C6120",
+    "rexaID": "c2525357aa81ca73fb410a5013d47e3c6931342b",
+    "author": "Rudy Setiono and Huan Liu",
+    "title": "NeuroLinear: From neural networks to oblique decision rules",
+    "venue": "Neurocomputing, 17",
+    "year": "1997",
+    "window": "only 2 attributes and achieve higher accuracy rate on the testing data. The separator generated from the pruned network is depicted in Fig. 5. B. Detailed analysis 2: Cleveland <b>Heart</b> Disease Dataset. The dataset consists of 303 patterns. We discarded patterns with missing attribute values and used only the remaining 297 patterns. The patterns were divided randomly into training and testing set.",
+    "mykey": 1127
+}

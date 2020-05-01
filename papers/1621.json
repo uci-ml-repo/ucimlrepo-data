@@ -1,0 +1,11 @@
+{
+    "datasetID": 102,
+    "supportID": "9D13BB714BDB97A3738D36D44CD280788707BF51",
+    "rexaID": "f23deedb8c4f89030e936b0d119459b41278db96",
+    "author": "Andreas L. Prodromidis",
+    "title": "On the Management of Distributed Learning Agents Ph.D. Thesis Proposal CUCS-032-97",
+    "venue": "Department of Computer Science Columbia University",
+    "year": "1998",
+    "window": "+ Marmalade.cs + Mango.cs Control & Data messages Transfer of Learning & Classifier Agents Database Configuration Database Configuration Strawberry.cs Data Site - 2 Mango.cs DATA SITES: <b>thyroid</b> DATASET = META_LEARNER = Bayes CROSS_VALIDATION_FOLD = 2 META_LEARNING_FOLD = 2 META_LEARNING_LEVEL = 1 IMAGE_URL = http://www.cs.... Configuration File LEARNER = ID3 The JAM architecture with 3 datasites",
+    "mykey": 1621
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 150,
+    "supportID": "E68C6C26D2C2C3F80D6B7004F6B86C8F059DEC58",
+    "rexaID": "22550465c3724dd8650d67a7470a2c1dc90abd25",
+    "author": "Rong Jin and Yan Liu and Luo Si and Jaime Carbonell and Alexander G. Hauptmann",
+    "title": "A New Boosting Algorithm Using Input-Dependent Regularizer",
+    "venue": "School of Computer Science, Carnegie Mellon University",
+    "year": "",
+    "window": "from the UCI repository (Blake & Merz, 1998) and a benchmark of text categorization evaluation -- the ApteMod version of Reuters-21578 <b>corpus</b> are used as testbeds. All of UCI data sets are binary classification problems and the detailed information is listed in Table 1. Reuters-21578 corpus consists of a training set of 7,769 documents and a test set of 3,019 documents with 90",
+    "mykey": 2315
+}

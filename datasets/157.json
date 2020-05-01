@@ -1,0 +1,23 @@
+{
+    "ID": 157,
+    "Name": "Dodgers Loop Sensor",
+    "Abstract": "Loop sensor data was collected for the Glendale on ramp for the 101 North freeway in Los Angeles",
+    "Types": "Multivariate, Time-Series",
+    "Task": "",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 50400,
+    "NumAttributes": 3,
+    "DateDonated": "2006-12-01",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/event-detection/",
+    "URLReadme": "../machine-learning-databases/event-detection/Dodgers.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This loop sensor data was collected for the Glendale on ramp for the 101 North freeway in Los Angeles.  It is close enough to the stadium to see unusual traffic after a Dodgers game, but not so close and heavily used by game traffic so that the signal for the extra traffic is overly obvious.\r\n\r\nNOTE: This is an on ramp near the stadium so event traffic BEGINS at or near the END of the event time.\r\n\r\nThe observations were taken over 25 weeks, 288 time slices per day (5 minute count aggregates).  \r\n\t\r\nThe goal is to predict the presence of a baseball game at Dodgers stadium ",
+    "Source": "Creator and Maintainer:\r\nJon Hutchins\r\nUCI\r\njohutchi@uci.edu\r\n\r\nDonor: PeMS",
+    "Acknowledgements": "These loop sensor measurements were obtained from the Freeway Performance Measurement System (PeMS), \"http://pems.dot.ca.gov/\"  Please include this citation if you plan to use this database.",
+    "Area": "Other",
+    "RelevantPapers": "\"Adaptive event detection with time-varying Poisson processes\"\r\nA. Ihler, J. Hutchins, and P. Smyth\r\nProceedings of the 12th ACM SIGKDD Conference (KDD-06), August 2006.\r\n",
+    "AttributeInfo": "1.  Date: MM/DD/YY\r\n2.  Time: (H)H:MM (military time)\r\n3.  Count: Number of cars measured for the previous five minutes\r\nRows: Each five minute time slice is represented by one row \r\n\r\nFor .events file:\r\n1.  Date: MM/DD/YY\r\n2.  Begin event time: HH:MM:SS (military) \r\n3.  End event time: HH:MM:SS (military)\r\n4.  Game attendance\r\n5.  Away team\r\n6.  W/L score",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 25
+}

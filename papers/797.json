@@ -1,0 +1,11 @@
+{
+    "datasetID": 23,
+    "supportID": "5762BBBC00F70B47EEF26D212556BC8A1B94193F",
+    "rexaID": "111c890abe7dc9f26523d1c59b7a75a04b69256b",
+    "author": "Jinyan Li and Guozhu Dong and Kotagiri Ramamohanarao",
+    "title": "Instance-Based Classification by Emerging Patterns",
+    "venue": "PKDD",
+    "year": "2000",
+    "window": "(as explained in [10]). Note that for the datasets such as <b>chess</b>  flare, nursery, splice, mushroom, voting, soybean-l, t-t-t, and zoo which do not contain any continuous attributes, DeEPs does not need ff. Columns 5, 6, 7, 8, and 9 give the",
+    "mykey": 797
+}

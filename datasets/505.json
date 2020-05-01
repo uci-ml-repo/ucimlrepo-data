@@ -1,0 +1,23 @@
+{
+    "ID": 505,
+    "Name": "QSAR aquatic toxicity",
+    "Abstract": "Data set containing values for 8 attributes (molecular descriptors) of 546 chemicals used to predict quantitative acute aquatic toxicity towards Daphnia Magna..",
+    "Types": "Multivariate",
+    "Task": "Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 546,
+    "NumAttributes": 9,
+    "DateDonated": "2019-09-23",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00505/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset was used to develop quantitative regression QSAR models to predict acute aquatic toxicity towards the fish Pimephales promelas (fathead minnow) on a set of 908 chemicals. to predict acute aquatic toxicity towards Daphnia Magna. LC50 data, which is the concentration that causes death in 50% of test D. magna over a test duration of 48 hours, was used as model response. The model comprised 8 molecular descriptors: TPSA(Tot) (Molecular properties), SAacc (Molecular properties), H-050 (Atom-centred fragments), MLOGP (Molecular properties), RDCHI (Connectivity indices), GATS1p (2D autocorrelations), nN (Constitutional indices), C-040 (Atom-centred fragments). Details can be found in the quoted reference: M. Cassotti, D. Ballabio, V. Consonni, A. Mauri, I. V. Tetko, R. Todeschini (2014). Prediction of acute aquatic toxicity towards daphnia magna using GA-kNN method, Alternatives to Laboratory Animals (ATLA), 42,31:41; doi: 10.1177/026119291404200106",
+    "Source": "Davide Ballabio (davide.ballabio@unimib.it), Matteo Cassotti, Viviana Consonni, Roberto Todeschini, Milano Chemometrics and QSAR Research Group (http://www.michem.unimib.it/), Universit\u00c3\u00a0 degli Studi Milano - Bicocca, Milano (Italy)",
+    "Acknowledgements": "Please, cite the following paper if you publish results based on the QSAR aquatic toxicity dataset: M. Cassotti, D. Ballabio, V. Consonni, A. Mauri, I. V. Tetko, R. Todeschini (2014). Prediction of acute aquatic toxicity towards daphnia magna using GA-kNN method, Alternatives to Laboratory Animals (ATLA), 42,31:41; doi: 10.1177/026119291404200106",
+    "Area": "Physical",
+    "RelevantPapers": "M. Cassotti, D. Ballabio, V. Consonni, A. Mauri, I. V. Tetko, R. Todeschini (2014). Prediction of acute aquatic toxicity towards daphnia magna using GA-kNN method, Alternatives to Laboratory Animals (ATLA), 42,31:41; doi: 10.1177/026119291404200106",
+    "AttributeInfo": "8 molecular descriptors and 1 quantitative experimental response:\r\n1) TPSA(Tot)\r\n2) SAacc\r\n3) H-050\r\n4) MLOGP\r\n5) RDCHI\r\n6) GATS1p\r\n7) nN\r\n8) C-040\r\n9) quantitative response, LC50 [-LOG(mol/L)]",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

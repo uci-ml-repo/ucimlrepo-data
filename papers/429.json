@@ -1,0 +1,11 @@
+{
+    "datasetID": 38,
+    "supportID": "333DDF13DA5B127679CD0E2A1CC5556E9B6EA3F5",
+    "rexaID": "954de642cab661d060a2dbc68d3023ba3a9763e1",
+    "author": "Federico Divina and Elena Marchiori",
+    "title": "Handling Continuous Attributes in an Evolutionary Inductive Learner",
+    "venue": "Department of Computer Science Vrije Universiteit",
+    "year": "",
+    "window": "deviation between brackets. Tables 4 and 5 contain the results of the experiments on the training and test sets, respectively. On the training sets ECL-LSDf obtains the best performance on all datasets, with optimal performance on the <b>Echocardiogram</b>  However, on the test sets, ECL-LSDc achieves the best accuracy in most of the cases, with simplicity (that is, the number of clauses of the output",
+    "mykey": 429
+}

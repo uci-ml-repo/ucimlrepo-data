@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "8298C9DB47FF31E1D28063938B15CA0453C6AB1D",
+    "rexaID": "19d5e6db33eb1a6c31be626538ea656f79e901b1",
+    "author": "Matthias Scherf and W. Brauer",
+    "title": "Feature Selection by Means of a Feature Weighting Approach",
+    "venue": "GSF - National Research Center for Environment and Health",
+    "year": "",
+    "window": "0 Monks1 124 0 6 Monks2 169 0 6 Monks3 122 0 6 Parity5+5 100 0 10 Vowel 528+462 10 0 Wisconsin Breast Cancer 569 30 0 Pima-Diabetes 768 8 0 Liver Disorders 745 6 0 <b>Wine</b> 178 13 0 Table 1. Summary of data sets used reason for the choice of this special RBF network is its ability to automatically determine the number of base functions which is a measure of classifier complexity. 6.1 Critical Parameters",
+    "mykey": 1311
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 59,
+    "supportID": "034639360A3FEFC40795898E14BC2BBDBCA7EE07",
+    "rexaID": "2f0d669e8358c5a2af27cd538f8b5929dec89b48",
+    "author": "Hirotaka Inoue and Hiroyuki Narihisa",
+    "title": "Incremental Learning with Self-Organizing Neural Grove",
+    "venue": "Department of Electrical Engineering and Information Science, Kure National College of Technology",
+    "year": "",
+    "window": "Results We investigate the relation between the number of training data and the classification accuracy, the number of nodes, and the computation time of SONG with bagging for <b>letter recognition</b> dataset in the UCI repository [4]. 2 Hirotaka Inoue and Hiroyuki Narihisa 0.65 0.7 0.75 0.8 0.85 0.9 0.95 1 0 2000 4000 6000 8000 10000 12000 14000 16000 18000 Classification accuracy (%) # of N K=1 K=3 K=5",
+    "mykey": 18
+}

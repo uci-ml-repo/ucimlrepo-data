@@ -1,0 +1,11 @@
+{
+    "datasetID": 70,
+    "supportID": "D31BEE63C05B00FE2C2ACB117FA3EA55BAC72971",
+    "rexaID": "81a75649d5acc1cc428ca756dac221bac3c8fe01",
+    "author": "Geoffrey I. Webb",
+    "title": "OPUS: An Efficient Admissible Algorithm for Unordered Search",
+    "venue": "J. Artif. Intell. Res. (JAIR, 3",
+    "year": "1995",
+    "window": "with respect to minimizing the number of nodes expanded under depth-first search. 458 An Efficient Admissible Algorithm for Unordered Search Nonetheless, for only one search task, the <b>Monk</b> 2 data set, does OPUS o explore more nodes under depth-first search (16,345) than an alternative (both no optimistic reordering and fixed-order search that explore 12,879 and 12,791 nodes respectively). These",
+    "mykey": 2106
+}

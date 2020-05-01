@@ -1,0 +1,11 @@
+{
+    "datasetID": 120,
+    "supportID": "F2729FEB3087B04F7B27E8924E6F64F3C45EABB0",
+    "rexaID": "b0009a0081cc5fbfbae758def55cfd5b3256623b",
+    "author": "",
+    "title": "Prototype Selection for Composite Nearest Neighbor Classifiers",
+    "venue": "Department of Computer Science University of Massachusetts",
+    "year": "1997",
+    "window": "symbolic values. The data for the competition were divided into a single test and a single training set, but we have used a 10-fold cross-validation partition, for uniformity with the rest of our data sets. 12. Promoter. The task domain is <b>E</b>  <b>Coli</b> promoter gene sequences (DNA), and the task is to classify gene sequences as \"promoters\" or \"non-promoters\" based on 57 sequential DNA nucleotide",
+    "mykey": 2447
+}

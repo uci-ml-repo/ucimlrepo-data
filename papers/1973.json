@@ -1,0 +1,11 @@
+{
+    "datasetID": 16,
+    "supportID": "C2EE689A27EF525B05E11475D3DD937C4F3A910E",
+    "rexaID": "283e535d8f512eedabbd803c72a86b891eed8474",
+    "author": "Chun-Nan Hsu and Hilmar Schuschel and Ya-Ting Yang",
+    "title": "The ANNIGMA-Wrapper Approach to Neural Nets Feature Selection for Knowledge Discovery and Data Mining",
+    "venue": "Institute of Information Science",
+    "year": "1999",
+    "window": "the technique presented in [10], where it is used to enhance the effectiveness of feature. An optimal result is the selection of features ``jacketcolor'', ``holding'', and ``bodyshape''. Real-world Datasets <b>Breast</b> <b>Cancer</b> <b>Wisconsin</b> (Cancer) This dataset has 699 instances of 10 features : one is the ID number and 9 others have values within 1 to 10. Each instance has one of the 2 possible classes:",
+    "mykey": 1973
+}

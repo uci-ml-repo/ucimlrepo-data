@@ -1,0 +1,11 @@
+{
+    "datasetID": 110,
+    "supportID": "9C408B6979792C651477A6439FC4166EED001959",
+    "rexaID": "4487f47affc309f0d984645b44cdc8e1f42c2472",
+    "author": "Gaurav Marwah and Lois C. Boggess",
+    "title": "Artificial Immune Systems for Classification : Some Issues",
+    "venue": "Department of Computer Science Mississippi State University",
+    "year": "",
+    "window": "the accuracy of the classifier varies depending on the characteristics of the problem. The need for these alternatives was realized while testing AIRS on the well-known and publicly available <b>yeast</b> data set, which appears to be a difficult classification problem. The data set was obtained from the repository of the University of California at Irvine (Blake and Merz, 1998) and contained 1484 instances",
+    "mykey": 1608
+}

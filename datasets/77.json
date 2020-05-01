@@ -1,0 +1,23 @@
+{
+    "ID": 77,
+    "Name": "Othello Domain Theory",
+    "Abstract": "Used in research to generate features for an inductive learning system",
+    "Types": "Domain-Theory",
+    "Task": "",
+    "AttributeTypes": "",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "1991-02-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/othello/",
+    "URLReadme": "../machine-learning-databases/othello/new-othello.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The Code (\"othello.theory\") is well documented.",
+    "Source": "Tom Fawcett (fawcett@cs.umass.edu)\r\nCOINS Deptartment, LGRC\r\nUniversity of Massachusetts\r\nAmherst, MA  10373",
+    "Acknowledgements": "",
+    "Area": "Game",
+    "RelevantPapers": "T. Fawcett and P. Utgoff. \"A Hybrid Method for Feature Generation\".  Eighth International Workshop on Machine learning. Northwestern University, Evanston Illinois.  1991. pp. 137-141\r\nhttp://rexa.info/paper/67e9bb712bf1571625047c455d862bc804fa7950\r\n\r\nT. Fawcett and P. Utgoff.  \"Automatic Feature Generation for Problem Solving Systems\". Ninth International Conference on Machine Learning. Aberdeen, Scotland. 1992.  pp 144-153.\r\nhttp://rexa.info/paper/e85aed441920cb8ed4fdd1949e0b4153180b15fc",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 17
+}

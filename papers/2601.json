@@ -1,0 +1,11 @@
+{
+    "datasetID": 185,
+    "supportID": "",
+    "rexaID": "E1579BD1487811B206BBEBEA6F3129B33106CA6D",
+    "author": "Dhiraj Goel and Dhruv Batra",
+    "title": "Predicting User Preference for Movies using NetFlix database",
+    "venue": "Department of Electrical and Computer Engineering Carnegie Mellon University",
+    "year": "",
+    "window": "This work deals with one such problem, namely, that of predicting user preference for movies using the <b>Netflix</b> database. We present a memory-based Collaborative Filtering (CF) algorithm that  learns the personality traits of the users in a features space we call the Latent Genre Space (LGS). ",
+    "mykey": 2601
+}

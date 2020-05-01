@@ -1,0 +1,11 @@
+{
+    "datasetID": 111,
+    "supportID": "507C9B4917638D77B0BAD5DF47EDFF92F2FF229A",
+    "rexaID": "51abae4db521e2ea17ab25892535bba817de5edc",
+    "author": "Mikko Koivisto and Kismat Sood",
+    "title": "Exact Bayesian Structure Discovery in Bayesian Networks",
+    "venue": "Journal of Machine Learning Research, 5",
+    "year": "2004",
+    "window": "contain discrete variables only and no values are missing. The <b>Zoo</b> data set is available from the UCI Machine Learning Repository (Blake and Merz, 1998, the data set contributed by Richard Forsyth). It contains 17 variables and 101 records. The Alarm data set built by",
+    "mykey": 708
+}

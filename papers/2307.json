@@ -1,0 +1,11 @@
+{
+    "datasetID": 70,
+    "supportID": "E40AC26D73386944414C5C9236D9622209BC9CFA",
+    "rexaID": "68b230977077ba67eb9e5c9a9111d3ccb3672150",
+    "author": "Karol Grudzi nski and Wl/odzisl/aw Duch",
+    "title": "SBL-PM: A Simple Algorithm for Selection of Reference Instances in Similarity Based Methods",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "by other classification systems. Due to the noisy character of the data the limit in the leave-one-out or crossvalidation tests is about 98% [10]. Another set of experiments was done on the 3 <b>Monk</b> datasets [11]. On this artificial data SBM gives good results (100% of correct answers on the first problem, 85% on problem 2, and over 97% on problem 3) only if feature selection and/or weighting is",
+    "mykey": 2307
+}

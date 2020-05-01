@@ -1,0 +1,11 @@
+{
+    "datasetID": 111,
+    "supportID": "A09432D834D6F43DF8FE22A6FCE4E9B241ABE717",
+    "rexaID": "4d3a15f17c5158aad69c6133ae41ed25b6e037a6",
+    "author": "Eibe Frank and Stefan Kramer",
+    "title": "Ensembles of nested dichotomies for multi-class problems",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "prim.-tumor 339 3.9 0 17 22 segment 2310 0.0 19 0 7 soybean 683 9.8 0 35 19 splice 3190 0.0 0 61 3 vehicle 846 0.0 18 0 4 vowel 990 0.0 10 3 11 waveform 5000 0.0 40 0 3 <b>zoo</b> 101 0.0 1 15 7 Table 1. Datasets used for the experiments differences in accuracy by using the corrected resampled t-test at the 5% significance level. This test has been shown to have Type I error at the significance level and",
+    "mykey": 1643
+}

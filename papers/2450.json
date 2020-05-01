@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "F2729FEB3087B04F7B27E8924E6F64F3C45EABB0",
+    "rexaID": "b0009a0081cc5fbfbae758def55cfd5b3256623b",
+    "author": "",
+    "title": "Prototype Selection for Composite Nearest Neighbor Classifiers",
+    "venue": "Department of Computer Science University of Massachusetts",
+    "year": "1997",
+    "window": "resulted in a fairly small number of prototypes that can achieve a very good level of classification accuracy. For example, Aha's IB3 algorithm achieves 79% accuracy on the Cleveland <b>heart</b> disease data set [Murphy and Aha, 49 1994] while retaining only approximately 4% of the 303 instances [Aha, 1990] . Results such as this hint that a small number of prototypes will suffice on some data. In Table",
+    "mykey": 2450
+}

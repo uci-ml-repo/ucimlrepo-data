@@ -1,0 +1,11 @@
+{
+    "datasetID": 90,
+    "supportID": "E006C4EADD4929053891FBDC1979D4C774DE3FEB",
+    "rexaID": "692880d7b3356df64bfa0f06a683f89e4ce6955b",
+    "author": "Vassilis Athitsos and Stan Sclaroff",
+    "title": "Boosting Nearest Neighbor Classifiers for Multiclass Recognition",
+    "venue": "Boston University Computer Science Tech. Report No, 2004-006",
+    "year": "2004",
+    "window": "We did not use four datasets (dermatology, <b>soybean</b>  thyroid, audiology) because they have missing attributes, which our current formulation cannot handle. One dataset (ecoli) contains a nominal attribute, which our current",
+    "mykey": 2255
+}

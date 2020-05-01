@@ -1,0 +1,11 @@
+{
+    "datasetID": 46,
+    "supportID": "B604499A7364797F1F1366F10C98FD1580B7FD8B",
+    "rexaID": "15b7c2d67edb6f722c80cf48928bc53c17ad7bef",
+    "author": "Wl odzisl and Rafal Adamczak and Krzysztof Grabczewski",
+    "title": "Optimization of Logical Rules Derived by Neural Procedures",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "(if there is no test set). All data are from the UCI repository [11], except for the appendicitis, obtained from the authors of [12] paper. <b>Hepatitis</b> dataset contains many missing values and if averages are used meaningless rules are obtained; here only attributes with few missing values were used (no more than 5). NASA shuttle (described below) and the",
+    "mykey": 1859
+}

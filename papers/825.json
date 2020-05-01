@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "5A10009D3F14FB95905A28D4E0929F10ABADED75",
+    "rexaID": "7265efd898e4c045ff078fcb63fec9fbde4b1249",
+    "author": "Endre Boros and Peter Hammer and Toshihide Ibaraki and Alexander Kogan and Eddy Mayoraz and Ilya B. Muchnik",
+    "title": "An Implementation of Logical Analysis of Data",
+    "venue": "IEEE Trans. Knowl. Data Eng, 12",
+    "year": "2000",
+    "window": "in 85.51% of the cases. Furthermore, it is interesting to notice that the inclusion of additional patterns in the discriminant does not seem to improve the prediction accuracy. Boston <b>Housing</b>  This dataset was created by D. Harrison and D. Rubinfeld in 1978 and contains 506 records describing housing values in the suburbs of Boston, depending on observations consisting of one binary and 12 continuous",
+    "mykey": 825
+}

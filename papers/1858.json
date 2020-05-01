@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "B59EFC945ACD390FD067C30FCC412DB19F2C24A3",
+    "rexaID": "118fe8f48c22375803e81b47d91c0bfd96c19999",
+    "author": "Wl/odzisl/aw Duch and Rafal Adamczak and Geerd H. F Diercksen",
+    "title": "Neural Networks from Similarity Based Perspective",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "them on a unit sphere defined by this metric. 6 Pedagogical illustration The influence of non-Euclidean distance functions on the decision borders is illustrated here on the classical <b>Iris</b> flowers dataset, containing 50 cases in each of the 3 classes. The flowers are described by 4 measurements (petal and sepal width and length). Two classes, Iris virginica and Iris versicolor, overlap, and therefore",
+    "mykey": 1858
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 70,
+    "supportID": "ED12838CCE3C7BB971D91D92D58F71829F40C955",
+    "rexaID": "14f025e969e3a0418fd852ee46e54039ab3f216a",
+    "author": "Jianbin Tan and David L. Dowe",
+    "title": "MML Inference of Decision Graphs with Multi-way Joins and Dynamic Attributes",
+    "venue": "Australian Conference on Artificial Intelligence",
+    "year": "2003",
+    "window": "Each 10-fold cross-validation consists of 10 tests. In each test, we trained on nine-tenths of the data and tested on the remaining one-tenth. This amounted to 10x10=100 tests. 1st <b>monk</b> s data set: The 1st monk's data set is in the UCI machine learning repository [10, 1], and constructed from the noiseless function ( Jacket Color = Red ) V ( Head Shape = body Shape ) 10 independent tests were",
+    "mykey": 2388
+}

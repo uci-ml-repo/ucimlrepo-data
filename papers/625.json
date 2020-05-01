@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "47E3FA7EEB0A88D64A9510C33AE256A35616EDAC",
+    "rexaID": "193231e78c226995eee9f66bf9a4177b8416daf4",
+    "author": "H. -T Lin and C. -J Lin",
+    "title": "A Study on Sigmoid Kernels for SVM and the Training of non-PSD Kernels by SMO-type Methods",
+    "venue": "Department of Computer Science and Information Engineering National Taiwan University",
+    "year": "",
+    "window": "with ~ C = \u00af C 2a = decision value at x using the linear kernel with \u00af C. We can observe the result of Theorems 8 and 9 from Figure 1. The contours show five-fold cross-validation accuracy of the data set <b>heart</b> in different r and C. The contours with a = 1 are on the left-hand side, while those with a = 0.01 are on the right-hand side. Other parameters considered here are log 2 C fromlog 2 (- r) from",
+    "mykey": 625
+}

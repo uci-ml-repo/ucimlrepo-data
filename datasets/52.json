@@ -1,0 +1,23 @@
+{
+    "ID": 52,
+    "Name": "Ionosphere",
+    "Abstract": "Classification of radar returns from the ionosphere",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 351,
+    "NumAttributes": 34,
+    "DateDonated": "1989-01-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/ionosphere/",
+    "URLReadme": "../machine-learning-databases/ionosphere/ionosphere.names",
+    "HighestAccuracy": 96,
+    "RelevantInfo": "This radar data was collected by a system in Goose Bay, Labrador.  This system consists of a phased array of 16 high-frequency antennas with a total transmitted power on the order of 6.4 kilowatts.  See the paper for more details.  The targets were free electrons in the ionosphere. \"Good\" radar returns are those showing evidence of some type of structure in the ionosphere.  \"Bad\" returns are those that do not; their signals pass through the ionosphere.  \r\n\r\nReceived signals were processed using an autocorrelation function whose arguments are the time of a pulse and the pulse number.  There were 17 pulse numbers for the Goose Bay system.  Instances in this databse are described by 2 attributes per pulse number, corresponding to the complex values returned by the function resulting from the complex electromagnetic signal.",
+    "Source": "Donor: \r\n\r\nVince Sigillito (vgs@aplcen.apl.jhu.edu)\r\n\r\nSource: \r\n\r\nSpace Physics Group\r\nApplied Physics Laboratory\r\nJohns Hopkins University\r\nJohns Hopkins Road\r\nLaurel, MD 20723 ",
+    "Acknowledgements": "",
+    "Area": "Physical",
+    "RelevantPapers": "Sigillito, V. G., Wing, S. P., Hutton, L. V., \\& Baker, K. B. (1989). Classification of radar returns from the ionosphere using neural networks. Johns Hopkins APL Technical Digest, 10, 262-266.\r\nhttp://rexa.info/paper/e3d70c8df030be78ab0ea867ef824a9402943eea",
+    "AttributeInfo": "-- All 34 are continuous\r\n-- The 35th attribute is either \"good\" or \"bad\" according to the definition summarized above.  This is a binary classification task.\r\n",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 22314
+}

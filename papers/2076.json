@@ -1,0 +1,11 @@
+{
+    "datasetID": 40,
+    "supportID": "D0FE18451EDCBDFEE85C34DEB930F22FB2196039",
+    "rexaID": "d4ea16b5ea06d216f7d2be28615fa9c66b98bbea",
+    "author": "George H. John and Ron Kohavi and Karl Pfleger",
+    "title": "Irrelevant Features and the Subset Selection Problem",
+    "venue": "ICML",
+    "year": "1994",
+    "window": "The C4.5 program is the program that comes with Quinlan's book (Quinlan 1992); the ID3 results were obtained by running C4.5 and using the unpruned trees. On the artificial datasets, we used the ``-s -m1'' C4.5 <b>flags</b>  which indicate that subset splits may be used and that splitting should continue until purity. To estimate the accuracy for feature subsets, we used 25-fold",
+    "mykey": 2076
+}

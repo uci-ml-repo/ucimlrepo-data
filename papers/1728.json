@@ -1,0 +1,11 @@
+{
+    "datasetID": 94,
+    "supportID": "A84DE556662B1E538D65BFEC06B2D335AC46CD65",
+    "rexaID": "3cb3fbd5512e3cd12111b598fece53fcb42c484b",
+    "author": "Christos Dimitrakakis and Samy Bengioy",
+    "title": "Online Policy Adaptation for Ensemble Classifiers",
+    "venue": "IDIAP",
+    "year": "",
+    "window": "2.72% 3.10% 2.80% 2.69% 8.33% 6.48% 7.75% 7.41% 56.1% 61.9% 68.1% 48.3% Table 1: Classification error on the UCI breast, forest, heart, ionosphere, letter, optdigits, pendigits, <b>spambase</b> and vowel datasets using 32 experts. 7 times out of 9 respectively. For each dataset we have also calculated the cumulative margin distribution resulting from equation (1). For the RL mixture there was a constant",
+    "mykey": 1728
+}

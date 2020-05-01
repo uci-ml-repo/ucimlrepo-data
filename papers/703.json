@@ -1,0 +1,11 @@
+{
+    "datasetID": 59,
+    "supportID": "4FDC539AAFC82DD12574F4E0B1A763129B750A51",
+    "rexaID": "426e712ef75473927e172cd8d75299a5c9037bd6",
+    "author": "Xiaoli Z. Fern and Carla Brodley",
+    "title": "Cluster Ensembles for High Dimensional Clustering: An Empirical Study",
+    "venue": "Journal of Machine Learning Research n, a",
+    "year": "2004",
+    "window": "High resolution computed tomography lung image data Dy et al. (1999) chart Synthetically generated control chart time series UCI KDD archive (Hettich and Bay, 1999) isolet6 Spoken <b>letter recognition</b> data set (6 letters only) UCI ML archive mfeat Handwritten digits represented by Fourier coefficients (Blake and Merz, 1998) satimage StatLog Satellite image data set (training set) segmentation Image",
+    "mykey": 703
+}

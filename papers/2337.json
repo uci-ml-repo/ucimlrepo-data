@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "EB0B4ADDF0A39E2D2F4AD6085ECE2C988149D212",
+    "rexaID": "6858832ba8e9e4ac002900af151a8ffcc1796f8f",
+    "author": "Stefan Aeberhard and Danny Coomans and De Vel",
+    "title": "THE PERFORMANCE OF STATISTICAL PATTERN RECOGNITION METHODS IN HIGH DIMENSIONAL SETTINGS",
+    "venue": "James Cook University",
+    "year": "",
+    "window": "resonant frequency easily obtainable using NMR, constituting the 19 variables measured. With 19 dimensions and 13 training samples per class, this problem is ill-posed. <b>Glass</b> Types Data This data set is from [15]. It summarises a chemical analysis done on two types (classes) of glass. Glass which was float-processed and such which was not. The data is ten dimensional and well-posed, with 87",
+    "mykey": 2337
+}

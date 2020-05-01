@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "FA436A1C6EFEFFF11A6B4D429D452AB09C67A0D2",
+    "rexaID": "69aaccfb9601e579827a9940738bb255a8cec3b5",
+    "author": "Mark A. Hall",
+    "title": "Correlation-based Feature Selection for Discrete and Numeric Class Machine Learning",
+    "venue": "ICML",
+    "year": "2000",
+    "window": "In the case of CFS, a discretized copy of each training split was made for it to operate on. The same folds were used for each feature selector{learning scheme combination. Table 1. Discrete class data sets. Data Set Instances Num. Nom. Classes 1 <b>glass</b> 2 163 9 0 2 2 anneal 898 6 32 5 3 breast-c 286 0 9 2 4 credit-g 1000 7 13 2 5 diabetes 768 8 0 2 6 horse colic 368 7 15 2 7 heart-c 303 6 7 2 8",
+    "mykey": 2522
+}

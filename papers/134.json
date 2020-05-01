@@ -1,0 +1,11 @@
+{
+    "datasetID": 59,
+    "supportID": "0C543EE2403E5E986309215F48B47EF69BF46806",
+    "rexaID": "abf0c261ab7aa462cd5cbc290cb7963cdf4f9ee8",
+    "author": "Miguel Moreira and Alain Hertz and Eddy Mayoraz",
+    "title": "Data binarization by discriminant elimination",
+    "venue": "Proceedings of the ICML-99 Workshop: From Machine Learning to",
+    "year": "",
+    "window": "the end, that is, to test the redundancy of all the discriminants in the initial set. Figure 3 shows the evolution of the elimination process with the conflict-based weighting method for four of the data sets. In the case of <b>Letter Recognition</b>  for example, the algorithm starts with 234 discriminants and takes almost 3500 seconds to find a final set with 59. However, after 1000 sec. only 69",
+    "mykey": 134
+}

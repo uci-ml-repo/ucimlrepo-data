@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "A2A253709B76F2BB4038A43BF641540B6D64DBEB",
+    "rexaID": "492fa3ac5e4f32e8d4bb1be1225c4fcf8739a553",
+    "author": "Colin Campbell and Nello Cristianini and Alex J. Smola",
+    "title": "Query Learning with Large Margin Classifiers",
+    "venue": "ICML",
+    "year": "2000",
+    "window": "with a training set of 200 (Figure 2) there are an average 56 support vectors against an average 60 queries made. Real World Data. In Figure 5 we plot the corresponding curves for the <b>ionosphere</b> data set from the UCI Repository (Blake, Keogh & Merz, 1998). The ionosphere data set had a sparsity ratio of 0.29 so the advantages of selective sampling are clear. A plot of the averaged distance to the",
+    "mykey": 1659
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 81,
+    "supportID": "9420108AB1160C43755C76C0AE57C71F2162F004",
+    "rexaID": "4a338bab101f6721ea5dc4d76de5456721fbf0a3",
+    "author": "Marina Meila and Michael I. Jordan",
+    "title": "Learning with Mixtures of Trees",
+    "venue": "Journal of Machine Learning Research, 1",
+    "year": "2000",
+    "window": "on. 5.2 Density estimation experiments 5.2.1 <b>digits</b> and digit pairs images Our first density estimation experiment involved a subset of binary vector representations of <b>handwritten</b> digits. The datasets consist of normalized and quantized 8\u00d78 binary images of handwritten digits made available by the US Postal Service Office for Advanced Technology. One dataset---which we refer to as the \"digits\"",
+    "mykey": 1481
+}

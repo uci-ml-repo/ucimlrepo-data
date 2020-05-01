@@ -1,0 +1,11 @@
+{
+    "datasetID": 107,
+    "supportID": "BD7CF5AB5B6D4C7C464135A17E1725325B1EB550",
+    "rexaID": "9755b662d1579511b54a4b2c69eea04c30c2142c",
+    "author": "Juan J. Rodr##guez and Carlos J. Alonso and Henrik Bostrom",
+    "title": "Learning First Order Logic Time Series Classifiers: Rules and Boosting",
+    "venue": "Grupo de Sistemas Inteligentes, Departamento de Inform#atica Universidad de Valladolid, Spain",
+    "year": "",
+    "window": "[1]. Figure 2.b shows some examples of three of the classes. The data used were obtained from the UCI KDD Archive [4]. The number of examples is 600, with 60 points in each series. { <b>Waveform</b>  This dataset was introduced by [9]. We used the version from the UCI ML Repository [7]. The number of examples is 900 and the number of points in each series is 21. { Wave + Noise. This dataset was generated in",
+    "mykey": 1922
+}

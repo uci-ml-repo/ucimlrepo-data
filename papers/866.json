@@ -1,0 +1,11 @@
+{
+    "datasetID": 15,
+    "supportID": "5D935F69244FA68C8E46435B9F03BAB03BEB06AB",
+    "rexaID": "73cfbd8185405d37df94492642c9ffdb3b48c37f",
+    "author": "Huan Liu and Hiroshi Motoda and Manoranjan Dash",
+    "title": "A Monotonic Measure for Optimal Feature Selection",
+    "venue": "ECML",
+    "year": "1998",
+    "window": "with unknown relevant attributes, consists of WBC - the <b>Wisconsin</b> <b>Breast</b> <b>Cancer</b> data set, LED-7 - data with 7 Boolean attributes and 10 classes, the set of decimal digits (0..9), Letter - the letter image recognition data, LYM - the lymphography data, and Vote - the U.S. House of",
+    "mykey": 866
+}

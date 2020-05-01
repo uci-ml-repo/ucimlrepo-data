@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "84A9EB9AA681B0EEF24C996849ABD592187A42A6",
+    "rexaID": "4dac55f2daa66b00a555405664b6f275370782ac",
+    "author": "Haixun Wang and Carlo Zaniolo",
+    "title": "CMP: A Fast Decision Tree Classifier Using Multivariate Predictions",
+    "venue": "ICDE",
+    "year": "2000",
+    "window": "(Letter, Satimage, Segment and Shuttle) in the table are from the <b>STATLOG</b> project[6], and the two large datasets (Function 2 and Function 7) are synthetic datasets described in [5]. In these test cases there were at most N = 2 alive intervals: i) the one whose left boundary (or right boundary, depending on",
+    "mykey": 1330
+}

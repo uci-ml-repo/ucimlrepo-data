@@ -1,0 +1,23 @@
+{
+    "ID": 88,
+    "Name": "Shuttle Landing Control",
+    "Abstract": "Tiny database; all nominal values",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 15,
+    "NumAttributes": 6,
+    "DateDonated": "1988-11-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/shuttle-landing-control/",
+    "URLReadme": "../machine-learning-databases/shuttle-landing-control/shuttle-landing-control.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This is a tiny database.  Michie reports that Burke's group used RULEMASTER to generate comprehendable rules for determining the conditions under which an autolanding would be preferable to manual control of the spacecraft.",
+    "Source": "Original source: \r\n\r\nunknown\r\nNASA: Mr. Roger Burke's autolander design team\r\n\r\nDonor: \r\n\r\nBojan Cestnik\r\nJozef Stefan Institute\r\nJamova 39\r\n61000 Ljubljana\r\nYugoslavia (tel.: (38)(+61) 214-399 ext.287) ",
+    "Acknowledgements": "",
+    "Area": "Physical",
+    "RelevantPapers": "Michie,D. (1988).  The Fifth Generation's Unbridged Gap. In Rolf Herken (Ed.) The Universal Turing Machine: A Half-Century Survey, 466-489, Oxford University Press.\r\n",
+    "AttributeInfo": "    1. Class: noauto, auto\r\n       -- that is, advise using manual/automatic control\r\n    2. STABILITY: stab, xstab\r\n    3. ERROR: XL, LX, MM, SS\r\n    4. SIGN: pp, nn\r\n    5. WIND: head, tail\r\n    6. MAGNITUDE: Low, Medium, Strong, OutOfRange\r\n    7. VISIBILITY: yes, no",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 6988
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 56,
+    "supportID": "9872A1F4737BD87CE3D0838E6BBF87E0192D660C",
+    "rexaID": "944b9d70eb0a01d18c91109dfeb566936461a194",
+    "author": "Alexander K. Seewald",
+    "title": "Meta-Learning for Stacked Classification",
+    "venue": "Austrian Research Institute for Artificial Intelligence",
+    "year": "",
+    "window": "using only seven folds produces the exact same result. When removing the base-classifier dependent features, IBk is still the best classifier with an additional error on <b>labor</b>  the smallest dataset. In this case MLR, another high-bias and global learner, is equally good. So wemaytentatively conclude that for this meta-dataset, there seems to be no single feature which can predict the",
+    "mykey": 1537
+}

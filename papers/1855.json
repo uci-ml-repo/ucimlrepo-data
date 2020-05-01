@@ -1,0 +1,11 @@
+{
+    "datasetID": 108,
+    "supportID": "B505D5151B9E07D6B485294BA0985B51D129BC0B",
+    "rexaID": "6a9871da32f3042a5de9082a36a11d5aecda6df8",
+    "author": "Kai Ming Ting and Boon Toh Low",
+    "title": "Model Combination in the Multiple-Data-Batches Scenario",
+    "venue": "ECML",
+    "year": "1997",
+    "window": "settings are the same as those used in IB1 3 in all experiments. No parameter settings are required for NB*. Our studies employ two artificial domains (i.e., <b>waveform</b> and LED24) and four real-world datasets (i.e., euthyroid, nettalk(stress), splice junction and protein coding) obtained from the UCI repository of machine learning databases (Merz & Murphy, 1996). The two noisy artificial domains are",
+    "mykey": 1855
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 216,
+    "Name": "Amazon Access Samples",
+    "Abstract": "Amazon's InfoSec is getting smarter about the way Access data is leveraged. This is an anonymized sample of access provisioned within the company.",
+    "Types": "Time-Series, Domain-Theory",
+    "Task": "Regression, Clustering, Causal-Discovery",
+    "AttributeTypes": "",
+    "NumInstances": 30000,
+    "NumAttributes": 20000,
+    "DateDonated": "2011-09-13",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00216/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This is a sparse data set, less than 10% of the attributes are used for each sample. The link is to a '*.tgz' file which contains two files:\r\n[amzn-anon-access-samples-2.0.csv] this file contains the access for users\r\n[amzn-anon-access-samples-history-2.0.csv] this file contains the access history for a given user\r\n",
+    "Source": "Dataset creator and donator: Ken Montanez email: kenmonta[at]cal.berkeley.edu institution: Information Security, Amazon Corp.",
+    "Acknowledgements": "Please refer to the Machine Learning Repository's citation policy.",
+    "Area": "Business",
+    "RelevantPapers": "",
+    "AttributeInfo": "__amzn-anon-access-samples-2.0.csv__\r\nThis is a sparse data set containing users and their assigned access. The file contains 4 categories of attributes.\r\n1) [PERSON_{ATTRIBUTE}] This category describes the 'user' who was given access. The [PERSON_ID] column is the primary key column for the file. There is one row per user.\r\nPERSON_ID: id of the user\r\nPERSON_MGR_ID: id of the user's manager\r\nPERSON_ROLLUP_1: user grouping id\r\nPERSON_ROLLUP_2: user grouping id\r\nPERSON_ROLLUP_3: user grouping id\r\nPERSON_DEPTNAME: department desciption id\r\nPERSON_LOCATION: region id\r\nPERSON_BUSINESS_TITLE: title id\r\nPERSON_BUSINESS_TITLE_DETAIL: description id\r\nPERSON_JOB_CODE: job code id\r\nPERSON_COMPANY: company id\r\nPERSON_JOB_FAMILY: job family id\r\n\r\n2) [RESOURCE_{ID}] This category of attributes are the resources that a users can possibly have access to. A user will have a 1 in this column if the have access to it otherwise it will be 0.\r\n\r\n3) [GROUP_{ID}] - This category of attributes are the groups that a users can possibly have access to. A user will have a 1 in this column if the have access to it otherwise it will be 0.\r\n\r\n4) [SYSTEM_SUPPORT_{ID}] - This category of attributes are the system that a user can possibly be supporting. A user will have a 1 in this column if the have can possibly be supporting it, otherwise it will be 0.\r\n\r\n__amzn-anon-access-samples-history-2.0.csv__\r\nPermissions Time series data. Here is a short description of the columns:\r\nACTION: either 'remove_access' or 'add_access'\r\nTARGET_NAME: either the {RESOURCE_ID} or {GROUP_ID}\r\nLOGIN: the id of the user that is obtaining or losing access\r\nREQUEST_DATE: YYYY-MM-DD HH:MM:SS\r\nAUTHORIZATION_DATE: YYYY-MM-DD HH:MM:SS",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

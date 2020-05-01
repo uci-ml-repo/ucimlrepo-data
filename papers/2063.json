@@ -1,0 +1,11 @@
+{
+    "datasetID": 90,
+    "supportID": "CD89427297DDF91BAE9ED58EB01B3702C9FC74B6",
+    "rexaID": "1f4e06390d7a257b58508b73ed2a689add6a9748",
+    "author": "Bianca Zadrozny",
+    "title": "Reducing multiclass to binary by coupling probability estimates",
+    "venue": "NIPS",
+    "year": "2001",
+    "window": "better. Figure 1 shows how the MSE is lowered at each iteration of the Hastie-Tibshirani algorithm, for the three types of code matrices. Table 3 shows the results of the same experiments on the datasets pendigits and <b>soybean</b>  Again, the MSE is significantly lowered by the iterative procedure, in all cases. For the soybean dataset, using the sparse random matrix, the iterative method again has a",
+    "mykey": 2063
+}

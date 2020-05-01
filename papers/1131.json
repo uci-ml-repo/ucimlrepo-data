@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "7471D780EE25D4010170C5BC233C38D5AFF3AF95",
+    "rexaID": "55a7f45a6b42ceb9097c7260032694bcbd8a2fd2",
+    "author": "Gary M. Weiss and Haym Hirsh",
+    "title": "A Quantitative Study of Small Disjuncts: Experiments and Results",
+    "venue": "Department of Computer Science Rutgers University",
+    "year": "2000",
+    "window": "were compared as the training set size was varied. Because disjuncts of a specific size for most concepts cover very few examples, statistically valid comparison were possible for only 4 of the 30 datasets (Coding, Move, <b>Adult</b>  and Market2); with the other datasets the number of examples covered by disjuncts of a given size is too small. The results for the Coding dataset are shown in Figure 8.",
+    "mykey": 1131
+}

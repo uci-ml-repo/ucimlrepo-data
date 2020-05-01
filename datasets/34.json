@@ -1,0 +1,23 @@
+{
+    "ID": 34,
+    "Name": "Diabetes",
+    "Abstract": "This diabetes dataset is from AIM '94",
+    "Types": "Multivariate, Time-Series",
+    "Task": "",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 0,
+    "NumAttributes": 20,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/diabetes/",
+    "URLReadme": "../machine-learning-databases/diabetes/README",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Diabetes patient records were obtained from two sources:  an automatic electronic recording device and paper records.  The automatic device had an internal clock to timestamp events, whereas the paper records only provided \"logical time\" slots (breakfast, lunch, dinner, bedtime).  For paper records, fixed times were assigned to breakfast (08:00), lunch (12:00), dinner (18:00), and bedtime (22:00).  Thus paper records have fictitious uniform recording times whereas electronic records have more realistic time stamps.\r\n\r\nDiabetes files consist of four fields per record.  Each field is separated by a tab and each record is separated by a newline.\r\n\r\nFile Names and format:\r\n(1) Date in MM-DD-YYYY format\r\n(2) Time in XX:YY format\r\n(3) Code\r\n(4) Value\r\n\r\nThe Code field is deciphered as follows:\r\n\r\n33 = Regular insulin dose\r\n34 = NPH insulin dose\r\n35 = UltraLente insulin dose\r\n48 = Unspecified blood glucose measurement\r\n57 = Unspecified blood glucose measurement\r\n58 = Pre-breakfast blood glucose measurement\r\n59 = Post-breakfast blood glucose measurement\r\n60 = Pre-lunch blood glucose measurement\r\n61 = Post-lunch blood glucose measurement\r\n62 = Pre-supper blood glucose measurement\r\n63 = Post-supper blood glucose measurement\r\n64 = Pre-snack blood glucose measurement\r\n65 = Hypoglycemic symptoms\r\n66 = Typical meal ingestion\r\n67 = More-than-usual meal ingestion\r\n68 = Less-than-usual meal ingestion\r\n69 = Typical exercise activity\r\n70 = More-than-usual exercise activity\r\n71 = Less-than-usual exercise activity\r\n72 = Unspecified special event ",
+    "Source": "Michael Kahn, MD, PhD, Washington University, St. Louis, MO",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "",
+    "AttributeInfo": "Diabetes files consist of four fields per record.  Each field is separated by a tab and each record is separated by a newline.\r\n\r\nFile Names and format:\r\n(1) Date in MM-DD-YYYY format\r\n(2) Time in XX:YY format\r\n(3) Code\r\n(4) Value",
+    "FormatType": "",
+    "NumHits": 54110
+}

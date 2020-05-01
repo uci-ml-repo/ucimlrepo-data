@@ -1,0 +1,11 @@
+{
+    "datasetID": 111,
+    "supportID": "34594C57ED32BFD864F207DE50C312621815DB40",
+    "rexaID": "e69241ee87f9d58fd07b8ccbee48fbaa881fd695",
+    "author": "Huan Liu and Hiroshi Motoda and Lei Yu",
+    "title": "Feature Selection with Selective Sampling",
+    "venue": "ICML",
+    "year": "2002",
+    "window": "2 and 3 in Table 2) by simply treating them as continuous. The results are reported in Table 5. ReliefS works as well as or better than ReliefF except for 3 cases (some particular bucket sizes for data sets PrimaryTumor, <b>Zoo</b>  Colic). The detailed re0.95 0.955 0.96 0.965 0.97 0.975 0.98 0.985 0.99 0.995 1 102030405060708090100 Precision Percentage by bucket size from 7 to 1 ReliefS ReliefF 0.95 0.955",
+    "mykey": 441
+}

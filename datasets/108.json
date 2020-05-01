@@ -1,0 +1,23 @@
+{
+    "ID": 108,
+    "Name": "Waveform Database Generator (Version 2)",
+    "Abstract": "CART book's waveform domains",
+    "Types": "Multivariate, Data-Generator",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 5000,
+    "NumAttributes": 40,
+    "DateDonated": "1988-11-10",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/waveform/",
+    "URLReadme": "../machine-learning-databases/waveform/waveform-+noise.names",
+    "HighestAccuracy": 86,
+    "RelevantInfo": "Notes:\r\n     -- 3 classes of waves\r\n     -- 40 attributes, all of which include noise\r\n        -- The latter 19 attributes are all noise attributes with mean 0 and variance 1\r\n     -- See the book for details (49-55, 169)\r\n     -- waveform-+noise.data.Z contains 5000 instances",
+    "Source": "Original Owners:\r\n\r\nBreiman,L., Friedman,J.H., Olshen,R.A., & Stone,C.J. (1984). \r\nClassification and Regression Trees.  Wadsworth International\r\nGroup: Belmont, California.  (see pages 43-49).\r\n\r\nDonor: \r\n\r\nDavid Aha ",
+    "Acknowledgements": "",
+    "Area": "Physical",
+    "RelevantPapers": "Leo Breiman, Jerome H. Friedman, Adam Olshen, Jonathan Stone. \"Classification and Regression Trees.\" 1984.\r\nhttp://rexa.info/paper/1cc283c272e7f15f24de4da020029e6f9f7471f8",
+    "AttributeInfo": "    -- Each class is generated from a combination of 2 of 3 \"base\" waves\r\n    -- Each instance is generated f added noise (mean 0, variance 1) in each attribute\r\n     -- See the book for details (49-55, 169)",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 9104
+}

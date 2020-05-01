@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "9835B022A780977AE6A87B762AB51D920622E75E",
+    "rexaID": "c8866c27be62693c5cedc3d78b570b889b75fa72",
+    "author": "Jonathan Eckstein and Peter L. Hammer and Ying Liu and Mikhail Nediak and Bruno Simeone",
+    "title": "The Maximum Box Problem and its Application to Data Analysis",
+    "venue": "RUTCOR Rutgers Center for Operations Research Rutgers University",
+    "year": "2002",
+    "window": "1. Table 1 also indicates the number of observations for which some data values are missing. In our experiments, we removed the observations with missing values, with the exception of the <b>voting data</b> set, where almost half of the observations contained missing values. In this data set, there are sixteen attributes, and all of them are binary. In this case, we have substituted the missing binary",
+    "mykey": 1533
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 17,
+    "supportID": "40C1586AAECBE5043D9047D4CC05F06623C2A95F",
+    "rexaID": "3ecc983417b61977b8f998e8a843948dad8fa21c",
+    "author": "Andr\u00e1s Antos and Bal\u00e1zs K\u00e9gl and Tam\u00e1s Linder and G\u00e1bor Lugosi",
+    "title": "Data-dependent margin-based generalization bounds for classification",
+    "venue": "Journal of Machine Learning Research, 3",
+    "year": "2002",
+    "window": "attributes were binary coded in a 1-out-of-n fashion. Data points with missing attributes were removed. Each attribute was normalized to have zero mean and 1= p d standard deviation. The four data sets were the <b>Wisconsin</b> <b>breast</b> <b>cancer</b> (n = 683, d = 9), the ionosphere (n = 351, d = 34), the Japanese credit screening (n = 653, d = 42), and the tic-tac-toe endgame (n = 958, d = 27) database. 84",
+    "mykey": 543
+}

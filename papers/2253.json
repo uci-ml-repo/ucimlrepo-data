@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "E006C4EADD4929053891FBDC1979D4C774DE3FEB",
+    "rexaID": "692880d7b3356df64bfa0f06a683f89e4ce6955b",
+    "author": "Vassilis Athitsos and Stan Sclaroff",
+    "title": "Boosting Nearest Neighbor Classifiers for Multiclass Recognition",
+    "venue": "Boston University Computer Science Tech. Report No, 2004-006",
+    "year": "2004",
+    "window": "used in the experiments, largely copied from (Allwein et al., 2000). Dataset Train Test Attributes Classes <b>glass</b> 214 - 9 6 isolet 6238 1559 617 26 letter 16000 4000 16 26 pendigits 7494 3498 16 10 satimage 4435 2000 36 6 segmentation 2310 - 19 7 vowel 528 462 10 11 yeast",
+    "mykey": 2253
+}

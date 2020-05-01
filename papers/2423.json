@@ -1,0 +1,11 @@
+{
+    "datasetID": 20,
+    "supportID": "F014207F5E6B34D3A0626B63501A2DE163165F41",
+    "rexaID": "48dc427a3536d7bef34e910efc1f34171bf98729",
+    "author": "Chris Giannella and Bassem Sayrafi",
+    "title": "An Information Theoretic Histogram for Single Dimensional Selectivity Estimation",
+    "venue": "Department of Computer Science, Indiana University Bloomington",
+    "year": "",
+    "window": "there). We use the age column of the training dataset. The dataset was extracted from 1994 US <b>census</b> data. The shuttle2 dataset was downloaded from the \"Esprit Project 5170 StatLog\" archive (\"Shuttle\" heading): www.liacc.up.pt/ML/. It represents data",
+    "mykey": 2423
+}

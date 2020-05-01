@@ -1,0 +1,11 @@
+{
+    "datasetID": 79,
+    "supportID": "820E5427D5D8D1CA509AA08D4387187DABE4175E",
+    "rexaID": "dc4f2babc5ca4534b435280aec32f5816ddb53b0",
+    "author": "Stavros J. Perantonis and Vassilis Virvilis",
+    "title": "Input Feature Extraction for Multilayered Perceptrons Using Supervised Principal Component Analysis",
+    "venue": "Neural Processing Letters, 10",
+    "year": "1999",
+    "window": "the basis of 6 attributes originating from blood test results and daily alcohol consumption figures. The set comprises 345 patterns with 6 features for each pattern. 3. the  <b>Pima</b> <b>Indians</b> <b>Diabetes</b>  data set [15]. It comprises 768 patterns taken from patients who may show signs of diabetes. Each sample is described by 8 attributes. 4. The \"Sonar Targets\" dataset [16]. The task is to distinguish between",
+    "mykey": 1304
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "3E9249B13A8BB18FC4231D0C5FDE1A7CEE7005AB",
+    "rexaID": "d293cd6bea79dd218c3a9e76177d026bf1d581f5",
+    "author": "Aristidis Likas and Nikos A. Vlassis and Jakob J. Verbeek",
+    "title": "The global k-means clustering algorithm",
+    "venue": "Pattern Recognition, 36",
+    "year": "2003",
+    "window": "it is also possible to employ the above presented k-d tree approach with the global k-means algorithm. 4 Experimental results We have tested the proposed clustering algorithms on several well-known data sets, namely the <b>iris</b> data set [8], the synthetic data set [9] and the image segmentation data set [8]. In all data sets we conducted experiments for the clustering problems obtained by considering only",
+    "mykey": 520
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 82,
+    "supportID": "DC8427293AC77A0A77ABDBF0D9DDD0940B336EED",
+    "rexaID": "77b535b98a279e3b1ee9499bead3408bc8d58c08",
+    "author": "Glenn Fung and Sathyakama Sandilya and R. Bharat Rao",
+    "title": "Rule extraction from Linear Support Vector Machines",
+    "venue": "Computer-Aided Diagnosis & Therapy, Siemens Medical Solutions, Inc",
+    "year": "",
+    "window": "The first experiment relates to the publicly available WDBC dataset that consists of 683 <b>patient data</b>  The classification task associated with this dataset is to diagnose breast masses based solely on a Fine Needle Aspiration (FNA). Doctors identified nine visually",
+    "mykey": 2220
+}

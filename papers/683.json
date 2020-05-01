@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "4D89623FF93B50F186907F7CE541E5FF9395860B",
+    "rexaID": "f78dcf21b618acf09345e59967f008e96094c072",
+    "author": "Xiaoyong Chai and Li Deng and Qiang Yang and Charles X. Ling",
+    "title": "Test-Cost Sensitive Naive Bayes Classification",
+    "venue": "ICDM",
+    "year": "2004",
+    "window": "attributes of datasets attributes Ecoli 6 Breast 9 <b>Heart</b> 8 Thyroid 24 Australia 15 Cars 6 Voting 16 Mushroom 22 Table 2. Datasets used in the experiments We ran a 3-fold cross validation on these data sets. In the",
+    "mykey": 683
+}

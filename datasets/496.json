@@ -1,0 +1,23 @@
+{
+    "ID": 496,
+    "Name": "Alcohol QCM Sensor Dataset",
+    "Abstract": "Five different QCM gas sensors are used, and five different gas measurements (1-octanol, 1-propanol, 2-butanol, 2-propanol and 1-isobutanol) are conducted in each of these sensors.",
+    "Types": "Multivariate",
+    "Task": "Classification, Regression, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 125,
+    "NumAttributes": 8,
+    "DateDonated": "2019-07-22",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00496/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "In the dataset there are 5 types of dataset.\r\nQCM3, QCM6, QCM7, QCM10, QCM12\r\n\r\nIn each of dataset, There is alcohol classification of five types,\r\n1-octanol, 1-propanol, 2-butanol, 2-propanol, 1-isobutanol",
+    "Source": "Provide the names, email addresses, institutions, and other contact information of the donors and creators of the data set.\r\nM. Fatih ADAK, fatihadak@sakarya.edu.tr, Sakarya University, Turkey\r\nPeter Lieberzeit, University of Vienna, Austria\r\nPurim Jarujamrus, Ratchathani University, Thailand\r\nNejat Yumusak, Sakarya University, Turkey",
+    "Acknowledgements": "M. Fatih Adak, Peter Lieberzeit, Purim Jarujamrus, Nejat Yumusak, Classification of alcohols obtained by QCM sensors with different characteristics using ABC based neural network, Engineering Science and Technology, an International Journal, 2019, , ISSN 2215-0986, https://doi.org/10.1016/j.jestch.2019.06.011. (http://www.sciencedirect.com/science/article/pii/S2215098619303337)",
+    "Area": "Computer",
+    "RelevantPapers": "M. Fatih Adak, Peter Lieberzeit, Purim Jarujamrus, Nejat Yumusak, Classification of alcohols obtained by QCM sensors with different characteristics using ABC based neural network, Engineering Science and Technology, an International Journal, 2019, , ISSN 2215-0986, https://doi.org/10.1016/j.jestch.2019.06.011. (http://www.sciencedirect.com/science/article/pii/S2215098619303337)",
+    "AttributeInfo": "The gas sample is passed through the sensor in five different concentrations. These concentrations are, \r\nConcentration\tAir ratio (ml)\tGas ratio (ml)\r\n1       0.799\t0.201\r\n2\t0.700\t0.300\r\n3\t0.600\t0.400\r\n4\t0.501\t0.499\r\n5\t0.400\t0.600\r\n\r\nThere are two channels in the sensor. One of these circles forms channel 1, and the other forms channel 2. MIP and MP ratios used in the QCM sensors are,\r\n\r\nSensor name\tMIP ratio\tNP ratio\r\nQCM3\t1\t1\r\nQCM6\t1\t0\r\nQCM7\t1\t0.5\r\nQCM10\t1\t2\r\nQCM12\t0\t1",
+    "FormatType": "",
+    "NumHits": 0
+}

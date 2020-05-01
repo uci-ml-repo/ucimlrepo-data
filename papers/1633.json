@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "9EBB3354F855D1C4C2D5F2391F5B9A6ED7873338",
+    "rexaID": "50339570de3deefebea8a48dc4100e6fe883a16f",
+    "author": "Francesco Masulli and Giorgio Valentini",
+    "title": "Comparing Decomposition Methods for Classification",
+    "venue": "Istituto Nazionale per la Fisica della Materia DISI - Dipartimento di Informatica e Scienze dell'Informazione",
+    "year": "",
+    "window": "OPC bold driver CC grad. desc. CC bold driver ECOC BCH grad. desc. ECOC BCH bold driver (a) (b) Figure 1: Comparison of performances of different decomposition methods on <b>glass</b> (a) and optdigits (b) data sets of the UCI. Table 4: Standard PWC (left) and CC (right) decomposition matrices. 0 B B B B B @ +1 1 0 0 +1 0 1 0 +1 0 0 1 0 +1 1 0 0 +1 0 1 0 0 +1 1 1 C C C C C A 0 B B B B B @ +1 +1 1 1 +1 1 +1 1",
+    "mykey": 1633
+}

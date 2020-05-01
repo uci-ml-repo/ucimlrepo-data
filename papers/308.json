@@ -1,0 +1,11 @@
+{
+    "datasetID": 124,
+    "supportID": "268BA89188289CA7DAF65351FB60E4D2671AB24A",
+    "rexaID": "9182a5f903de880381f975a70365a46fe603bdf3",
+    "author": "Xiaofeng He and Partha Niyogi",
+    "title": "Locality Preserving Projections",
+    "venue": "NIPS",
+    "year": "2003",
+    "window": "Images Much research [5][6][7] has suggested that the human <b>face</b> images reside on a manifold embedded in the image space. In this subsection, we applied LPP to images of faces. The same <b>face image</b> dataset used in [5] is used for this experiment. Fig. 2 shows the mapping results. The images of faces are mapped into the 2-dimensional plane described by the first two coordinates of the Locality",
+    "mykey": 308
+}

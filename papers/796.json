@@ -1,0 +1,11 @@
+{
+    "datasetID": 63,
+    "supportID": "572B0456280CD4137BC104D60AED08DEAC6AAEC5",
+    "rexaID": "7125dc87ceddf952f1840074b40ac0526dcc03dc",
+    "author": "Marcus Hutter and Marco Zaffalon",
+    "title": "Distribution of Mutual Information from Complete and Incomplete Data",
+    "venue": "CoRR, csLG/0403025",
+    "year": "2004",
+    "window": "on a number of di\u00aeerent domains. For example, Shuttle-small reports data on diagnosing failures of the space shuttle; <b>Lymphography</b> and Hypothyroid are medical data sets; Spam is a body of e-mails that can be spam or non-spam; etc. The data sets presenting non-categorical features have been pre-discretized by MLC++ [KJL + 94], default options, i.e. by the common",
+    "mykey": 796
+}

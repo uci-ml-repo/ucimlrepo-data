@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "756CC4560801E921C597466D70A05F4A43F0F258",
+    "rexaID": "ca1c2b19089d0ca0d4069b04c35d6f6c4312db79",
+    "author": "Jinyan Li and Guozhu Dong and Kotagiri Ramamohanarao and Limsoon Wong",
+    "title": "DeEPs: A New Instance-based Discovery and Classification System",
+    "venue": "Proceedings of the Fourth European Conference on Principles and Practice of Knowledge Discovery in Databases",
+    "year": "2001",
+    "window": "This concise pattern representation technique greatly saves the cost of DeEPs. ffl Boundary EPs (typically small in number, e.g., 81 in the <b>mushroom</b> data set) are considered in DeEPs' classification. The selected EPs are ``good'' representatives of all EPs occurring in the considered instance. This selection also significantly reduces the number of EPs",
+    "mykey": 1155
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 101,
+    "supportID": "D38C96C89194F0B3FCA53E8C9C89AAC0D5F0FDAC",
+    "rexaID": "ff82c050c05e8845f7a81bb4e723cf41fbd2efec",
+    "author": "Saher Esmeir and Shaul Markovitch",
+    "title": "Lookahead-based algorithms for anytime induction of decision trees",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "that when additional time is available LSID3 should be preferred over ID3-k for the task of learning this concept. Figure 6 shows the performance of both algorithms when applied on the <b>Tic-tac-toe</b> dataset. In this case, the average run time of ID3 is 0.004 second, while C4.5 finished in 0.008 second. LSID3 dominates ID3-k at any point of time, both in terms of accuracy and size. ID3-k is clearly not",
+    "mykey": 2114
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "EC9570BD04915D03CA6306B11BAE55C2CBE731DE",
+    "rexaID": "f1395e1da4a724219d6cc414e48969140355bebb",
+    "author": "David R. Musicant",
+    "title": "DATA MINING VIA MATHEMATICAL PROGRAMMING AND MACHINE LEARNING",
+    "venue": "Doctor of Philosophy (Computer Sciences) UNIVERSITY",
+    "year": "",
+    "window": "We implemented the \"cpuSmall prototask\", which involves using twelve of these attributes to predict what fraction of a CPU's processing time is devoted to a specific mode (\"user mode\"). The third dataset, Boston <b>Housing</b>  is a fairly standard dataset used for testing regression problems. It contains 506 data points with 12 numeric attributes, and one binary categorical attribute. 96 The goal is to",
+    "mykey": 2373
+}

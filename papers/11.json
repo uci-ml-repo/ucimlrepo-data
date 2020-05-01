@@ -1,0 +1,11 @@
+{
+    "datasetID": 21,
+    "supportID": "00FC9ADDA3A0484EF293231F4C3F8395DB067755",
+    "rexaID": "5bc77452a8b6552aed91aa3294068d7110dc54af",
+    "author": "Russell Greiner and Wei Zhou",
+    "title": "Structural Extension to Logistic Regression: Discriminative Parameter Learning of Belief Net Classifiers",
+    "venue": "AAAI/IAAI",
+    "year": "2002",
+    "window": "discretization [FI93]. Our accuracy values were based on 5-fold cross validation for small data, and holdout method for large data [Koh95]. See [GZ02],[FGG97] for more information about these datasets. We use the <b>CHESS</b> dataset (36 binary or ternary attributes) to illustrate the basic behaviour of the algorithms. Figure 2(a) shows the performance, on this dataset, of our NB+ELR (\"Na\u00a8iveBayes",
+    "mykey": 11
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "A10711987D7DD4255301498C714506343693E114",
+    "rexaID": "b88612f75e6cd1cee2efb08360bfb0ebf5295a97",
+    "author": "Yishay Mansour",
+    "title": "Pessimistic decision tree pruning based on tree size",
+    "venue": "Computer Science Dept. Tel-Aviv University",
+    "year": "",
+    "window": "<b>statlog</b>  Comparative testing and evaluation of statistical and logical learning algorithms for large-scale applications in classification, prediction and control. ftp:ftp.ncc.up.pt/pub/statlog /datasets, (See also: Machine Learning, Neural and Statistical Classification, ed. Michie, Spiegelhalter and Taylor). [VC71] V. N. Vapnik and A. Ya. Chervonenkis. On the uniform convergence of relative",
+    "mykey": 1649
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "23F6B75B952346223698E1C617BD806A25F58F4E",
+    "rexaID": "97c489fe4c5d81f7fde00a62d3a5d043ec9ddcb6",
+    "author": "Rich Caruana and Alexandru Niculescu-Mizil",
+    "title": "An Empirical Evaluation of Supervised Learning for ROC Area",
+    "venue": "ROCAI",
+    "year": "2004",
+    "window": "letters as negative, yielding a very unbalanced binary problem. LETTER.p2 uses letters A-M as positives and the rest as negatives, yielding a well balanced problem. HYPER SPECT is the IndianPine92 data set [9] where the difficult class <b>Soybean</b> mintill is the positive class. SLAC is a problem from the Stanford Linear 1 Department of Computer Science, Cornell University, Ithaca, NY 14853 USA email",
+    "mykey": 284
+}

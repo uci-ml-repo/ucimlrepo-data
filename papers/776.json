@@ -1,0 +1,11 @@
+{
+    "datasetID": 146,
+    "supportID": "548FA7D2C256E37A0B9916BCEE71A42BBCED20FD",
+    "rexaID": "4f52834d0595282e8454f617706fbec7589c8de6",
+    "author": "Jaakko Peltonen and Samuel Kaski",
+    "title": "Discriminative Components of Data",
+    "venue": "IEEE",
+    "year": "2004",
+    "window": "Number of Number of Dataset Dimensionality classes samples <b>Landsat</b> 36 6 4435 LVQ PAK 20 13 3656 Isolet 30 26 3742 MFeat 76 10 1500 TIMIT 12 41 14994 to indirect measures; we will make sure, however, that the comparisons",
+    "mykey": 776
+}

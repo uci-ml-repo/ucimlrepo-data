@@ -1,0 +1,11 @@
+{
+    "datasetID": 59,
+    "supportID": "BC2AC20DF2551DDDF69C935BC8276DF6B2841270",
+    "rexaID": "8e5c7f7c811898dd8308bdf011e3bd14e3b43980",
+    "author": "Jaakko Peltonen and Arto Klami and Samuel Kaski",
+    "title": "Improved Learning of Riemannian Metrics for Exploratory Analysis",
+    "venue": "Improved Learning of Riemannian Metrics for Exploratory Analysis. Neural Networks",
+    "year": "2004",
+    "window": "(Table 5). The graph approximation further improved the results on Landsat and <b>Letter Recognition</b> data sets; on the other two sets the difference between the Sammon-L variants was insignificant. Table 5 Indirect measure of the goodness for the Sammon's mappings. Average percentage of correct",
+    "mykey": 1907
+}

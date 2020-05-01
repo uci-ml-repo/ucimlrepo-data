@@ -1,0 +1,11 @@
+{
+    "datasetID": 16,
+    "supportID": "38BDCC93D897E1FC0B6F7686AB09609909513D0E",
+    "rexaID": "63e63c88edc486c3b1b2aeebb790f88a119536c9",
+    "author": "Lorne Mason and Peter L. Bartlett and Jonathan Baxter",
+    "title": "Improved Generalization Through Explicit Optimization of Margins",
+    "venue": "Machine Learning, 38",
+    "year": "2000",
+    "window": "chosen as the final solution. In some cases the training sets were reduced in size to makeoverfitting more likely (so that complexity regularization with DOOM could have an effect). In three of the datasets (Credit Application, <b>Wisconsin</b> <b>Breast</b> <b>Cancer</b> and Pima Indians Diabetes), AdaBoost gained no advantage from using more than a single classifier. In these datasets, the number of classifiers was",
+    "mykey": 479
+}

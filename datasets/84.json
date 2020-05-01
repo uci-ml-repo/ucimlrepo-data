@@ -1,0 +1,23 @@
+{
+    "ID": 84,
+    "Name": "Prodigy",
+    "Abstract": "Assorted domains like blocksworld, eightpuzzle, and schedworld.",
+    "Types": "Domain-Theory",
+    "Task": "",
+    "AttributeTypes": "",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "http://www.ics.uci.edu/~mlearn/databases/prodigy/",
+    "URLReadme": "../http://www.ics.uci.edu/~mlearn/databases/prodigy/domains/",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Here is a summary of the domains that can be used currently with Prodigy.  Each one is described briefly. For more information in any of them, read the README file in the directory corresponding to the domain.\r\n\r\n  * stripsworld: There are several directories related to this domain:\r\n\r\n       -- stripsworld: the domain for STRIPS.\r\n\r\n       -- extended-strips: an extension to the STRIPS domain where doors can be locked and there are keys for the locks.\r\n\r\n       -- multirobot: the STRIPS domain with two or more robots.\r\n\r\n\r\n  * blocksworld: There are several directories related to this domain:\r\n\r\n       -- blocksworld: the domain as was built initially.\r\n\r\n       -- frozenblocksworld: a stable version. Used for the manual.\r\n\r\n       -- extended-bw: an extension to blocksworld that deals with  the weight and location of the blocks.\r\n\r\n     (See also gridworld)\r\n\r\n  * eightpuzzle: a domain for solving the eight puzzle.\r\n\r\n  * grammar: a simple grammar.\r\n\r\n  * gridworld: a 3-D version of blocksworld.\r\n\r\n  * jupiter: Prodigy interacts with an external world, via the World Modelers.\r\n\r\n  * logic: a simple logic domain.\r\n\r\n  * matrix-algebra: gaussian elimination in matrices.\r\n\r\n  * r1: VAX configuration domain (a simplification of R1).\r\n\r\n  * rocket: chinese rocket domain.\r\n\r\n  * schedworld:  a machine shop scheduling domain.\r\n\r\n  * telescope: a domain for building telescope mirrors.\r\n\r\n\r\n",
+    "Source": "",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 15
+}

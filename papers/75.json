@@ -1,0 +1,11 @@
+{
+    "datasetID": 32,
+    "supportID": "084BA61B8622B1C836C11FB7AD2D898E82386C61",
+    "rexaID": "bcf7a3acb12b41b9b37ec937c2c9aea2d1d1c855",
+    "author": "Juan J Rodr\u00edguez Diez and Carlos Alonso Gonz\u00e1lez and Henrik Bostr\u00f6m",
+    "title": "Learning First Order Logic Time Series Classifiers: Rules and Boosting",
+    "venue": "PKDD",
+    "year": "2000",
+    "window": "for classi#cation of time series are not easy to find [16]. For this reason we have used four artificial datasets and only one \real world\" dataset. <b>Cylinder</b>  Bell and Funnel (CBF). This is an artificial problem, introduced in [26]. The learning task is to distinguish between three classes: cylinder (c), bell",
+    "mykey": 75
+}

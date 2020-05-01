@@ -1,0 +1,23 @@
+{
+    "ID": 397,
+    "Name": "Las Vegas Strip",
+    "Abstract": "This dataset includes quantitative and categorical features from online reviews from 21 hotels located in Las Vegas Strip, extracted from TripAdvisor (http://www.tripadvisor.com).",
+    "Types": "",
+    "Task": "Classification, Regression",
+    "AttributeTypes": "Integer",
+    "NumInstances": 504,
+    "NumAttributes": 20,
+    "DateDonated": "2017-07-23",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00397/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "All the 504 reviews were collected between January and August of 2015.",
+    "Source": "S.Moro, P.Rita, J.Coelho (ISCTE-IUL)",
+    "Acknowledgements": "If you intend to use this dataset on your research, please cite the following work:\r\nMoro, S., Rita, P., & Coelho, J. (2017). Stripping customers' feedback on hotels through data mining: The case of Las Vegas Strip. Tourism Management Perspectives, 23, 41-52.",
+    "Area": "Business",
+    "RelevantPapers": "Moro, S., Rita, P., & Coelho, J. (2017). Stripping customers' feedback on hotels through data mining: The case of Las Vegas Strip. Tourism Management Perspectives, 23, 41-52.",
+    "AttributeInfo": "The dataset contains 504 records and 20 tuned features (as of \u00e2\u20ac\u0153status = included\u00e2\u20ac\u009d, from Table 1 of the article mentioned below),\r\n24 per hotel (two per each month, randomly selected), regarding the year of 2015.\r\nThe CSV contains a header, with the names of the columns corresponding to the features marked as \u00e2\u20ac\u0153status = included\u00e2\u20ac\u009d, from Table 1 of the aforementioned article.",
+    "FormatType": "Matrix",
+    "NumHits": 1
+}

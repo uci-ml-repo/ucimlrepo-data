@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "62F990B49134CD6D18256372320D07EBDF4846AB",
+    "rexaID": "a8617c8faca95eaf149b490cac7eebacb2af28ea",
+    "author": "Christian Borgelt and Rudolf Kruse",
+    "title": "Speeding Up Fuzzy Clustering with Neural Network Techniques",
+    "venue": "Research Group Neural Networks and Fuzzy Systems Dept. of Knowledge Processing and Language Engineering, School of Computer Science Otto-von-Guericke-University of Magdeburg",
+    "year": "",
+    "window": "FCM a.p. GK GK dataset exp. mom. exp. mom. exp. mom. <b>abalone</b> 3 1.50 0.30 1.40 0.20 1.90 0.65 abalone 6 1.60 0.50 1.40 0.25 1.90 0.70 breast 2 1.20 0.05 1.30 0.10 1.80 0.55 iris 3 1.40 0.15 1.20 0.05 1.80 0.50 wine 3 1.40",
+    "mykey": 928
+}

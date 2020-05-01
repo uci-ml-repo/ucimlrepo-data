@@ -1,0 +1,11 @@
+{
+    "datasetID": 83,
+    "supportID": "00CE503260103F3D176634B9F97342DB10E30A03",
+    "rexaID": "3e78257004181e6dbbdfa3ec12399520412e9c5c",
+    "author": "Pedro Domingos",
+    "title": "Control-Sensitive Feature Selection for Lazy Learners",
+    "venue": "Artif. Intell. Rev, 11",
+    "year": "1997",
+    "window": "used in the empirical study, in particular M. Zwitter and M. Soklic of the University Medical Centre, Ljubljana, for supplying the lymphography, breast cancer and <b>primary</b> <b>tumor</b> datasets, and Robert Detrano, of the V.A. Medical Center, Long Beach and Cleveland Clinic Foundation, for supplying the heart disease dataset. Please see the documentation in the UCI Repository for detailed",
+    "mykey": 7
+}

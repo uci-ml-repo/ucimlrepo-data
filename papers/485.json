@@ -1,0 +1,11 @@
+{
+    "datasetID": 9,
+    "supportID": "392FCB3E25E092E87DCDA3DCCE6F93EC1FCB3B07",
+    "rexaID": "39037b34a030869c4d11077a2cb171ac3ba3ff0d",
+    "author": "Thomas Melluish and Craig Saunders and Ilia Nouretdinov and Volodya Vovk and Carol S. Saunders and I. Nouretdinov V.",
+    "title": "The typicalness framework: a comparison with the Bayesian approach",
+    "venue": "Department of Computer Science",
+    "year": "2001",
+    "window": "regions for data with w ~ N(0,1) % confidence Mean tolerance region width a=1 a=1000 a=10000 Figure 1 Bayesian RR and RRCM on data generated with w \u00b8 N(0; 1) We also experimented on two benchmark dataset, the <b>auto</b> <b>mpg</b> dataset and the Boston housing dataset. For each experiment, we show the percentage confidence against the percentage of labels outside the tolerance region predicted for that",
+    "mykey": 485
+}

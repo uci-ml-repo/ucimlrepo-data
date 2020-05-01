@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "CA0EB2AD2AE47FACD2EACFE2F715C8C9ED5938B3",
+    "rexaID": "b859b5cc14ac44c92ce02385f20204fdf9e32714",
+    "author": "Christos Emmanouilidis and A. Hunter and Dr J. MacIntyre",
+    "title": "A Multiobjective Evolutionary Setting for Feature Selection and a Commonality-Based Crossover Operator",
+    "venue": "Centre for Adaptive Systems, School of Computing, Engineering and Technology University of Sunderland",
+    "year": "",
+    "window": "is that it reduces the effect of the noise in fitness evaluation. 6 Experimental Results We demonstrate how our multiobjective evolutionary algorithm feature selection works on two benchmarking data sets of considerable dimensionality. <b>Ionosphere</b>  This data set [21] consists of 351 patterns, with 34 attributes and one output with two classes, good or bad, with good implying evidence of some type of",
+    "mykey": 2026
+}

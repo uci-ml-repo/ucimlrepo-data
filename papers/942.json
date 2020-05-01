@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "64096AF17E6F1B54B5C4C2DA1ADA4CE2C0BAA972",
+    "rexaID": "b1f8720873793cfc73b06213300b3bdb1ad5e8ef",
+    "author": "Kristin P. Bennett and Erin J. Bredensteiner",
+    "title": "Geometry in Learning",
+    "venue": "Department of Mathematical Sciences Rensselaer Polytechnic Institute",
+    "year": "",
+    "window": "<b>Heart</b> disease status is known. By evaluating a new patient's attributes with respect to the separating plane a diagnosis is made. The Cleveland Heart Disease Database (Heart) is a publicly available dataset that contains information on 297 patients using 13 attributes [6]. A second application, as discussed previously, is the diagnosis of breast cancer. To evaluate whether a tumor is benign or",
+    "mykey": 942
+}

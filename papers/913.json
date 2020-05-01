@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "620AFA2CB7E403C38DD504B8B9FD06AA07ACD674",
+    "rexaID": "5047fbe99b73ea1e127150b6688d65effd51f4c1",
+    "author": "Manoranjan Dash and Kiseok Choi and Peter Scheuermann and Huan Liu",
+    "title": "Feature Selection for Clustering - A Filter Solution",
+    "venue": "ICDM",
+    "year": "2002",
+    "window": "are almost correct as well as the selected features are all important and it missed out only one important feature. 5.2 Benchmark and Real Datasets <b>Iris</b> dataset, popularly used for testing clustering and classification algorithms, is taken from UCI ML repository [5]. It contains 3 classes of 50 instances each, where each class refers to a type",
+    "mykey": 913
+}

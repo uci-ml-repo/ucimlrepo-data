@@ -1,0 +1,11 @@
+{
+    "datasetID": 146,
+    "supportID": "043791193A28E0AB9A971E9EB3C8385A52E64E52",
+    "rexaID": "e550da2f9c24b03fec3cd94563a837e653db1c60",
+    "author": "Xavier Giannakopoulos and Juha Karhunen and Erkki Oja",
+    "title": "An Experimental Comparison of Neural Algorithms for Independent Component Analysis and Blind Separation",
+    "venue": "Int. J. Neural Syst, 9",
+    "year": "1999",
+    "window": "methods for real-world data For comparing the performance and properties of the studied ICA or BSS algorithms in more practical circumstances, we made experiments with three dioeerent real-world data sets. These data sets, namely crab data, <b>satellite</b> data, and MEG artefact data, will be brieAEy discussed in context with the respective results in the next section. Because we are now dealing with",
+    "mykey": 27
+}

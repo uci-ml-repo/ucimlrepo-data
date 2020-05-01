@@ -1,0 +1,11 @@
+{
+    "datasetID": 154,
+    "supportID": "EFB6FE9D9504AED8D68B7B51DB3A0C20B953A105",
+    "rexaID": "8a4f6f671d1146db723a649b440535832896ccc4",
+    "author": "Mehmet Dalkilic and Arijit Sengupta",
+    "title": "A Logic-theoretic classifier called Circle",
+    "venue": "School of Informatics Center for Genomics and BioInformatics Indiana University",
+    "year": "",
+    "window": "8 attributes per iteration took less than 5 minutes, with approximately 90% test accuracy with a 20% cross-trained data. Table 1 reports some of these results. Table 1 includes experiments ran on a dataset generated from the PROSITE <b>Protein</b> family dataset that included nine families, which includes information on 1446 di\u00aeerent proteins, with over 5000 subsequences. Since 1000 is a typical limit on the",
+    "mykey": 2420
+}

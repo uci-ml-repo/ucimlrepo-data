@@ -1,0 +1,11 @@
+{
+    "datasetID": 19,
+    "supportID": "E874B8E563DA7B700B6C13B790EF0713B276CD7F",
+    "rexaID": "4fe77f0de67f4dda7e7174b944840d4d49fe15ac",
+    "author": "Hyunwoo Kim and Wei-Yin Loh",
+    "title": "Classification Trees with Bivariate Linear Discriminant Node Models",
+    "venue": "Department of Statistics Department of Statistics University of Tennessee University of Wisconsin",
+    "year": "",
+    "window": "maximum simplification, where the root node is not split. The second example shows how collinearity among predictors can creates difficulties for other classification tree methods. 4.1 <b>Car</b> Data This data set is from Lock (1993). It contains specifications for 93 new car models for the 1993 year. We use the type of car (small, sporty, compact, midsize, large, and van) as the class variable. The predictor",
+    "mykey": 2328
+}

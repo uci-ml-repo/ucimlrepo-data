@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "9648A3790C62CEE4253299F21368CE8028E3C8A6",
+    "rexaID": "04c0b59b684ddc546667ac58aa34b51f6ecbf50f",
+    "author": "Eric P. Kasten and Philip K. McKinley",
+    "title": "MESO: Perceptual Memory to Support Online Learning in Adaptive Software",
+    "venue": "Proceedings of the Third International Conference on Development and Learning (ICDL",
+    "year": "",
+    "window": "contains continuous features, measuring features such as elevation or slope, and binary values indicating whether a pattern is a particular soil type. However, the <b>Mushroom</b> data set consists entirely of nominal values encoded as alpha characters converted to their ASCII equivalent for processing by MESO. In contrast, the ATT Faces data set comprises image pixel values of human",
+    "mykey": 1512
+}

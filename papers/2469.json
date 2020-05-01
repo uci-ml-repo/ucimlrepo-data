@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "F3E745BA9A0A31A0EAD40A76C372F0EC69AAEDE0",
+    "rexaID": "469be567c6e8bb0955c395472ef2fefc4fe43f77",
+    "author": "Erin J. Bredensteiner and Kristin P. Bennett",
+    "title": "Multicategory Classification by Support Vector Machines",
+    "venue": "Department of Mathematics University of Evansville",
+    "year": "",
+    "window": "protocol (ftp) from the UCI Repository of Machine Learning Databases and Domain Theories [16] at ftp://ftp.ics.uci.edu/pub/machine-learning-databases. <b>Glass</b> Identification Database The Glass dataset [11] is used to identify the origin of a sample of glass through chemical analysis. This dataset is comprised of six classes of 214 points with 9 features. The distribution of points by class is as",
+    "mykey": 2469
+}

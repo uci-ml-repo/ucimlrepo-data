@@ -1,0 +1,23 @@
+{
+    "ID": 138,
+    "Name": "Robot Execution Failures",
+    "Abstract": "This dataset contains force and torque measurements on a robot after failure detection. Each failure is characterized by 15 force/torque samples collected at regular time intervals",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 463,
+    "NumAttributes": 90,
+    "DateDonated": "1999-04-23",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/robotfailure-mld/",
+    "URLReadme": "../machine-learning-databases/robotfailure-mld/robotfailure.data.html",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The donation includes 5 datasets, each of them defining a different learning problem:\r\n\r\n    * LP1: failures in approach to grasp position\r\n    * LP2: failures in transfer of a part\r\n    * LP3: position of part after a transfer failure\r\n    * LP4: failures in approach to ungrasp position\r\n    * LP5: failures in motion with part\r\n\r\nIn order to improve classification accuracy, a set of five feature transformation strategies (based on statistical summary features, discrete Fourier transform, etc.) was defined and evaluated. This enabled an average improvement of 20% in accuracy. The most accessible reference is [Seabra Lopes and Camarinha-Matos, 1998].",
+    "Source": "Original Owner and Donor:\r\n\r\nLuis Seabra Lopes and Luis M. Camarinha-Matos\r\nUniversidade Nova de Lisboa, \r\nMonte da Caparica, Portugal\r\n",
+    "Acknowledgements": "",
+    "Area": "Physical",
+    "RelevantPapers": "Seabra Lopes, L. (1997) \"Robot Learning at the Task Level: a Study in the Assembly Domain\", Ph.D. thesis, Universidade Nova de Lisboa, Portugal.\r\nhttp://rexa.info/paper/1002ccbcff9cd21215b6bb54fc3491101677d7ab\r\n\r\nSeabra Lopes, L. and L.M. Camarinha-Matos (1998) Feature Transformation Strategies for a Robot Learning Problem, \"Feature Extraction, Construction and Selection. A Data Mining Perspective\", H. Liu and H. Motoda (edrs.), Kluwer Academic Publishers.\r\nhttp://rexa.info/paper/feaf3f9f5d4bf083d379339c0668759d8a0a3e89\r\n\r\nCamarinha-Matos, L.M., L. Seabra Lopes, and J. Barata (1996) Integration and Learning in Supervision of Flexible Assembly Systems, \"IEEE Transactions on Robotics and Automation\", 12 (2), 202-219. \r\nhttp://rexa.info/paper/afc1e81bb22c9b555498fba4f06ff79ff196b348",
+    "AttributeInfo": "All features are numeric although they are integer valued only. Each feature represents a force or a torque measured after failure detection; each failure instance is characterized in terms of 15 force/torque samples collected at regular time intervals starting immediately after failure detection; The total observation window for each failure instance was of 315 ms.\r\n\r\nEach example is described as follows:\r\n\r\n                 class\r\n                 Fx1\tFy1\tFz1\tTx1\tTy1\tTz1\r\n                 Fx2\tFy2\tFz2\tTx2\tTy2\tTz2\r\n                 ......\r\n                 Fx15\tFy15\tFz15\tTx15\tTy15\tTz15\r\n\r\nwhere Fx1 ... Fx15 is the evolution of force Fx in the observation window, the same for Fy, Fz and the torques; there is a total of 90 features. ",
+    "FormatType": "",
+    "NumHits": 18
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "5A13D7532F186BB8D3B04A802BCD657FD4B2A027",
+    "rexaID": "021a415dcb129689411af1d4b233ec48a090aae6",
+    "author": "Sally A. Goldman and Yan Zhou",
+    "title": "Enhancing Supervised Learning with Unlabeled Data",
+    "venue": "ICML",
+    "year": "2000",
+    "window": "just the initial labeled data (i.e. round 0). Our cotraining procedure helped both algorithms to improve their performance. Figure 2 shows the results from one of our runs using the <b>breast</b> <b>cancer</b> data set. In this data set ID3 had the better performance. Again (as we generally see), both hypotheses were improved by the co-training. 0 1 2 3 Number of co-training rounds 0.21 0.22 0.23 0.24 0.25 Error",
+    "mykey": 828
+}

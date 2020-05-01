@@ -1,0 +1,11 @@
+{
+    "datasetID": 75,
+    "supportID": "6815E3C80D7948263B01052BD336390E562A8BEE",
+    "rexaID": "c2fee20b32fddc929738addedddbe57ccb74800e",
+    "author": "Hendrik Blockeel and Luc De Raedt",
+    "title": "Top-down Induction of Logical Decision Trees",
+    "venue": "Katholieke Universiteit Leuven Department of Computer Science",
+    "year": "",
+    "window": "tree induction system is used for the actual induction process. Figures for this table were copied from [ Quinlan, 1996 ] (FOIL, FFOIL, FORS) and [ Geibel and Wysotzki, 1996 ] (Indigo). 6.3 <b>musk</b> Dataset The musk dataset was studied by Dietterich et al. [ Dietterich et al., 1996 ] , who donated it to the UCI repository [ Merz and Murphy, 1996 ] . Dietterich used these data to study the so-called",
+    "mykey": 984
+}

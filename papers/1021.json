@@ -1,0 +1,11 @@
+{
+    "datasetID": 107,
+    "supportID": "6B321725CEF45A4EB49663E84250287F41C60299",
+    "rexaID": "179e206cfdc14b74819ce95f39bb68610874578b",
+    "author": "Juan J. Rodr##guez and Carlos J. Alonso and Henrik Bostrom",
+    "title": "Boosting Interval Based Literals",
+    "venue": "",
+    "year": "2000",
+    "window": "iterations, and a comparison of the results for settings 2{5 (combinations of interval literals) against the results for setting 1 (point based literals), using the McNemar's test. 4.1 <b>Waveform</b> This data set was introduced by [BFOS93]. The purpose is to distinguish between three classes, defined by the evaluation for i = 1; 2 : : : 21, of the following functions: x 1 (i) = uh 1 (i) + (1 u)h 2 (i) + #(i)",
+    "mykey": 1021
+}

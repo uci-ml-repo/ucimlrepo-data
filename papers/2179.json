@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "D89018FC37B566FD3831C3B86B0E148E7E09F5AC",
+    "rexaID": "989443f4feec00743b3521c1b450717f6013de20",
+    "author": "Simon Tong and Daphne Koller",
+    "title": "Restricted Bayes Optimal Classifiers",
+    "venue": "AAAI/IAAI",
+    "year": "2000",
+    "window": "exact training error. We investigated whether using a non-zero value of oe would achieve a similar effect to that of the soft margin error function. 1 We used the \"Pima Indian <b>Diabetes</b>  UC Irvine data set (Blake, Keogh, & Merz 1998) and a synthetic data set. The Pima data set has eight features, with 576 training instances of which 198 are labeled as positive. The synthetic data were generated from",
+    "mykey": 2179
+}

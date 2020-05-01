@@ -1,0 +1,11 @@
+{
+    "datasetID": 155,
+    "supportID": "84D58B0385515EA36E879662E4EBB69AAA6C9927",
+    "rexaID": "4bcdbeaa8f46590fca87d041c66b18a6622b82b3",
+    "author": "Kristiaan Pelckmans and Jos De Brabanter and J. A. K Suykens and Bart De Moor and K. U. Leuven - ESAT",
+    "title": "The Differogram: Non-parametric Noise Variance Estimation and its Use for Model Selection",
+    "venue": "SCDSISTA",
+    "year": "2004",
+    "window": "the tuning parameters of SVMs, see e.g. (Vapnik, 1998; Cherkassky and Ma, 2004). 6 Experiments Figure 1 and 2 show artificially generated data and the differogram <b>cloud</b> of a linear and nonlinear toy dataset respectively. The latter example was taken from (Wahba, 1990) using the function f(x) = 4.26(e -x -4e -2x +3e -3x ) such that y i = f(x i )+e i 21 for all i = 1, . . . , N . The random white noise",
+    "mykey": 1331
+}

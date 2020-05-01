@@ -1,0 +1,11 @@
+{
+    "datasetID": 69,
+    "supportID": "76ABCB836282ECA0ABDC3CDDF1144D553FD85F79",
+    "rexaID": "3ce34105eca9577e44de969f9ef94ca3cdcad3d9",
+    "author": "Foster J. Provost and Tom Fawcett and Ron Kohavi",
+    "title": "The Case against Accuracy Estimation for Comparing Induction Algorithms",
+    "venue": "ICML",
+    "year": "1998",
+    "window": "has exactly 50 instances of each class. The <b>splice</b> junction data set (DNA) has 50% donor sites, 25% acceptor sites and 25% nonboundary sites, even though the natural class distribution is very skewed: no more than 6% of DNA actually codes for human genes (Saitta and",
+    "mykey": 1186
+}

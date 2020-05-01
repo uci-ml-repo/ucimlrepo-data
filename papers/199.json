@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "16335621FDE2CC36426D1D2E6F6F00356ABC93F9",
+    "rexaID": "4773165a9efff672af50f07beb5d38c9afc92f5f",
+    "author": "Lawrence O. Hall and Nitesh V. Chawla and Kevin W. Bowyer",
+    "title": "Combining Decision Trees Learned in Parallel",
+    "venue": "Department of Computer Science and Engineering, ENB 118 University of South Florida",
+    "year": "",
+    "window": "0.6 < Petal-Width <= 1.5 and Petal-Length } 4.9 --} <b>Iris</b> Viginica R5: If 1.5 < Petal-Width <= 1.7 and Petal-Length } 4.9 --} Iris-Versicolor <= 1.7 Figure 1: The C4.5 tree produced on the full Iris dataset and the corresponding rules. adjust just one condition. For example, R1 no longer conflicts its test is adjusted to be petalwidthcm :5. A more complex problem is a condition in one rule overlaps",
+    "mykey": 199
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 81,
+    "supportID": "491268B8CE84430AC311F09243CC318DC2CA8CD5",
+    "rexaID": "a3fca86cb1f854c7fd7975e66aae2a5ba3710f8a",
+    "author": "Mikhail Bilenko and Sugato Basu and Raymond J. Mooney",
+    "title": "Integrating constraints and metric learning in semi-supervised clustering",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "used by Xing et al. (2003) and Bar-Hillel et al. (2003), and randomly sampled subsets from the <b>Digits</b> and Letters <b>handwritten</b> character <b>recognition</b> datasets, also from the UCI repository. For Digits and Letters, we chose two sets of three classes: {I, J, L} from Letters and {3, 8, 9} from Digits, sampling 10% of the data points from the original",
+    "mykey": 638
+}

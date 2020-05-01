@@ -1,0 +1,11 @@
+{
+    "datasetID": 60,
+    "supportID": "739EA27FE24EC5E11A27EFE980FBC887003F7B6B",
+    "rexaID": "63ebbe51c9c4dea76320f7b6a40f2a59f10cc7c0",
+    "author": "Kristin P. Bennett and Erin J. Bredensteiner",
+    "title": "A Parametric Optimization Method for Machine Learning",
+    "venue": "INFORMS Journal on Computing, 9",
+    "year": "1997",
+    "window": "is also available via anonymous ftp from the UCI Repository Of Machine Learning Databases [MA92]. BUPA <b>liver</b> disorders The BUPA dataset contains 345 single male patients with 6 numeric attributes. Five of these attributes are blood tests which are thought to be relevant to liver disorders. The sixth attribute corresponds to the",
+    "mykey": 1121
+}

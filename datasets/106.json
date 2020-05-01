@@ -1,0 +1,23 @@
+{
+    "ID": 106,
+    "Name": "Water Treatment Plant",
+    "Abstract": "Multiple classes predict plant state",
+    "Types": "Multivariate",
+    "Task": "Clustering",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 527,
+    "NumAttributes": 38,
+    "DateDonated": "1993-06-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/water-treatment/",
+    "URLReadme": "../machine-learning-databases/water-treatment/water-treatment.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset comes from the daily measures of sensors in a urban waste water treatment plant. The objective is to classify the operational state of the plant in order to predict faults through the state variables of the plant at each of the stages of the treatment process.  This domain has been stated as an ill-structured domain. ",
+    "Source": "Creators: \r\n\r\nManel Poch (igte2@cc.uab.es)\r\nUnitat d'Enginyeria Quimica\r\nUniversitat Autonoma de Barcelona. Bellaterra. Barcelona; Spain\r\n\r\nDonor: \r\n\r\nJavier Bejar and Ulises Cortes (bejar@lsi.upc.es)\r\nDept. Llenguatges i Sistemes Informatics;\r\nUniversitat Politecnica de Catalunya. Barcelona; Spain",
+    "Acknowledgements": "",
+    "Area": "Physical",
+    "RelevantPapers": "J. De Gracia. ``Avaluacio de tecniques de classificacio per a la gestio de Bioprocessos: Aplicacio a un reactor de fangs activats'' Master Thesis. Dept. de Quimica. Unitat d'Enginyeria Quimica. Universitat Autonoma de Barcelona. Bellaterra (Barcelona). 1993.\r\n\r\nJ. Bejar, U. Cort\\'es and M. Poch. \"LINNEO+: A Classification Methodology for Ill-structured Domains''.  Research report RT-93-10-R. Dept. Llenguatges i Sistemes Informatics. Barcelona. 1993.\r\nhttp://rexa.info/paper/09a01364b8f691e7e489754913e1784de236d6ad\r\n\r\nLl. Belanche, U. Cortes and M. S\\`anchez. \"A knowledge-based system for the diagnosis of waste-water treatment plant''. Proceedings of the 5th international conference of industrial and engineering applications of AI and Expert Systems IEA/AIE-92. Ed Springer-Verlag. Paderborn, Germany, June 92.\r\nhttp://rexa.info/paper/de467e14197a12e38e59d1252d9822435dc2b8bd",
+    "AttributeInfo": " All atrributes are numeric and continuous\r\n\r\nN.  Attrib.    \r\n 1  Q-E        (input flow to plant)  \r\n 2  ZN-E       (input Zinc to plant)\r\n 3  PH-E       (input pH to plant) \r\n 4  DBO-E      (input Biological demand of oxygen to plant) \r\n 5  DQO-E      (input chemical demand of oxygen to plant)\r\n 6  SS-E       (input suspended solids to plant)  \r\n 7  SSV-E      (input volatile supended solids to plant)\r\n 8  SED-E      (input sediments to plant) \r\n 9  COND-E     (input conductivity to plant) \r\n10  PH-P       (input pH to primary settler)\r\n11  DBO-P      (input Biological demand of oxygen to primary settler)\r\n12  SS-P       (input suspended solids to primary settler)\r\n13  SSV-P      (input volatile supended solids to primary settler)\r\n14  SED-P      (input sediments to primary settler) \r\n15  COND-P     (input conductivity to primary settler)\r\n16  PH-D       (input pH to secondary settler) \r\n17  DBO-D      (input Biological demand of oxygen to secondary settler)\r\n18  DQO-D      (input chemical demand of oxygen to secondary settler)\r\n19  SS-D       (input suspended solids to secondary settler)\r\n20  SSV-D      (input volatile supended solids to secondary settler)\r\n21  SED-D      (input sediments to secondary settler)  \r\n22  COND-D     (input conductivity to secondary settler) \r\n23  PH-S       (output pH)   \r\n24  DBO-S      (output Biological demand of oxygen)\r\n25  DQO-S      (output chemical demand of oxygen)\r\n26  SS-S       (output suspended solids)\r\n27  SSV-S      (output volatile supended solids) \r\n28  SED-S      (output sediments) \r\n29  COND-S     (output conductivity)\r\n30  RD-DBO-P   (performance input Biological demand of oxygen in primary settler)\r\n31  RD-SS-P    (performance input suspended solids to primary settler)\r\n32  RD-SED-P   (performance input sediments to primary settler)\r\n33  RD-DBO-S   (performance input Biological demand of oxygen to secondary settler)\r\n34  RD-DQO-S   (performance input chemical demand of oxygen to secondary settler)\r\n35  RD-DBO-G   (global performance input Biological demand of oxygen)\r\n36  RD-DQO-G   (global performance input chemical demand of oxygen)\r\n37  RD-SS-G    (global performance input suspended solids) \r\n38  RD-SED-G   (global performance input sediments)\r\n",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 19
+}

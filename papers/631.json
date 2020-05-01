@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "48B67DF0A0EF7EA8BB970DB0BB645C0B5CDFF7A2",
+    "rexaID": "e3fb3565af764647303c58f32b57a23f9eae18c0",
+    "author": "Krista Lagus and Esa Alhoniemi and Jeremias Seppa and Antti Honkela and Arno Wagner",
+    "title": "INDEPENDENT VARIABLE GROUP ANALYSIS IN LEARNING COMPACT REPRESENTATIONS FOR DATA",
+    "venue": "Neural Networks Research Centre, Helsinki University of Technology",
+    "year": "",
+    "window": "models optimized carefully using the IVGA implementation. The model search of our IVGA implementation was able to discover the best grouping, i.e., the one with the smallest cost. 3.2. Arrhythmia data set The identification of different types of <b>heart</b> problems, namely cardiac arrhythmias, is carried out based on electrocardiography measurings from a large number of electrodes. We used a freely",
+    "mykey": 631
+}

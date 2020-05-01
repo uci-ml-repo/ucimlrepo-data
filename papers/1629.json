@@ -1,0 +1,11 @@
+{
+    "datasetID": 21,
+    "supportID": "9EB298EE67D30F80D82CF2564FED3A741A769833",
+    "rexaID": "00c705fd319a8886a15103ab320040ae719c4283",
+    "author": "Ron Kohavi and Dan Sommerfield",
+    "title": "Feature Subset Selection Using the Wrapper Method: Overfitting and Dynamic Search Space Topology",
+    "venue": "KDD",
+    "year": "1995",
+    "window": "in error. The execution time on a Sparc20 for feature subset selection using ID3 ranged from under five minutes for breast-cancer (Wisconsin), cleve, heart, and vote to about an hour for most datasets. DNA took 29 hours, followed by <b>chess</b> at four hours. The DNA run took so long because of ever increasing estimates that did not really improve the test-set accuracy. 7 Conclusions We reviewed the",
+    "mykey": 1629
+}

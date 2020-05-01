@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "2434E4B7E650DFAA074247083DCC8AFD7E8D0FBE",
+    "rexaID": "d6a42d10713c10dbc3efa4b7de53fb7f807caa0b",
+    "author": "Dmitry Pavlov and Jianchang Mao and Byron Dom",
+    "title": "Scaling-Up Support Vector Machines Using Boosting Algorithm",
+    "venue": "ICPR",
+    "year": "2000",
+    "window": "one week of February 1998. The classification task, as we pose it, is to predict whether a user will visit the most popular site S based on his/her visiting pattern of all other sites. The <b>Adult</b> data set is available at UCI machine learning repository [1]. The task is to predict if the income of a person is greater than 50K based on several census parameters, such as age, education, marital status",
+    "mykey": 286
+}

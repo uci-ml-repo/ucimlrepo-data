@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "538E5168E724B47D2B8A6B2FD5CF528BB6EECEEB",
+    "rexaID": "70172e511a3bc27c7927119a3b2a3405fbad99e0",
+    "author": "Kai Ming Ting and Ian H. Witten",
+    "title": "Issues in Stacked Generalization",
+    "venue": "J. Artif. Intell. Res. (JAIR, 10",
+    "year": "1999",
+    "window": "Note that stacking performs very poorly on Glass and <b>Ionosphere</b>  two small real-world datasets. This is not surprising, because cross-validation inevitably produces poor estimates for small datasets. 4.2 Discussion Like bagging, stacking is ideal for parallel computation. The construction of",
+    "mykey": 749
+}

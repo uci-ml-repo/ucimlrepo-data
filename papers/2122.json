@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "D46A21A56EEE7E0DD9A329DE9444BCDE3FEE134E",
+    "rexaID": "28734e2b9b072c9ef055eefa88999a60f6a3dc81",
+    "author": "Jun Wang",
+    "title": "Classification Visualization with Shaded Similarity Matrix",
+    "venue": "Bei Yu Les Gasser Graduate School of Library and Information Science University of Illinois at Urbana-Champaign",
+    "year": "",
+    "window": "similarity matrix is constructed and how it looks through an example. The data used in the example is part of the <b>Iris</b> data from the UCI repository [25]. There are 150 instances in the original Iris data set, which evenly distributed in 3 classes: setosa, virginica, and versicolor. For each class, we fetch its first 5 instances from the data file, and thus obtaining 15 instances (see Table 1). Table 2",
+    "mykey": 2122
+}

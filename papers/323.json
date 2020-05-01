@@ -1,0 +1,11 @@
+{
+    "datasetID": 47,
+    "supportID": "2703BDDB7960D5BBF5FD4F42E55A3E664472D72E",
+    "rexaID": "0a882383e36d72c5890e2d191326433e23e53c9b",
+    "author": "James J. Liu and James Tin and Yau Kwok",
+    "title": "An Extended Genetic Rule Induction Algorithm",
+    "venue": "Department of Computer Science Wuhan University",
+    "year": "",
+    "window": "has classes 1 and 3 combined and classes 4 to 7 deleted, and the <b>horse</b> <b>colic</b> dataset has attributes 3, 25, 26, 27, 28 deleted and with attribute 24 being used as the class label. We also deleted all identifier attributes from the datasets. Table 1: Datasets used in the experiments.",
+    "mykey": 323
+}

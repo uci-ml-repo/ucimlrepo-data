@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "876648730F2CE199B9368ED5DF5B6A6838C48DA0",
+    "rexaID": "da329267bf8880c2becb15eae121a5b002347349",
+    "author": "Rong-En Fan and P. -H Chen and C. -J Lin",
+    "title": "Working Set Selection Using the Second Order Information for Training SVM",
+    "venue": "Department of Computer Science and Information Engineering National Taiwan University",
+    "year": "",
+    "window": "Data statistics are in Tables 1 and 3. Problems german.numer and australian are from the Statlog collection (Michie et al., 1994). We select space ga and cadata from StatLib (http://lib.stat.cmu.edu/datasets). The data sets image, <b>diabetes</b>  covtype, breast-cancer, and abalone are from the UCI machine learning repository (Blake and Merz, 1998). Problems a1a and a9a are compiled in (Platt, 1998) from the",
+    "mykey": 1350
+}

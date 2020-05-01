@@ -1,0 +1,23 @@
+{
+    "ID": 317,
+    "Name": "Grammatical Facial Expressions",
+    "Abstract": "This dataset supports the development of models that make possible to interpret Grammatical Facial Expressions from Brazilian Sign Language (Libras).",
+    "Types": "Multivariate, Sequential",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 27965,
+    "NumAttributes": 100,
+    "DateDonated": "2014-10-06",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00317/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "   The automated analysis of facial expressions has been widely used in different research areas, such as biometrics or emotional analysis. Special importance is attached to facial expressions in the area of sign language, since they help to form the grammatical structure of the language and allow for the creation of language disambiguation, and thus are called Grammatical Facial Expressions. This dataset was already used in the experiments described in Freitas et al. (2014).\r\n\r\n   The dataset is composed by eighteen videos recorded using Microsoft Kinect sensor. In each video, a user performs (five times), in front of the sensor, five sentences in Libras (Brazilian Sign Language) that require the use of a grammatical facial expression. By using Microsoft Kinect, we have obtained: (a) a image of each frame, identified by a timestamp; (b) a text file containing one hundred coordinates (x, y, z) of points from eyes, nose, eyebrows, face contour and iris; each line in the file corresponds to points extracted from one frame. The images enabled a manual labeling of each file by a specialist, providing a ground truth for classification.\r\n\r\n   The dataset is organized in 36 files: 18 datapoint files and 18 target files, one pair for each video which compose the dataset.The name of the file refers to each video: the letter corresponding to the user (A and B), name of grammatical facial expression and a specification (target or datapoints). ",
+    "Source": "     (a) Creators: \r\n\t\tFernando de Almeida Freitas (Freitas, F. A.)\r\n\t\t{fernando} at incluirtecnologia.com.br\r\n\t\tFelipe Ven\u00c3\u00a2ncio Barbosa (Barbosa, F. V.)\t\t\r\n                Sarajane Marques Peres (Peres, S. M.)\r\n        \t{felipebarbosa, sarajane} at usp.br\r\n                http://each.uspnet.usp.br/sarajane/\r\n\r\n     (b) Donor: \r\n\t\tUniversity of S\u00c3\u00a3o Paulo\r\n\t\tSchool of Art, Sciences and Humanities\r\n\t\tSao Paulo, SP, Brazil\r\n\t\thttp://www5.usp.br/en/\r\n\t\t\r\n\t\tIncluir Tecnologia LTDA ME\r\n\t\tItajub\u00c3\u00a1, MG, Brazil\r\n\t\twww.incluirtecnologia.com.br",
+    "Acknowledgements": "Please refer to the Machine Learning Repository's citation policy. \r\nAdditionally, the authors request a citation to the paper mentioned here as relevant paper.",
+    "Area": "Computer",
+    "RelevantPapers": "FREITAS, F. A. ; Peres, S. M. ; Lima, C. A. M. ; BARBOSA, F. V. . Grammatical Facial Expressions Recognition with Machine Learning. In: 27th Florida Artificial Intelligence Research Society Conference (FLAIRS), 2014, Pensacola Beach. Proceedings of the 27th Florida Artificial Intelligence Research Society Conference (FLAIRS). Palo Alto: The AAAI Press, 2014. p. 180-185. ",
+    "AttributeInfo": "Datapoints files:\r\n\r\n   Coordinates x and y are given in pixels.\r\n   Coordinates z are given in millimetres.\r\n\r\n   Label of frame\r\n   0 - 7\t(x,y,z) - left eye\r\n   8 - 15 \t(x,y,z) - right eye\r\n   16 - 25\t(x,y,z) - left eyebrow\r\n   26 - 35\t(x,y,z) - right eyebrow\r\n   36 - 47\t(x,y,z) - nose\r\n   48 - 67\t(x,y,z) - mouth\r\n   68 - 86\t(x,y,z) - face contour\r\n   87\t\t(x,y,z) - left iris\r\n   88 \t\t(x,y,z) - right iris\r\n   89\t\t(x,y,z) - nose tip\r\n   90 - 94\t(x,y,z) - line above left eyebrow\r\n   95 - 99\t(x,y,z) - line above right eyebrow",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

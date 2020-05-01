@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "C775D79C7480F5722D708608369EBD8DFB9CF55E",
+    "rexaID": "5866e91743366edf42eae4a1e4a3266e8839cea9",
+    "author": "Stefan Aeberhard and O. de Vel and Danny Coomans",
+    "title": "New Fast Algorithms for Variable Selection based on Classifier Performance",
+    "venue": "James Cook University",
+    "year": "",
+    "window": "and 59, 71 and 48 objects per class. The classes correspond to three different cultivars and the 13 variables measure 13 different constituents of the three types of resulting wines. The second data set, the <b>sonar</b> data [11], is 60 dimensional with two classes and 111 and 97 objects per class. The two different classes correspond to sonar signals bounced off a metal cylinder and reflected off a",
+    "mykey": 2000
+}

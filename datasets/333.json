@@ -1,0 +1,23 @@
+{
+    "ID": 333,
+    "Name": "Forest type mapping",
+    "Abstract": "Multi-temporal remote sensing data of a forested area in Japan. The goal is to map different forest types using spectral data.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 326,
+    "NumAttributes": 27,
+    "DateDonated": "2015-05-25",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00333/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This data set contains training and testing data from a remote sensing study which mapped different forest types based on their spectral characteristics at visible-to-near infrared wavelengths, using ASTER satellite imagery. The output (forest type map) can be used to identify and/or quantify the ecosystem services (e.g. carbon storage, erosion protection) provided by the forest.",
+    "Source": "Brian Johnson\r\njohnson@iges.or.jp\r\nInstitute for Global Environmental Strategies ",
+    "Acknowledgements": "Johnson, B., Tateishi, R., Xie, Z., 2012. Using geographically-weighted variables for image classification. Remote Sensing Letters, 3 (6), 491-499.",
+    "Area": "Life",
+    "RelevantPapers": "Johnson, B., Tateishi, R., Xie, Z., 2012. Using geographically-weighted variables for image classification. Remote Sensing Letters, 3 (6), 491-499.",
+    "AttributeInfo": "Class: 's' ('Sugi' forest), 'h' ('Hinoki' forest), 'd' ('Mixed deciduous' forest), 'o' ('Other' non-forest land)\r\nb1 - b9: ASTER image bands containing spectral information in the green, red, and near infrared wavelengths for three dates (Sept. 26, 2010; March 19, 2011; May 08, 2011.\r\npred_minus_obs_S_b1 - pred_minus_obs_S_b9: Predicted spectral values (based on spatial interpolation) minus actual spectral values for the 's' class (b1-b9).\r\npred_minus_obs_H_b1 - pred_minus_obs_H_b9: Predicted spectral values (based on spatial interpolation) minus actual spectral values for the 'h' class (b1-b9).\r\n",
+    "FormatType": "",
+    "NumHits": 8
+}

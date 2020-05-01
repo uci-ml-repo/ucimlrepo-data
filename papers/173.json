@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "125863C37F7A29383A2E9A817FF0B10FA30FB8E0",
+    "rexaID": "9acaa3dfebccac9d79abb08f7eced65482be1631",
+    "author": "Inderjit S. Dhillon and Dharmendra S. Modha and W. Scott Spangler",
+    "title": "Class visualization of high-dimensional data with applications",
+    "venue": "Department of Computer Sciences, University of Texas",
+    "year": "2002",
+    "window": "sketch the outline of the paper. Section 2 introduces class-preserving projections and class-eigenvector plots, and contains several illustrations of the <b>Iris</b> plant and ISOLET speech recognition data sets [27]. Class-similarity graphs and class tours are discussed in Sections 3 and 4. We illustrate the value of the above visualization tools in Section 5, where we present a detailed study of the",
+    "mykey": 173
+}

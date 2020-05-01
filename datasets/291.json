@@ -1,0 +1,23 @@
+{
+    "ID": 291,
+    "Name": "Airfoil Self-Noise",
+    "Abstract": "NASA data set, obtained from a series of aerodynamic and acoustic tests of two and three-dimensional airfoil blade sections conducted in an anechoic wind tunnel.",
+    "Types": "Multivariate",
+    "Task": "Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 1503,
+    "NumAttributes": 6,
+    "DateDonated": "2014-03-04",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00291/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The NASA data set comprises different size NACA 0012 airfoils at various wind tunnel speeds and angles of attack. The span of the airfoil and the observer position were the same in all of the experiments. ",
+    "Source": "Provide the names, email addresses, institutions, and other contact information of the donors and creators of the data set.\r\nDonor: \r\nDr Roberto Lopez\r\nrobertolopez@intelnics.com\r\nIntelnics \r\n\r\nCreators:\r\nThomas F. Brooks, D. Stuart Pope and Michael A. Marcolini\r\nNASA",
+    "Acknowledgements": "",
+    "Area": "Physical",
+    "RelevantPapers": "T.F. Brooks, D.S. Pope, and A.M. Marcolini. \r\nAirfoil self-noise and prediction. \r\nTechnical report, NASA RP-1218, July 1989.\r\n\r\nK. Lau. \r\nA neural networks approach for aerofoil noise prediction. \r\nMaster\u00e2\u20ac\u2122s thesis, Department of Aeronautics. \r\nImperial College of Science, Technology and Medicine (London, United Kingdom), 2006.\r\n\r\nR. Lopez.\r\nNeural Networks for Variational Problems in Engineering.\r\nPhD Thesis, Technical University of Catalonia, 2008.\r\n\r\n",
+    "AttributeInfo": "This problem has the following inputs:\r\n1. Frequency, in Hertzs. \r\n2. Angle of attack, in degrees. \r\n3. Chord length, in meters.\r\n4. Free-stream velocity, in meters per second. \r\n5. Suction side displacement thickness, in meters. \r\n\r\nThe only output is:\r\n6. Scaled sound pressure level, in decibels. \r\n",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

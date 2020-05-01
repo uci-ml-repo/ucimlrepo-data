@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "7D2E76C681C0D058C87E699E774A1A3C11185A77",
+    "rexaID": "a8a26052ead9d54b217e18b4e159137da340946f",
+    "author": "Jun Wang and Bin Yu and Les Gasser",
+    "title": "Concept Tree Based Clustering Visualization with Shaded Similarity Matrices",
+    "venue": "ICDM",
+    "year": "2002",
+    "window": "we will briefly show how shaded similarity matrices are constructed and how one looks through an example. The data used in the example is part of the <b>Iris</b> data from the UCI repository[9]. The Iris data set contains 150 instances, evenly distributed in 3 classes. We fetch 5 instances from each class, and thus obtain 15 instances (Table 1). The similarity matrix was computed based on Euclidean distance",
+    "mykey": 1244
+}

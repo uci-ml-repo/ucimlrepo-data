@@ -1,0 +1,11 @@
+{
+    "datasetID": 3,
+    "supportID": "DB39B28B323D912371513971412DF81945EFAEE5",
+    "rexaID": "ae5c213089093a76c538a7d16076fa8bb7eacada",
+    "author": "Pedro Domingos",
+    "title": "Knowledge Discovery Via Multiple Models",
+    "venue": "Intell. Data Anal, 2",
+    "year": "1998",
+    "window": "between the learner's bias and that of the probability estimation procedure is important for good results. Disabling the generation of missing values had a large negative impact in the <b>annealing</b> dataset, where very large numbers of missing values are present, and a less discernible one in the datasets where fewer such values occur. C4.5RULES's pruning parameters during the meta-learning phase can",
+    "mykey": 2211
+}

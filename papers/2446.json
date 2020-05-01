@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "F2729FEB3087B04F7B27E8924E6F64F3C45EABB0",
+    "rexaID": "b0009a0081cc5fbfbae758def55cfd5b3256623b",
+    "author": "",
+    "title": "Prototype Selection for Composite Nearest Neighbor Classifiers",
+    "venue": "Department of Computer Science University of Massachusetts",
+    "year": "1997",
+    "window": "Fitness--Feature Selection. : : : : : : : : : : : : : : : : 116 4.10 Relationships between component accuracy and diversity for the Monks-2, Breast Cancer Ljubljana, <b>Diabetes</b> and Iris Plants data sets for the four boosting algorithms. \"c\" represents the Coarse Reclassification algorithm; \"d\", Deliberate Misclassification; \"f \", Composite Fitness; and \"s\" Composite Fitness--Feature Selection. : :",
+    "mykey": 2446
+}

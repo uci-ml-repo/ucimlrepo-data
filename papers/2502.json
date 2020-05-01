@@ -1,0 +1,11 @@
+{
+    "datasetID": 111,
+    "supportID": "F71E4B90CE0A5FA15B7A148E97485C0B92D816A9",
+    "rexaID": "5ef9c5c8a24b6e0df983284f0caa3fb337c1a77a",
+    "author": "Yuan Jiang and Zhi-Hua Zhou",
+    "title": "Editing Training Data for kNN Classifiers with Neural Network Ensemble",
+    "venue": "ISNN (1)",
+    "year": "2004",
+    "window": "Size Class annealing 33 5 798 6 credit 9 6 690 2 glass 0 9 214 7 hayes-roth 4 0 132 3 iris 0 4 150 3 liver 0 6 345 2 pima 0 8 768 2 soybean 35 0 683 19 wine 0 13 178 3 <b>zoo</b> 16 0 101 7 On each data set, 10 runs of 10-fold cross validation is performed with random partitions. The e\u00aeects of the editing approaches described in Section 2 are compared through coupling them with a 3NN classifier. The",
+    "mykey": 2502
+}

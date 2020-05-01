@@ -1,0 +1,11 @@
+{
+    "datasetID": 58,
+    "supportID": "4D3D8E45CF085ED273D12BD421C1E9B19E9C8D30",
+    "rexaID": "efbc8c38877792e6ade1634043235d238ac9ec8d",
+    "author": "J. Kent Martin and Daniel S. Hirschberg",
+    "title": "Small Sample Statistics for Classification Error Rates I: Error Rate Measurements",
+    "venue": "Department of Information and Computer Science University of California, Irvine",
+    "year": "1996",
+    "window": "attributes. To explore the behavior of resampling estimators for non-numeric attributes in other inference environments, a series of experiments was conducted using the contact <b>lens</b> prescription data set [42]. In this artificial problem, patients are classified into 3 categories (hard, soft, none) based on the values of 4 attributes (1 tertiary and 3 binary). The 24 instances given cover all cases",
+    "mykey": 679
+}

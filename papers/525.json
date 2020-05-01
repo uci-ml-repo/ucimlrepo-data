@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "3F78339A922160388929703B2451FB2070C35050",
+    "rexaID": "7958d545e6316bdee900fd450ad26eb57cbe6326",
+    "author": "Jarinee Chattratichart and John Darlington and Moustafa Ghanem and Yang Guo and Harold Huning and Martin Kohler and Janjao Sutiwaraphun and Hing Wing and Dan Yang",
+    "title": "Large Scale Data Mining: The Challenges and The Solutions",
+    "venue": "Department of Computing",
+    "year": "",
+    "window": "the data parallel scheme performs far better. In contrast for the <b>Soybean</b> data set, the task parallel versions are significantly superior. The reasons for this can be traced back to the shape of the decision tree which is constructed and the number of predefined classes. The",
+    "mykey": 525
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "CB278830C58441C1FCABCCFBC8F7C127B281C01F",
+    "rexaID": "b9e2593b03c2cf4e75d8e23fedff3571357f94d8",
+    "author": "Marco Porta and Subramani Mani and Suzanne McDermott",
+    "title": "MENTOR: Building Bayesian Network Models in Medicine CSCE Technical Report TR-2002-016",
+    "venue": "Department of Computer Science and Engineering University of South Carolina",
+    "year": "2002",
+    "window": "Our validation tests using LED, ALARM and <b>SOYBEAN</b> which are small to large artificial datasets used for Machine Learning research and available from the University of California at 10 the Irvine Machine Learning repository [MuAh94] gave a mean accuracy of 80% over ten runs. The range was",
+    "mykey": 2040
+}

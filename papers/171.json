@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "11D6084E272D8538660C52FF08BB800B55A57291",
+    "rexaID": "0e6263639bcf297001939fd27576b20c6b78f68b",
+    "author": "Luca Zanni",
+    "title": "An Improved Gradient Projection-based Decomposition Technique for Support Vector Machines",
+    "venue": "Dipartimento di Matematica, Universitdi Modena e Reggio Emilia",
+    "year": "",
+    "window": "in [8]. In order to analyze the behaviour of the two solvers within GPDT2 we consider three large test problems of the form (1) derived by training Gaussian SVMs on the well known UCI <b>Adult</b> data set [22], WEB data set [26] and MNIST data set [18]. A detailed description of the test problems generation is reported in the Appendix. All the experiments are carried out with standard C code running",
+    "mykey": 171
+}

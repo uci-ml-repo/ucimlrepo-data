@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "E1E934CA215D4FCB6FE21834E5CA2008CE9028FE",
+    "rexaID": "0527f760f533e2a7a827710a924d6987bfc9a06e",
+    "author": "Stephen D. Bay",
+    "title": "Multivariate Discretization for Set Mining",
+    "venue": "Knowl. Inf. Syst, 3",
+    "year": "2001",
+    "window": "Data Set # Features # Continuous # Examples <b>Adult</b> 14 5 48812 Census-Income 5 41 7 199523 SatImage 37 36 6435 Shuttle 10 9 48480 UCI Admissions 19 8 123028 Table 3. Discretization Time in CPU seconds Data Set",
+    "mykey": 2279
+}

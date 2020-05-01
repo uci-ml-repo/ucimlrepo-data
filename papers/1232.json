@@ -1,0 +1,11 @@
+{
+    "datasetID": 72,
+    "supportID": "7CC4C4E05068BB81F63B8D5C51953964B1E347E6",
+    "rexaID": "c86d4f3c8bd74c27a77d236259751fb1d2d50b1c",
+    "author": "Simon Perkins and James Theiler",
+    "title": "Online Feature Selection using Grafting",
+    "venue": "ICML",
+    "year": "2003",
+    "window": "were generated and the results shown are mean results. Dataset C is the  <b>Multiple Features</b>  database from the UCI repository. This is a handwritten digit recognition task, where digitized images of digits have been represented using 649 features of various",
+    "mykey": 1232
+}

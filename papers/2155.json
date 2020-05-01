@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "D6B52F66BE336143D86BC65091C47187D5554E7B",
+    "rexaID": "b355244c8f3224bf7b73360037b45c7e2ceb865c",
+    "author": "Alain Rakotomamonjy",
+    "title": "Analysis of SVM regression bounds for variable ranking",
+    "venue": "P.S.I CNRS FRE 2645, INSA de Rouen Avenue de l'Universite",
+    "year": "",
+    "window": "We have tested our algorithms on some real-world problems such as QSAR data and <b>DNA</b> microarray problems. Informations on these datasets, including references where they can be found, are given in Table (5). As described some of these datasets deal with classification problems. In such cases, we have still addressed such problems by",
+    "mykey": 2155
+}

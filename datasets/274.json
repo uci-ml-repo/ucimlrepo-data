@@ -1,0 +1,23 @@
+{
+    "ID": 274,
+    "Name": "SML2010",
+    "Abstract": "This dataset is collected from a monitor system mounted in a domotic house. It corresponds to approximately 40 days of monitoring data.",
+    "Types": "Multivariate, Sequential, Time-Series, Text",
+    "Task": "Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 4137,
+    "NumAttributes": 24,
+    "DateDonated": "2014-01-09",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00274/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset could contain missing values. The data was sampled every minute, computing and uploading it smoothed with 15 minute means. The header of the data file is a commentary (begins with #) indicating which data is stored at which column (in Spanish). The data is time information is in UTC.",
+    "Source": "Dr. Francisco Zamora-Martinez, Pablo Romeu-Guallart, Dr. Juan Pardo.\r\nfrancisco.zamora@uch.ceu.es\r\nEmbedded Systems and Artificial Intelligence (ESAI) research group\r\nDep. de Ciencias F\u00c3\u00adsicas, Matem\u00c3\u00a1ticas y de la Computaci\u00c3\u00b3n\r\nUniversidad CEU Cardenal Herrera",
+    "Acknowledgements": "F. Zamora-Mart\u00ednez, P. Romeu, P. Botella-Rocamora, J. Pardo, On-line learning of indoor temperature forecasting models towards energy efficiency, Energy and Buildings, Volume 83, November 2014, Pages 162-172, ISSN 0378-7788, http://dx.doi.org/10.1016/j.enbuild.2014.04.034.\n",
+    "Area": "Computer",
+    "RelevantPapers": "",
+    "AttributeInfo": "The attributes are:\r\n\r\n1. Date: in UTC.\r\n2. Time: in UTC.\r\n3. Indoor temperature (dinning-room), in \u00c2\u00baC.\r\n4. Indoor temperature (room), in \u00c2\u00baC.\r\n5. Weather forecast temperature, in \u00c2\u00baC.\r\n6. Carbon dioxide in ppm (dinning room).\r\n7. Carbon dioxide in ppm (room).\r\n8. Relative humidity (dinning room), in %.\r\n9. Relative humidity (room), in %.\r\n10. Lighting (dinning room), in Lux.\r\n11. Lighting (room), in Lux.\r\n12. Rain, the proportion of the last 15 minutes where rain was detected (a value in range [0,1]).\r\n13. Sun dusk.\r\n14. Wind, in m/s.\r\n15. Sun light in west facade, in Lux.\r\n16. Sun light in east facade, in Lux.\r\n17. Sun light in south facade, in Lux.\r\n18. Sun irradiance, in W/m2.\r\n19. Enthalpic motor 1, 0 or 1 (on-off).\r\n20. Enthalpic motor 2, 0 or 1 (on-off).\r\n21. Enthalpic motor turbo, 0 or 1 (on-off).\r\n22. Outdoor temperature, in \u00c2\u00baC.\r\n23. Outdoor relative humidity, in %.\r\n24. Day of the week (computed from the date), 1=Monday, 7=Sunday.\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 237,
+    "Name": "Northix",
+    "Abstract": "Northix is designed to be a schema matching benchmark problem for data integration of two entity relationship databases. ",
+    "Types": "Multivariate, Univariate, Text",
+    "Task": "Classification",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 115,
+    "NumAttributes": 200,
+    "DateDonated": "2012-08-15",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00237/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Northix is designed to be a schema matching benchmark problem for data integration of two entity relationship databases. Northix is the resulting schema matching of two demonstration databases namely Northwind and Sakila. Some unnecessary database entities (columns) such as multimedia were deleted. It was desired to have at least around 200 tuples per database entity; therefore, tuples were randomly injected, respecting the existing pattern, if the number of tuples was low. The schema matching was done manually. The ideal entities matching are grouped into classes. In total, there are 115 input database entities stored respectively as '.dat' from the first database and as '.txt' if from the second database. The file naming pattern is attributeName@ColumnName@Database. After schema matching, the files are grouped into 34 classes (folders). 33 classes are ideal matchings whereas the class 'UNCLASSED' groups all the attributes that are unique and don\u00e2\u20ac\u2122t have another similar attribute. The attributes are of different data types such as texts, integers, real numbers, dates, and alphanumeric data types. In total, there are 21805 tokens. A token is separated by spaces and other non alphanumeric characters such as \u00e2\u20ac\u0153/-,\u00e2\u20ac\u009d.\r\n\r\n[1]\tMicrosoft. Northwind. [Online] 2005. [Cited: 06 28, 2009.] http://www.microsoft.com/Downloads/details.aspx?FamilyID=06616212-0356-46a0-8da2-eebc53a68034&displaylang=en.\r\n[2]\tMySQL. Sakila. [Online] 2005. [Cited: 06 28, 2009.] http://dev.mysql.com/doc/sakila/en/sakila.html.",
+    "Source": "Farid Bourennani, University of Ontario Institute of Technology, farid.bourennani@uoit.ca",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Computer",
+    "RelevantPapers": "Provide references to papers that have cited this data set in the past (if any).",
+    "AttributeInfo": "In total, there are 115 input database entities stored respectively as '.dat' from the first database and as '.txt' if from the second database. The file naming pattern is attributeName@ColumnName@Database. After schema matching, the files are grouped into 34 classes (folders). 33 classes are ideal matchings whereas the class 'UNCLASSED' groups all the attributes that are unique and don\u00e2\u20ac\u2122t have another similar attribute.",
+    "FormatType": "",
+    "NumHits": 8
+}

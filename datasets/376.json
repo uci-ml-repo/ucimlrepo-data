@@ -1,0 +1,23 @@
+{
+    "ID": 376,
+    "Name": "KDC-4007 dataset Collection",
+    "Abstract": "KDC-4007 dataset Collection is the Kurdish Documents Classification text used in categories regarding Kurdish Sorani news and articles.",
+    "Types": "Multivariate, Text",
+    "Task": "Classification, Regression",
+    "AttributeTypes": "Integer",
+    "NumInstances": 4007,
+    "NumAttributes": 0,
+    "DateDonated": "2017-04-27",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00376/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The most important feature of this dataset is its simplicity to use and its being well-documented, which can be widely used in various studies of text analysis regarding Kurdish Sorani news and articles.   \r\nThe documents consist of eight categories, which are Sport, Religion, Art, Economic, Education, Social, Style, and Health. Each of them consisted of 500 text documents, where the total size of the corpus is 4,007 text files. \r\nThe dataset and documents have become freely accessible in order to have repeatable outcomes for experimental assessment.\r\n",
+    "Source": "Arazo M. Mustafa, (arazo.2007@yahoo.com), \r\nSchool of Computer Science University of Sulaimania, Kurdistan, Iraq\r\n",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Computer",
+    "RelevantPapers": "[1] Arazo M. Mustafa and Tarik A. Rashid,\u00e2\u20ac\u0153 Kurdish Stemmer Pre-processing Steps for Improving Information Retrieval\u00e2\u20ac\u009d, Journal of Information Science, First published date: january-01-2017, 10.1177/0165551516683617.\r\n[2] Tarik A. Rashid, Arazo M. Mustafa and Ari M. Saeed, 2017.'A Robust Categorization System for Kurdish Sorani Text Documents'. Information Technology Journal, 16: 27-34.\r\n[3] Tarik A. Rashid, Arazu M. Mustafa, Ari M. Saeed Automatic Kurdish Text Classification Using KDC 4007 Dataset, accepted in Springer book, Series Title: Lecture Notes on Data Engineering and Communications Technologies: Book title: Advances in Internetworking, Data & Web Technologies, Indexing: The books of this series are submitted to ISI Proceedings, EI, Scopus, MetaPress, Springerlink, 2017.\r\n",
+    "AttributeInfo": "There is four collection:\r\n \r\n- ST-Ds datasets, just stop words elimination is performed by using Kurdish preprocessing-step approach. \r\n- The pre-ds dataset, Kurdish preprocessing-step approach is used. \r\n- The Pre+TW-Ds dataset, TF\u00c3\u2014IDF term weighting on the Pre-Ds dataset is performed. \r\n- Orig-Ds datasets, no process is used which is the original dataset.",
+    "FormatType": "Matrix",
+    "NumHits": 1
+}

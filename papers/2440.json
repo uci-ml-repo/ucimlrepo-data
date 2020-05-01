@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "F216DE99B968CC0B6F01487F36918BF37A0D39CC",
+    "rexaID": "09e7adcf66589d1d54853bb072ead0657a5c5e14",
+    "author": "Nir Friedman and Daphne Koller (koller@cs. stanford. edu",
+    "title": "A Bayesian Approach to Structure Discovery in Bayesian Networks",
+    "venue": "School of Computer Science & Engineering Hebrew University",
+    "year": "",
+    "window": "indicating that model selection is likely to return a fairly representative structure in this case. A second form of support for the non-mixing conjecture is obtained by considering an even smaller data set: the Boston <b>housing</b> data set, from the UCI repository (Murphy and Aha, 1995), is a continuous domain with 14 variables and 506 samples. Here, we considered linear Gaussian networks, and used a",
+    "mykey": 2440
+}

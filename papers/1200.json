@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "7989EBED2CD1267D5CD9F9025ECA48984E305D8C",
+    "rexaID": "72d5bd2d46a0dc05c20340f71ac9c9e0eb6e0abf",
+    "author": "Nir Friedman and Iftach Nachman",
+    "title": "Gaussian Process Networks",
+    "venue": "UAI",
+    "year": "2000",
+    "window": "contains 506 samples with 14 attributes. 300 samples were used as a test set. # <b>Abalone</b> data set - a data set of physical measurements of abalones. The data set contains 4177 samples with 9 attributes. 300 samples were used as a test set. # Glass identification data set - a data describing the",
+    "mykey": 1200
+}

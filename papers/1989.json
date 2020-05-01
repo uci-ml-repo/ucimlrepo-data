@@ -1,0 +1,11 @@
+{
+    "datasetID": 15,
+    "supportID": "C59893B2D45A048E403D26DE7FE63409B3941555",
+    "rexaID": "9f9df113476ffbf356892bb497bd2714e6f56d99",
+    "author": "Ismail Taha and Joydeep Ghosh",
+    "title": "Characterization of the Wisconsin Breast cancer Database Using a Hybrid Symbolic-Connectionist System",
+    "venue": "Proceedings of ANNIE",
+    "year": "1996",
+    "window": "rule extraction techniques, the BIO-RE, Partial-RE, and Full-RE, on the <b>breast</b> <b>cancer</b> problem. The extracted rules are presented in order based on the rule ordering algorithm. 5.1 Breast-Cancer Data Set: The <b>Wisconsin</b> breast cancer data set has nine inputs and two output classes [26, 31]. The input features are: X 1 = Clump Thickness; X 2 = Uniformity of Cell Size; X 3 = Uniformity of Cell Shape; X",
+    "mykey": 1989
+}

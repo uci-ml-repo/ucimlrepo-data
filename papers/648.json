@@ -1,0 +1,11 @@
+{
+    "datasetID": 46,
+    "supportID": "4A57C0FFEEC2665CAF8E11574CE5A9618304B979",
+    "rexaID": "de9b2ac4ef9c6449914cdc375972f722190fee7a",
+    "author": "Chris Drummond and Robert C. Holte",
+    "title": "C4.5, Class Imbalance, and Cost Sensitivity: Why Under-Sampling beats Over-Sampling",
+    "venue": "Institute for Information Technology, National Research Council Canada",
+    "year": "",
+    "window": "as they produced cost curves that captured all the qualitative features we observed in a larger set of experiments (including other UCI data sets: vote, <b>hepatitis</b>  labor, letter-k and glass2). For these data sets, under-sampling combined with C4.5 is a useful baseline to evaluate other algorithms. Over-sampling, on the other hand, is not to",
+    "mykey": 648
+}

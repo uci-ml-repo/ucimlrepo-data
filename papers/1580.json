@@ -1,0 +1,11 @@
+{
+    "datasetID": 15,
+    "supportID": "9B6CF5D98E3C9C398773066E1C56EA9E8424097E",
+    "rexaID": "8afa6796645ce4b0642db26c822cf6bfa8cc4d0d",
+    "author": "Wl odzisl/aw Duch and Rudy Setiono and Jacek M. Zurada",
+    "title": "Computational intelligence methods for rule-based data understanding",
+    "venue": "",
+    "year": "",
+    "window": "data. Large number of rules will usually lead to poor generalization, and the insight into the knowledge hidden in the data will be lost. C. <b>Wisconsin</b> <b>breast</b> <b>cancer</b> data. The Wisconsin breast cancer dataset [132] is one of the favorite benchmark datasets for testing classifiers (Table V). Properties of cancer cells were collected for 699 cases, with 458 benign (65.5%) and 241 (34.5%) malignant cases of",
+    "mykey": 1580
+}

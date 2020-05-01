@@ -1,0 +1,11 @@
+{
+    "datasetID": 80,
+    "supportID": "4419EF2F549EAEE567BF235D8858FF3CC3489047",
+    "rexaID": "fc0a66d3a7336b6eabad919a7389c68cc37f2564",
+    "author": "Ayhan Demiriz and Kristin P. Bennett and John Shawe and I. Nouretdinov V.",
+    "title": "Linear Programming Boosting via Column Generation",
+    "venue": "Dept. of Decision Sciences and Eng. Systems, Rensselaer Polytechnic Institute",
+    "year": "",
+    "window": "with missing values. The default handling in C4.5 has been used for missing values. USPS and Optdigits are <b>optical</b> character <b>recognition</b> datasets. USPS has 256 dimensions without missing values. Out of 7291 original training points, we use 1822 points as training data and the other 5469 as validation data. There are 2007 test points.",
+    "mykey": 594
+}

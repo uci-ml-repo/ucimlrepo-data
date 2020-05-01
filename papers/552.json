@@ -1,0 +1,11 @@
+{
+    "datasetID": 46,
+    "supportID": "40ED000B2332D6383529EB2B7A72B54AEC455515",
+    "rexaID": "076c5b4e7bf69148bcde8c83621ecf1140a7d55c",
+    "author": "Michael L. Raymer and Travis E. Doom and Leslie A. Kuhn and William F. Punch",
+    "title": "Knowledge discovery in medical and biological datasets using a hybrid Bayes classifier/evolutionary algorithm",
+    "venue": "IEEE Transactions on Systems, Man, and Cybernetics, Part B, 33",
+    "year": "2003",
+    "window": "used for this evaluation are IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS 7 described in detail in [3], and at the UCI website [33]. A brief synopsis of each data set follows: <b>Hepatitis</b> -- This data consists of 19 descriptive and clinical test result values for 155 hepatitis patients [34, 35]. The two classes, survivors and patients for whom the hepatitis proved",
+    "mykey": 552
+}

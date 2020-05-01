@@ -1,0 +1,23 @@
+{
+    "ID": 501,
+    "Name": "Beijing Multi-Site Air-Quality Data",
+    "Abstract": "This hourly data set considers 6 main air pollutants and 6 relevant meteorological variables at multiple sites in Beijing.",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Regression",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 420768,
+    "NumAttributes": 18,
+    "DateDonated": "2019-09-20",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00501/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This data set includes hourly air pollutants data from 12 nationally-controlled air-quality monitoring sites. The air-quality data are from the Beijing Municipal Environmental Monitoring Center. The meteorological data in each air-quality site are matched with the nearest weather station from the China Meteorological Administration. The time period is from March 1st, 2013 to February 28th, 2017. Missing data are denoted as NA.",
+    "Source": "Song Xi Chen, csx@gsm.pku.edu.cn, Guanghua School of Management, Center for Statistical Science, Peking University.",
+    "Acknowledgements": "Zhang, S., Guo, B., Dong, A., He, J., Xu, Z. and Chen, S.X. (2017) Cautionary Tales on Air-Quality Improvement in Beijing. Proceedings of the Royal Society A, Volume 473, No. 2205, Pages 20170457.",
+    "Area": "Physical",
+    "RelevantPapers": "Zhang, S., Guo, B., Dong, A., He, J., Xu, Z. and Chen, S.X. (2017) Cautionary Tales on Air-Quality Improvement in Beijing. Proceedings of the Royal Society A, Volume 473, No. 2205, Pages 20170457.",
+    "AttributeInfo": "No: row number \r\nyear: year of data in this row \r\nmonth: month of data in this row \r\nday: day of data in this row \r\nhour: hour of data in this row \r\nPM2.5: PM2.5 concentration (ug/m^3)\r\nPM10: PM10 concentration (ug/m^3)\r\nSO2: SO2 concentration (ug/m^3)\r\nNO2: NO2 concentration (ug/m^3)\r\nCO: CO concentration (ug/m^3)\r\nO3: O3 concentration (ug/m^3)\r\nTEMP: temperature (degree Celsius) \r\nPRES: pressure (hPa)\r\nDEWP: dew point temperature (degree Celsius)\r\nRAIN: precipitation (mm)\r\nwd: wind direction\r\nWSPM: wind speed (m/s)\r\nstation: name of the air-quality monitoring site",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

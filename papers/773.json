@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "54008F57C35B26D84A889A6717D4DFA9C35339AA",
+    "rexaID": "b7408989feafd783e1ebdcdac949100e6d133b9e",
+    "author": "David Horn and A. Gottlieb",
+    "title": "The Method of Quantum Clustering",
+    "venue": "NIPS",
+    "year": "2001",
+    "window": "minima appear, as seen in Fig. 3. Nonetheless, they lie high and contain only a few data points. The major minima are the same as in Fig. 2. 3.2 <b>iris</b> Data Our second example consists of the iris data set [10], which is a standard benchmark obtainable from the UCI repository [11]. Here we use the first two principal components to define the two dimensions in which we apply our method. Fig. 4, which",
+    "mykey": 773
+}

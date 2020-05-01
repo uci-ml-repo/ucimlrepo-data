@@ -1,0 +1,11 @@
+{
+    "datasetID": 185,
+    "supportID": "",
+    "rexaID": "6A14FFA310E36C4A68FD297F2C5B13F04A4B1B4E",
+    "author": "Arkadiusz Paterek",
+    "title": "Improving regularized singular value decomposition for collaborative filtering",
+    "venue": "Institute of Informatics, Warsaw University",
+    "year": "",
+    "window": "The set of predictors used includes algorithms suggested by <b>Netflix</b> Prize contestants: regularized singular value decomposition of data with missing values, K-means, postprocessing SVD with KNN. We propose extending the set of predictors with the following methods: addition of biases to the regularized SVD, postprocessing SVD with kernel ridge regression, ",
+    "mykey": 2595
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 44,
+    "supportID": "C86F069D2AD0CD6E86D361CA54007DF454A13991",
+    "rexaID": "43adf91a23b576706c55888c9f46d07d424a7938",
+    "author": "Anthony D. Griffiths and Derek Bridge",
+    "title": "A Yardstick for the Evaluation of Case-Based Classifiers",
+    "venue": "Department of Computer Science, University of York",
+    "year": "",
+    "window": "used in Figures 5 and 4 The data set in the UCI repository for the  <b>Hayes</b> <b>Roth</b>  target function described above is incomplete in that it contains instances for only some of the possible descriptions, contains duplications, and contains",
+    "mykey": 2002
+}

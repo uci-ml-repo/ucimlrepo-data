@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "5395CD50070B1BCED4781448DAEFC764A795AD89",
+    "rexaID": "af5f79a0f4d68c9ff526c960428c114e8e0fa4a5",
+    "author": "Warodom Geamsakul and Takashi Matsuda and Tetsuya Yoshida and Hiroshi Motoda and Takashi Washio",
+    "title": "Constructing a Decision Tree for Graph Structured Data",
+    "venue": "Institute of Scientific and Industrial Research, Osaka University",
+    "year": "",
+    "window": "is employed to extract good enough discriminative patterns within the greedy search framework. Pessimistic pruning is incorporated to avoid overfitting to the training data. Experiments using a <b>DNA</b> dataset were conducted to see the effect of the beam width, the number of chunking at each node of a decision tree, and the pruning. The results indicate that DT-GBI that does not use any prior domain",
+    "mykey": 755
+}

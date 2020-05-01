@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "2390FD17B6347F54DA62041C4A2997AD03DB6657",
+    "rexaID": "949c026b9a5a6fba34e6c93763433b9eb516a7bf",
+    "author": "Martin H C Law and James T. Kwok",
+    "title": "Applying the Bayesian Evidence Framework to \nu -Support Vector Regression",
+    "venue": "ECML",
+    "year": "2001",
+    "window": "task is to predict the ages of the abalones based on 8 input attributes. We used 256 patterns for training and the remaining 3921 patterns for testing. The experiment is repeated 25 times. The third data set is the Boston <b>housing</b> data, and the task is to predict housing values in the Boston suburbs using 13 input attributes. We used 128 patterns for training and the remaining 378 patterns for testing.",
+    "mykey": 281
+}

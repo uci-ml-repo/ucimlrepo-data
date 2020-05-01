@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "A3A1E2640DDAEED9C586CE43F217DC03D9C3B00E",
+    "rexaID": "d64d2705cabed449e8cb2ecc3c3c77c54ee71051",
+    "author": "Jeroen Eggermont and Joost N. Kok and Walter A. Kosters",
+    "title": "Genetic Programming for data classification: partitioning the search space",
+    "venue": "SAC",
+    "year": "2004",
+    "window": "is disappointing as only our clustering gp algorithm with 3 clusters per numerical valued attribute manages to really outperform our simple gp but still performs much worse than C4.5. The <b>Iris</b> Data Set If we look at the results of our gp algorithms on the Iris data set in Table 8 we see that by far the best performance is achieved by our clustering gp algorithm with 3 clusters per numerical valued",
+    "mykey": 1674
+}

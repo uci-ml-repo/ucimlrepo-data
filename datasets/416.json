@@ -1,0 +1,23 @@
+{
+    "ID": 416,
+    "Name": "Mturk User-Perceived Clusters over Images",
+    "Abstract": "This dataset was collected by Shan-Hung Wu and DataLab members at NTHU, Taiwan. There're 325 user-perceived clusters from 100 users and their corresponding descriptions.",
+    "Types": "Multivariate, Text",
+    "Task": "Clustering",
+    "AttributeTypes": "Integer",
+    "NumInstances": 180,
+    "NumAttributes": 500,
+    "DateDonated": "2016-11-02",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00416/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset was collected by Shan-Hung Wu and DataLab members at National Tsing Hua University, Taiwan. It random sampled 180 images from the NUS-WIDE image database.  Each image has 500 features consisting of the bag of words based on SIFT descriptions. With a series of experiments on the Amazon Mechanical Turk platform, there are 325 user-perceived clusters from 100 users and their corresponding descriptions.\r\n\r\nDataset spec 1:\r\n\r\n- #Image: 180 \r\n- #Cluster: 325 (may be created by different users)\r\n- #User: 100 \r\n- |Vocabulary of supervision|: 108\r\n\r\n\r\n- cluster_data.csv : 325 clusters x 180 images\r\n\t- 'cluster_data.csv' is an indicator matrix. M_(i,j) = 1 if image_j belongs to cluster_i. Note: Clusters may be created by different users.\r\n\t\r\n\t\r\n- cluster_userIndex.csv : 325 clusters x 1 userIndex(0-99)\r\n\t- 'cluster_userIndex.csv' is an vector where V_i = k if cluster_i is grouped by user_k.\r\n\t\r\n- data_feature.csv : 180 images x 500 features\r\n\t- Each row is 500 features vector consisting of the bag of words based on SIFT descriptions. All 180 images are sampled from NUS-WIDE dataset.\r\n\t- Reference: http://lms.comp.nus.edu.sg/research/NUS-WIDE.htm\r\n\t\r\n- supervision_cluster_matrix.csv : 108 bag of words x 183 clusters\r\n\t- We parse the raw supervisions and merge similar words into 108 dimensions. Each row is a description of corresponding cluster.\r\n\t\r\n- perception_words.csv : 108 perception words\r\n\t- Vocabulary of perception words .\r\n\t\r\n\t\r\n\r\n\r\n\r\n\r\nDataset spec 2(Raw data):\r\n\r\n- cluster_list.csv:\r\n\t-FileName: ['UserId'], ['ImageId Cluster'], ['Description']\r\n\t-['UserId']: Specify the user who created the cluster.\r\n\t-['ImageId Cluster']: Image ids in the cluster which are separated by ';'.\r\n\t-['Description']: A sentence or some keywords describe the images in the cluster by user.\r\n\t- 325 records(clusters) in total.\t\t\r\n",
+    "Source": "Shan-Hung Wu\r\nAssociate Professor, CS, National Tsing Hua University(NTHU) \r\nEmail: shwu [AT] cs.nthu.edu.tw ",
+    "Acknowledgements": "Please include this citation if you use this dataset.\r\n\r\nLearning User Perceived Clusters with Feature-Level Supervision\r\nTing-Yu Cheng, ; Kuan-Hua Lin, ; Xinyang Gong, Baidu Inc.; Kang-Jun Liu, ; Shan-Hung Wu*, National Tsing Hua University\r\n",
+    "Area": "Computer",
+    "RelevantPapers": "Learning User Perceived Clusters with Feature-Level Supervision\r\nTing-Yu Cheng, ; Kuan-Hua Lin, ; Xinyang Gong, Baidu Inc.; Kang-Jun Liu, ; Shan-Hung Wu*, National Tsing Hua University\r\n",
+    "AttributeInfo": "As the above.",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

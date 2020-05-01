@@ -1,0 +1,23 @@
+{
+    "ID": 182,
+    "Name": "Concrete Slump Test",
+    "Abstract": "Concrete is a highly complex material. The slump flow of concrete is not only determined by the water content, but that is also influenced by other concrete ingredients.",
+    "Types": "Multivariate",
+    "Task": "Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 103,
+    "NumAttributes": 10,
+    "DateDonated": "2009-04-30",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/concrete/slump/",
+    "URLReadme": "../machine-learning-databases/concrete/slump/slump_test.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The data set includes 103 data points. There are 7 input variables, and 3 output variables in the data set.\r\nThe initial data set included 78 data. After several years, we got 25 new data points.",
+    "Source": "Donor: I-Cheng Yeh\r\nEmail: icyeh@chu.edu.tw\r\nInstitution: Department of Information Management, Chung-Hua University (Republic of China)\r\nOther contact information: Department of Information Management, Chung-Hua University, Hsin Chu, Taiwan 30067, R.O.C.",
+    "Acknowledgements": "Yeh, I-Cheng, \"Modeling slump flow of concrete using second-order regressions and artificial neural networks,\" Cement and Concrete Composites, Vol.29, No. 6, 474-480, 2007.",
+    "Area": "Computer",
+    "RelevantPapers": "1. Yeh, I-Cheng, \"Modeling slump of concrete with fly ash and superplasticizer,\" Computers and Concrete, Vol.5, No.6, 559-572, 2008. \r\n\r\n2. Yeh, I-Cheng, \"Simulation of concrete slump using neural networks,\" Construction Materials,Vol.162, No.1, 11-18, 2009.\r\n\r\n3. Yeh, I-Cheng, \"Prediction of workability of concrete using design of experiments for mixtures,\" COMPUTERS AND CONCRETE, Vol.5, No.1, 1-20, 2008.\r\n\r\n4. Yeh, I-Cheng, \"Modeling slump flow of concrete using second-order regressions and artificial neural networks,\" Cement and Concrete Composites, Vol.29, No. 6, 474-480, 2007.\r\n\r\n5. Yeh, I-Cheng, \"Exploring concrete slump model using artificial neural networks,\" J. of Computing in Civil Engineering, ASCE, Vol.20, No.3, 217-221, 2006.",
+    "AttributeInfo": "Input variables (7)(component kg in one M^3 concrete):\r\nCement\t\r\nSlag\t\r\nFly ash\t\r\nWater\t\r\nSP\t\r\nCoarse Aggr.\t\r\nFine Aggr.\t\r\n\r\nOutput variables (3):\r\nSLUMP (cm)\t\r\nFLOW (cm)\t\r\n28-day Compressive Strength (Mpa)\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

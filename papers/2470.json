@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "F3E745BA9A0A31A0EAD40A76C372F0EC69AAEDE0",
+    "rexaID": "469be567c6e8bb0955c395472ef2fefc4fe43f77",
+    "author": "Erin J. Bredensteiner and Kristin P. Bennett",
+    "title": "Multicategory Classification by Support Vector Machines",
+    "venue": "Department of Mathematics University of Evansville",
+    "year": "",
+    "window": "methods. The kernel function for the piecewise-nonlinear M-SVM and k-SVM methods is K(x, x i ) = x\u00b7x i n + 1 # d , where d is the degree of the desired polynomial. <b>wine</b> Recognition Data The Wine dataset [1] uses the chemical analysis of wine to determine the cultivar. There are 178 points with 13 features. This is a three class dataset distributed as follows: 59 points in class 1, 71 points in",
+    "mykey": 2470
+}

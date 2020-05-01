@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "254311AE858749685C1ED4FEFEE93394629C0403",
+    "rexaID": "e93397aa87eb765144f433d5488e172fa37333e5",
+    "author": "",
+    "title": "Efficiently Updating and Tracking the Dominant Kernel Eigenspace",
+    "venue": "(a) Katholieke Universiteit Leuven Department of Electrical Engineering, ESAT-SCD-SISTA",
+    "year": "",
+    "window": "true eigenvectors are approximated whilst tracking (ie up/downdating and downsizing) a kernel matrix. We consider a representative example of a kernel matrix, based upon the known <b>Abalone</b> benchmark dataset [14] with n = 3000 training instances having dimension p = 7. We consider the common choice of the radial basis kernel function (with h the kernel width parameter, fixed at 18.57): k(x i , x j ) =",
+    "mykey": 291
+}

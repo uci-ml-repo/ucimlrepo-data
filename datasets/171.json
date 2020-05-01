@@ -1,0 +1,23 @@
+{
+    "ID": 171,
+    "Name": "Madelon",
+    "Abstract": "MADELON is an artificial dataset, which was part of the NIPS 2003 feature selection challenge. This is a two-class classification problem with continuous input variables. The difficulty is that the problem is multivariate and highly non-linear. ",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 4400,
+    "NumAttributes": 500,
+    "DateDonated": "2008-02-29",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/madelon/",
+    "URLReadme": "../machine-learning-databases/madelon/Dataset.pdf",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "MADELON is an artificial dataset containing data points grouped in 32 clusters placed on the vertices of a five dimensional hypercube and randomly labeled +1 or -1. The five dimensions constitute 5 informative features. 15 linear combinations of those features were added to form a set of 20 (redundant) informative features. Based on those 20 features one must separate the examples into the 2 classes (corresponding to the +-1 labels). We added a number of distractor feature called 'probes' having no predictive power. The order of the features and patterns were randomized.\r\n\r\nMADELON -- Positive ex. -- Negative ex. -- Total\t\t   \r\nTraining set -- 1000 -- 1000 -- 2000\t\t   \r\nValidation set -- 300 -- 300 -- 600\t\t   \r\nTest set -- 900 -- 900 -- 1800\t\t   \r\nAll -- 2200 -- 2200 -- 4400\t\t \r\n\r\nNumber of variables/features/attributes:\r\nReal: 20\r\nProbes: 480\r\nTotal: 500\r\n\r\nThis dataset is one of five datasets used in the NIPS 2003 feature selection challenge. Our website http://www.nipsfsc.ecs.soton.ac.uk/ is still open for post-challenge submissions. Information about other related challenges are found at: http://clopinet.com/challenges. The CLOP package includes sample code to process these data: http://clopinet.com/CLOP.\r\n\r\nAll details about the preparation of the data are found in our technical report: Design of experiments for the NIPS 2003 variable selection benchmark, Isabelle Guyon, July 2003, http://www.nipsfsc.ecs.soton.ac.uk/papers/NIPS2003-Datasets.pdf (also included in the dataset archive). Such information was made available only after the end of the challenge.\r\n\r\nThe data are split into training, validation, and test set. Target values are provided only for the 2 first sets. Test set performance results are obtained by submitting prediction results to: http://www.nipsfsc.ecs.soton.ac.uk/.\r\n\r\nThe data are in the following format:\r\ndataname.param: Parameters and statistics about the data\r\ndataname.feat: Identities of the features (in the order the features are found in the data).\r\ndataname_train.data: Training set (a space-delimited regular matrix, patterns in lines, features in columns).  \r\ndataname_valid.data: Validation set.    \r\ndataname_test.data: Test set. \r\ndataname_train.labels: Labels (truth values of the classes) for training examples.   \r\ndataname_valid.labels: Validation set labels (withheld during the benchmark, but provided now).\r\ndataname_test.labels: Test set labels  (withheld, so the data can still be use as a benchmark).\r\n",
+    "Source": "Isabelle Guyon\r\nClopinet\r\n955 Creston Road\r\nBerkeley, CA 90708\r\nisabelle@clopinet.com\r\n",
+    "Acknowledgements": "Isabelle Guyon, Steve R. Gunn, Asa Ben-Hur, Gideon Dror, 2004. Result analysis of the NIPS 2003 feature selection challenge. In: NIPS. http://books.nips.cc/papers/files/nips17/NIPS2004_0194.pdf.",
+    "Area": "Other",
+    "RelevantPapers": "The best challenge entrants wrote papers collected in the book:\r\nIsabelle Guyon, Steve Gunn, Masoud Nikravesh, Lofti Zadeh (Eds.), Feature Extraction, Foundations and Applications. Studies in Fuzziness and Soft Computing. Physica-Verlag, Springer. http://clopinet.com/fextract-book/\r\n\r\nSee also:\r\nIsabelle Guyon, et al, 2007. Competitive baseline methods set new standards for the NIPS 2003 feature selection benchmark. Pattern Recognition Letters 28 (2007) 1438\u20131444.\r\nand the associated technical report:\r\nIsabelle Guyon, et al. 2006. Feature selection with the CLOP package. Technical Report. http://clopinet.com/isabelle/Projects/ETH/TM-fextract-class.pdf.\r\n",
+    "AttributeInfo": "We do not provide attribute information, to avoid biasing the feature selection process.",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 100,
+    "Name": "Teaching Assistant Evaluation",
+    "Abstract": "The data consist of evaluations of teaching performance; scores are \"low\", \"medium\", or \"high\"",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 151,
+    "NumAttributes": 5,
+    "DateDonated": "1997-06-07",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/tae/",
+    "URLReadme": "../machine-learning-databases/tae/tae.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The data consist of evaluations of teaching performance over three regular semesters and two summer semesters of 151 teaching assistant (TA) assignments at the Statistics Department of the University of Wisconsin-Madison. The scores were divided into 3 roughly equal-sized categories (\"low\", \"medium\", and \"high\") to form the class variable.",
+    "Source": "Collector: \r\n\r\nWei-Yin Loh (Department of Statistics, UW-Madison)\r\n\r\nDonor:\r\n\r\nTjen-Sien Lim (limt@stat.wisc.edu)",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "Loh, W.-Y. & Shih, Y.-S. (1997). Split Selection Methods for  Classification Trees, Statistica Sinica 7: 815-840.\r\nhttp://rexa.info/paper/3c7ff36256dc54deeb225e87539c454c2ef1f188\r\n\r\nLim, T.-S., Loh, W.-Y. & Shih, Y.-S. (1999). A Comparison of Prediction Accuracy, Complexity, and Training Time of Thirty-three Old and New Classification Algorithms. Machine Learning. (ftp://ftp.stat.wisc.edu/pub/loh/treeprogs/quest1.7/mach1317.pdf or http://www.stat.wisc.edu/~limt/mach1317.pdf)\r\nhttp://rexa.info/paper/db6d40facb609e2681727ef96e61dd49d42b4aff",
+    "AttributeInfo": "   1. Whether of not the TA is a native English speaker (binary); 1=English speaker, 2=non-English speaker\r\n   2. Course instructor (categorical, 25 categories)\r\n   3. Course (categorical, 26 categories)\r\n   4. Summer or regular semester (binary) 1=Summer, 2=Regular\r\n   5. Class size (numerical)\r\n   6. Class attribute (categorical) 1=Low, 2=Medium, 3=High",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 17
+}

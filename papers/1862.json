@@ -1,0 +1,11 @@
+{
+    "datasetID": 57,
+    "supportID": "B635ADFAE0D08D00162C09C957931DED07495F20",
+    "rexaID": "c4ef47232a73d5e27b14e63096634eb70dcbddce",
+    "author": "Joao Gama and Ricardo Rocha and Pedro Medas",
+    "title": "Accurate decision trees for mining high-speed data streams",
+    "venue": "KDD",
+    "year": "2003",
+    "window": "when classifying test examples: classifying using the majority class (VFDTcMC) and classifying using naive Bayes (VFDTcNB) at leaves. The experimental work has been done using the Waveform and <b>LED datasets</b>  These are well known artificial datasets. We have used the two versions of the Waveform dataset available at the UCI repository [1]. Both versions are problems with three classes. The first",
+    "mykey": 1862
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "9268F85BF598D6853B8769785180FFFE864FF806",
+    "rexaID": "646cb388234937c3b01d36219e119b0904112be2",
+    "author": "Bernhard Pfahringer and Geoffrey Holmes and Gabi Schmidberger",
+    "title": "Wrapping Boosters against Noise",
+    "venue": "Australian Joint Conference on Artificial Intelligence",
+    "year": "2001",
+    "window": "induction: 7 Table 4. Predictive error, no noise. The best entry in each line is set in boldface, a prefix star marks values that are significantly different from the value in the first column. Dataset ADTree Bagging Wrapping Wensemble <b>BREAST</b> <b>CANCER</b> 31.59 * 28.57 * 26.02 * 25.32 BREAST-W 3.83 * 3.49 * 4.32 3.63 CLEVE 21.78 * 17.15 * 17.28 * 16.03 CREDIT-A 15.10 * 13.22 15.68 15.07 CREDIT-G 25.50 *",
+    "mykey": 1444
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 76,
+    "supportID": "40D384D3E5B95AAA56170E63DAF6B6EE80F14BF2",
+    "rexaID": "47354ca48da5014e0a8f5e4da7f3a7e9aaa6e9e5",
+    "author": "Jie Cheng and Russell Greiner",
+    "title": "Comparing Bayesian Network Classifiers",
+    "venue": "UAI",
+    "year": "1999",
+    "window": "and GBN and TAN each did best on two of the datasets. On the data sets  <b>Nursery</b>  and \"Car\", the GBN classifier was inferior to the Na\u00efve-Bayes. The reason is, in both cases the GBN actually reduced to the Na\u00efve-Bayes with missing links (the reduced",
+    "mykey": 550
+}

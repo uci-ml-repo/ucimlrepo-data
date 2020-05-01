@@ -1,0 +1,11 @@
+{
+    "datasetID": 60,
+    "supportID": "F71E4B90CE0A5FA15B7A148E97485C0B92D816A9",
+    "rexaID": "5ef9c5c8a24b6e0df983284f0caa3fb337c1a77a",
+    "author": "Yuan Jiang and Zhi-Hua Zhou",
+    "title": "Editing Training Data for kNN Classifiers with Neural Network Ensemble",
+    "venue": "ISNN (1)",
+    "year": "2004",
+    "window": "of five hidden units. Therefore here the approach is denoted as NNEE(5,5). Table 6 shows that the NNEE approach achieves the best editing e\u00aeect. In detail, it obtains the best performance on seven data sets, i.e. annealing, credit, <b>liver</b>  pima, soybean, wine and zoo. RemoveOnly obtains the best performance on three data sets, i.e. glass, hayes-roth and wine. It is surprising that Depuration obtains",
+    "mykey": 2498
+}

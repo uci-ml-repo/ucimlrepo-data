@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "F81EC1EED179EE84BC537C3010E52A953D8E4CB6",
+    "rexaID": "5657ca96b13a51d96b97c4f8d8f5e724a616b9e6",
+    "author": "Dorian Suc and Ivan Bratko",
+    "title": "Combining Learning Constraints and Numerical Regression",
+    "venue": "National ICT Australia, Sydney Laboratory at UNSW",
+    "year": "",
+    "window": "which enables a better comparison of Q 2 to other methods. These data sets are AutoMpg, AutoPrice, <b>Housing</b>  MachineCpu and Servo. The other three data sets are from dynamic domains where QUIN has typically been applied so far [Suc, 2003; Suc and Bratko, 2002] . It should",
+    "mykey": 2509
+}

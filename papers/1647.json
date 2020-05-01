@@ -1,0 +1,11 @@
+{
+    "datasetID": 70,
+    "supportID": "A0EF5CFFF9CED79D4A44168B5BF1EDFAD46FF222",
+    "rexaID": "d4664ad584fcc55802b2bffeb0d57f8e62eca0e2",
+    "author": "Ron Kohavi and Brian Frasca",
+    "title": "Useful Feature Subsets and Rough Set Reducts",
+    "venue": "the Third International Workshop on Rough Sets and Soft Computing",
+    "year": "",
+    "window": "tic-tac-toe, breast-cancer, chess, mushroom, vote, and vote1, Holte-II has an average accuracy of 93.6%, much better than C4.5's average accuracy of 82.2%. If we ignore <b>Monk</b> 1, Monk 2, and parity---datasets that C4.5 does very badly on---the average accuracy for Holte-II is 91.2% and 88.5% for C4.5. Holte's 1R program (Holte 1993) built one-rules, that is, rules that test a single attribute, and was",
+    "mykey": 1647
+}

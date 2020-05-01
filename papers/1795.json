@@ -1,0 +1,11 @@
+{
+    "datasetID": 88,
+    "supportID": "AF358876A37DDFE25CC129863FF2C9DF0715DBC4",
+    "rexaID": "ecfe10b847878abd1208e57bbbc4040fb87bebbc",
+    "author": "Christophe Giraud and Tony Martinez",
+    "title": "ADYNAMIC INCREMENTAL NETWORK THAT LEARNS BY DISCRIMINATION",
+    "venue": "AA",
+    "year": "",
+    "window": "<b>shuttle</b> exp consists of the complete set of 278 instances resulting from expanding the 15 rules of the shuttle <b>landing</b> <b>control</b> (shuttle-l-c) dataset. 6 Reported results for hepatitis and shuttle-exp were gathered using 10-way cross validation. Results for the Monk problems used the provided training and test sets, and results for shuttle-l-c",
+    "mykey": 1795
+}

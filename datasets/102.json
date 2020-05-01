@@ -1,0 +1,23 @@
+{
+    "ID": 102,
+    "Name": "Thyroid Disease",
+    "Abstract": "10 separate databases from Garavan Institute",
+    "Types": "Multivariate, Domain-Theory",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Real",
+    "NumInstances": 7200,
+    "NumAttributes": 21,
+    "DateDonated": "1987-01-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/thyroid-disease/",
+    "URLReadme": "../machine-learning-databases/thyroid-disease/HELLO",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "# From Garavan Institute\r\n# Documentation: as given by Ross Quinlan\r\n# 6 databases from the Garavan Institute in Sydney, Australia\r\n# Approximately the following for each database:\r\n\r\n    ** 2800 training (data) instances and 972 test instances\r\n    ** Plenty of missing data\r\n    ** 29 or so attributes, either Boolean or continuously-valued \r\n\r\n# 2 additional databases, also from Ross Quinlan, are also here\r\n\r\n    ** Hypothyroid.data and sick-euthyroid.data\r\n    ** Quinlan believes that these databases have been corrupted\r\n    ** Their format is highly similar to the other databases \r\n\r\n# 1 more database of 9172 instances that cover 20 classes, and a related domain theory\r\n# Another thyroid database from Stefan Aeberhard\r\n\r\n    ** 3 classes, 215 instances, 5 attributes\r\n    ** No missing values \r\n\r\n# A Thyroid database suited for training ANNs\r\n\r\n    ** 3 classes\r\n    ** 3772 training instances, 3428 testing instances\r\n    ** Includes cost data (donated by Peter Turney) \r\n\r\n",
+    "Source": "Ross Quinlan",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "Quinlan,J.R., Compton,P.J., Horn,K.A., & Lazurus,L. (1986). Inductive knowledge acquisition: A case study. In Proceedings of the Second Australian Conference on Applications of Expert Systems.  Sydney, Australia.\r\nhttp://rexa.info/paper/fb0be476945da88160e07aec4e9f787a76b5e33d\r\n\r\nQuinlan,J.R. (1986). Induction of decision trees. Machine Learning, 1, 81--106.\r\nhttp://rexa.info/paper/fca27826da14cfd5786d7beba590b096fb7f29e6",
+    "AttributeInfo": "",
+    "FormatType": "Multiple",
+    "NumHits": 22890
+}

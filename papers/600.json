@@ -1,0 +1,11 @@
+{
+    "datasetID": 144,
+    "supportID": "458D2E8276AA663BD64BA092F763AC6BAE3FF69A",
+    "rexaID": "6c5ed6cbf453e8eaad5400424c931537c71a5e3e",
+    "author": "Ke Wang and Shiyu Zhou and Ada Wai-Chee Fu and Jeffrey Xu Yu",
+    "title": "Mining Changes of Classification by Correspondence Tracing",
+    "venue": "SDM",
+    "year": "2003",
+    "window": "for each small interval to have a separate classification characteristics, either having a different class or having higher accuracy. 4 Experiments We evaluated the proposed method on two real-life data sets, <b>German Credit</b> Data from the UCI Repository of Machine Learning Databases [14], and IPUMS Census Data from [1]. These data sets were chosen because no special knowledge is required to understand",
+    "mykey": 600
+}

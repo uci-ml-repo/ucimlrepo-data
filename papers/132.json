@@ -1,0 +1,11 @@
+{
+    "datasetID": 110,
+    "supportID": "0C11D0228D5FEA3664578A7F58126D4CAC197C3A",
+    "rexaID": "ac35cdc4f306058543fb3fbf817fc84d85f89288",
+    "author": "Johannes Furnkranz",
+    "title": "Round Robin Rule Learning",
+    "venue": "Austrian Research Institute for Artificial Intelligence",
+    "year": "",
+    "window": "683 --- 35 0 19 94.1 thyroid (hyper) 3772 --- 21 6 5 2.7 thyroid (hypo) 3772 --- 21 6 5 7.7 thyroid (repl.) 3772 --- 21 6 4 3.3 vehicle 846 --- 0 18 4 74.2 <b>yeast</b> 1484 --- 0 8 10 68.8 Table 1: Data sets used. The first two columns show the training and test set sizes (as specified in the description of the datasets), the next three columns show the number of symbolic and numeric attributes as well",
+    "mykey": 132
+}

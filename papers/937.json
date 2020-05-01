@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "632FB7A92DF490C156A254C0A4B5464EE191C1FB",
+    "rexaID": "94cf84d5a454c97d326efdb24b2b96e0eac25c33",
+    "author": "Kristin P. Bennett and Ayhan Demiriz and John Shawe-Taylor",
+    "title": "A Column Generation Algorithm For Boosting",
+    "venue": "ICML",
+    "year": "2000",
+    "window": "where the base learner solves (6) exactly, then to examine LPBoost in a more realistic environment. 5.1 Boosting Decision Tree Stumps We used decision tree stumps as a base learner on six UCI datasets: Cancer (9,699), <b>Heart</b> (13,297), Sonar (60,208), Ionosphere (34,351), Diagnostic (30,569), and Musk (166,476). The number of features and number of points in each dataset are shown in parentheses",
+    "mykey": 937
+}

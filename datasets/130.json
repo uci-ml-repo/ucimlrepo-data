@@ -1,0 +1,23 @@
+{
+    "ID": 130,
+    "Name": "KDD Cup 1999 Data",
+    "Abstract": "This is the data set used for The Third International Knowledge Discovery and Data Mining Tools Competition, which was held in conjunction with KDD-99",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 4000000,
+    "NumAttributes": 42,
+    "DateDonated": "1999-01-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/kddcup99-mld/",
+    "URLReadme": "../machine-learning-databases/kddcup99-mld/kddcup99.html",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Please see task description.",
+    "Source": "",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "Salvatore J. Stolfo, Wei Fan, Wenke Lee, Andreas Prodromidis, and Philip K. Chan. Cost-based Modeling and Evaluation for Data Mining With Application to Fraud and Intrusion Detection: Results from the JAM Project. \r\nhttp://rexa.info/paper/fa81d2810f9e8900d92eac1c4292291840b2f7a7",
+    "AttributeInfo": "",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 10255
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "309591BC1585381F6F1E857DBF3DF20A741DFADF",
+    "rexaID": "ec368cf4dedc904072be4ba3a84a01ae2707ae6e",
+    "author": "David Kwartowitz and Sean Brophy and Horace Mann",
+    "title": "Session S2D Work In Progress: Establishing multiple contexts for student's progressive refinement of data mining",
+    "venue": "",
+    "year": "",
+    "window": "version of WEKA became available. Students used this version to complete an end of semester project that asked them to compare and contrast three data mining techniques to analyze the <b>Breast</b> <b>Cancer</b> Data set. Students reported having little difficulty understanding how to use the software and spent most of their time making decisions about how to prepare the data for analysis and analyzing the results.",
+    "mykey": 412
+}

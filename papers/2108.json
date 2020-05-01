@@ -1,0 +1,11 @@
+{
+    "datasetID": 83,
+    "supportID": "D31BEE63C05B00FE2C2ACB117FA3EA55BAC72971",
+    "rexaID": "81a75649d5acc1cc428ca756dac221bac3c8fe01",
+    "author": "Geoffrey I. Webb",
+    "title": "OPUS: An Efficient Admissible Algorithm for Unordered Search",
+    "venue": "J. Artif. Intell. Res. (JAIR, 3",
+    "year": "1995",
+    "window": "I am especially indebted to my anonymous reviewers whose insightful, extensive and detailed comments greatly improved the quality of this paper. The Breast Cancer, Lymphography and <b>Primary</b> <b>Tumor</b> data sets were provided by the Ljubljana Oncology Institute, Slovenia. Thanks to the UCI Repository, its maintainers, Patrick Murphy and David Aha, and its donors, for providing access to the data sets used",
+    "mykey": 2108
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 72,
+    "supportID": "548FA7D2C256E37A0B9916BCEE71A42BBCED20FD",
+    "rexaID": "4f52834d0595282e8454f617706fbec7589c8de6",
+    "author": "Jaakko Peltonen and Samuel Kaski",
+    "title": "Discriminative Components of Data",
+    "venue": "IEEE",
+    "year": "2004",
+    "window": "whose properties are summarized in Table I. The Landsat, Isolet, and <b>Multiple Features</b>  <b>MFeat</b>  data sets are from UCI Machine Learning Repository [31], LVQ PAK refers to the Finnish acoustic phoneme data distributed with the LVQ-PAK [32], and TIMIT refers to phoneme data from the Darpa TIMIT acoustic",
+    "mykey": 775
+}

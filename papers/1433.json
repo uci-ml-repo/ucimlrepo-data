@@ -1,0 +1,11 @@
+{
+    "datasetID": 20,
+    "supportID": "90F4A3A0381D72F99871748F18362A4758FD4BED",
+    "rexaID": "0527f760f533e2a7a827710a924d6987bfc9a06e",
+    "author": "Stephen D. Bay",
+    "title": "Multivariate Discretization for Set Mining",
+    "venue": "Knowl. Inf. Syst, 3",
+    "year": "2001",
+    "window": "for <b>Census</b> Income. We required differences between adjacent cells to be at least as large as 1% of N . ME-MDL requires a class variable and for the Adult, Census-Income, SatImage, and Shuttle datasets we used the class variable that had been used in previous analyses. For UCI Admissions we used Admit = fyes, nog (i.e. was the student admitted to UCI) as the class variable. 6.1. Execution Time",
+    "mykey": 1433
+}

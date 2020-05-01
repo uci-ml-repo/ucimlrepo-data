@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "DFC1E148B1D08500954F5C78F0A1001AFFBFC041",
+    "rexaID": "1c99ea7ad3864a966f968d02da03b3cb94c64f03",
+    "author": "Lena Kallin",
+    "title": "Receiver operating characteristic (ROC) analysis Evaluating discriminance effects among decision support systems",
+    "venue": "Contents 1 The Theory of Receiver Operating Characteristic Curves 5",
+    "year": "",
+    "window": "function, and age (years). Our data consists of 375 non <b>Diabetes</b> and 201 Diabetes cases used in the learning phase, and, respectively, 125 non-Diabetes and 67 Diabetes cases in the testing phase. A data set where all missing data are set to 0.5 will be used, see [Eklund and Kallin Westin, 2002] for details about the data set and its missing data. The first data set is special in the sense that the test",
+    "mykey": 2246
+}

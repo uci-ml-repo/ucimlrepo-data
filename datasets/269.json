@@ -1,0 +1,23 @@
+{
+    "ID": 269,
+    "Name": "YouTube Multiview Video Games Dataset",
+    "Abstract": "This dataset contains about 120k instances, each described by 13 feature types, with class information, specially useful for exploring multiview topics (cotraining, ensembles, clustering,..).",
+    "Types": "Multivariate, Text",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 120000,
+    "NumAttributes": 1000000,
+    "DateDonated": "2013-10-16",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00269/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Please see the README for the details on the data organization, and so on.",
+    "Source": "\r\nOmid Madani , madani@google.com, Google Inc.",
+    "Acknowledgements": "\r\nPlease cite the following (also specified in the README):\r\n\r\n@article{madaniEtAl2013MLJ,\r\n  title= {On Using Nearly-Independent Feature Families for High Precision and Confidence}\r\n  author = {Omid Madani and Manfred Georg and David A. Ross},\r\n  journal = {Machine Learning},\r\n  year = {2013},\r\n  volume = {92},\r\n  pages = {457-477},\r\n  note = {published online 30 May 2013, http://rd.springer.com/article/10.1007%2Fs10994-013-5377-0},\r\n}\r\n\r\n",
+    "Area": "Computer",
+    "RelevantPapers": "[Provide references to papers that have cited this data set in the past (if any).]\r\n\r\nOur recent work used a close version of this dataset:\r\n\r\nOn Using Nearly-Independent Feature Families for High Precision and Confidence, in Machine Learning Journal, 2013 (please see the citation request) and an earlier version in Asian Conference on Machine Learning (ACML 2012):\r\n\r\nOn Using Nearly-Independent Feature Families for High Precision and Confidence. O. Madani, M. Georg, and D. Ross. ACML 2012. \r\n",
+    "AttributeInfo": "Please see the README.",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

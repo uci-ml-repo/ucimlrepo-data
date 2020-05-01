@@ -1,0 +1,23 @@
+{
+    "ID": 65,
+    "Name": "Meta-data",
+    "Abstract": "Meta-Data was used in order to give advice about which classification method is appropriate for a particular dataset (taken from results of Statlog project).",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer, Real",
+    "NumInstances": 528,
+    "NumAttributes": 22,
+    "DateDonated": "1996-03-01",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/meta-data/",
+    "URLReadme": "../machine-learning-databases/meta-data/meta.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This DataSet is about the results of Statlog project. The project performed a comparative study between Statistical, Neural and Symbolic learning algorithms.\r\n\r\nProject StatLog (Esprit Project 5170) was concerned with comparative studies of different machine learning, neural and statistical classification algorithms. About 20 different algorithms were evaluated on more than 20 different datasets. The tests carried out under project produced many interesting results.\r\n\r\nThe results of these tests are comprehensively described in a book  (D.Michie et.al, 1994). ",
+    "Source": "Creator: \r\n\r\nLIACC - University of Porto\r\nR.Campo Alegre 823\r\n4150 PORTO\r\n\r\nDonor: \r\n\r\nP.B.Brazdil or J.Gama\r\nLIACC, University of Porto\t\t\r\nRua Campo Alegre 823\t\t\t\r\n4150 Porto, Portugal \r\nTel.:  +351 600 1672\r\nFax.:  +351 600 3654\r\nEmail:  statlog-adm@ncc.up.pt",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "\"Machine Learning, Neural and Statistical Learning\". Eds. D.Michie,D.J.Spiegelhalter and C.Taylor Ellis Horwood-1994\r\n\r\nP. Brazdil, J.Gama and B.Henery. \"Characterizing the Applicability of Classification Algorithms Using Meta-Level Learning\",   in Proc. of Machine Learning - ECML-94,  ed. F.Bergadano and L.de Raedt,LNAI Vol.784 Springer-Verlag. \r\nhttp://rexa.info/paper/5987c4c7446feef3c48727f76e90a84368ba079e\r\n\r\nJ.Gama, P.Brazdil. \"Characterization of Classification Algorithms\" in Proc. of EPIA 95, LNAI Vol.990 Springer-Verlag, 1995\r\nhttp://rexa.info/paper/492490a3bfbf5e9b06ec5271ff51c68bec1d5c5d",
+    "AttributeInfo": "   1.\tDS_Name\t\tcategorical\tName of DataSet \r\n   2.\tT\t\tcontinuous\tNumber of examples in test set\r\n   3.\tN\t\tcontinuous\tNumber of examples\r\n   4.\tp\t\tcontinuous\tNumber of attributes\r\n   5.\tk\t\tcontinuous\tNumber of classes \r\n   6.\tBin\t\tcontinuous\tNumber of binary Attributes \r\n   7.\tCost\t\tcontinuous\tCost (1=yes,0=no) \r\n   8.\tSDratio\t\tcontinuous\tStandard deviation ratio \r\n   9.\tcorrel\t\tcontinuous\tMean correlation between attributes\r\n  10.\tcancor1\t\tcontinuous\tFirst canonical correlation\r\n  11.\tcancor2\t\tcontinuous\tSecond canonical correlation\r\n  12.\tfract1\t\tcontinuous\tFirst eigenvalue \r\n  13.\tfract2\t\tcontinuous\tSecond eigenvalue \r\n  14.\tskewness\tcontinuous\tMean of |E(X-Mean)|^3/STD^3\r\n  15.\tkurtosis\tcontinuous\tMean of |E(X-Mean)|^4/STD^4\r\n  16.\tHc\t\tcontinuous\tMean entropy of attributes\r\n  17.\tHx\t\tcontinuous\tEntropy of classes\r\n  18.\tMCx\t\tcontinuous\tMean mutual entropy of class and attributes\r\n  19.\tEnAtr\t\tcontinuous\tEquivalent number of attributes \r\n  20.\tNSRatio\t\tcontinuous\tNoise-signal ratio \r\n  21.\tAlg_Name\tcategorical\tName of Algorithm \r\n  22.\tNorm_error\tcontinuous\tNormalized Error (continuous class) ",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 20
+}

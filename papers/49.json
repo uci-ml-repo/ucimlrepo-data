@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "0756CD080BDDC5EA0DAF92978CDE03882601FEF1",
+    "rexaID": "47f4421e112679b98c4ccf604a351b54fbb7a000",
+    "author": "Huan Liu and Rudy Setiono",
+    "title": "Incremental Feature Selection",
+    "venue": "Appl. Intell, 9",
+    "year": "1998",
+    "window": "19 35 683 307 376 Parity5+5 2 10 1024 100 100 Vote 2 16 435 300 135 <b>Mushroom</b> 2 22 8125 7125 1000 Led17 10 24 20,000 20,000 - Krvskp 2 36 3196 3196 - Parity Mix 2 20 2 20 10,000 - ffl Mushroom The dataset has a total of 8124 patterns, of which 1000 patterns are randomly selected for testing, the rest are used for training. The data has 22 discrete features. Each feature can have 2 to 10 values. ffl",
+    "mykey": 49
+}

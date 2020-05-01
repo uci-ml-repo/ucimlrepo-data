@@ -1,0 +1,11 @@
+{
+    "datasetID": 56,
+    "supportID": "4AE20E99F31E61F1B4C35E978E29A8BD535D8AA5",
+    "rexaID": "96b3a7e6a59457734cf527c895053fb4af3141cb",
+    "author": "Huan Liu and Rudy Setiono",
+    "title": "To appear in Proceedings of IEA-AIE96 FEATURE SELECTION AND CLASSIFICATION -- A PROBABILISTIC WRAPPER APPROACH",
+    "venue": "Department of Information Systems and Computer Science National University of Singapore",
+    "year": "",
+    "window": "selection is conducted, which includes CorrAL [JKP94], Monks13 [TBB + 91], and Parity5+5. The other type is real-world data including Credit, Vote, and <b>Labor</b> [Qui93, MA94]. The choice of these datasets can simplify the comparison of this work with some published work. These datasets were used in [JKP94] in which comparisons with different methods were described. For the artificial datasets, no",
+    "mykey": 656
+}

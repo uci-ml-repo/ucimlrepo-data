@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "2F7FEB6955567DF1ECCF0BDE3AC76BCFC7C02701",
+    "rexaID": "d688186b7174c0a53391d92f70d64a41209d3358",
+    "author": "D. Greig and Hava T. Siegelmann and Michael Zibulevsky",
+    "title": "A New Class of Sigmoid Activation Functions That Don't Saturate",
+    "venue": "",
+    "year": "1997",
+    "window": "(3 hidden nodes) the \u00f8 values (0:5; 1:5; 2:5) were used, for the <b>glass</b> data set (6 hidden nodes), the values (0:5; 1:0; 1:5; 2:0; 2:5; 3:0) were used, and for the bodyfat data set (7 hidden nodes) the values (0:5; 1:0; 1:5; 2:0; 2:5; 3:0; 3:5) were used. The results for these",
+    "mykey": 408
+}

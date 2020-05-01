@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "3117D5527496F0B6A29CF12677AB275300AB7D9A",
+    "rexaID": "8432b52f06e00a68cb8a7a49e3938190338231de",
+    "author": "Yin Zhang and W. Nick Street",
+    "title": "Bagging with Adaptive Costs",
+    "venue": "Management Sciences Department University of Iowa Iowa City",
+    "year": "",
+    "window": "[2]: Autompg, Bupa, Glass, Haberman, Housing, Cleveland-heart-disease, Hepatitis, Ion, Pima, Sonar, Vehicle, WDBC, <b>Wine</b> and WPBC. Some of the data sets do not originally depict two-class problems so we did some transformation on the dependent variables to get binary class labels. Specifically in our experiments, Autompg data is labeled by whether",
+    "mykey": 418
+}

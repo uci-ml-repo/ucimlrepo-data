@@ -1,0 +1,23 @@
+{
+    "ID": 289,
+    "Name": "Dresses_Attribute_Sales",
+    "Abstract": "This dataset contain Attributes of dresses and their recommendations according to their sales.Sales are monitor on the basis of alternate days. ",
+    "Types": "Text",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "",
+    "NumInstances": 501,
+    "NumAttributes": 13,
+    "DateDonated": "2014-02-19",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00289/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Style,\tPrice,\tRating,\tSize,\tSeason,\tNeckLine,\tSleeveLength,\twaiseline,\tMaterial,\tFabricType,\tDecoration,\tPattern, Type,\tRecommendation are Attributes in dataset.\r\n",
+    "Source": "Muhammad Usman & Adeel Ahmed, usman.madspot@gmail.com adeel.ahmed92@gmail.com, Air University, Students at Air University.",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Computer",
+    "RelevantPapers": "Null",
+    "AttributeInfo": "Style: Bohemia,brief,casual,cute,fashion,flare,novelty,OL,party,sexy,vintage,work.\r\nPrice:Low,Average,Medium,High,Very-High\r\nRating:1-5\r\nSize:S,M,L,XL,Free\t\r\nSeason:Autumn,winter,Spring,Summer\r\nNeckLine:O-neck,backless,board-neck,Bowneck,halter,mandarin-collor,open,peterpan-collor,ruffled,scoop,slash-neck,square-collar,sweetheart,turndowncollar,V-neck.\r\nSleeveLength:full,half,halfsleeves,butterfly,sleveless,short,threequarter,turndown,null\r\nwaiseline:dropped,empire,natural,princess,null.\t\r\nMaterial:wool,cotton,mix etc\t\r\nFabricType:shafoon,dobby,popline,satin,knitted,jersey,flannel,corduroy etc\r\nDecoration:applique,beading,bow,button,cascading,crystal,draped,embroridary,feathers,flowers etc\r\nPattern type: solid,animal,dot,leapard etc\r\nRecommendation:0,1\r\n",
+    "FormatType": "",
+    "NumHits": 8
+}

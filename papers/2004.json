@@ -1,0 +1,11 @@
+{
+    "datasetID": 80,
+    "supportID": "C93E1E809F7869AA56B5E0DD2E2E02947E6C7084",
+    "rexaID": "01b6c0d942e55f6fbcd5def25529431bf2fa33ff",
+    "author": "Erick Cant\u00fa-Paz and Chandrika Kamath",
+    "title": "Using Evolutionary Algorithms to Induce Oblique Decision Trees",
+    "venue": "Center for Applied Scientific Computing Lawrence Livermore National Laboratory",
+    "year": "",
+    "window": "we experimented with the <b>optical</b> digit <b>recognition</b> data set, which is also available at UCI's ML repository. This data set has 3823 instances in a training set and 1797 in a testing set; each instance is described by 64 numeric attributes. The objective is",
+    "mykey": 2004
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 125,
+    "Name": "Insurance Company Benchmark (COIL 2000)",
+    "Abstract": "This data set used in the CoIL 2000 Challenge contains information on customers of an insurance company. The data consists of 86 variables and includes product usage data and socio-demographic data",
+    "Types": "Multivariate",
+    "Task": "Regression, Description",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 9000,
+    "NumAttributes": 86,
+    "DateDonated": "2000-07-03",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/tic-mld/",
+    "URLReadme": "../machine-learning-databases/tic-mld/ticeval2000.txt",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Information about customers consists of 86 variables and includes product usage data and socio-demographic data derived from zip area codes. The data was supplied by the Dutch data mining company Sentient Machine Research and is based on a real world business problem. The training set contains over 5000 descriptions of customers, including the information of whether or not they have a caravan insurance policy. A test set contains 4000 customers of whom only the organisers know if they have a caravan insurance policy. \r\n\r\nThe data dictionary (http://kdd.ics.uci.edu/databases/tic/dictionary.txt) describes the variables used and their values. \r\n\r\nNote: All the variables starting with M are zipcode variables. They give information on the distribution of that variable, e.g. Rented house, in the zipcode area of the customer. \r\n\r\nOne instance per line with tab delimited fields. \r\n\r\nTICDATA2000.txt: Dataset to train and validate prediction models and build a description (5822 customer records). Each record consists of 86 attributes, containing sociodemographic data (attribute 1-43) and product ownership (attributes 44-86).The sociodemographic data is derived from zip codes. All customers living in areas with the same zip code have the same sociodemographic attributes. Attribute 86, \"CARAVAN:Number of mobile home policies\", is the target variable. \r\n\r\nTICEVAL2000.txt: Dataset for predictions (4000 customer records). It has the same format as TICDATA2000.txt, only the target is missing. Participants are supposed to return the list of predicted targets only. All datasets are in tab delimited format. The meaning of the attributes and attribute values is given below. \r\n\r\nTICTGTS2000.txt Targets for the evaluation set. \r\n",
+    "Source": "Original Owner and Donor:\r\n\r\nPeter van der Putten\r\nSentient Machine Research\r\nBaarsjesweg 224\r\n1058 AA Amsterdam\r\nThe Netherlands\r\n+31 20 6186927\r\npvdputten@hotmail.com, putten@liacs.nl\r\n\r\nTIC Benchmark Homepage: http://www.liacs.nl/~putten/library/cc2000/\r\n",
+    "Acknowledgements": "Data is (c) Sentient Machine Research 2000 \r\nThis dataset is owned and supplied by the Dutch datamining company Sentient Machine Research, and is based on real world business data. You are allowed to use this dataset and accompanying information for non commercial research and education purposes only. It is explicitly not allowed to use this dataset for commercial education or demonstration purposes. \r\n\r\nPlease cite/acknowledge: \r\n\r\nP. van der Putten and M. van Someren (eds) . CoIL Challenge 2000: The Insurance Company Case. Published by Sentient Machine Research, Amsterdam. Also a Leiden Institute of Advanced Computer Science Technical Report 2000-09. June 22, 2000. \r\nhttp://rexa.info/paper?id=7f7969d051686a95761901a2482dd8f359cf9979",
+    "Area": "Social",
+    "RelevantPapers": "P. van der Putten and M. van Someren (eds). CoIL Challenge 2000: The Insurance Company Case. Published by Sentient Machine Research, Amsterdam. Also a Leiden Institute of Advanced Computer Science Technical Report 2000-09. June 22, 2000. \r\nhttp://rexa.info/paper/c5f01e92363a57217cb26b442a2431911d4278b8",
+    "AttributeInfo": "",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 9678
+}

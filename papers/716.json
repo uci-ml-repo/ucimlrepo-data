@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "511C102F54FF40CC57450EF0AA424A468447F7B0",
+    "rexaID": "1b7ec8555d756f0b0f3899a066abb09329234c5b",
+    "author": "Christopher K I Williams and Carl Edward Rasmussen and Anton Schwaighofer and Volker Tresp",
+    "title": "Observations on the Nystrom Method for Gaussian Process Prediction",
+    "venue": "Division of Informatics Gatsby Computational Neuroscience Unit University of Edinburgh University College London",
+    "year": "2002",
+    "window": "0.0885 # 0.0073 0.1171 # 0.0222 0.0846 400 0.0871 # 0.0071 0.0843 # 0.0026 0.0922 # 0.0193 0.0845 Table 1: Comparison of the Nystrom, SR, just-m and m-eigenvectors methods on the Boston <b>housing</b> data set for values of m of 100; 200; 300; 400. For the first three methods ten replications were used, with random choice of the x points; each entry shows the mean and standard deviation of the 10 MSE",
+    "mykey": 716
+}

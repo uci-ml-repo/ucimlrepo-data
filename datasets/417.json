@@ -1,0 +1,23 @@
+{
+    "ID": 417,
+    "Name": "Character Font Images",
+    "Abstract": "Character images from scanned and computer generated fonts.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 745000,
+    "NumAttributes": 411,
+    "DateDonated": "2016-08-14",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00417/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The data set consists of images from 153 character fonts. Some fonts were scanned from a variety of devices: hand scanners, desktop scanners or cameras.  Other fonts were computer generated.  The .zip file contains .csv, comma delimited files, one for each font.  Each .csv file has a header row with the data set attribute names. \r\n\r\nThe Handprint images differ slightly from the standard MNIST dataset.  ",
+    "Source": "Richard Lyman\r\n459 Monterey Avenue\r\nLos Gatos, California 95030\r\n408 399 6303\r\nrichard.r.lyman@gmail.com",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "A utility Python program for accessing this data set, script files, and approximately 40 machine learning programs adapted from the book, \u00e2\u20ac\u0153Python Machine Learning\u00e2\u20ac\u009d by Sebastian Raschka, can be found at: https://github.com/rrlyman/PythonMachineLearningExamples",
+    "AttributeInfo": "field       Type    Unique  Example          Description\r\nfont        string  153    \u00e2\u20ac\u02dctimes\u00e2\u20ac\u2122           font family\r\nfontVariant string  248    \u00e2\u20ac\u02dctimes new roman\u00e2\u20ac\u2122 If the font image was from a scanner, \r\n                                             the fontVariant is \u00e2\u20ac\u0153scanned\u00e2\u20ac\u009d otherwise it is the font name.\r\nm_label     integer 11597  33 to 65535       The character value, for instance 48 for the digit, \u00e2\u20ac\u02dc0\u00e2\u20ac\u2122\r\nstrength    real    2      .4                A value 0 to 1, indicating normal or bold\r\nitalic      integer 2      1                 A flag, if 1, the image was computer generated with the an italic font.\r\nm_top       integer        13                The topmost black pixel row index in the original image from which the image was cut\r\nm_left      integer        43                The leftmost black pixel column index in the original image from which the image was cut\r\noriginalH   integer        30                The original height of the image in pixels\r\noriginalW   integer        36                The original width of the image in pixels\r\nh           integer 1      20                The image height in this sample, always 20\r\nw           integer 1      20                The image width in this sample, always 20\r\nr0c0        integer        0                 Row 0 Column 0 pixel value, 0 to 255, white is 0, 255 is black\r\nr0c1        integer        255               Row 0, Column 1 pixel value, 0 to 255\r\n\u00e2\u20ac\u00a6 397       integer        0                 397 pixel values, 0 to 255\r\nr19c19      integer        255               Row 19, Column 19 pixel value, 0 to 255",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

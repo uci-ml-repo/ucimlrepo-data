@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "F7E43C9DA56C3BF10398B407F0869F4564FBC335",
+    "rexaID": "ece9c7ce7e687a5cd309737e5358873e424f7fb4",
+    "author": "Hiroshi Shimodaira and Jun Okui and Mitsuru Nakai",
+    "title": "IMPROVING THE GENERALIZATION PERFORMANCE OF THE MCE/GPD LEARNING",
+    "venue": "School of Information Science Japan Advanced Institute of Science and Technology Tatsunokuchi, Ishikawa",
+    "year": "",
+    "window": "parameter updating rule of (6) were set to the one obtained by the EBP learning. A. Results for Two-Class Problems Preliminary experiments were, at first, performed for two-class problems on the UCI datasets \"cancer\", \"house\" and  <b>sonar</b> . Each dataset was divided into two groups, one was used for training and the other was used for testing. The experimental results are summarized in Table 1. It can be",
+    "mykey": 2507
+}

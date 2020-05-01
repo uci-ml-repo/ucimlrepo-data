@@ -1,0 +1,23 @@
+{
+    "ID": 253,
+    "Name": "MicroMass",
+    "Abstract": "A dataset to explore machine learning approaches for the identification of microorganisms from mass-spectrometry data.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 931,
+    "NumAttributes": 1300,
+    "DateDonated": "2013-08-12",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00253/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This MALDI-TOF dataset consists in:\nA) A reference panel of 20 Gram positive and negative bacterial species covering 9 genera among which several species are known to be hard to discriminate by mass spectrometry (MALDI-TOF). Each species was represented by 11 to 60 mass spectra obtained from 7 to 20 bacterial strains, constituting altogether a dataset of 571 spectra obtained from 213 strains. The spectra were obtained according to the standard culture-based workflow used in clinical routine in which the microorganism was first grown on an agar plate for 24 to 48 hours, before a portion of colony was picked, spotted on a MALDI slide and a mass spectrum was acquired. \nB) Based on this reference panel, a dedicated in vitro mock-up mixture dataset was constituted. For that purpose we considered 10 pairs of species of various taxonomic proximity:\n   * 4 mixtures, labelled A, B, C and D, involved species that belong to the same genus,\n   * 2 mixtures, labelled E and F, involved species that belong to distinct genera, but to the same Gram type,\n   * 4 mixtures, labelled G, H, I and J, involved species that belong to distinct Gram types.\nEach mixture was represented by 2 pairs of strains, which were mixed according to the following 9 concentration ratios : 1:0, 10:1, 5:1, 2:1, 1:1, 1:2, 1:5, 1:10, 0:1. Two replicate spectra were acquired for each concentration ratio and each couple of strains, leading altogether to a dataset of 360 spectra, among which 80 are actually pure sample spectra.",
+    "Source": "Pierre Mah\u00e9, pierre.mahe@biomerieux.com, bioM\u00e9rieux\nJean-Baptiste Veyrieras, jean-baptiste.veyrieras@biomerieux.com, bioM\u00e9rieux",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Life",
+    "RelevantPapers": "Mah\u00e9 et al. (2014). Automatic identification of mixed bacterial species fingerprints in a MALDI-TOF mass-spectrum. Bioinformatics.\nVervier et al., A benchmark of support vector machines strategies for microbial identification by mass-spectrometry data, submitted",
+    "AttributeInfo": "Provide information about each attribute in your data set.",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

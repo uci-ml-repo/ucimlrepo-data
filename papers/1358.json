@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "889A8004320A03C92562EDE922E80B7E6A70C63E",
+    "rexaID": "a9190b213f00d51e490ba40125b46f31d04d77ca",
+    "author": "Pramod Viswanath and M. Narasimha Murty and Shalabh Bhatnagar",
+    "title": "Partition Based Pattern Synthesis Technique with Efficient Algorithms for Nearest Neighbor Classification",
+    "venue": "Department of Computer Science and Automation, Indian Institute of Science",
+    "year": "",
+    "window": "We performed experiments with five different datasets, viz., OCR, WINE, VOWEL, THYROID, <b>GLASS</b> and PENDIGITS, respectively. Except the OCR dataset, all others are from the UCI Repository [19]. OCR dataset is also used in [20,18]. The properties of the",
+    "mykey": 1358
+}

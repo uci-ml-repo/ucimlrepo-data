@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "996D122EE2F4B1B9300F3A35CCD5424ABFCBF7FC",
+    "rexaID": "bcdb5e21043b224589c8ba0c670a49d10f5f5580",
+    "author": "Igor Fischer and Jan Poland",
+    "title": "Amplifying the Block Matrix Structure for Spectral Clustering",
+    "venue": "Telecommunications Lab",
+    "year": "2005",
+    "window": "are common benchmark sets with real-world data (Murphy & Aha, 1994): the iris, the wine and the <b>breast</b> <b>cancer</b> data set. Both our methods perform very well on iris and breast cancer. However, the wine data set is too sparse for context-dependent method: only 178 points in 13 dimensions, giving the conductivity too",
+    "mykey": 1546
+}

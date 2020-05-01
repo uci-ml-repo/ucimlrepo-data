@@ -1,0 +1,11 @@
+{
+    "datasetID": 31,
+    "supportID": "17E7C99313085AE9DD177C5FA7FAC92939F6A343",
+    "rexaID": "a210d2418e04c74da13adc0356b79daa197b9d89",
+    "author": "Zoran Obradovic and Slobodan Vucetic",
+    "title": "Challenges in Scientific Data Mining: Heterogeneous, Biased, and Large Samples",
+    "venue": "Center for Information Science and Technology Temple University",
+    "year": "",
+    "window": "levels of all attributes in an efficient manner. 1.4.2 Application 6: Reduction of spatially correlated data We performed a number of down-sampling and quantization experiments [76] on several large data sets including <b>Covertype</b> Data Set. This set is currently one of the largest databases in the UCI Database Repository [50] containing 581,012 examples with 54 attributes and 7 target classes and",
+    "mykey": 204
+}

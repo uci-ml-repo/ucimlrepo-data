@@ -1,0 +1,23 @@
+{
+    "ID": 61,
+    "Name": "Logic Theorist",
+    "Abstract": "All code for Logic Theorist",
+    "Types": "Domain-Theory",
+    "Task": "",
+    "AttributeTypes": "",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/logic-theorist/",
+    "URLReadme": "../machine-learning-databases/logic-theorist/ReadMe",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "",
+    "Source": "Donated by Paul O'Rorke's (described in Machine Learning) ",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 15
+}

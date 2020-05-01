@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "086B189A5B7FF3F466BDB748C0CF272EC1186EDB",
+    "rexaID": "b4b7ea88c807c5c8746bf3067f13b1d07899bcc9",
+    "author": "Andrew Watkins and Jon Timmis and Lois C. Boggess",
+    "title": "Artificial Immune Recognition System (AIRS): An ImmuneInspired Supervised Learning Algorithm",
+    "venue": "(abw5,jt6@kent.ac.uk) Computing Laboratory, University of Kent",
+    "year": "",
+    "window": "where classification accuracy of 98% was achieved using a k-value of 3. This seemed to bode well, and further experiments were undertaken using the Fisher <b>Iris</b> data set, Pima diabetes data, Ionosphere data and the Sonar data set, all obtained from the repository at the University of California at Irvine [4]. Table II shows the performance of AIRS on these data sets",
+    "mykey": 83
+}

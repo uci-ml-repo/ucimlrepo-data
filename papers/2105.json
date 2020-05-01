@@ -1,0 +1,11 @@
+{
+    "datasetID": 63,
+    "supportID": "D31BEE63C05B00FE2C2ACB117FA3EA55BAC72971",
+    "rexaID": "81a75649d5acc1cc428ca756dac221bac3c8fe01",
+    "author": "Geoffrey I. Webb",
+    "title": "OPUS: An Efficient Admissible Algorithm for Unordered Search",
+    "venue": "J. Artif. Intell. Res. (JAIR, 3",
+    "year": "1995",
+    "window": "of the search space below a poor choice of node can do much to minimize the damage done by that poor choice, even when there is no backtracking as is the case for depth-first search. For five data sets (House Votes 84, <b>Lymphography</b>  Mushroom, Primary Tumor and Soybean Large), disabling optimistic pruning has little e\u00aeect under best-first search. Disabling optimistic pruning always has large e\u00aeect",
+    "mykey": 2105
+}

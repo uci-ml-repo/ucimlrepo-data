@@ -1,0 +1,23 @@
+{
+    "ID": 64,
+    "Name": "Mechanical Analysis",
+    "Abstract": "Fault diagnosis problem of electromechanical devices; also PUMPS DATA SET is newer version with domain theory and results",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer, Real",
+    "NumInstances": 209,
+    "NumAttributes": 8,
+    "DateDonated": "1990-06-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/mechanical-analysis/",
+    "URLReadme": "../machine-learning-databases/mechanical-analysis/older-version/mechanical-analysis.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "F. Bergadano supplied this database.  Each instance contains many components, each of which has 8 attributes.  Different instances in this database have different numbers of components.   It was impossible to put one instance on one line.  He originally had one instance per file, but this makes it difficult to ftp them (imagine ftp'ing 222 or so files!).  I bundled the set of 209 instances into a single data file, prefixing each with the line:\r\n  \r\n              ===== Instance number 1: =====\r\n\r\nwhere \"n\" is a number in [1,221].  However, they are NOT, repeat NOT in sequential order.  Twelve (12) of the instances are missing.  Bergadano supplied these additional 12 instances (numbers 8,12,32,33,66,69,73,152,167,194,203,208) in a \"notused\" sub-directory.  I bundled these up with the same format in the \"notused-instances\" file.\r\n\r\nA quick scan of their file didn't reveal what the purpose is for these twelve instances.",
+    "Source": "Original Owners of Database:\r\n\r\n1. F. Bergadano, A. Giordana, L. Saitta\r\nUniversity of Torino, Italy\r\nCorso Svizzera 185, Torino - tel. (39) 11 7712002\r\ne-mail: bergadan@itoinfo.bitnet\r\n\r\n2. F. Bracadori, D. De Marchi\r\nSogesta, Localita' Crocicchio, Urbino, Italy\r\n\r\nDonor: \r\n\r\nEnichem (Eni), Ravenna through Sogesta (Eni), Urbino.",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "F. Bergadano, A. Giordana, L. Saitta, F. Brancadori, D. De Marchi: \"Integrated Learning in a real Domain\" Proc. VII ML Conference, Austin TX, 1990 (pages 322-329)\r\nhttp://rexa.info/paper/3e1384daf9ac6fb81cc3569b630f939120b2492a",
+    "AttributeInfo": "   0 - dummy (always 1) - used for numbering - ignore\r\n   1 - class - classification (1..6, the same for components of one example)\r\n   2 - # - component number (integer)\r\n   3 - sup - support in the machine where measure was taken (1..4)\r\n   4 - cpm - frequency of the measure (integer)\r\n   5 - mis - measure  (real)\r\n   6 - misr - earlier measure (real)\r\n   7 - dir - filter, type of the measure and direction:\r\n\t\t       {vo=<no filter, velocity, horizontal>,\r\n\t\t\tva=<no filter, velocity, axial>,\r\n\t\t\tvv=<no filter, velocity, vertical>,\r\n\t\t\tao=<no filter, amplitude, horizontal>,\r\n\t\t\taa=<no filter, amplitude, axial>,\r\n\t\t\tav=<no filter, amplitude, vertical>,\r\n\t\t\tio=<filter, velocity, horizontal>,\r\n\t\t\tia=<filter, velocity, axial>,\r\n\t\t\tiv=<filter, velocity, vertical>}\r\n   8 - omega - rpm of the machine (integer, the same for components of one example)",
+    "FormatType": "",
+    "NumHits": 18
+}

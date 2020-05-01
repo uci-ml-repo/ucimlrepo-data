@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "FEDDECBFD85DDE82A7B9045EF69414F298CECC07",
+    "rexaID": "3133463eae0649e94c08d14ebea6aa976b8984b2",
+    "author": "Daniel Barbar and Yi Li and Julia Couto",
+    "title": "COOLCAT: an entropy-based algorithm for categorical clustering",
+    "venue": "CIKM",
+    "year": "2002",
+    "window": "0.487478 0.506039 0.499362 Expected entropy 13.9632 13.9585 13.9283 13.9079 - Running times(sec.) 0.16 0.26 0.28 0.29 0.51 Figure 10: Results for COOLCAT and ROCK in the Congressional <b>Voting data</b> set Metric COOLCAT, m ROCK 0% 10% (20) 20% (40) 40% (80) \u00af CU 7.089928 7.110608 7.090686 7.125781 6.882149 Entropy (edible) 0.023374 0.030934 0.023575 0.03177 0.012389 Expected entropy 9.8744 9.8551",
+    "mykey": 2582
+}

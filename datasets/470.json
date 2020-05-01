@@ -1,0 +1,23 @@
+{
+    "ID": 470,
+    "Name": "Parkinson's Disease Classification",
+    "Abstract": "The data used in this study were gathered from 188 patients with PD (107 men and 81 women) with ages ranging from 33 to 87 (65.1\u00c2\u00b110.9).",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 756,
+    "NumAttributes": 754,
+    "DateDonated": "2018-11-05",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00470/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The data used in this study were gathered from 188 patients with PD (107 men and 81 women) with ages ranging from 33 to 87 (65.1\u00c2\u00b110.9) at the Department of Neurology in Cerrahpa\u00c5\u0178a Faculty of Medicine, Istanbul University. The control group consists of 64 healthy individuals (23 men and 41 women) with ages varying between 41 and 82 (61.1\u00c2\u00b18.9). During the data collection process, the microphone is set to 44.1 KHz and following the physician\u00e2\u20ac\u2122s examination, the sustained phonation of the vowel /a/ was collected from each subject with three repetitions.",
+    "Source": "C. Okan Sakar a, Gorkem Serbes b, Aysegul Gunduz c, \r\nHunkar C. Tunc a, Hatice Nizam d, Betul Erdogdu Sakar e, Melih Tutuncu c, \r\nTarkan Aydin a, M. Erdem Isenkul d, Hulya Apaydin c \r\na Department of Computer Engineering, Bahcesehir University, Istanbul, 34353, Turkey\r\nb Department of Biomedical Engineering, Yildiz Technical University, Istanbul, 34220, Turkey \r\nc Department of Neurology, Cerrahpa\u00c5\u0178a Faculty of Medicine, Istanbul University, Istanbul 34098, Turkey\r\nd Department of Computer Engineering, Istanbul University, Istanbul, 34320, Turkey \r\ne Department of Software Engineering, Bahcesehir University, Istanbul, 34353, Turkey\r\ne-mails: {okan.sakar@eng.bau.edu.tr; gserbes@yildiz.edu.tr;\r\ndraysegulgunduz@yahoo.com; hunkarcan.tunc@stu.bahcesehir.edu.tr; haticenizam92@gmail.com; betul.erdogdu@eng.bau.edu.tr; tutuncumelih@yahoo.com; tarkan.aydin@eng.bau.edu.tr; eisenkul@istanbul.edu.tr; hulyapay@istanbul.edu.tr}\r\n",
+    "Acknowledgements": "If you use this dataset, please cite:\r\nSakar, C.O., Serbes, G., Gunduz, A., Tunc, H.C., Nizam, H., Sakar, B.E., Tutuncu, M., Aydin, T., Isenkul, M.E. and Apaydin, H., 2018. A comparative analysis of speech signal processing algorithms for Parkinson\u00e2\u20ac\u2122s disease classification and the use of the tunable Q-factor wavelet transform. Applied Soft Computing, DOI: https://doi.org/10.1016/j.asoc.2018.10.022",
+    "Area": "Computer",
+    "RelevantPapers": "Provide references to papers that have cited this data set in the past (if any).",
+    "AttributeInfo": "Various speech signal processing algorithms including Time Frequency Features, Mel Frequency Cepstral Coefficients (MFCCs), Wavelet Transform based Features, Vocal Fold Features and TWQT features have been applied to the speech recordings of Parkinson's Disease (PD) patients to extract clinically useful information for PD assessment.",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

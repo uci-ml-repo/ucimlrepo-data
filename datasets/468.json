@@ -1,0 +1,23 @@
+{
+    "ID": 468,
+    "Name": "Online Shoppers Purchasing Intention Dataset",
+    "Abstract": "Of the 12,330 sessions in the dataset,\r\n84.5% (10,422) were negative class samples that did not\r\nend with shopping, and the rest (1908) were positive class\r\nsamples ending with shopping.",
+    "Types": "Multivariate",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 12330,
+    "NumAttributes": 18,
+    "DateDonated": "2018-08-31",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00468/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset consists of feature vectors belonging to 12,330 sessions. \r\nThe dataset was formed so that each session\r\nwould belong to a different user in a 1-year period to avoid\r\nany tendency to a specific campaign, special day, user\r\nprofile, or period. ",
+    "Source": "Source\r\n1. C. Okan Sakar\r\nDepartment of Computer Engineering, Faculty of\r\nEngineering and Natural Sciences, Bahcesehir University,\r\n34349 Besiktas, Istanbul, Turkey\r\n\r\n2. Yomi Kastro\r\nInveon Information Technologies Consultancy and Trade,\r\n34335 Istanbul, Turkey",
+    "Acknowledgements": "If you use this dataset, please cite:\r\nSakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput & Applic (2018). https://doi.org/10.1007/s00521-018-3523-0",
+    "Area": "Business",
+    "RelevantPapers": "Sakar, C.O., Polat, S.O., Katircioglu, M. et al. Neural Comput & Applic (2018). https://doi.org/10.1007/s00521-018-3523-0",
+    "AttributeInfo": "The dataset consists of 10 numerical and 8 categorical attributes.\r\nThe 'Revenue' attribute can be used as the class label.\r\n\r\n\"Administrative\", \"Administrative Duration\", \"Informational\", \"Informational Duration\", \"Product Related\" and \"Product Related Duration\" represent the number of different types of pages visited by the visitor in that session and total time spent in each of these page categories. The values of these features are derived from the URL information of the pages visited by the user and updated in real time when a user takes an action, e.g. moving from one page to another. The \"Bounce Rate\", \"Exit Rate\" and \"Page Value\" features represent the metrics measured by \"Google Analytics\" for each page in the e-commerce site. The value of \"Bounce Rate\" feature for a web page refers to the percentage of visitors who enter the site from that page and then leave (\"bounce\") without triggering any other requests to the analytics server during that session. The value of \"Exit Rate\" feature for a specific web page is calculated as for all pageviews to the page, the percentage that were the last in the session. The \"Page Value\" feature represents the average value for a web page that a user visited before completing an e-commerce transaction. The \"Special Day\" feature indicates the closeness of the site visiting time to a specific special day (e.g. Mother\u2019s Day, Valentine's Day) in which the sessions are more likely to be finalized with transaction. The value of this attribute is determined by considering the dynamics of e-commerce such as the duration between the order date and delivery date. For example, for Valentina\u2019s day, this value takes a nonzero value between February 2 and February 12, zero before and after this date unless it is close to another special day, and its maximum value of 1 on February 8. The dataset also includes operating system, browser, region, traffic type, visitor type as returning or new visitor, a Boolean value indicating whether the date of the visit is weekend, and month of the year.",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

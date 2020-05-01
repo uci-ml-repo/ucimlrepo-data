@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "5F6472F0C8B67ED76F4B12F29F10E625C9F9F467",
+    "rexaID": "287f8092a743949a6e0151893b9e3bc4d03466ed",
+    "author": "Gabor Melli",
+    "title": "A Lazy Model-Based Approach to On-Line Classification",
+    "venue": "University of British Columbia",
+    "year": "1989",
+    "window": "................ 88 7.2 Example of one algorithm (A 1 ) being more accurate than another (A 2 ). . . . 90 7.3 Accuracy performance on the <b>iris</b> dataset for several parameter combinations of the DI n ()basedalgorithm............................ 93 7.4 Parameter settings for the DI n () based algorithm that achieve the lowest",
+    "mykey": 891
+}

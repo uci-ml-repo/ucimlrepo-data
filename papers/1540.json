@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "989F68889B2F714489E9F1599337A63A4022C253",
+    "rexaID": "d18b9cca12173a8ca3d5a781cadcf847442930f4",
+    "author": "Carlotta Domeniconi and Jing Peng and Dimitrios Gunopulos",
+    "title": "An Adaptive Metric Machine for Pattern Classification",
+    "venue": "NIPS",
+    "year": "2000",
+    "window": "used were taken from the UCI Machine Learning Database Repository [10], except for the unreleased image data set. They are: 1. <b>Iris</b> data. This data set consists of q = 4 measurements made on each of N = 100 iris plants of J = 2 species; 2. Sonar data. This data set consists of q = 60 frequency measurements",
+    "mykey": 1540
+}

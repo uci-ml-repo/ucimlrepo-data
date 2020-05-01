@@ -1,0 +1,11 @@
+{
+    "datasetID": 148,
+    "supportID": "2F8FCADC514CEB994E202A03C0EA8CE3F427C2B0",
+    "rexaID": "af8d7cc40c6d9dd6d1b261e68d612c371055b313",
+    "author": "Jeffrey P. Bradford and Clayton Kunz and Ron Kohavi and Clifford Brunk and Carla Brodley",
+    "title": "Appears in ECML-98 as a research note Pruning Decision Trees with Misclassification Costs",
+    "venue": "School of Electrical Engineering",
+    "year": "",
+    "window": "classification based on census bureau data), breast cancer diagnosis, chess, crx (credit), german (credit), pima diabetes, road (dirt), satellite images, <b>shuttle</b>  and vehicle. In choosing the datasets, we decided on the following desiderata: 1. Datasets should be two-class to make the evaluation easier. This desideratum was hard to satisfy and we resorted to converting several multi-class",
+    "mykey": 410
+}

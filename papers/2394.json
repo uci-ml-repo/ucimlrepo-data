@@ -1,0 +1,11 @@
+{
+    "datasetID": 90,
+    "supportID": "ED98837DE13155904405120B9407B6C6339D173C",
+    "rexaID": "b6fb41e86105131ea2ce769929b199c003161616",
+    "author": "Daichi Mochihashi and Gen-ichiro Kikui and Kenji Kita",
+    "title": "Learning Nonstructural Distance Metric by Minimum Cluster Distortions",
+    "venue": "ATR Spoken Language Translation research laboratories",
+    "year": "",
+    "window": "0 . 6 0 . 7 0 . 8 0 . 9 1 1 2 5 1 0 2 0 3 5 D i m e n s i o n P r e c i s i o n (d)  <b>soybean</b>  dataset Figure 4: K-means clustering of UCI Machine Learning dataset results. The horizontal axis shows compressed dimensions (rightmost is original). The right bar shows clustering precision using Metric",
+    "mykey": 2394
+}

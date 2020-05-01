@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "392FCB3E25E092E87DCDA3DCCE6F93EC1FCB3B07",
+    "rexaID": "39037b34a030869c4d11077a2cb171ac3ba3ff0d",
+    "author": "Thomas Melluish and Craig Saunders and Ilia Nouretdinov and Volodya Vovk and Carol S. Saunders and I. Nouretdinov V.",
+    "title": "The typicalness framework: a comparison with the Bayesian approach",
+    "venue": "Department of Computer Science",
+    "year": "2001",
+    "window": "Recognition Experiments In this section we compare the Bayesian-Transduction (BT) algorithm and the kernel perceptron when used within the typicalness framework. We ran experiments on two toy datasets, and the well-known <b>heart</b> benchmark data set. For the artificial data, one dataset was created using a uniform prior over w such that jjwjj = 1 (this is the correct prior for Bayesian",
+    "mykey": 486
+}

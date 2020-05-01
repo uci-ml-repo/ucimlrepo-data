@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "538E5168E724B47D2B8A6B2FD5CF528BB6EECEEB",
+    "rexaID": "70172e511a3bc27c7927119a3b2a3405fbad99e0",
+    "author": "Kai Ming Ting and Ian H. Witten",
+    "title": "Issues in Stacked Generalization",
+    "venue": "J. Artif. Intell. Res. (JAIR, 10",
+    "year": "1999",
+    "window": "situation. The performance variation among the member models in bagging is rather small because they are derived from the same learning algorithm using bootstrap samples. Section 3.3 4. The <b>heart</b> dataset used by Breiman (1996b; 1996c) is omitted because it was very much modified from the original one. 284 Issues in Stacked Generalization shows that a small performance variation among member models",
+    "mykey": 747
+}

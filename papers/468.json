@@ -1,0 +1,11 @@
+{
+    "datasetID": 33,
+    "supportID": "36129A67AD5415B48EC9DE0F46F3F70A7CF53F2E",
+    "rexaID": "30b640cb0a4ba73302609a2f1ec74291c70efd85",
+    "author": "Gisele L. Pappa and Alex Alves Freitas and Celso A A Kaestner",
+    "title": "Attribute Selection with a Multi-objective Genetic Algorithm",
+    "venue": "SBIA",
+    "year": "2002",
+    "window": "used in the experiments Data Set # examples # attributes # classes <b>Dermatology</b> 366 36 6 Vehicle 846 18 4 Promoters 106 57 2 Ionosphere 351 34 2 Crx 690 15 2 Arritymia 452 269 16 All the experiments were performed by using a",
+    "mykey": 468
+}

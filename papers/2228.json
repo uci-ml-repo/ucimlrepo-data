@@ -1,0 +1,11 @@
+{
+    "datasetID": 46,
+    "supportID": "DE99E3F4B2CD2C7D6006F5FBBD32B5589D2C0989",
+    "rexaID": "d891d25459c4422e9cf2262272938d1ada438a9e",
+    "author": "Xiaoli Z. Fern and Carla Brodley",
+    "title": "Boosting Lazy Decision Trees",
+    "venue": "ICML",
+    "year": "2003",
+    "window": "but behave less consistently. For three data sets, <b>Hepatitis</b>  Lympho and Monk2, bagging significantly degrades the performance of the base learner. This is possibly caused by the sub-sampling procedure used by bagging to generate different",
+    "mykey": 2228
+}

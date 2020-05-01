@@ -1,0 +1,11 @@
+{
+    "datasetID": 21,
+    "supportID": "34A3FC6906DD972E03A41348B99C0232AD1EAA78",
+    "rexaID": "d25c86892bfa80849ecd629de4c45936a52a1590",
+    "author": "Michael G. Madden",
+    "title": "Evaluation of the Performance of the Markov Blanket Bayesian Classifier Algorithm",
+    "venue": "CoRR, csLG/0211003",
+    "year": "2002",
+    "window": "were selected that had these characteristics and that were not very small. The datasets are listed in Table 1. Dataset #I #A <b>Chess</b> (King & Rook vs King & Pawn) 3196 32 Wisconsin Breast Cancer Diagnosis 699 9 LED-24 (17 irrelevant attributes) 3200 24 DNA: Splice Junction Gene Sequences",
+    "mykey": 446
+}

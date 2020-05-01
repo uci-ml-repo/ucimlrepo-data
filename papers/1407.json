@@ -1,0 +1,11 @@
+{
+    "datasetID": 95,
+    "supportID": "8F3C952DA5B26AF4D092034012E9826624E1C2BC",
+    "rexaID": "d342517262ff52ffd3566bd8f520b36723486aa3",
+    "author": "M. A. Galway and Michael G. Madden",
+    "title": "DEPARTMENT OF INFORMATION TECHNOLOGY technical report NUIG-IT-011002 Evaluation of the Performance of the Markov Blanket Bayesian Classifier Algorithm",
+    "venue": "Department of Information Technology National University of Ireland, Galway",
+    "year": "",
+    "window": "with the fewest instances, this procedure was repeated 10 times. For the <b>SPECT</b> and Lymphography datasets, the procedure was repeated 50 times to reduce variability. Prediction accuracy results and standard deviations are reported in Table 2. Following usual conventions, for each dataset the algorithm",
+    "mykey": 1407
+}

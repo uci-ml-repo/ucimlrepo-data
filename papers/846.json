@@ -1,0 +1,11 @@
+{
+    "datasetID": 102,
+    "supportID": "5B4B162BB62A5B5F8485DC741342F7445956954A",
+    "rexaID": "d8a0c5fd34dede91f5241e9b9dca0626f6969c0d",
+    "author": "Je Scott and Mahesan Niranjan and Richard W. Prager",
+    "title": "Realisable Classifiers: Improving Operating Performance on Variable Cost Problems",
+    "venue": "Cambridge University Department of Engineering",
+    "year": "",
+    "window": "nature of the classifiers used to form it. The classifiers are random variables, whose central tendency will be to lie on the MRROC. 312 British Machine Vision Conference 3.2 <b>thyroid</b> data A medical data set describing patients with abnormal thyroid conditions was obtained from the UCI machine learning repository [12]. The data was originally contained 7200 instances, with had 3 classes, hyperthyroid,",
+    "mykey": 846
+}

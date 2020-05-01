@@ -1,0 +1,11 @@
+{
+    "datasetID": 59,
+    "supportID": "2559B9D91960755BD75BD8DAE7A9D59122DAF30D",
+    "rexaID": "6c590e12408ebd3b9184e8f4634612e552a823e9",
+    "author": "Stephen D. Bay",
+    "title": "Nearest neighbor classification from multiple feature subsets",
+    "venue": "Intell. Data Anal, 3",
+    "year": "1999",
+    "window": "with n models will usually require n times the memory of a single classifier. For many problems this amount of memory may not be significant, but Dietterich [20] notes that on the <b>Letter Recognition</b> dataset (available from the UCI repository) an ensemble of 200 decision trees obtained 100% accuracy but required 59 megabytes of storage! The entire dataset was only 712 kilobytes. 4 Experiments",
+    "mykey": 294
+}

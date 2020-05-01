@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "77F4EEBD7DDDDCD93BFE35DB2F803C992B9D48E1",
+    "rexaID": "9a0d2c026da6cf5175639b0c375bf7ab56106e1e",
+    "author": "Wojciech Kwedlo and Marek Kretowski",
+    "title": "Discovery of Decision Rules from Databases: An Evolutionary Approach",
+    "venue": "PKDD",
+    "year": "1998",
+    "window": "experimental results merely entitle us to conclude, that the classification accuracy of the current version of EDRL is comparable to that of C4.5. A real improvement was observed only for <b>diabetes</b> dataset. However we believe that the performance of our system can be further improved. Several directions of future research exist. Currently all the continuous-valued features are discretized globally [4]",
+    "mykey": 1191
+}

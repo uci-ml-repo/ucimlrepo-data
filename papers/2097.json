@@ -1,0 +1,11 @@
+{
+    "datasetID": 154,
+    "supportID": "D2C145479F672A054BC13DFAEDD2B6D923D0B4A9",
+    "rexaID": "8e674b6eff0f726ba6fff46ef6eaff968dc89f39",
+    "author": "Qingping Tao Ph. D",
+    "title": "MAKING EFFICIENT LEARNING ALGORITHMS WITH EXPONENTIALLY MANY FEATURES",
+    "venue": "Qingping Tao A DISSERTATION Faculty of The Graduate College University of Nebraska In Partial Fulfillment of Requirements",
+    "year": "2004",
+    "window": "all sequences to 8-dimensional profiles based on the numeric properties of Kim et al. [24] and used them as inputs to the multiple-instance learning algorithm. GMIL-1 is not suitable for the <b>protein</b> data set. As an example why this is a problem, consider the case where 5 clusters is used to built the grid on the 9-dimensional space ( 8dimensional profiles and an additional dimension for identifying the",
+    "mykey": 2097
+}

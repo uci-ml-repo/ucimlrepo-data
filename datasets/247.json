@@ -1,0 +1,23 @@
+{
+    "ID": 247,
+    "Name": "ISTANBUL STOCK EXCHANGE",
+    "Abstract": "Data sets includes returns of Istanbul Stock Exchange with seven other international index; SP, DAX, FTSE, NIKKEI, BOVESPA, MSCE_EU, MSCI_EM from Jun 5, 2009 to Feb 22, 2011.",
+    "Types": "Multivariate, Univariate, Time-Series",
+    "Task": "Classification, Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 536,
+    "NumAttributes": 8,
+    "DateDonated": "2013-06-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00247/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Data is collected from imkb.gov.tr and finance.yahoo.com. Data is organized with regard to working days in Istanbul Stock Exchange. ",
+    "Source": "Dr.Oguz Akbilgic,\r\noguzakbilgic@gmail.com\r\nUniversity of Tennessee, Knoxville",
+    "Acknowledgements": "Paper: Akbilgic, O., Bozdogan, H., Balaban, M.E., (2013) A novel Hybrid RBF Neural Networks model as a forecaster, Statistics and Computing. DOI 10.1007/s11222-013-9375-7\r\nPhD Thesis: Oguz Akbilgic, (2011) Hibrit Radyal Tabanl\u00c4\u00b1 Fonksiyon A\u00c4\u0178lar\u00c4\u00b1 ile De\u00c4\u0178i\u00c5\u0178ken Se\u00c3\u00a7imi ve Tahminleme: Menkul K\u00c4\u00b1ymet Yat\u00c4\u00b1r\u00c4\u00b1m Kararlar\u00c4\u00b1na \u00c4\u00b0li\u00c5\u0178kin Bir Uygulama, Istanbul University",
+    "Area": "Business",
+    "RelevantPapers": "Paper: Akbilgic, O., Bozdogan, H., Balaban, M.E., (2013) A novel Hybrid RBF Neural Networks model as a forecaster, Statistics and Computing. DOI 10.1007/s11222-013-9375-7\r\nPhD Thesis: Oguz Akbilgic, (2011) Hibrit Radyal Tabanl\u00c4\u00b1 Fonksiyon A\u00c4\u0178lar\u00c4\u00b1 ile De\u00c4\u0178i\u00c5\u0178ken Se\u00c3\u00a7imi ve Tahminleme: Menkul K\u00c4\u00b1ymet Yat\u00c4\u00b1r\u00c4\u00b1m Kararlar\u00c4\u00b1na \u00c4\u00b0li\u00c5\u0178kin Bir Uygulama, Istanbul University",
+    "AttributeInfo": "Stock exchange returns. Istanbul stock exchange national 100 index, Standard & poor\u00e2\u20ac\u2122s 500 return index, Stock market return index of Germany, Stock market return index of UK, Stock market return index of Japan, Stock market return index of Brazil, MSCI European index, MSCI emerging markets index",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

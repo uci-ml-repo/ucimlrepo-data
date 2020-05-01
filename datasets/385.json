@@ -1,0 +1,23 @@
+{
+    "ID": 385,
+    "Name": "KASANDR",
+    "Abstract": "KASANDR is a novel, publicly available collection for recommendation systems that records the behavior of customers of the European leader in e-Commerce advertising, Kelkoo. ",
+    "Types": "Multivariate",
+    "Task": "Causal-Discovery",
+    "AttributeTypes": "Integer",
+    "NumInstances": 17764280,
+    "NumAttributes": 2158859,
+    "DateDonated": "2017-05-16",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00385/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "We created this data by sampling and processing the www.kelkoo.com logs. The data records offers which were clicked (or shown) to the users of the www.kelkoo.com (and partners) in Germany as well as meta-information of these users and offers and the objective is to predict if a given user will click on a given offer.\r\n",
+    "Source": "Massih-Reza Amini\r\nUniv. Grenoble Alpes, CNRS/LIG\r\nmassih-reza.amini@univ-grenoble-alpes.fr\r\n\r\nCharlotte Laclau\r\nUniv. Grenoble Alpes, CNRS/LIG\r\ncharlotte.laclau@univ-grenoble-alpes.fr\r\n\r\nSumit Sidana\r\nUniv. Grenoble Alpes, CNRS/LIG\r\nsumit.sidana@imag.fr",
+    "Acknowledgements": "If you publish results based on this data set, please acknowledge its use, by referring to:\r\nSumit Sidana, Charlotte Laclau, Massih-Reza Amini, Gilles Vandelle, and Andre Bois-Crettez. 'KASANDR: A Large-Scale Dataset with Implicit Feedback for Recommendation',  SIGIR 2017.\r\n",
+    "Area": "Life",
+    "RelevantPapers": "Sumit Sidana, Charlotte Laclau, Massih-Reza Amini, Gilles Vandelle, and Andre Bois-Crettez. 'KASANDR: A Large-Scale Dataset with Implicit Feedback for Recommendation',  SIGIR 2017.\r\n",
+    "AttributeInfo": "userid offerid countrycode category merchant utcdate implicit-feedback\r\n\r\n\r\n1. train_de.csv (3,14 GB)\r\nInstances: 15,844,718\r\nAttributes: 2,299,713\r\nuserid: Categorical, 291,485\r\nofferid: Categorical, 2,158,859\r\ncountrycode: Categorical, 1 (de - Germany)\r\ncategory: Integer, 271\r\nmerchant: Integer, 703\r\nutcdate: Timestamp, 2016-06-01 02:00:17.0 to 2016-06-14 23:52:51.0\r\nimplicit feedback (click): Binary, 0 or 1\r\n\r\n2. test_de.csv (381,3 MB)\r\nInstances: 1,919,562\r\nAttributes: 2,299,713\r\nuserid: Categorical, 278,293\r\nofferid: Categorical, 380,803\r\ncountrycode: Categorical, 1\r\ncategory: Integer, 267\r\nmerchant: Integer, 738\r\nutcdate: Timestamp, 2016-06-14 23:52:51.0 to 2016-07-01 01:59:36.0\r\nimplicit feedback (click): Binary, 0 or 1\r\n",
+    "FormatType": "",
+    "NumHits": 1
+}

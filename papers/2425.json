@@ -1,0 +1,11 @@
+{
+    "datasetID": 127,
+    "supportID": "F014207F5E6B34D3A0626B63501A2DE163165F41",
+    "rexaID": "48dc427a3536d7bef34e910efc1f34171bf98729",
+    "author": "Chris Giannella and Bassem Sayrafi",
+    "title": "An Information Theoretic Histogram for Single Dimensional Selectivity Estimation",
+    "venue": "Department of Computer Science, Indiana University Bloomington",
+    "year": "",
+    "window": "CUP 1998 Data\" heading, cup98lrn file -- attributes 199 (IC1, median household income) and 472 (TARGET D, donation amount quantized into 60 groups), respectively. The ipums25, ipums51, and ipums52 datasets were found under the  <b>IPUMS</b> Census Data\" heading, ipums.la.99 file -- attributes 25 (eldch, age of the eldest child in the household), 51 (incbus represents business income), and 52 (incfarm",
+    "mykey": 2425
+}

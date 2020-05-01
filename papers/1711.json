@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "A784F30E5815862D3F19B6DF2552F36548466623",
+    "rexaID": "d64d2705cabed449e8cb2ecc3c3c77c54ee71051",
+    "author": "Jeroen Eggermont and Joost N. Kok and Walter A. Kosters",
+    "title": "Genetic Programming for data classification: partitioning the search space",
+    "venue": "SAC",
+    "year": "2004",
+    "window": "14.3 8.5 9.1 We performed 10 independent runs for our two gp algorithms to obtain the results presented in Table 4. When available from the literature the results of C4.5 are reported. For three data sets (Australian credit, <b>Heart</b> disease and German credit) no results were reported for C4.5. In those three instances, marked with a #, we applied C4.5 to the data set ourselves. The best results for",
+    "mykey": 1711
+}

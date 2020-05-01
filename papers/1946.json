@@ -1,0 +1,11 @@
+{
+    "datasetID": 57,
+    "supportID": "BFB5D79BD4B8F7AC8091340BB67360AD476D6018",
+    "rexaID": "e091a00eb65fd6124d7b0190126299db6ee8057e",
+    "author": "Xavier Llor and David E. Goldberg",
+    "title": "Minimal Achievable Error in the LED",
+    "venue": "Illinois Genetic Algorithms Laboratory University of Illinois at Urbana-Champaign",
+    "year": "2002",
+    "window": "S. Mathews Ave, Urbana, IL 61801 {llora@illigal.ge.uiuc.edu, deg@uiuc.edu} Abstract This paper presents a theoretical model to predict the minimal achievable error, given a noise ratio #, in the <b>LED data</b> set problem. The motivation for developing this theoretical model is to understand and explain some of the results that different systems achieve when they solve the LED problem. Moreover, given a new",
+    "mykey": 1946
+}

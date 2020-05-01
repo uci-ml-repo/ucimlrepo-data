@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "E50D12A1C66C7E353A6C42C647A5A592C3CE4327",
+    "rexaID": "cfafdb7e4ac45e3b2e7d4da635f28601b4f4a9e8",
+    "author": "Jinyan Li and Kotagiri Ramamohanarao and Guozhu Dong",
+    "title": "ICML2000 The Space of Jumping Emerging Patterns and Its Incremental Maintenance Algorithms",
+    "venue": "Department of Computer Science and Software Engineering, The University of Melbourne, Parkville",
+    "year": "",
+    "window": "is as yet unsolved. A naive maintenance method is to take a border difference operation to discover the border of the JEP space with respect to D p and (Dn Gamma Delta n ). Table 1. Properties of data sets. DATA SETS #INSTANCES #ATTRI #ITEMS <b>MUSHROOM</b> 4208(+), 3916 (-) 22 125 PIMA 268(+), 500 (-) 8 17 TIC-TAC-TOE 626(+), 332 (-) 9 27 NURSERY 4320(+), 8640(-) 8 27 5. Experimental Results We choose four",
+    "mykey": 2309
+}

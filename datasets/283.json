@@ -1,0 +1,23 @@
+{
+    "ID": 283,
+    "Name": "Dataset for ADL Recognition with Wrist-worn Accelerometer",
+    "Abstract": "Recordings of 16 volunteers performing 14 Activities of Daily Living (ADL) while carrying a single wrist-worn tri-axial accelerometer.",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "",
+    "NumInstances": 0,
+    "NumAttributes": 3,
+    "DateDonated": "2014-02-11",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00283/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The Dataset for ADL Recognition with Wrist-worn Accelerometer is a public collection of labelled accelerometer data recordings to be used for the creation and validation of acceleration models of simple ADL.\r\n\r\nThe Dataset is composed of the recordings of 14 simple ADL (brush_teeth, climb_stairs, comb_hair, descend_stairs, drink_glass, eat_meat, eat_soup, getup_bed, liedown_bed, pour_water, sitdown_chair, standup_chair, use_telephone, walk) perfomed by a total of 16 volunteers.\r\n\r\nThe data are collected by a single tri-axial accelerometer attached to the right-wrist of the volunteer. Accelerometer specifications are detailed in the file MANUAL.TXT inside the Dataset folder.\r\n\r\nDetailed documentation about the dataset is provided in the files README.TXT and MANUAL.TXT inside the Dataset folder.",
+    "Source": "Barbara Bruno, Fulvio Mastrogiovanni, Antonio Sgorbissa\r\nLaboratorium - Laboratory for Ambient Intelligence and Mobile Robotics\r\nDIBRIS, University of Genova,\r\nvia Opera Pia 13, 16145, Genova, Italia (IT)",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "A description of the ADL monitoring system that we have designed to work with the provided dataset can be found at:\r\n- Bruno, B., Mastrogiovanni, F., Sgorbissa, A., Vernazza, T., Zaccaria, R.:\r\n  Analysis of human behavior recognition algorithms based on acceleration data.\r\n  In: IEEE Int Conf on Robotics and Automation (ICRA),\r\n  pp. 1602--1607 (2013)\r\n\r\n- Bruno, B., Mastrogiovanni, F., Sgorbissa, A., Vernazza, T., Zaccaria, R.:\r\n  Human motion modelling and recognition: A computational approach.\r\n  In: IEEE Int Conf on Automation Science and Engineering (CASE),\r\n  pp. 156--161 (2012)",
+    "AttributeInfo": "Each file in the dataset follows the following naming convention:\r\n        Accelerometer-[START_TIME]-[ADL]-[VOLUNTEER]\r\nwhere:\r\n - [START_TIME]: timestamp of the starting moment of the recording in the format [YYYY-MM-DD-HH-MM-SS]\r\n - [HMP]:\t name of the ADL performed in the recorded trial\r\n - [VOLUNTEER]:\t identification code of the volunteer performing the recorded motion in the format [gN] where:\r\n\t\t  - 'g' indicates the gender of the volunteer (m -> male, f -> female)\r\n\t\t  - 'N' indicates the progressive number associated to the volunteer\r\n\r\nEach record of a file reports:\r\n - acceleration along the x axis of the accelerometer\r\n - acceleration along the y axis of the accelerometer\r\n - acceleration along the z axis of the accelerometer",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 107,
+    "supportID": "7D1B1A425384445710A31B94BB888BF27722F4BE",
+    "rexaID": "49c65a0dfe258129414e27f6a3b7c42b7fbe426e",
+    "author": "Kai Ming Ting and Boon Toh Low",
+    "title": "Theory Combination: an alternative to Data Combination",
+    "venue": "University of Waikato",
+    "year": "",
+    "window": "why theory combination can not outperform data combination in this region. Note that the behaviour of the oracle is different from the usual learning curve in the <b>waveform</b> and protein coding datasets when NB* is employed. This indicates that some learning algorithm can specialise in different regions of the description space when the sizes of the data batches are relatively small. This can",
+    "mykey": 1242
+}

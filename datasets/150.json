@@ -1,0 +1,23 @@
+{
+    "ID": 150,
+    "Name": "Connectionist Bench (Nettalk Corpus)",
+    "Abstract": "The file \"nettalk.data\" contains a list of 20,008 English words, along with a phonetic transcription for each word. The task is to train a network to produce the proper phonemes",
+    "Types": "Multivariate",
+    "Task": "",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 20008,
+    "NumAttributes": 4,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/undocumented/connectionist-bench/nettalk/",
+    "URLReadme": "../machine-learning-databases/undocumented/connectionist-bench/nettalk/nettalk.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This is an updated and corrected version of the data set used by Sejnowski and Rosenberg in their influential study of speech generation using a neural network [1].  The file \"nettalk.data\" contains a list of 20,008 English words, along with a phonetic transcription for each word. The task is to train a network to produce the proper phonemes, given a string of letters as input.  This is an example of an input/output mapping task that exhibits strong global regularities, but also a large number of more specialized rules and exceptional cases.\r\n\r\nPlease see original readme file for more information.",
+    "Source": "The data set was contributed to the benchmark collection by Terry Sejnowski, now at the Salk Institute and the University of California at San Deigo.  The data set was developed in collaboration with Charles Rosenberg of Princeton.  Approximately 250 person-hours went into creating and testing this database.",
+    "Acknowledgements": "Copyright (C) 1988 by Terrence J. Sejnowski.  Permission is hereby given to use the included data for non-commercial research purposes.  Contact The Johns Hopkins University, Cognitive Science Center, Baltimore MD, USA for information on commercial use.",
+    "Area": "Other",
+    "RelevantPapers": "Sejnowski, T.J., and Rosenberg, C.R. (1987).  \"Parallel networks that learn to pronounce English text\" in Complex Systems, 1, 145-168.\r\nhttp://rexa.info/paper/2f3cd97aa4b7fee60816a5bae9f4b8c6e64c3002",
+    "AttributeInfo": "The pronouncing dictionary was created to study the translation process between written English, using graphemes or letters as units, and spoken English, using phonemes as units. The dictionary includes 20008 aligned letter and phonetic representations with stresses.\r\n\r\nThe dictionary contains four tab separated fields of information for each word.  The fields are:\r\n\r\n\t1) a letter representation\r\n\t2) a phonemic representation\r\n\t3) stress and syllabic structure\r\n\t4) an integer indicating foreign and irregular words\r\n\r\nPlease see original readme file for more information.",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 9035
+}

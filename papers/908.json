@@ -1,0 +1,11 @@
+{
+    "datasetID": 56,
+    "supportID": "611C70E221B480ED148AAA9193EB0116E6C917F0",
+    "rexaID": "e5a02b311c1ae7f6cf526e09f08165e731ee35d1",
+    "author": "Huan Liu and Rudy Setiono",
+    "title": "A Probabilistic Approach to Feature Selection - A Filter Solution",
+    "venue": "ICML",
+    "year": "1996",
+    "window": "was divided by Quinlan [ Quinlan, 1993 ] into 490 training instances and 200 test instances. 6. <b>Labor</b> The dataset contains instances for acceptable and unacceptable contracts. It is a small dataset with 16 features, a training set of 40 instances, and a testing set of 17 instances. 7. Mushroom The dataset has a",
+    "mykey": 908
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "989F68889B2F714489E9F1599337A63A4022C253",
+    "rexaID": "d18b9cca12173a8ca3d5a781cadcf847442930f4",
+    "author": "Carlotta Domeniconi and Jing Peng and Dimitrios Gunopulos",
+    "title": "An Adaptive Metric Machine for Pattern Classification",
+    "venue": "NIPS",
+    "year": "2000",
+    "window": "consists of q = 4 measurements made on each of N = 100 iris plants of J = 2 species; 2. <b>Sonar</b> data. This data set consists of q = 60 frequency measurements made on each of N = 208 data of J = 2 classes (``mines'' and ``rocks''); 3. Vowel data. This example has q = 10 measurements and 11 classes. There are total",
+    "mykey": 1538
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 39,
+    "supportID": "9232D71F0659DB894334B3372C4DE3F090821EE4",
+    "rexaID": "95c80719727ccfba365ee616549b088436692fa8",
+    "author": "Huajie Zhang and Charles X. Ling",
+    "title": "An Improved Learning Algorithm for Augmented Naive Bayes",
+    "venue": "PAKDD",
+    "year": "2001",
+    "window": "we used in our experiment. Dataset Attributes Class Instances <b>Ecoli</b> 7 8 336 Vote 16 2 435 Pima 8 2 768 Australia 14 2 690 Breast 10 2 683 Segment 19 7 1540 Vehicle 18 4 846 Bank 20 2 1162 Table 1. Descriptions of domains used in our",
+    "mykey": 1443
+}

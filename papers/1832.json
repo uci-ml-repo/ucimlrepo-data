@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "B2185A2F61BC311C2571A081EDBA09E230D4961A",
+    "rexaID": "5e9e56b4525a16e039d75d04d32477b118e36b0d",
+    "author": "Christopher R. Palmer and Christos Faloutsos",
+    "title": "Electricity Based External Similarity of Categorical Attributes",
+    "venue": "PAKDD",
+    "year": "2003",
+    "window": "than the distance functions computed by D fr;P . Since D fr;P has been previously evaluated using single link hierarchical clustering, that is the algorithm that we will use here [3]. The three data sets weevaluated are: 1. <b>Adult</b> - a selection of fields from the 1994 census data collected in the United States. There are 32,561 training examples and 16,281 test examples with 6 numeric fields and 8",
+    "mykey": 1832
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 101,
+    "supportID": "3DEA50949D8BD6D943BC878D9E1AA5BF11FC3FC4",
+    "rexaID": "e2e72927eb590e2b7daf9095e42d6ed43ce21e68",
+    "author": "Shi Zhong and Weiyu Tang and Taghi M. Khoshgoftaar",
+    "title": "Boosted Noise Filters for Identifying Mislabeled Data",
+    "venue": "Department of Computer Science and Engineering Florida Atlantic University",
+    "year": "",
+    "window": "Recall Precision BF BBF-1 BBF-12 0 0.2 0.4 0.6 0.8 1 0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 40% noise Recall Precision BFBBF-3 BBF-36 (e) (f) Figure 13. Noise detection results on the <b>tic-tac-toe</b> dataset with six different noise levels: (a) 5%; (b) 10%; (c) 15%; (d) 25%; (e) 35%; and (f) 40%. 0 0.2 0.4 0.6 0.8 1 0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 5% noise Recall Precision BF BBF-2 BBF-21 0 0.2",
+    "mykey": 509
+}

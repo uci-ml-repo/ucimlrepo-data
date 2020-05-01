@@ -1,0 +1,11 @@
+{
+    "datasetID": 19,
+    "supportID": "95A785BEB7AA9BF691CE8FB330A7D36776B9BC56",
+    "rexaID": "8f5ae7219e74a85e3f722b58b3fedb30eab7a1d7",
+    "author": "Huan Liu",
+    "title": "A Family of Efficient Rule Generators",
+    "venue": "Department of Information Systems and Computer Science National University of Singapore",
+    "year": "",
+    "window": "Equipped with the above two evaluation measures, we can conduct some experiments to empirically compare the four versions of rule generators, and with other known methods [13, 22]. A. Method One data set - <b>CAR</b> will be used to show the differences between the versions of our rule generator, and to compare with the results reported in [22] since they have done some comparison with other methods such",
+    "mykey": 1498
+}

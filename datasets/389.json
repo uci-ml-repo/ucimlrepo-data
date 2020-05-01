@@ -1,0 +1,23 @@
+{
+    "ID": 389,
+    "Name": "Devanagari Handwritten Character Dataset",
+    "Abstract": "This is an image database of Handwritten Devanagari characters. There are 46 classes of characters with 2000 examples each. The dataset is split into training set(85%) and testing set(15%). ",
+    "Types": "",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 92000,
+    "NumAttributes": 0,
+    "DateDonated": "2016-09-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00389/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Data Type: GrayScale Image \r\nThe image dataset can be used to benchmark classification algorithm for OCR systems. The highest accuracy obtained in the Test set is 98.47%. Model Description is available in the paper http://ieeexplore.ieee.org/document/7400041/\r\nMore information on the dataset at http://cvresearchnepal.com/dhcd/.\r\n",
+    "Source": "The dataset was created by extraction and manual annotation of thousands of characters from handwritten documents.\r\nCreator Name: Shailesh Acharya, Email: sailes437@gmail.com, Institution: University of North Texas, Cell: +19402200157\r\nCreator Name: Prashnna Kumar Gyawali, Email: gyawali.prasanna@gmail.com, Institution: Rochester Institute of Technology",
+    "Acknowledgements": "The material maybe used for free with the following paper cited,\r\nS. Acharya, A.K. Pant and P.K. Gyawali \u00e2\u20ac\u0153Deep Learning Based Large Scale Handwritten Devanagari Character Recognition\u00e2\u20ac\u009d,In Proceedings of the 9th International Conference on Software, Knowledge, Information Management and Applications (SKIMA), pp. 121-126, 2015.",
+    "Area": "Computer",
+    "RelevantPapers": "S. Acharya, A.K. Pant and P.K. Gyawali \u00e2\u20ac\u0153Deep Learning Based Large Scale Handwritten Devanagari Character Recognition\u00e2\u20ac\u009d,In Proceedings of the 9th International Conference on Software, Knowledge, Information Management and Applications (SKIMA), pp. 121-126, 2015.",
+    "AttributeInfo": "Image Format: .png\r\nResolution: 32 by 32\r\nActual character is centered within 28 by 28 pixel, padding of 2 pixel is added on all four sides of actual character.",
+    "FormatType": "",
+    "NumHits": 1
+}

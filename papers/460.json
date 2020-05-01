@@ -1,0 +1,11 @@
+{
+    "datasetID": 62,
+    "supportID": "35CC6C6ADCE760B30A9044481C187EB38155C56E",
+    "rexaID": "4f29b49d0d83edf9e0a21d102467df5ffdf64fcb",
+    "author": "Jinyan Li and Limsoon Wong",
+    "title": "Using Rules to Analyse Bio-medical Data: A Comparison between C4.5 and PCL",
+    "venue": "WAIM",
+    "year": "2003",
+    "window": "[15], it is aimed to classify tumor and normal cells for diagnostic purpose; while in the <b>lung cancer</b> data set [9], it is aimed to differentiate two types of disease. We use Table 4 to summarize the background information of 6 data sets for the subtype classification of the childhood leukemia disease. All",
+    "mykey": 460
+}

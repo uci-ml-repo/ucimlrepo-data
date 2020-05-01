@@ -1,0 +1,11 @@
+{
+    "datasetID": 146,
+    "supportID": "74B340C88F0DB5AF29EB2EE70B523CCC72D11692",
+    "rexaID": "d328ae33fb50756832a1c6cd703f7176c361923f",
+    "author": "Peter Sykacek and Stephen J. Roberts",
+    "title": "Adaptive Classification by Variational Kalman Filtering",
+    "venue": "NIPS",
+    "year": "2002",
+    "window": "ionosphere data, balance scale weight and distance data and the wine recognition database, all taken from the StatLog database which is available at the UCI repository ([4]). The <b>satellite</b> image data set is used as is provided with 4435 samples in the training and 2000 samples in the test set. Vehicle data are merged such that we have 500 samples in the training and 252 in the test set. The other",
+    "mykey": 1142
+}

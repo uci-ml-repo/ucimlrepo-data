@@ -1,0 +1,11 @@
+{
+    "datasetID": 107,
+    "supportID": "94AD4DA2BC0409012B738018D00763FF936A35E1",
+    "rexaID": "7025b49e49b58acbb1881ee289e9d719a528d505",
+    "author": "Giorgio Valentini and Thomas G. Dietterich",
+    "title": "Low Bias Bagged Support Vector Machines",
+    "venue": "ICML",
+    "year": "2003",
+    "window": "P2 Polyn. 0.1687 0.1863 0.1892 4-1-0 4-1-0 1-4-0 Gauss. 0.1429 0.1534 0.1605 4-1-0 5-0-0 3-2-0 Data set <b>Waveform</b> Linear 0.0811 0.0821 0.0955 2-3-0 5-0-0 5-0-0 Polyn. 0.0625 0.0677 0.0698 2-3-0 2-3-0 3-2-0 Gauss. 0.0574 0.0653 0.0666 4-1-0 4-1-0 2-3-0 Data set Grey-Landsat Linear 0.0508 0.0510 0.0601",
+    "mykey": 1486
+}

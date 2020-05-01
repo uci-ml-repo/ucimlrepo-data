@@ -1,0 +1,11 @@
+{
+    "datasetID": 96,
+    "supportID": "7E83ECA95D54F25380983E5ABAE1E57D8B1A1439",
+    "rexaID": "208ff3b44c2d57f4e00f263ddfbee69f4ad21972",
+    "author": "Carlotta Domeniconi and Bojun Yan",
+    "title": "Nearest Neighbor Ensemble",
+    "venue": "ICPR (1)",
+    "year": "2004",
+    "window": "10 times, and the average error rate was computed. The results show that our Weight-driven approach offers significant accuracy improvements (over both ADAMENN and the Random approach) for the three data sets with a larger number of dimensions  <b>spectf</b> test, lung, sonar). For liver and ionosphere the Random and Weight approaches give similar performances. This result provides evidence that bootstrapping",
+    "mykey": 1268
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "B45A1650D79794F9FE887040F4025564D0D7C6A5",
+    "rexaID": "55a0fe71cda785b63ac52449a77593a9b7f5a8ae",
+    "author": "Federico Divina and Elena Marchiori",
+    "title": "Evolutionary Concept Learning",
+    "venue": "GECCO",
+    "year": "2002",
+    "window": "respectively. The three dataset are public domain datasets. The <b>vote dataset</b> contains votes for each of the U.S. House of Representatives Congressmen on the sixteen key votes. The problem is learning a concept for distinguishing",
+    "mykey": 1849
+}

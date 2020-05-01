@@ -1,0 +1,23 @@
+{
+    "ID": 398,
+    "Name": "Eco-hotel",
+    "Abstract": "This dataset includes Online Textual Reviews from both online (e.g., TripAdvisor) and offline (e.g., Guests' book) sources from the Areias do Seixo Eco-Resort.",
+    "Types": "Text",
+    "Task": "",
+    "AttributeTypes": "",
+    "NumInstances": 401,
+    "NumAttributes": 1,
+    "DateDonated": "2017-07-23",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00398/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The CSV holds one cell per review, except the first row, which is the header.\r\nAll the 401 reviews were collected between January and August of 2015.",
+    "Source": "C.Calheiros, S.Moro, P.Rita (ISCTE-IUL).\r\nAcknowledgement: This dataset was provided thanks to Gon\u00c3\u00a7alo Alves, the Areias do Seixo Manager (http://www.areiasdoseixo.com/hotel-overview.html).",
+    "Acknowledgements": "If you intend to use this dataset on your research, please cite the following work:\r\nCalheiros, A. C., Moro, S., & Rita, P. (2017). Sentiment Classification of Consumer Generated Online Reviews Using Topic Modeling. Journal of Hospitality Marketing & Management, DOI: 10.1080/19368623.2017.1310075.",
+    "Area": "Business",
+    "RelevantPapers": "Calheiros, A. C., Moro, S., & Rita, P. (2017). Sentiment Classification of Consumer Generated Online Reviews Using Topic Modeling. Journal of Hospitality Marketing & Management, DOI: 10.1080/19368623.2017.1310075.",
+    "AttributeInfo": "Textual review.",
+    "FormatType": "Matrix",
+    "NumHits": 1
+}

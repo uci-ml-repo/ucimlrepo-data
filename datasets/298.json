@@ -1,0 +1,23 @@
+{
+    "ID": 298,
+    "Name": "Bach Choral Harmony",
+    "Abstract": "The data set is composed of 60 chorales (5665 events) by J.S. Bach (1675-1750).\r\nEach event of each chorale is labelled using 1 among 101 chord labels and described\r\nthrough 14 features.",
+    "Types": "Sequential",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 5665,
+    "NumAttributes": 17,
+    "DateDonated": "2014-05-20",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00298/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Pitch classes information has been extracted from MIDI sources downloaded\r\nfrom (JSB Chorales)[http://www.jsbchorales.net]. Meter information has\r\nbeen computed through the Meter program which is part of the Melisma\r\nmusic analyser (Melisma)[http://www.link.cs.cmu.edu/music-analysis/].\r\nChord labels have been manually annotated by a human expert.",
+    "Source": "-- Creators: Daniele P. Radicioni and Roberto Esposito\r\n-- Donor: Daniele P. Radicioni (radicion@di.unito.it) and Roberto Esposito (esposito@di.unito.it)\r\n-- Date: May, 2014",
+    "Acknowledgements": "D. P. Radicioni and R. Esposito. Advances in Music Information Retrieval, chapter BREVE: an HMPerceptron-Based Chord Recognition System. Studies in Computational Intelligence, Zbigniew W. Ras and Alicja Wieczorkowska (Editors), Springer, 2010.",
+    "Area": "Other",
+    "RelevantPapers": "1. D. P. Radicioni and R. Esposito. Advances in Music Information Retrieval,\r\n   chapter BREVE: an HMPerceptron-Based Chord Recognition System. Studies\r\n   in Computational Intelligence, Zbigniew W. Ras and Alicja Wieczorkowska\r\n   (Editors), Springer, 2010.\r\n2. Esposito, R. and Radicioni, D. P., CarpeDiem: Optimizing the Viterbi\r\n    Algorithm and Applications to Supervised Sequential Learning, Journal\r\n    of Machine Learning Research, 10(Aug):1851-1880, 2009.",
+    "AttributeInfo": "1. Choral ID: corresponding to the file names from (Bach Central)[http://www.bachcentral.com].\r\n2. Event number: index (starting from 1) of the event inside the chorale.\r\n3-14. Pitch classes: YES/NO depending on whether a given pitch is present.\r\n   Pitch classes/attribute correspondence is as follows:\r\n     C       -> 3\r\n     C#/Db   -> 4\r\n     D       -> 5\r\n     ...\r\n     B       -> 14\r\n15. Bass: Pitch class of the bass note\r\n16. Meter: integers from 1 to 5. Lower numbers denote less accented events,\r\n   higher numbers denote more accented events.\r\n17. Chord label: Chord resonating during the given event.",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

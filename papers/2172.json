@@ -1,0 +1,11 @@
+{
+    "datasetID": 25,
+    "supportID": "D6E9D6F5B8A803B7FEFB1F487FCCD64945A3514E",
+    "rexaID": "660eddc9c8a809e94ad8d5837952f89d8997ab92",
+    "author": "Mohammed Waleed Kadous and Claude Sammut",
+    "title": "The University of New South Wales School of Computer Science and Engineering Temporal Classification: Extending the Classification Paradigm to Multivariate Time Series",
+    "venue": "",
+    "year": "",
+    "window": "Saito [Sai94], and further worked on by Manganaris [Man97]. The task is to classify a stream as one of three classes, cylinder (c), bell (b) or funnel (f ). Samples are generated as follows: 2 These datasets are: arrythmia, audiology, <b>bach</b> <b>chorales</b>  echocardiogram, isolet, mobile robots, waveform. 6. Experimental Evaluation 161 c(t) = (6 + #) \u00b7 # [a,b] (t) + #(t) b(t) = (6 + #) \u00b7 # [a,b] (t) \u00b7 (t -",
+    "mykey": 2172
+}

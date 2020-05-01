@@ -1,0 +1,23 @@
+{
+    "ID": 409,
+    "Name": "Daily Demand Forecasting Orders",
+    "Abstract": "The dataset was collected during 60 days, this is a real database of a brazilian logistics company.",
+    "Types": "Time-Series",
+    "Task": "Regression",
+    "AttributeTypes": "Integer",
+    "NumInstances": 60,
+    "NumAttributes": 13,
+    "DateDonated": "2017-11-21",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00409/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The database was collected during 60 days, this is a real database of a Brazilian company of large logistics. Twelve predictive attributes and a target that is the total of orders for daily. treatment",
+    "Source": "Creators original owner and donors: Ricardo Pinto Ferreira (1), Andrea Martiniano (2), Arthur Ferreira (3), Aleister Ferreira (4) and Renato Jose Sassi (5). E-mail address: kasparov@uni9.pro.br (1), andrea.martiniano@gmail.com (2), arthur2.ferreira@usp.br (3), aleisterferreira@hotmail.com (4), sassi@uni9.pro.br (5) - PhD student (1, 2), Graduation student (3, 4), Prof. Doctor (5).\n \nUniversidade Nove de Julho - Post-Graduation Program in Informatics and Knowledge Management.\n \nAddress: Rua Vergueiro, 235/249 Liberdade, Sao Paulo \u2013 SP, Brazil. Zip code: 01504-001.\n \nWebsite: http://www.uninove.br",
+    "Acknowledgements": "Ferreira, R. P., Martiniano, A., Ferreira, A., Ferreira, A., & Sassi, R. J. (2016). Study on daily demand forecasting orders using artificial neural network. IEEE Latin America Transactions, 14(3), 1519-1525.",
+    "Area": "Business",
+    "RelevantPapers": "Ferreira, R. P., Martiniano, A., Ferreira, A., Ferreira, A., & Sassi, R. J. (2016). Study on daily demand forecasting orders using artificial neural network. IEEE Latin America Transactions, 14(3), 1519-1525.",
+    "AttributeInfo": "The dataset was collected during 60 days, this is a real database of a brazilian logistics company. The dataset has twelve predictive attributes and a target that is the total of orders for daily treatment. The database was used in academic research at the Universidade Nove de Julho.\n.arff header for Weka:\n@relation Daily_Demand_Forecasting_Orders\n@attribute Week_of_the_month {1.0, 2.0, 3.0, 4.0, 5.0}\n@attribute Day_of_the_week_(Monday_to_Friday) {2.0, 3.0, 4.0, 5.0, 6.0}\n@attribute Non_urgent_order integer\n@attribute Urgent_order integer\n@attribute Order_type_A integer\n@attribute Order_type_B integer\n@attribute Order_type_C integer\n@attribute Fiscal_sector_orders integer\n@attribute Orders_from_the_traffic_controller_sector integer\n@attribute Banking_orders_(1) integer\n@attribute Banking_orders_(2) integer\n@attribute Banking_orders_(3) integer\n@attribute Target_(Total_orders) integer\n@data",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

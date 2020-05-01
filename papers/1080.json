@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "6F8D34C77A80879FB02CC2339B3018DA88A03882",
+    "rexaID": "0b088e37f14f4bd30ad6c550b543306c6363eaa7",
+    "author": "Marina Skurichina and Robert P W Duin",
+    "title": "Boosting in Linear Discriminant Analysis",
+    "venue": "Multiple Classifier Systems",
+    "year": "2000",
+    "window": "(Data II) with 225 and 126 objects belonging to the first and the second data class, respectively. The second is the 8-dimensional <b>diabetes</b> data set (Data III) consisting of 500 and 268 objects from the first and the second data class, respectively. These two data sets were also used in [8], when studying bagging and boosting for decision trees.",
+    "mykey": 1080
+}

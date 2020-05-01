@@ -1,0 +1,23 @@
+{
+    "ID": 484,
+    "Name": "Travel Reviews",
+    "Abstract": "Reviews on destinations in 10 categories mentioned across East Asia. Each traveler rating is mapped as Excellent(4), Very Good(3), Average(2), Poor(1), and Terrible(0) and average rating is used.",
+    "Types": "Multivariate, Text",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 980,
+    "NumAttributes": 11,
+    "DateDonated": "2018-12-19",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00484/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This data set is populated by crawling TripAdvisor.com. Reviews on destinations in 10 categories mentioned across East Asia are considered. Each traveler rating is mapped as Excellent (4), Very Good (3), Average (2), Poor (1), and Terrible (0) and average rating is used against each category per user.",
+    "Source": "Shini Renjith, shinirenjith@gmail.com",
+    "Acknowledgements": "Renjith, Shini, A. Sreekumar, and M. Jathavedan. 2018. \u00e2\u20ac\u0153Evaluation of Partitioning Clustering Algorithms for Processing Social Media Data in Tourism Domain\u00e2\u20ac\u009d. In 2018 IEEE Recent Advances in Intelligent Computational Systems (RAICS), 127\u00e2\u20ac\u201c31. IEEE.",
+    "Area": "Other",
+    "RelevantPapers": "Renjith, Shini, A. Sreekumar, and M. Jathavedan. 2018. \u00e2\u20ac\u0153Evaluation of Partitioning Clustering Algorithms for Processing Social Media Data in Tourism Domain\u00e2\u20ac\u009d. In 2018 IEEE Recent Advances in Intelligent Computational Systems (RAICS), 127\u00e2\u20ac\u201c31. IEEE.",
+    "AttributeInfo": "Attribute 1 : Unique user id\r\nAttribute 2 : Average user feedback on art galleries\r\nAttribute 3 : Average user feedback on dance clubs\r\nAttribute 4 : Average user feedback on juice bars\r\nAttribute 5 : Average user feedback on restaurants\r\nAttribute 6 : Average user feedback on museums\r\nAttribute 7 : Average user feedback on resorts\r\nAttribute 8 : Average user feedback on parks/picnic spots\r\nAttribute 9 : Average user feedback on beaches\r\nAttribute 10 : Average user feedback on theaters\r\nAttribute 11 : Average user feedback on religious institutions",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

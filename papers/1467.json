@@ -1,0 +1,11 @@
+{
+    "datasetID": 63,
+    "supportID": "9329F4A1D4A0F6FD149E1D4C86C18BBCCFC3D9C8",
+    "rexaID": "4eff6dda32898a8bdc8268d2a790a96b93f2e262",
+    "author": "Thomas G. Dietterich",
+    "title": "An Experimental Comparison of Three Methods for Constructing Ensembles of Decision Trees: Bagging, Boosting, and Randomization",
+    "venue": "Machine Learning, 40",
+    "year": "2000",
+    "window": "were recoded to use discrete values where appropriate. All attributes were treated as continuous in the kingrook-vs-king (krk) data set. In <b>lymphography</b>  the lymph-nodes-dimin, lymph-nodes-enlar, and no-of-nodes-in attributes were treated as continuous. In segment, all features were rounded to four significant digits to avoid",
+    "mykey": 1467
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "186BF67295B88C9428E82A3524ECD00EED064BB8",
+    "rexaID": "c15fec7384ce8461549ba1fc09fb2d87024cf037",
+    "author": "Ron Kohavi and George H. John",
+    "title": "Automatic Parameter Selection by Minimizing Estimated Error",
+    "venue": "Computer Science Dept. Stanford University",
+    "year": "",
+    "window": "by replacing a node's test with the test at one of its children, so perhaps m=1 gives more latitude in the pruning phase. Information-gain (turning the g parameter on) was a big winner on several datasets: vehicle, segment, hypothyroid, <b>heart</b>  and cleve. Turning on the s parameter helped in tic-tactoe and monk1. Table 5: Experimental results: Accuracies for C4.5, C4.5-AP, and C4.5* from running on",
+    "mykey": 216
+}

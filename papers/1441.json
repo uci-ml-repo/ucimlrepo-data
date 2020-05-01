@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "9151390625191451E4FA6A7B67B40DC58C5C2065",
+    "rexaID": "10cb2e0135796333fda81f2d65da6be1e1ed9e06",
+    "author": "Aynur Akkus and H. Altay G\u00fcvenir",
+    "title": "K Nearest Neighbor Classification on Feature Projections",
+    "venue": "ICML",
+    "year": "1996",
+    "window": "Data Set: bcancerw cleveland glass hungarian <b>ionosphere</b> iris musk wine No. of Instances 273 303 214 294 351 150 476 178 No. of Features 9 13 9 13 34 4 166 13 No. of Classes 2 2 6 2 2 3 2 3 No. of Missing",
+    "mykey": 1441
+}

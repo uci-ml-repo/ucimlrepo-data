@@ -1,0 +1,11 @@
+{
+    "datasetID": 58,
+    "supportID": "C86F069D2AD0CD6E86D361CA54007DF454A13991",
+    "rexaID": "43adf91a23b576706c55888c9f46d07d424a7938",
+    "author": "Anthony D. Griffiths and Derek Bridge",
+    "title": "A Yardstick for the Evaluation of Case-Based Classifiers",
+    "venue": "Department of Computer Science, University of York",
+    "year": "",
+    "window": "giving 24 possible customer descriptions. These descriptions are classified into three classes according to the suitability of different types of contact <b>lens</b>  The documentation for the data set indicates that a correct description of the target function requires 9 production rules. The distribution of the classification values is highly skewed, giving a relative frequency for the majority",
+    "mykey": 2003
+}

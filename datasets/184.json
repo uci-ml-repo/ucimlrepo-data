@@ -1,0 +1,23 @@
+{
+    "ID": 184,
+    "Name": "Acute Inflammations",
+    "Abstract": "The data was created by a medical expert as a data set to test the expert system, \r\nwhich will perform the presumptive diagnosis of two diseases of the urinary system.\r\n",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 120,
+    "NumAttributes": 6,
+    "DateDonated": "2009-02-11",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/acute/",
+    "URLReadme": "../machine-learning-databases/acute/diagnosis.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The main idea of this data set is to prepare the algorithm of the expert system, which \r\nwill perform the presumptive diagnosis of two diseases of urinary system. It will be \r\nthe example of diagnosing of the acute inflammations of urinary bladder and acute \r\nnephritises. For better understanding of the problem let us consider definitions of \r\nboth diseases given by medics. Acute inflammation of urinary bladder is characterised \r\nby sudden occurrence of pains in the abdomen region and the urination in form of \r\nconstant urine pushing, micturition pains and sometimes lack of urine keeping. \r\nTemperature of the body is rising, however most often not above 38C. The excreted \r\nurine is turbid and sometimes bloody. At proper treatment, symptoms decay usually \r\nwithin several days. However, there is inclination to returns. At persons with acute \r\ninflammation of urinary bladder, we should expect that the illness will turn into \r\nprotracted form.\r\n\r\nAcute nephritis of renal pelvis origin occurs considerably more often at women than at \r\nmen. It begins with sudden fever, which reaches, and sometimes exceeds 40C. The fever \r\nis accompanied by shivers and one- or both-side lumbar pains, which are sometimes very \r\nstrong. Symptoms of acute inflammation of urinary bladder appear very often. Quite not \r\ninfrequently there are nausea and vomiting and spread pains of whole abdomen.\r\n\r\nThe data was created by a medical expert as a data set to test the expert system, which \r\nwill perform the presumptive diagnosis of two diseases of urinary system.  The basis for \r\nrules detection was Rough Sets Theory.  Each instance represents an potential patient.\r\n\r\nThe data is in an ASCII file. Attributes are separated by TAB.\r\nEach line of the data file starts with a digit which tells the temperature of patient.\r\n\r\n  -- Attribute lines:\r\n       For example, '35,9\tno\tno\tyes\tyes\tyes\tyes\tno'\r\n       Where:\r\n\t '35,9'\tTemperature of patient \t\r\n\t 'no'\tOccurrence of nausea \t\r\n\t 'no'\tLumbar pain  \t\r\n\t 'yes'\tUrine pushing (continuous need for urination)  \t\r\n\t 'yes'\tMicturition pains  \r\n\t 'yes'\tBurning of urethra, itch, swelling of urethra outlet \t\r\n\t 'yes'\tdecision: Inflammation of urinary bladder  \r\n\t 'no'\tdecision: Nephritis of renal pelvis origin ",
+    "Source": "Jacek Czerniak, Ph.D., Assistant Professor\r\nSystems Research Institute\r\nPolish Academy of Sciences\r\nLaboratory of Intelligent Systems  \r\nul. Newelska 6, Room 218\r\n01-447 Warszawa, Poland\r\ne-mail: jacek.czerniak@ibspan.waw.pl or jczerniak@ukw.edu.pl\r\n",
+    "Acknowledgements": "Please cite:\r\n\r\nJ.Czerniak, H.Zarzycki, Application of rough sets in the presumptive diagnosis of urinary system diseases, \r\nArtifical Inteligence and Security in Computing Systems, ACS'2002 9th International Conference Proceedings, \r\nKluwer Academic Publishers,2003, pp. 41-51\r\n",
+    "Area": "Life",
+    "RelevantPapers": "J.Czerniak, H.Zarzycki, Application of rough sets in the presumptive diagnosis of urinary system diseases, \r\nArtifical Inteligence and Security in Computing Systems, ACS'2002 9th International Conference Proceedings, \r\nKluwer Academic Publishers,2003, pp. 41-51\r\n",
+    "AttributeInfo": " a1\tTemperature of patient  { 35C-42C }\t\r\n a2\tOccurrence of nausea  { yes, no }\t\r\n a3\tLumbar pain  { yes, no }\t\r\n a4\tUrine pushing (continuous need for urination)  { yes, no }\t\r\n a5\tMicturition pains  { yes, no }\t\r\n a6\tBurning of urethra, itch, swelling of urethra outlet  { yes, no }\t\r\n d1\tdecision: Inflammation of urinary bladder  { yes, no }\t\r\n d2\tdecision: Nephritis of renal pelvis origin { yes, no }\t",
+    "FormatType": "Matrix",
+    "NumHits": 112
+}

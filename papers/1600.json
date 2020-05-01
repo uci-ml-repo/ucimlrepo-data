@@ -1,0 +1,11 @@
+{
+    "datasetID": 22,
+    "supportID": "9C28A6E37710D22B8DA58DAA9EC0D6EC76F7C988",
+    "rexaID": "beeb203c082359f4e141e1767a14f09449a5a717",
+    "author": "Jie Cheng and Russell Greiner",
+    "title": "Learning Bayesian Belief Network Classifiers: Algorithms and System",
+    "venue": "Canadian Conference on AI",
+    "year": "2001",
+    "window": "Wrapper(multi-net) with ordering = W-MN-O, Wrapper(multi-net) with feature selection = W-MN-FS and Wrapper(multi-net) with feature selection with ordering = WMN-FS-O. The ordering for the <b>Chess</b> data set is the reversed order of the features that appear in the data set since it is more reasonable, the ordering we use for other data sets are simply the order of the features that appear in the data",
+    "mykey": 1600
+}

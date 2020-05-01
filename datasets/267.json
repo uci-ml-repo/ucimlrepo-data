@@ -1,0 +1,23 @@
+{
+    "ID": 267,
+    "Name": "banknote authentication",
+    "Abstract": "Data were extracted from images that were taken for the evaluation of an authentication procedure for banknotes.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 1372,
+    "NumAttributes": 5,
+    "DateDonated": "2013-04-16",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00267/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Data were extracted from images that were taken from genuine and forged banknote-like specimens.  For digitization, an industrial camera usually used for print inspection was used. The final images have 400x 400 pixels. Due to the object lens and distance to the investigated object gray-scale pictures with a resolution of about 660 dpi were gained. Wavelet Transform tool were used to extract features from images.  ",
+    "Source": "Owner of database: Volker Lohweg (University of Applied Sciences, Ostwestfalen-Lippe, volker.lohweg@hs-owl.de)\r\nDonor of database: Helene D\u00c3\u00b6rksen (University of Applied Sciences, Ostwestfalen-Lippe, helene.doerksen@hs-owl.de)\r\nDate received: August, 2012\r\n",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "paper submitted (info will be uploaded asap)",
+    "AttributeInfo": "       1. variance of Wavelet Transformed image (continuous) \r\n       2. skewness of Wavelet Transformed image (continuous)\r\n       3. curtosis of Wavelet Transformed image (continuous)\r\n       4. entropy of image (continuous)\r\n       5. class (integer) \r\n",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

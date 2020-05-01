@@ -1,0 +1,11 @@
+{
+    "datasetID": 124,
+    "supportID": "74974B74ACFD99ADF616A51144E3BD92BD032F66",
+    "rexaID": "9182a5f903de880381f975a70365a46fe603bdf3",
+    "author": "Xiaofeng He and Partha Niyogi",
+    "title": "Locality Preserving Projections",
+    "venue": "NIPS",
+    "year": "2003",
+    "window": "techniques such as Laplacian Eigenmap. However, LPP is computationally much more tractable. 4.3. Manifold of <b>face</b> Images In this subsection, we applied the LPP to images of faces. The <b>face image</b> data set used here is the same as that used in [5]. This dataset contains 1965 face images taken from sequential frames of a small video. The size of each image is 20 \u00d7 28, with 256 gray levels Figure 3: A",
+    "mykey": 1136
+}

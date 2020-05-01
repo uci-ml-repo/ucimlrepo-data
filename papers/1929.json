@@ -1,0 +1,11 @@
+{
+    "datasetID": 147,
+    "supportID": "BE80C65A6EC7C2ACF49476DBB8C6C3D57E55A757",
+    "rexaID": "4e69e64b6902aa2a91b5cda5a69eb6b030ac12c4",
+    "author": "Adil M. Bagirov and John Yearwood",
+    "title": "A new nonsmooth optimization algorithm for clustering",
+    "venue": "Centre for Informatics and Applied Optimization, School of Information Technology and Mathematical Sciences, University of Ballarat",
+    "year": "",
+    "window": "some databases with known classes. We used the diabetes, liver disorder, heart disease, breast cancer, vehicles, synthetic, pen-based recognition of handwritten digits (PBRHD) and <b>image segmentation</b> data sets in numerical experiments. Descriptions of these data sets can be found in [24]. First, we normalized all features. This was done by a nonsingular matrix so that mean values of all features were 1.",
+    "mykey": 1929
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 56,
+    "supportID": "06BE354DB398057D6E61C72B9D03C0F3ED398D50",
+    "rexaID": "0f5d89b69b182e7d068733e49bc056afc4e64e02",
+    "author": "Rudy Setiono",
+    "title": "Feedforward Neural Network Construction Using Cross Validation",
+    "venue": "Neural Computation, 13",
+    "year": "2001",
+    "window": "and the test set. The average number of hidden units ranged from 2.46 for the <b>labor</b> data set to 19.44 for the soybean data set. Most of the networks for the latter data set contain the maximum 20 hidden units. It might be possible to improve the overall predictive accuracy of these networks",
+    "mykey": 44
+}

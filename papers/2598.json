@@ -1,0 +1,11 @@
+{
+    "datasetID": 185,
+    "supportID": "",
+    "rexaID": "D2AAB84219B7E75364CBED4430AF2F34B313885F",
+    "author": "Jorge Sueiras and Alfonso Salafranca and Jose Luis Florez",
+    "title": "A classical predictive modeling approach for task \"Who rated what?\" of the KDD CUP 2007",
+    "venue": "SIGKDD Explorations",
+    "year": "2007",
+    "window": "<b>Netflix</b> training data lasts up to December 2 5 and the Netflix Competition goal is to build a model which predicts the rating given by a user to a movie. In order to accurately estimate the mean prediction error for each propose d model, Netflix uses a test dataset with 2 million user ratings.",
+    "mykey": 2598
+}

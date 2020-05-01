@@ -1,0 +1,11 @@
+{
+    "datasetID": 143,
+    "supportID": "6488EB1A04F3F3E1DB148DD78B60025C6B1487D2",
+    "rexaID": "05c326dc479677ca55b6b6e260c8622539762b62",
+    "author": "Hussein A. Abbass",
+    "title": "Pareto Neuro-Evolution: Constructing Ensemble of Neural Networks Using Multi-objective Optimization",
+    "venue": "Artificial Life and Adaptive Robotics (A.L.A.R.) Lab, School of Information Technology and Electrical Engineering, Australian Defence Force Academy",
+    "year": "",
+    "window": "tested MPANN on two benchmark problems; the <b>Australian credit</b> card assessment problem and the diabetes problem, available by anonymous ftp from ice.uci.edu [6]. The Australian credit card assessment dataset contains 690 patterns with 14 attributes; 6 numeric and 8 discrete (with 2 to 14 possible values). The predicted class is binary - 1 for awarding the credit and 0 for not. To be consistent with the",
+    "mykey": 945
+}

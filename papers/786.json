@@ -1,0 +1,11 @@
+{
+    "datasetID": 17,
+    "supportID": "56CE04B8F5426AFE91E53D474B5BE5876F4266E2",
+    "rexaID": "ca3e1e0bf335a97cedb76be7b64610181e0f6684",
+    "author": "Kristin P. Bennett and Ayhan Demiriz and Richard Maclin",
+    "title": "Exploiting unlabeled data in ensemble methods",
+    "venue": "KDD",
+    "year": "2002",
+    "window": "experiments we used simple multilayer perceptrons with a single layer of hidden units. The networks were trained using backpropagation with a learning rate of 0.15 and a momentum value of 0.90. The datasets for the experiments are <b>breast</b> <b>cancer</b> <b>wisconsin</b>  pima-indians diabetes, and letter-recognition drawn from the UCI Machine Learning repository [3]. The number of units in the hidden layer for the",
+    "mykey": 786
+}

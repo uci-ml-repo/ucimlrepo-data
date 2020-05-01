@@ -1,0 +1,23 @@
+{
+    "ID": 458,
+    "Name": "Roman Urdu Data Set",
+    "Abstract": "Roman Urdu (the scripting style for Urdu language) is one of the limited resource languages.A data corpus comprising of more than 20000 records was collected.",
+    "Types": "Text",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 20000,
+    "NumAttributes": 2,
+    "DateDonated": "2018-08-29",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00458/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Tagged for Sentiment (Positive, Negative, Neutral)",
+    "Source": "Zareen Sharf, zareensharf76@gmail.com, Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology (SZABIST).",
+    "Acknowledgements": "To be cited whenever accessed or downloaded.",
+    "Area": "Computer",
+    "RelevantPapers": "Sharf, Zareen, and Saif Ur Rahman. 'Lexical normalization of roman Urdu text.' IJCSNS 17.12 (2017): 213.\r\nSharf, Zareen, and Saif Ur Rahman. \u00e2\u20ac\u0153Performing Natural Language Processing On Roman Urdu Datasets.' IJCSNS (January 2018 Volume)\r\n",
+    "AttributeInfo": "Each record comprises of two string datatype values. One for Comment/Review and the second for sentiment.",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

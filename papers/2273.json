@@ -1,0 +1,11 @@
+{
+    "datasetID": 59,
+    "supportID": "E0E6F18BE3912B426F1E1DFD5B0F5C24A08D00F9",
+    "rexaID": "81865e4bd3f3a7a8b86c73c6144db99274e5bbaf",
+    "author": "Georgios Paliouras and David S. Br\u00e9e",
+    "title": "The Effect of Numeric Features on the Scalability of Inductive Learning Programs",
+    "venue": "ECML",
+    "year": "1995",
+    "window": "6000 set size (instances) 1 10 100 1000 10000 100000 CPU Time (sec.) Computational Performance <b>Letter Recognition</b> Set C4.5 PLS1 CN2 AQ15 Figure 5: Scalability Results, using the Letter Recognition data set. 60 600 6000 60000 set size (instances) 0 1 2 3 4 Rate of increase Rate of increase of CPU-time consumption Letter Recognition Set (n 2 ) (n) C4.5 PLS1 CN2 AQ15 Figure 6: Letter Recognition Set: The",
+    "mykey": 2273
+}

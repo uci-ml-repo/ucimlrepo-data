@@ -1,0 +1,11 @@
+{
+    "datasetID": 56,
+    "supportID": "45E9563187F82E664D7AA4C35BF2B2EF69696C8F",
+    "rexaID": "c4bbcd894d98036f58a23f51ef83d1860d43021c",
+    "author": "YongSeog Kim and W. Nick Street and Filippo Menczer",
+    "title": "Optimal Ensemble Construction via Meta-Evolutionary Ensembles",
+    "venue": "Business Information Systems, Utah State University",
+    "year": "",
+    "window": "It is interesting that MEE performs worse performance in two data sets, <b>labor</b> and segment, compared to both ordinary ensemble methods. Note also that MEE shows comparable performance compared to GEFS with a win-loss-tie score (4-5-6). However, we note that such",
+    "mykey": 603
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "DDD93D7A7F8CD0946343DBE84F5D888E168628DD",
+    "rexaID": "2b9850dda87431cc9117f2a0a63d79863723e4b0",
+    "author": "Krzysztof Grabczewski and Wl/odzisl/aw Duch",
+    "title": "THE SEPARABILITY OF SPLIT VALUE CRITERION",
+    "venue": "Department of Computer Methods, Nicolaus Copernicus University",
+    "year": "",
+    "window": "in form of logical rules. Method Accuracy % Reference Logdisc 77.7 Statlog SSV Tree 74.8 this paper CART 74.5 Stalog C4.5 73.0 Stalog Default 65.1 Table 1: Crossvalidation results for <b>diabetes</b> dataset Method Accuracy % Reference 3-NN 96.7 Karol Grudzi \u00b4 nski (our group) MLP+BP 96.0 Sigillito [7] C4.5 94.9 Hamilton [8] FSM 92.8 Rafal/ Adamczak (our group) [9] SSV Tree 92.0 this paper DB-CART 91.3",
+    "mykey": 2222
+}

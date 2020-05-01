@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "E01C5FD64B489477148B6D1B0A6D1D28D14EB140",
+    "rexaID": "b90249d5778eb237815fe93968e894cb5adb7f8a",
+    "author": "Ron Kohavi",
+    "title": "A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection",
+    "venue": "IJCAI",
+    "year": "1995",
+    "window": "` is defined as the expected value minus the estimated value. An unbiased estimation method is a method that has zero bias. Figure 1 shows the bias and variance of k-fold cross-validation on several datasets (the <b>breast</b> <b>cancer</b> dataset is not shown). The diagrams clearly show that k-fold cross-validation is pessimistically biased, especially for two and five folds. For the learning curves that have a",
+    "mykey": 2266
+}

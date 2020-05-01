@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "5BA3AA18D3DA933C6CA297903FE7914FE7D041CE",
+    "rexaID": "57df1fe4db314b15e12a8036d1c677dd1b9633af",
+    "author": "Aristides Gionis and Heikki Mannila and Panayiotis Tsaparas",
+    "title": "Clustering Aggregation",
+    "venue": "ICDE",
+    "year": "2005",
+    "window": "completely parameter-free! Neither a threshold nor the number of clusters need to be specified. The number of clusters discovered by our algorithms seem to be very reasonable choices: for the <b>Votes dataset</b>  most people vote according to the official position of their political parties, so having two clusters is natural; for the Mushrooms dataset, notice that both ROCK and LIMBO achieve much better",
+    "mykey": 849
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 26,
+    "supportID": "A74EFB1B547DE1B8E73A40EDC9A84EB09F30970F",
+    "rexaID": "dfce0da4e5e3d501a92e3be7e4b0cc43d46fd057",
+    "author": "Alan Burton and Paul H J Kelly",
+    "title": "Performance Prediction of Paging Workloads Using Lightweight Tracing",
+    "venue": "IPDPS",
+    "year": "2003",
+    "window": "set and a set of pre-defined classes, C4.5 [11] attempts to generate a function which maps the data items in a database into the predefined classes, by constructing an optimal decision tree. The data set used in these experiments was the  <b>Connect-4</b> Opening Database' [9]. # mSQL. This experiment involved running part of the AS 3 AP[13] SQL benchmark on version 2.0.3 of mSQL[6], a lightweight database",
+    "mykey": 1709
+}

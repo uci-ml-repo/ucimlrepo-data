@@ -1,0 +1,23 @@
+{
+    "ID": 181,
+    "Name": "Libras Movement",
+    "Abstract": "The data set contains 15 classes of 24 instances each. Each class references to a hand movement type in LIBRAS (Portuguese\r\nname 'L\u00cdngua BRAsileira de Sinais', oficial brazilian signal language).",
+    "Types": "Multivariate, Sequential",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 360,
+    "NumAttributes": 91,
+    "DateDonated": "2009-08-17",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/libras/",
+    "URLReadme": "../machine-learning-databases/libras/movement_libras.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset (movement_libras) contains 15 classes of 24 instances each, where each class references to a hand movement type in LIBRAS.\r\n\r\nIn the video pre-processing, a time normalization is carried out selecting 45 frames from each video, in according \r\nto an uniform distribution. In each frame, the centroid pixels of the segmented objects (the hand) are found, which \r\ncompose the discrete version of the curve F with 45 points. All curves are normalized in the unitary space.\r\n\r\nIn order to prepare these movements to be analysed by algorithms, we have carried out a mapping operation, that is, each\r\ncurve F is mapped in a representation with 90 features, with representing the coordinates of movement. \r\n\r\nSome sub-datasets are offered in order to support comparisons of results.\r\n",
+    "Source": "Creators: \r\n   Daniel Baptista Dias (Dias, D.B.)\r\n   Sarajane Marques Peres (Peres, S. M.)\r\n   Helton Hideraldo B\u00edscaro (B\u00edscaro. H. H.)\r\n   {danielbdias,heltonhb, sarajane} at usp.br\r\n\r\nDonor:\r\n   University of S\u00e3o Paulo - Brazil\r\n",
+    "Acknowledgements": "Please refer to the Machine Learning Repository's citation policy.",
+    "Area": "Other",
+    "RelevantPapers": "DIAS, D. B.; MADEO, R. C. B.; ROCHA, T.; B\u00cdSCARO, H. H.; PERES, S. M.. \r\nHand Movement Recognition for Brazilian Sign Language: A Study Using Distance-Based Neural Networks. \r\nIn: 2009 International Joint Conference on Neural Networks, 2009, Atlanta, GA. \r\nProceedings of 2009 International Joint Conference on Neural Networks. Eau Claire, WI, USA : Documation LLC, 2009. p. 697-704.\r\nDigital Object Identifier 10.1109/IJCNN.2009.5178917 \r\n",
+    "AttributeInfo": "90 numeric (double) and 1 for the class (integer)",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

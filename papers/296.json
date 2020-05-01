@@ -1,0 +1,11 @@
+{
+    "datasetID": 101,
+    "supportID": "2559B9D91960755BD75BD8DAE7A9D59122DAF30D",
+    "rexaID": "6c590e12408ebd3b9184e8f4634612e552a823e9",
+    "author": "Stephen D. Bay",
+    "title": "Nearest neighbor classification from multiple feature subsets",
+    "venue": "Intell. Data Anal, 3",
+    "year": "1999",
+    "window": "is a board game played on a 3 by 3 grid. There are two players X and O, who alternate putting X's and O's on the board. In order to win a player must get three X's or O's in a row. The <b>tic-tac-toe</b> dataset contains the 958 legal tic-tac-toe endgame boards (assuming X moves first). The classification task is to determine if X won the game. 11 Table 2: Classifier error rates. Domain NN kNN FSS BSS MFS1",
+    "mykey": 296
+}

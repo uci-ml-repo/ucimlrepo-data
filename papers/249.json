@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "1E0AB2F30DE8ABD4D779BAAABCAFCD4877A14233",
+    "rexaID": "e726c8c19c80616c6de5614e578f75aca791130a",
+    "author": "Wl/odzisl/aw Duch",
+    "title": "Coloring black boxes: visualization of neural network decisions",
+    "venue": "School of Computer Engineering, Nanyang Technological University",
+    "year": "",
+    "window": "a linear projection method is introduced, projecting the network outputs into K vertices of a polygon. Section three presents a detailed case study using an MLP and RBF networks for the 3class <b>Wine</b> dataset, and some examples for 5-class Satimage dataset. In the last section discussion and some remarks on the usefulness and further development of such visualization methods are given. Since the use of",
+    "mykey": 249
+}

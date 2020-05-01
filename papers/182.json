@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "1377C81BBCFC456A4516AF409477BF269E15B1E7",
+    "rexaID": "e8e16dd19c85a91ca01760943d02f3fc5594eec4",
+    "author": "John G. Cleary and Leonard E. Trigg",
+    "title": "Experiences with OB1, An Optimal Bayes Decision Tree Learner",
+    "venue": "Department of Computer Science University of Waikato",
+    "year": "",
+    "window": "however, naive Bayes performs very well, and on some datasets (such as <b>heart</b> c and labor) it performs considerably better than the OB1 results shown (presumably because its attribute independence assumption isn't violated). The next section investigates",
+    "mykey": 182
+}

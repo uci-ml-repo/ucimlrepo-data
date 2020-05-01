@@ -1,0 +1,23 @@
+{
+    "ID": 83,
+    "Name": "Primary Tumor",
+    "Abstract": "From Ljubljana Oncology Institute",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 339,
+    "NumAttributes": 17,
+    "DateDonated": "1988-11-01",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/primary-tumor/",
+    "URLReadme": "../machine-learning-databases/primary-tumor/primary-tumor.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This is one of three domains provided by the Oncology Institutenthat has repeatedly appeared in the machine learning literature.\r\n\r\n(See also breast-cancer and lymphography.)",
+    "Source": "Donors: \r\n\r\n1. Igor Kononenko, \r\nUniversity E.Kardelj\r\nFaculty for electrical engineering\r\nTrzaska 25\r\n61000 Ljubljana (tel.: (38)(+61) 265-161\r\n\r\n2. Bojan Cestnik\r\nJozef Stefan Institute\r\nJamova 39\r\n61000 Ljubljana\r\nYugoslavia (tel.: (38)(+61) 214-399 ext.287) ",
+    "Acknowledgements": "This primary tumor domain was obtained from the University Medical Centre, Institute of Oncology, Ljubljana, Yugoslavia.  Thanks go to M. Zwitter and M. Soklic for providing the data.  Please include this citation if you plan to use this database.",
+    "Area": "Life",
+    "RelevantPapers": "Cestnik,G., Konenenko,I, & Bratko,I. (1987). Assistant-86: A Knowledge-Elicitation Tool for Sophisticated Users.  In I.Bratko & N.Lavrac (Eds.) Progress in Machine Learning, 31-45, Sigma Press.\r\nhttp://rexa.info/paper/929f34b1fbef4c2335cebebf22840bcf78577ae4\r\n\r\nClark,P. & Niblett,T. (1987). Induction in Noisy Domains.  In I.Bratko & N.Lavrac (Eds.) Progress in Machine Learning, 11-30, Sigma Press.\r\nhttp://rexa.info/paper/e61e98320017b392a93c8ae4b0a9f80acc3fbc82\r\n\r\nMichalski,R., Mozetic,I. Hong,J., & Lavrac,N. (1986).  The Multi-Purpose Incremental Learning System AQ15 and its Testing Applications to Three Medical Domains.  In Proceedings of the Fifth National Conference on Artificial Intelligence, 1041-1045. Philadelphia, PA: Morgan Kaufmann.\r\nhttp://rexa.info/paper/2aba4fdd38df99d73ae0097b58ba06a02f048326",
+    "AttributeInfo": "--- NOTE: All attribute values in the database have been entered as numeric values corresponding to their index in the list of attribute values for that attribute domain as given below.\r\n   1. class: lung, head & neck, esophasus, thyroid, stomach, duoden & sm.int, colon, rectum, anus, salivary glands, pancreas, gallblader, liver, kidney, bladder, testis, prostate, ovary, corpus uteri, cervix uteri, vagina, breast\r\n   2. age:   <30, 30-59, >=60\r\n   3. sex:   male, female\r\n   4. histologic-type: epidermoid, adeno, anaplastic\r\n   5. degree-of-diffe: well, fairly, poorly\r\n   6. bone: yes, no\r\n   7. bone-marrow: yes, no\r\n   8. lung: yes, no\r\n   9. pleura: yes, no\r\n  10. peritoneum: yes, no\r\n  11. liver: yes, no\r\n  12. brain: yes, no\r\n  13. skin: yes, no\r\n  14. neck: yes, no\r\n  15. supraclavicular: yes, no\r\n  16. axillar: yes, no\r\n  17. mediastinum: yes, no\r\n  18. abdominal: yes, no",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 9822
+}

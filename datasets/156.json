@@ -1,0 +1,23 @@
+{
+    "ID": 156,
+    "Name": "CalIt2 Building People Counts",
+    "Abstract": "This data comes from the main door of the CalIt2 building at UCI.",
+    "Types": "Multivariate, Time-Series",
+    "Task": "",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 10080,
+    "NumAttributes": 4,
+    "DateDonated": "2006-12-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/event-detection/",
+    "URLReadme": "../machine-learning-databases/event-detection/CalIt2.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Observations come from 2 data streams (people flow in and out of the building),  over 15 weeks, 48 time slices per day (half hour count aggregates). \r\n\r\nThe purpose is to predict the presence of an event such as a conference in the building that is reflected by unusually high people counts for that day/time period.  ",
+    "Source": "Creator and Maintainer:\r\nJon Hutchins\r\nUCI\r\njohutchi@uci.edu",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "\"Adaptive event detection with time-varying Poisson processes\"\r\nA. Ihler, J. Hutchins, and P. Smyth\r\nProceedings of the 12th ACM SIGKDD Conference (KDD-06), August 2006.\r\n",
+    "AttributeInfo": "1.  Flow ID: 7 is out flow, 9 is in flow\r\n2.  Date: MM/DD/YY\r\n3.  Time: HH:MM:SS\r\n4.  Count: Number of counts reported for the previous half hour\r\n  \r\nRows: Each half hour time slice is represented by 2 rows: one row for the out flow during that time period (ID=7) and one row for the in flow during that time period (ID=9)\r\n\r\nAttributes in .events file (\"ground truth\")\r\n1.  Date: MM/DD/YY\r\n2.  Begin event time: HH:MM:SS (military) \r\n3.  End event time: HH:MM:SS (military)\r\n4.  Event name (anonymized)\r\n",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 26
+}

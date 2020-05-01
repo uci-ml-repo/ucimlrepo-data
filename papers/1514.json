@@ -1,0 +1,11 @@
+{
+    "datasetID": 46,
+    "supportID": "96AD75FBED0DBED69A06F97797FAEC4C17FC06B0",
+    "rexaID": "61172cddb9dbfd4d26caeeaa3a8a8deb58a26bb5",
+    "author": "Amaury Habrard and Marc Bernard and Marc Sebban",
+    "title": "IOS Press Detecting Irrelevant Subtrees to Improve Probabilistic Learning from Tree-structured Data",
+    "venue": "Fundamenta Informaticae",
+    "year": "2004",
+    "window": "has 1000 examples with 42 different leaves, but has larger trees than the previous one. . We also use a sample proposed for the PKDD'02 discovery challenge 1 (dataset on <b>hepatitis</b> ; the transformation of data into trees is described in [19]. This dataset has 4000 examples with 253 leaves. Our experimental setup consists in adding noise in each dataset, as",
+    "mykey": 1514
+}

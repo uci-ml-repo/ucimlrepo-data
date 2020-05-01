@@ -1,0 +1,23 @@
+{
+    "ID": 473,
+    "Name": "BAUM-1",
+    "Abstract": "BAUM-1 dataset contains 1184 multimodal facial video clips collected from 31 subjects. The 1184 video clips contain spontaneous facial expressions and speech of 13 emotional and mental states.",
+    "Types": "Time-Series",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 1184,
+    "NumAttributes": 0,
+    "DateDonated": "2018-11-09",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00473/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "In order to download the database please send an e-mail to: \r\ns.zhalehpour@gmail.com \r\nor\r\ncigdem.erogluerdem@gmail.com\r\n\r\nRelevant information can be found in the readme file. ",
+    "Source": "The database and baseline results have been published in the following paper:\r\nS. Zhalehpour, O. Onder, Z. Akhtar, C. E. Erdem, 'BAUM-1: A Spontaneous Audio-V\u00c4\u00b0sual Face Database of Affective and Mental States', IEEE Transactions on Affective Computing, Vol. 8, No.3, 2017. \r\n\r\nThe creators of the database are the authors of the above paper. \r\n\r\n",
+    "Acknowledgements": "S. Zhalehpour, O. Onder, Z. Akhtar, C. E. Erdem, 'BAUM-1: A Spontaneous Audio-V\u00c4\u00b0sual Face Database of Affective and Mental States', IEEE Transactions on Affective Computing, Vol. 8, No.3, 2017. ",
+    "Area": "Computer",
+    "RelevantPapers": "\r\nLearning Affective Features With a Hybrid Deep Model for Audio-Visual Emotion Recognition\r\nBy: Zhang, Shiqing; Zhang, Shiliang; Huang, Tiejun; et al.\r\nIEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY  Volume: 28   Issue: 10   Special Issue: SI   Pages: 3030-3043   Published: OCT 2018\r\n\r\n\r\n'Facial Expression Analysis under Partial Occlusion: A Survey'\r\nBy: Zhang, Ligang; Verma, Brijesh; Tjondronegoro, Dian; et al.\r\nACM COMPUTING SURVEYS  Volume: 51   Issue: 2     Article Number: 25   Published: JUN 2018\r\n\r\n\r\nSpeech Emotion Recognition Using Deep Convolutional Neural Network and Discriminant Temporal Pyramid Matching\r\nBy: Zhang, Shiqing; Zhang, Shiliang; Huang, Tiejun; et al.\r\nIEEE TRANSACTIONS ON MULTIMEDIA  Volume: 20   Issue: 6   Pages: 1576-1590   Published: JUN 2018\r\n\r\n\r\nIMPROVED AUDIO-VISUAL LAUGHTER DETECTION VIA MULTI-SCALE MULTI-RESOLUTION IMAGE TEXTURE FEATURES AND CLASSIFIER FUSION\r\nBy: Akhtar, Zahid; Bedoya, Stefany; Falk, Tiago H.\r\nConference: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) Location: Calgary, CANADA Date: APR 15-20, 2018 \r\nSponsor(s): Inst Elect & Elect Engineers; Inst Elect & Elect Engineers Signal Proc Soc\r\n2018 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP)  Pages: 3106-3110   Published: 2018",
+    "AttributeInfo": "The dataset contains short video clips in MP4 format. \r\nThe expressed emotional and mental states consist of happiness, anger, sadness, disgust, fear, surprise, boredom, contempt, confusion, neutral, thinking, concentrating, and bothered. ",
+    "FormatType": "",
+    "NumHits": 0
+}

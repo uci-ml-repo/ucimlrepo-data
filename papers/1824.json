@@ -1,0 +1,11 @@
+{
+    "datasetID": 23,
+    "supportID": "B1466AC895EAB055C95EEC6CAD0260085FCD6C7B",
+    "rexaID": "3fa8ab593f1fd58f33109aae497ca1fb67732c35",
+    "author": "Marco Zaffalon and Marcus Hutter",
+    "title": "Robust Feature Selection by Mutual Information Distributions",
+    "venue": "CoRR, csAI/0206006",
+    "year": "2002",
+    "window": "The remaining cases are described by means of the following figures. Figure 2 shows that FF allowed the naive Bayes to significantly do better predictions than F for the greatest part of the <b>Chess</b> data set. The maximum di\u00aeerence in prediction accuracy is obtained at instance 422, where the accuracies are 0.889 and 0.832 for the cases FF and F, respectively. Figure 2 does not report the BF case,",
+    "mykey": 1824
+}

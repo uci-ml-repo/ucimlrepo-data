@@ -1,0 +1,23 @@
+{
+    "ID": 62,
+    "Name": "Lung Cancer",
+    "Abstract": "Lung cancer data; no attribute definitions",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 32,
+    "NumAttributes": 56,
+    "DateDonated": "1992-05-01",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/lung-cancer/",
+    "URLReadme": "../machine-learning-databases/lung-cancer/lung-cancer.names",
+    "HighestAccuracy": 62,
+    "RelevantInfo": "This data was used by Hong and Young to illustrate the power of the optimal discriminant plane even in ill-posed settings. Applying the KNN method in the resulting plane gave 77% accuracy. However, these results are strongly biased (See Aeberhard's second ref. above, or email to stefan@coral.cs.jcu.edu.au). Results obtained by Aeberhard et al. are :\r\n \r\nRDA : 62.5%, KNN 53.1%, Opt. Disc. Plane 59.4%\r\n\r\nThe data described 3 types of pathological lung cancers. The Authors give no information on the individual variables nor on where the data was originally used.\r\n\r\nNotes:\r\n-  In the original data 4 values for the fifth attribute were -1. These values have been changed to ? (unknown). (*)\r\n-  In the original data 1 value for the 39 attribute was 4.  This value has been changed to ? (unknown). (*)",
+    "Source": "Data was published in : \r\n\r\nHong, Z.Q. and Yang, J.Y. \"Optimal Discriminant Plane for a Small Number of Samples and Design Method of Classifier on the Plane\",\r\nPattern Recognition, Vol. 24, No. 4, pp. 317-324, 1991.\r\n\r\nDonor: \r\n\r\nStefan Aeberhard, stefan@coral.cs.jcu.edu.au\r\n",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "Hong, Z.Q. and Yang, J.Y. \"Optimal Discriminant Plane for a Small Number of Samples and Design Method of Classifier on the Plane\", Pattern Recognition, Vol. 24, No. 4, pp. 317-324, 1991.\r\nhttp://rexa.info/paper/64f7c066a7c219aa4601189d7d7c3fdc38fd3c52\r\n\r\nAeberhard, S., Coomans, D, De Vel, O. \"Comparisons of Classification Methods in High Dimensional Settings\", submitted to Technometrics.\r\n\r\nAeberhard, S., Coomans, D, De Vel, O. \"The Dangers of Bias in High Dimensional Settings\", submitted to pattern Recognition.",
+    "AttributeInfo": "Attribute 1 is the class label.\r\n\r\nAll predictive attributes are nominal, taking on integer values 0-3",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 18138
+}

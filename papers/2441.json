@@ -1,0 +1,11 @@
+{
+    "datasetID": 89,
+    "supportID": "F216DE99B968CC0B6F01487F36918BF37A0D39CC",
+    "rexaID": "09e7adcf66589d1d54853bb072ead0657a5c5e14",
+    "author": "Nir Friedman and Daphne Koller (koller@cs. stanford. edu",
+    "title": "A Bayesian Approach to Structure Discovery in Bayesian Networks",
+    "venue": "School of Computer Science & Engineering Hebrew University",
+    "year": "",
+    "window": "0.6 0.8 1 MCMC Exact 5 samples 20 samples 50 samples Markov Edges Figure 1. Comparison of posterior probabilities for the exact posterior over orders (x-axis) versus order-MCMC (y-axis) in the <b>Flare</b> dataset with 100 instances. The figures show the probabilities for all Markov features and edge features. 5. Experimental Results We evaluated our approach in a variety of ways. We first compare it with a",
+    "mykey": 2441
+}

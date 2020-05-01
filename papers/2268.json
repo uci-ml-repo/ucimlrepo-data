@@ -1,0 +1,11 @@
+{
+    "datasetID": 90,
+    "supportID": "E01C5FD64B489477148B6D1B0A6D1D28D14EB140",
+    "rexaID": "b90249d5778eb237815fe93968e894cb5adb7f8a",
+    "author": "Ron Kohavi",
+    "title": "A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection",
+    "venue": "IJCAI",
+    "year": "1995",
+    "window": "Mushroom Chess Hypo Breast Vehicle <b>soybean</b> Rand Figure 4: .632 Bootstrap: standard deviation in accuracy (population). sets themselves, leading to an increase in variance. This is most apparent for datasets with many categories, such as soybean. In these situations, stratification seems to help, but repeated runs may be a better approach. Our results indicate that stratification is generally a better",
+    "mykey": 2268
+}

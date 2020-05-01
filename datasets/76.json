@@ -1,0 +1,23 @@
+{
+    "ID": 76,
+    "Name": "Nursery",
+    "Abstract": " Nursery Database was derived from a hierarchical decision model originally developed to rank applications for nursery schools.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 12960,
+    "NumAttributes": 8,
+    "DateDonated": "1997-06-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/nursery/",
+    "URLReadme": "../machine-learning-databases/nursery/nursery.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Nursery Database was derived from a hierarchical decision model originally developed to rank applications for nursery schools. It was used during several years in 1980's when there was excessive enrollment to these schools in Ljubljana, Slovenia, and the rejected applications frequently needed an objective explanation. The final decision depended on three subproblems: occupation of parents and child's nursery, family structure and financial standing, and social and health picture of the family. The model was developed within expert system shell for decision making DEX (M. Bohanec, V. Rajkovic: Expert system for decision making. Sistemica 1(1), pp. 145-157, 1990.).\r\n\r\nThe hierarchical model ranks nursery-school applications according to the following concept structure:\r\n\r\n NURSERY            Evaluation of applications for nursery schools\r\n . EMPLOY           Employment of parents and child's nursery\r\n . . parents        Parents' occupation\r\n . . has_nurs       Child's nursery\r\n . STRUCT_FINAN     Family structure and financial standings\r\n . . STRUCTURE      Family structure\r\n . . . form         Form of the family\r\n . . . children     Number of children\r\n . . housing        Housing conditions\r\n . . finance        Financial standing of the family\r\n . SOC_HEALTH       Social and health picture of the family\r\n . . social         Social conditions\r\n . . health         Health conditions\r\n\r\nInput attributes are printed in lowercase. Besides the target concept (NURSERY) the model includes four intermediate concepts: EMPLOY, STRUCT_FINAN, STRUCTURE, SOC_HEALTH. Every concept is in the original model related to its lower level descendants by a set of examples (for these examples sets see http://www-ai.ijs.si/BlazZupan/nursery.html).\r\n\r\nThe Nursery Database contains examples with the structural information removed, i.e., directly relates NURSERY to the eight input attributes: parents, has_nurs, form, children, housing, finance, social, health.\r\n\r\nBecause of known underlying concept structure, this database may be particularly useful for testing constructive induction and structure discovery methods.",
+    "Source": "Creator: \r\n\r\nVladislav Rajkovic et al. (13 experts)\r\n\r\nDonors: \r\n\r\nMarko Bohanec   (marko.bohanec@ijs.si)\r\nBlaz Zupan      (blaz.zupan@ijs.si)",
+    "Acknowledgements": "",
+    "Area": "Social",
+    "RelevantPapers": "M. Olave, V. Rajkovic, M. Bohanec: An application for admission in public school systems. In (I. Th. M. Snellen and W. B. H. J. van de Donk and J.-P. Baquiast, editors) Expert Systems in Public Administration, pages 145-160. Elsevier Science Publishers (North Holland), 1989.\r\nhttp://rexa.info/paper/97376fa474590bb12af93ddee9b23120f8854446\r\n\r\nB. Zupan, M. Bohanec, I. Bratko, J. Demsar: Machine learning by function decomposition. ICML-97, Nashville, TN. 1997\r\nhttp://rexa.info/paper/0f23f96c4a89bbb221a151f5db381924c17a6eaa",
+    "AttributeInfo": "   parents:        usual, pretentious, great_pret\r\n   has_nurs:       proper, less_proper, improper, critical, very_crit\r\n   form:           complete, completed, incomplete, foster\r\n   children:       1, 2, 3, more\r\n   housing:        convenient, less_conv, critical\r\n   finance:        convenient, inconv\r\n   social:         non-prob, slightly_prob, problematic\r\n   health:         recommended, priority, not_recom",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 15376
+}

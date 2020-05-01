@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "756CC4560801E921C597466D70A05F4A43F0F258",
+    "rexaID": "ca1c2b19089d0ca0d4069b04c35d6f6c4312db79",
+    "author": "Jinyan Li and Guozhu Dong and Kotagiri Ramamohanarao and Limsoon Wong",
+    "title": "DeEPs: A New Instance-based Discovery and Classification System",
+    "venue": "Proceedings of the Fourth European Conference on Principles and Practice of Knowledge Discovery in Databases",
+    "year": "2001",
+    "window": "we highlight some interesting points. 1. DeEPs versus k-NN. ffl Both DeEPs and k-NN perform equally accurately on soybean-small (100%) and on <b>iris</b> (96%). ffl DeEPs wins on 26 data sets; k-NN wins on 11. It can be seen that the accuracy of DeEPs is generally better than that of k-NN. ffl The speed of DeEPs is about 1.5 times slower than that of k-NN. The main reason is that DeEPs",
+    "mykey": 1153
+}

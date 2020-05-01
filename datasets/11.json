@@ -1,0 +1,23 @@
+{
+    "ID": 11,
+    "Name": "Badges",
+    "Abstract": "Badges labeled with a \"+\" or \"-\" as a function of a person's name",
+    "Types": "Univariate, Text",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 294,
+    "NumAttributes": 1,
+    "DateDonated": "1994-09-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/badges/",
+    "URLReadme": "../machine-learning-databases/badges/badges.info",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Part of the problem in using an automated program to discover the unknown target function is to decide how to encode names such that the program can be used.  The data below are presented in the form of a +/- label followed by the person's name.  It is up to the learning-system user to decide how to convert this data into something usable by the system (e.g., what attributes to use if your favorite learner requires feature-vector data).",
+    "Source": "Creator: \r\n\r\nHaym Hirsh, after an idea by Rob Schapire\r\n\r\nDonor: \r\n\r\nHaym Hirsh (hirsh@cs.rutgers.edu)",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "",
+    "AttributeInfo": "",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 28
+}

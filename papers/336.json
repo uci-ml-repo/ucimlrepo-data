@@ -1,0 +1,11 @@
+{
+    "datasetID": 69,
+    "supportID": "298B53B022520D83B1092623E4AF2B5E6A14EB82",
+    "rexaID": "50aaf7ca6a34bd2aadbd1cb87235bda27650bb18",
+    "author": "Blaz Zupan and Marko Bohanec and Janez Dem#sar and Ivan Bratko",
+    "title": "Learning by Discovering Concept Hierarchies",
+    "venue": "Artif. Intell, 109",
+    "year": "1999",
+    "window": "do not necessarily have such characteristics, which may be the reason why for these domains HINT's performance is worse. For example, the domain theory given with the <b>SPLICE</b> dataset [31] mentions several potentially useful intermediate concepts that share attributes. Thus these concepts form a concept lattice rather than a concept tree, and therefore can not be discovered by",
+    "mykey": 336
+}

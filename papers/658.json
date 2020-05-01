@@ -1,0 +1,11 @@
+{
+    "datasetID": 50,
+    "supportID": "4B689FBDC5FF3A51AB71705380E5A70E2B3AE01F",
+    "rexaID": "e65031293b77aadf555fd232a960cbd8a3fe739a",
+    "author": "Nikos A. Vlassis and Aristidis Likas",
+    "title": "A greedy EM algorithm for Gaussian mixture",
+    "venue": "Intelligent Autonomous Systems, IAS",
+    "year": "",
+    "window": "this becomes clearer as the degree of separation c of the components increases. In the second part of the experiments we applied the greedy EM and the regular EM algorithm on an <b>image segmentation</b> data set available from the UCI repository [1]. This data set contains 210 training patterns and 2100 test patterns of 19 features. Although this is a supervised data set, in the conducted experiments we",
+    "mykey": 658
+}

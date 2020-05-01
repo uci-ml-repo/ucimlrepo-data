@@ -1,0 +1,11 @@
+{
+    "datasetID": 23,
+    "supportID": "F2DC7581BC7D742CADDA07A2968E02E6B8D46BBB",
+    "rexaID": "bf6cec50b7f7d48d105c8c649210cc3a42d3d71e",
+    "author": "Ron Kohavi",
+    "title": "Scaling Up the Accuracy of Naive-Bayes Classifiers: A Decision-Tree Hybrid",
+    "venue": "KDD",
+    "year": "1996",
+    "window": "which is a Bayes network restricted to a tree topology. The results are promising and running times should scale up, but the approach is still restrictive. For example, their accuracy for the <b>Chess</b> dataset, which contains high-order interactions is about 93%, much lower then C4.5 and NBTree, which achieve accuracies above 99%. Conclusions We have described a new algorithm, NBTree, which is a hybrid",
+    "mykey": 2461
+}

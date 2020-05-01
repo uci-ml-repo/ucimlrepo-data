@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "2ED9C34090CC5ADFEC26C7D1CCA02D4B695ADC0F",
+    "rexaID": "4018f616747e1e9c96771daa20bca34c484b966a",
+    "author": "Jochen Garcke and Michael Griebel and Michael Thess",
+    "title": "Data Mining with Sparse Grids",
+    "venue": "Computing, 67",
+    "year": "2001",
+    "window": "more than 96 % of the computation time is spent for the matrix assembly. Again, the execution times scale linearly with the number of data points. 3.3 8-dimensional problem The Pima Indians <b>Diabetes</b> data set from Irvine Machine Learning Database Repository consists of 768 instances with 8 features plus a class label which splits the data into 2 sets with 500 instances and 268 instances respectively, see",
+    "mykey": 387
+}

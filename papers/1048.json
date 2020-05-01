@@ -1,0 +1,11 @@
+{
+    "datasetID": 58,
+    "supportID": "6C79B6228AA533774359EB0CBDDB6C7EF0240041",
+    "rexaID": "01ede1d6464c9533cd6ec1a4492d134729ce99bd",
+    "author": "Christophe Giraud and Tony Martinez and Christophe G. Giraud-Carrier",
+    "title": "University of Bristol Department of Computer Science ILA: Combining Inductive Learning with Prior Knowledge and Reasoning",
+    "venue": "",
+    "year": "1995",
+    "window": "animal has four legs, then animal belongs to class 1 2. If animal has feathers, then animal belongs to class 2 3. If animal lays eggs, is aquatic, and has fins, then animal belongs to class 4 <b>lenses</b> dataset: 1. If patient has low tear production rate, then patient is not fit for contact lenses voting-84 dataset: 1. If representative voted 'no' on the 'physician-fee-freeze' issue, then rep. is a",
+    "mykey": 1048
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 56,
+    "Name": "Labor Relations",
+    "Abstract": "From Collective Bargaining Review",
+    "Types": "Multivariate",
+    "Task": "",
+    "AttributeTypes": "Categorical, Integer, Real",
+    "NumInstances": 57,
+    "NumAttributes": 16,
+    "DateDonated": "1988-11-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/labor-negotiations/",
+    "URLReadme": "../machine-learning-databases/labor-negotiations/labor-negotiations.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Data was used to test 2 tier approach with learning from positive and negative examples",
+    "Source": "Creators: \r\n\r\nCollective Barganing Review, montly publication,\r\nLabour Canada, Industrial Relations Information Service,\r\nOttawa, Ontario, K1A 0J2, Canada, (819) 997-3117\r\n\r\nThe data includes all collective agreements reached in the business and personal services sector for locals with at least 500 members (teachers, nurses, university staff, police, etc) in Canada in 87 and first quarter of 88.   \r\n\r\nDonor: \r\n\r\nStan Matwin, Computer Science Dept\r\nUniversity of Ottawa,\r\n34 Somerset East, K1N 9B4, (stan@uotcsi2.bitnet)",
+    "Acknowledgements": "",
+    "Area": "Social",
+    "RelevantPapers": "Bergadano, F., Matwin, S., Michalski, R., Zhang, J., Measuring Quality of Concept Descriptions, Procs. of the 3rd European Working Sessions on Learning, Glasgow, October 1988.\r\nhttp://rexa.info/paper/ae5e16ad337bd4e7137900582bde80fbe259dadb\r\n\r\nBergadano, F., Matwin, S., Michalski, R., Zhang, J.,Representing and Acquiring Imprecise and Context-dependent Concepts in Knowledge-based Systems, Procs. of ISMIS'88, North Holland, 1988.\r\nhttp://rexa.info/paper/837b8f74705387c6817bd486e5bb5953027b27e9",
+    "AttributeInfo": "   1.  dur: duration of agreement \r\n       [1..7]\r\n   2   wage1.wage : wage increase in first year of contract \r\n       [2.0 .. 7.0]\r\n   3   wage2.wage : wage increase in second year of contract\r\n       [2.0 .. 7.0]\r\n   4   wage3.wage : wage increase in third year of contract\r\n       [2.0 .. 7.0]\r\n   5   cola : cost of living allowance \r\n       [none, tcf, tc]\r\n   6   hours.hrs : number of working hours during week\r\n       [35 .. 40]\r\n   7   pension : employer contributions to pension plan\r\n       [none, ret_allw, empl_contr]\r\n   8   stby_pay : standby pay\r\n       [2 .. 25]\r\n   9   shift_diff : shift differencial : supplement for work on II and III shift\r\n       [1 .. 25]\r\n  10   educ_allw.boolean : education allowance \r\n       [true false]\r\n  11   holidays : number of statutory holidays \r\n       [9 .. 15]\r\n  12   vacation : number of paid vacation days\r\n       [ba, avg, gnr]\r\n  13   lngtrm_disabil.boolean : employer's help during employee longterm disability \r\n        [true , false]\r\n  14   dntl_ins : employers contribution towards the dental plan\r\n       [none, half, full]\r\n  15   bereavement.boolean : employer's financial contribution towards the covering the costs of bereavement\r\n       [true , false]\r\n  16   empl_hplan : employer's contribution towards the health plan\r\n       [none, half, full]",
+    "FormatType": "",
+    "NumHits": 10239
+}

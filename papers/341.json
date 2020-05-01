@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "29B7EEBC893ACD2C2596DE227333480E7A118AF8",
+    "rexaID": "58642563848aaece947320829da7d338224cb8b3",
+    "author": "Yoav Freund and Lorne Mason",
+    "title": "The Alternating Decision Tree Learning Algorithm",
+    "venue": "ICML",
+    "year": "1999",
+    "window": "representation. To demonstrate our interpretation, we consider the alternating tree presented in Figure 4. This tree is the result of running our learning algorithm for six iterations on the cleve data set from Irvine. This is a data set of <b>heart</b> disease diagnostics for which the goal is to discriminate between sick and healthy people 3 In our mapping positive classification correspond to healthy and",
+    "mykey": 341
+}

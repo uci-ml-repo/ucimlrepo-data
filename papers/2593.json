@@ -1,0 +1,11 @@
+{
+    "datasetID": 185,
+    "supportID": "",
+    "rexaID": "27DBF468DDCA7906B9F56E39CFDFA182D0E5FFA3",
+    "author": "Robert M Bell and Yehuda Koren",
+    "title": "Improved Neighborhood-based Collaborative Filtering",
+    "venue": "KDDCup",
+    "year": "2007",
+    "window": "Our method is very fast in practice, generating a prediction in about 0.2 milliseconds. Importantly, it does not require training many parameters or a lengthy preprocessing, making it very practical for large scale applications. The method was evaluated on the <b>Netflix</b> dataset. ",
+    "mykey": 2593
+}

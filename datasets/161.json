@@ -1,0 +1,23 @@
+{
+    "ID": 161,
+    "Name": "Mammographic Mass",
+    "Abstract": "Discrimination of benign and malignant mammographic masses based on BI-RADS attributes and the patient's age.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 961,
+    "NumAttributes": 6,
+    "DateDonated": "2007-10-29",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/mammographic-masses/",
+    "URLReadme": "../machine-learning-databases/mammographic-masses/mammographic_masses.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Mammography is the most effective method for breast cancer screening\r\navailable today. However, the low positive predictive value of breast\r\nbiopsy resulting from mammogram interpretation leads to approximately\r\n70% unnecessary biopsies with benign outcomes. To reduce the high\r\nnumber of unnecessary breast biopsies, several computer-aided diagnosis\r\n(CAD) systems have been proposed in the last years.These systems\r\nhelp physicians in their decision to perform a breast biopsy on a suspicious\r\nlesion seen in a mammogram or to perform a short term follow-up\r\nexamination instead.\r\nThis data set can be used to predict the severity (benign or malignant)\r\nof a mammographic mass lesion from BI-RADS attributes and the patient's age.\r\nIt contains a BI-RADS assessment, the patient's age and three BI-RADS attributes\r\ntogether with the ground truth (the severity field) for 516 benign and\r\n445 malignant masses that have been identified on full field digital mammograms\r\ncollected at the Institute of Radiology of the\r\nUniversity Erlangen-Nuremberg between 2003 and 2006.\r\nEach instance has an associated BI-RADS assessment ranging from 1 (definitely benign)\r\nto 5 (highly suggestive of malignancy) assigned in a double-review process by\r\nphysicians. Assuming that all cases with BI-RADS assessments greater or equal\r\na given value (varying from 1 to 5), are malignant and the other cases benign,\r\nsensitivities and associated specificities can be calculated. These can be an\r\nindication of how well a CAD system performs compared to the radiologists.\r\n\r\nClass Distribution: benign: 516; malignant: 445\r\n",
+    "Source": "Matthias Elter\r\nFraunhofer Institute for Integrated Circuits (IIS)\r\nImage Processing and Medical Engineering Department (BMT) \r\nAm Wolfsmantel 33\r\n91058 Erlangen, Germany\r\nmatthias.elter@iis.fraunhofer.de\r\n(49) 9131-7767327 \r\n\r\nProf. Dr. R\u00fcdiger Schulz-Wendtland\r\nInstitute of Radiology, Gynaecological Radiology, University Erlangen-Nuremberg\r\nUniversit\u00e4tsstra\u00dfe 21-23\r\n91054 Erlangen, Germany",
+    "Acknowledgements": "M. Elter, R. Schulz-Wendtland and T. Wittenberg (2007)\r\nThe prediction of breast cancer biopsy outcomes using two CAD approaches that both emphasize an intelligible decision process.\r\nMedical Physics 34(11), pp. 4164-4172",
+    "Area": "Life",
+    "RelevantPapers": "M. Elter, R. Schulz-Wendtland and T. Wittenberg (2007)\r\nThe prediction of breast cancer biopsy outcomes using two CAD approaches that both emphasize an intelligible decision process.\r\nMedical Physics 34(11), pp. 4164-4172",
+    "AttributeInfo": "6 Attributes in total (1 goal field, 1 non-predictive, 4 predictive attributes)\r\n\r\n1. BI-RADS assessment: 1 to 5 (ordinal, non-predictive!)  \r\n2. Age: patient's age in years (integer)\r\n3. Shape: mass shape: round=1 oval=2 lobular=3 irregular=4 (nominal)\r\n4. Margin: mass margin: circumscribed=1 microlobulated=2 obscured=3 ill-defined=4 spiculated=5 (nominal)\r\n5. Density: mass density high=1 iso=2 low=3 fat-containing=4 (ordinal)\r\n6. Severity: benign=0 or malignant=1 (binominal, goal field!)\r\n\r\n\r\nMissing Attribute Values:\r\n    - BI-RADS assessment:    2\r\n    - Age:                   5\r\n    - Shape:                31\r\n    - Margin:               48\r\n    - Density:              76\r\n    - Severity:              0\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "596CB9844E5321DD0023BCCD9C0B978555A3E9FE",
+    "rexaID": "c3f9c3303aa080beec901b74703cef88ee2b2f24",
+    "author": "Wl odzisl and Rafal Adamczak and Krzysztof Grabczewski and Grzegorz Zal",
+    "title": "A hybrid method for extraction of logical rules from data",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "obtained from the UCI repository [14]. A. Wisconsin <b>breast</b> <b>cancer</b> data. The Wisconsin cancer dataset [17] contains 699 instances, with 458 benign (65.5%) and 241 (34.5%) malignant cases. Each instance is described by the case number, 9 attributes with integer value in the range 1-10 (for example,",
+    "mykey": 807
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 147,
+    "supportID": "88BC70B95532CAF1AC6E0CE99D0E3DFAB30135FF",
+    "rexaID": "50b9babac023b426f1531a4265076bea534d121e",
+    "author": "Adil M. Bagirov and Alex Rubinov and A. N. Soukhojak and John Yearwood",
+    "title": "Unsupervised and supervised data classification via nonsmooth and global optimization",
+    "venue": "School of Information Technology and Mathematical Sciences, The University of Ballarat",
+    "year": "",
+    "window": "some databases with known classes. We used the diabetes, liver disorder, heart disease, breast cancer, vehicles, synthetic, penbased recognition of handwritten digits (PBRHD) and <b>image segmentation</b> datasets in numerical experiments. Descriptions of these datasets can be found in Appendix. First, we normalized all features. This was done by a nonsingular matrix so that mean values of all features were",
+    "mykey": 1371
+}

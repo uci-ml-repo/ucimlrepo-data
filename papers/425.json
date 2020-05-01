@@ -1,0 +1,11 @@
+{
+    "datasetID": 50,
+    "supportID": "3296733E38810A4F714914BA7D59AAFBEBFEF473",
+    "rexaID": "716db199e5f006b8b564ef192177f08d5edefe9b",
+    "author": "K. A. J Doherty and Rolf Adams and Neil Davey",
+    "title": "Unsupervised Learning with Normalised Data and Non-Euclidean Norms",
+    "venue": "University of Hertfordshire",
+    "year": "",
+    "window": "Segmentation Training Data K L 0.1 L 0.5 L 1 L 2 L 4 L# 3 518 539 494 450 446 437 5 818 874 772 692 720 678 9 1345 1424 1249 1184 1167 1066 Using the UCI Ionosphere, WDBC and <b>Image Segmentation</b> data sets we performed a K -NN search. For each member of the data set of class c,where c # C (q.v. Table 2), the K-NNs are identified and a count maintained of those neighbours whose class was also c. Table",
+    "mykey": 425
+}

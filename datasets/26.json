@@ -1,0 +1,23 @@
+{
+    "ID": 26,
+    "Name": "Connect-4",
+    "Abstract": "Contains connect-4 positions",
+    "Types": "Multivariate, Spatial",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 67557,
+    "NumAttributes": 42,
+    "DateDonated": "1995-02-04",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/connect-4/",
+    "URLReadme": "../machine-learning-databases/connect-4/connect-4.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This database contains all legal 8-ply positions in the game of connect-4 in which neither player has won yet, and in which the next move is not forced.\r\n\r\nx is the first player; o the second.\r\n\r\nThe outcome class is the game theoretical value for the first player.",
+    "Source": "Original Owners of Database: \r\n\r\nJohn Tromp (tromp@cwi.nl)\r\n\r\nDonor: \r\n\r\nJohn Tromp (tromp@cwi.nl)",
+    "Acknowledgements": "",
+    "Area": "Game",
+    "RelevantPapers": "",
+    "AttributeInfo": "Attribute Information: (x=player x has taken, o=player o has taken, b=blank)\r\n\r\nThe board is numbered like:\r\n6 . . . . . . .\r\n5 . . . . . . .\r\n4 . . . . . . .\r\n3 . . . . . . .\r\n2 . . . . . . .\r\n1 . . . . . . .\r\n a b c d e f g\r\n\r\n    1. a1: {x,o,b}\r\n    2. a2: {x,o,b}\r\n    3. a3: {x,o,b}\r\n    4. a4: {x,o,b}\r\n    5. a5: {x,o,b}\r\n    6. a6: {x,o,b}\r\n    7. b1: {x,o,b}\r\n    8. b2: {x,o,b}\r\n    9. b3: {x,o,b}\r\n   10. b4: {x,o,b}\r\n   11. b5: {x,o,b}\r\n   12. b6: {x,o,b}\r\n   13. c1: {x,o,b}\r\n   14. c2: {x,o,b}\r\n   15. c3: {x,o,b}\r\n   16. c4: {x,o,b}\r\n   17. c5: {x,o,b}\r\n   18. c6: {x,o,b}\r\n   19. d1: {x,o,b}\r\n   20. d2: {x,o,b}\r\n   21. d3: {x,o,b}\r\n   22. d4: {x,o,b}\r\n   23. d5: {x,o,b}\r\n   24. d6: {x,o,b}\r\n   25. e1: {x,o,b}\r\n   26. e2: {x,o,b}\r\n   27. e3: {x,o,b}\r\n   28. e4: {x,o,b}\r\n   29. e5: {x,o,b}\r\n   30. e6: {x,o,b}\r\n   31. f1: {x,o,b}\r\n   32. f2: {x,o,b}\r\n   33. f3: {x,o,b}\r\n   34. f4: {x,o,b}\r\n   35. f5: {x,o,b}\r\n   36. f6: {x,o,b}\r\n   37. g1: {x,o,b}\r\n   38. g2: {x,o,b}\r\n   39. g3: {x,o,b}\r\n   40. g4: {x,o,b}\r\n   41. g5: {x,o,b}\r\n   42. g6: {x,o,b}\r\n   43. Class: {win,loss,draw}",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 8784
+}

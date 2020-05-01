@@ -1,0 +1,23 @@
+{
+    "ID": 375,
+    "Name": "Miskolc IIS Hybrid IPS",
+    "Abstract": "The dataset was created for the comparison and evaluation of hybrid indoor positioning methods. The dataset presented contains data from W-LAN and Bluetooth interfaces, and Magnetometer. ",
+    "Types": "Text",
+    "Task": "Classification, Clustering, Causal-Discovery",
+    "AttributeTypes": "Integer",
+    "NumInstances": 1540,
+    "NumAttributes": 67,
+    "DateDonated": "2016-07-04",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00375/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The measurements were created to ease the development, comparison and evaluation of fingerprinting based hybrid indoor positioning methods. The measurements were recorded by the same kind of Android devices in order to reduce the effect of the variety of the hardware. The recording was preformed at weekend to reduce the noise of the environment. The measurements were performed in a three-story building and cover about 50% of it. ",
+    "Source": "Zsolt T\u00c3\u00b3th University of Miskolc <tothzs@iit.uni-miskolc.hu>\r\nJudit Tam\u00c3\u00a1s University of Miskolc <tamas13@iit.uni-miskolc.hu>",
+    "Acknowledgements": "@InProceedings{toth2016miskolcIIS,\r\n  Title                    = {Miskolc IIS Hybrid IPS: Dataset for Hybrid Indoor Positioning},\r\n  Author                   = {{Zs}olt T\u00c3\u00b3th, Judit Tam\u00c3\u00a1s},\r\n  Booktitle                = {26st International Conference on Radioelektronika},\r\n  Year                     = {2016},\r\n  Organization             = {IEEE},\r\n  Pages                    = {408--412},\r\n}\r\n",
+    "Area": "Computer",
+    "RelevantPapers": "Provide references to papers that have cited this data set in the past (if any).",
+    "AttributeInfo": "#Measurement Info\r\n1) \tMeasurement Id - Java UUID\r\n2) \tTimestamp - YYYY-MM-dd hh:mm:ss \r\n\r\n#Position Info\r\n3-5) \tCoordinates of the absolute position (x,y,z)\r\n6-7) \tSymbolic position - UUID and name of the position\r\n\r\n#Measruement Values\r\n8-10) \tMagnetometer values x,y,z, real\r\n11-42) \tWiFi RSSI values, negative integeres [-255,0]\r\n43-65) \tBluetooth devices {0,1} - 1 if the given devices was sensed in during the measurement.",
+    "FormatType": "Matrix",
+    "NumHits": 1
+}

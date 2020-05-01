@@ -1,0 +1,11 @@
+{
+    "datasetID": 76,
+    "supportID": "8F3C952DA5B26AF4D092034012E9826624E1C2BC",
+    "rexaID": "d342517262ff52ffd3566bd8f520b36723486aa3",
+    "author": "M. A. Galway and Michael G. Madden",
+    "title": "DEPARTMENT OF INFORMATION TECHNOLOGY technical report NUIG-IT-011002 Evaluation of the Performance of the Markov Blanket Bayesian Classifier Algorithm",
+    "venue": "Department of Information Technology National University of Ireland, Galway",
+    "year": "",
+    "window": "one for each of the analyses described above in Section 4.2. ROC graphs are best suited to two-class problems, which all but one of the datasets are. For the <b>Nursery</b> dataset, the ROC curve is for the prediction of the `Priority' class. On a ROC graph, the point (0 0) represents the strategy of never returning a positive classification, no",
+    "mykey": 1406
+}

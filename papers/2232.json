@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "DEA2FFAF3A1031738792A5567EE13717406348EF",
+    "rexaID": "fc0a66d3a7336b6eabad919a7389c68cc37f2564",
+    "author": "Ayhan Demiriz and Kristin P. Bennett and John Shawe and I. Nouretdinov V.",
+    "title": "Linear Programming Boosting via Column Generation",
+    "venue": "Dept. of Decision Sciences and Eng. Systems, Rensselaer Polytechnic Institute",
+    "year": "",
+    "window": "used in decision tree stumps experiments, we use four additional UCI datasets here. These are the House(16,435), <b>Housing</b> 13,506) 2 , Pima(8,768), and Spam(57,4601) datasets. As in the decision tree stumps experiments, we report results from 10-fold CV. Since the best # value",
+    "mykey": 2232
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "6F376C47D091989CDECCD7B8CB7971A38783AAD9",
+    "rexaID": "084aa2a0b1ffd67537222e2c439d2fadce6090ca",
+    "author": "Petri Kontkanen and Petri Myllym and Tomi Silander and Henry Tirri and Peter Gr",
+    "title": "On predictive distributions and Bayesian networks",
+    "venue": "Department of Computer Science, Stanford University",
+    "year": "2000",
+    "window": "Dataset Data vectors Attributes Classes CV folds <b>Heart</b> Disease (HD) 270 14 2 9 Iris (IR) 150 5 3 5 Lymphography (LY) 148 19 4 5 Australian (AU) 690 15 2 10 Breast Cancer (BC) 286 10 2 11 Diabetes (DB) 768 9",
+    "mykey": 1078
+}

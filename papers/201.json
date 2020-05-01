@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "16CD9FAAEAB4ABF9D1C0CAEA8AB36824BB1A3CD2",
+    "rexaID": "3f9e71cd1f71f5f65b712d5cc5c29045d0193711",
+    "author": "Ron Kohavi and George H. John and Richard Long and David Manley and Karl Pfleger",
+    "title": "MLC++: A Machine Learning Library in C",
+    "venue": "ICTAI",
+    "year": "1994",
+    "window": "but they are not an integrated environment, and are not very efficient. <b>StatLog</b> [14] is an ESPRIT project studying the behavior of over twenty algorithms (mostly in the MLToolbox), on over twenty datasets. StatLog is an instance of a good experimental study, but does not provide the tools to aid researchers in performing similar studies. Wray Buntine has recently suggested a unified approach to some",
+    "mykey": 201
+}

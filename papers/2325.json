@@ -1,0 +1,11 @@
+{
+    "datasetID": 107,
+    "supportID": "E7B4EA537A249EBF41E43AA23E4459D42CA61275",
+    "rexaID": "2048a44e66eac923f00c225ee12e17c38d923376",
+    "author": "Giorgio Valentini",
+    "title": "Random Aggregated and Bagged Ensembles of SVMs: An Empirical Bias?Variance Analysis",
+    "venue": "Multiple Classifier Systems",
+    "year": "2004",
+    "window": "software library [13] and the SVMlight applications [9]. 4.2 Results In particular we analyzed the relationships of the components of the error with the kernels and kernel parameters, using data sets from UCI [14]  <b>Waveform</b>  Grey-Landsat, Letter-Two, Letter-Two with added noise, Spam, Musk) and the P2 synthetic data set 1 . We achieved a characterization of the bias--variance decomposition of",
+    "mykey": 2325
+}

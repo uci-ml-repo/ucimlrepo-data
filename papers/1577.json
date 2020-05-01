@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "9B0ED36480B43C38D03240BD6A9B05CF89AD707B",
+    "rexaID": "f91a9d851efd2169d5f16f8bfd5c7b9d2b81655c",
+    "author": "C. esar and Cesar Guerra-Salcedo and Darrell Whitley",
+    "title": "Feature Selection Mechanisms for Ensemble Creation : A Genetic Search Perspective",
+    "venue": "Department of Computer Science Colorado State University",
+    "year": "",
+    "window": "1993) and a table-based classifier called Euclidean Decision Tables (EDT) (Guerra-Salcedo & Whitley 1998). Setups and Results A series of experiments were carried out using publicly available datasets provided by the Project <b>Statlog</b> 1 the UCI machine learning repository (C. Blake & Merz 1998) and by Richard Bankert of the Naval Research Laboratory. Table 1 shows the datasets employed for this",
+    "mykey": 1577
+}

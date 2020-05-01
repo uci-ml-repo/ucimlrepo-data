@@ -1,0 +1,11 @@
+{
+    "datasetID": 144,
+    "supportID": "29EF8B34FF529284BA3CFEA8EF5231829D91646F",
+    "rexaID": "82d533c91dcbffe00f026dfeb08fdee463030c72",
+    "author": "Oya Ekin and Peter L. Hammer and Alexander Kogan and Pawel Winter",
+    "title": "Distance-Based Classification Methods",
+    "venue": "e p o r t RUTCOR ffl Rutgers Center for Operations Research ffl Rutgers University",
+    "year": "1996",
+    "window": "653 instances with 15 attributes each. Carter and Catlett [3] reported an 85.5% correct prediction rate, when using 71% of all 690 instances as the training set. 4.6 <b>German Credit</b> (Statlog) This data set contains data used to evaluate credit applications in Germany. It has 1000 instances. We used a version of this data set that was produced by Strathclyde University. In this version each case is",
+    "mykey": 345
+}

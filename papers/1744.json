@@ -1,0 +1,11 @@
+{
+    "datasetID": 38,
+    "supportID": "AA2FF28E197CF43670227D2525E174BFB358F79B",
+    "rexaID": "b6069e488f10098d50e684d245a5574aa0c50c58",
+    "author": "D. Randall Wilson and Roel Martinez",
+    "title": "Improved Center Point Selection for Probabilistic Neural Networks",
+    "venue": "Proceedings of the International Conference on Artificial Neural Networks and Genetic Algorithms",
+    "year": "",
+    "window": "it retained almost two-thirds of the instances while suffering a large drop in accuracy compared to the other two models. However, in the <b>Echocardiogram</b> dataset, the RPNN used only 9% of the data while improving generalization accuracy by over 12%. Future research will focus on identifying characteristics of applications that help determine whether the RPNN",
+    "mykey": 1744
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "589FD8767056ED210C05CF7BC5605F108C695CCD",
+    "rexaID": "fe52c7b7465f378427ac09aa5480dd559ff5f569",
+    "author": "Christos Emmanouilidis and Anthony Hunter",
+    "title": "A Comparison of Crossover Operators in Neural Network Feature Selection with Multiobjective Evolutionary Algorithms",
+    "venue": "Centre for Adaptive Systems, School of Computing, Engineering and Technology University of Sunderland",
+    "year": "",
+    "window": "it reduces the effect of the noise in fitness evaluation. 4 EXPERIMENTAL INVESTIGATION We compare the performance of the SSOCF operator against that of standard n-point crossover on a benchmarking data set of considerable dimensionality, the <b>ionosphere</b> dataset [13]. It consists of 351 patterns, with 34 attributes and one output with two classes. Ten random permutations of this data set are employed.",
+    "mykey": 804
+}

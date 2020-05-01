@@ -1,0 +1,11 @@
+{
+    "datasetID": 121,
+    "supportID": "74B340C88F0DB5AF29EB2EE70B523CCC72D11692",
+    "rexaID": "d328ae33fb50756832a1c6cd703f7176c361923f",
+    "author": "Peter Sykacek and Stephen J. Roberts",
+    "title": "Adaptive Classification by Variational Kalman Filtering",
+    "venue": "NIPS",
+    "year": "2002",
+    "window": "size N = 10, because this is a good compromise between fast tracking and high stationary accuracy. We are now ready to compare the algorithm with an equivalent static classifier using several public data sets and classification of single trial <b>EEG</b> which, due to learning effects in humans, is known to be non-stationary. In order to avoid that the model has an influence on 1 This data set can be obtained",
+    "mykey": 1140
+}

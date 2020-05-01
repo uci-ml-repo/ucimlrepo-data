@@ -1,0 +1,23 @@
+{
+    "ID": 455,
+    "Name": "Simulated Falls and Daily Living Activities Data Set",
+    "Abstract": "20 falls and 16 daily living activities were performed by 17 volunteers with 5 repetitions while wearing 6 sensors (3.060 instances) that attached to their head, chest, waist, wrist, thigh and ankle.",
+    "Types": "Time-Series",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 3060,
+    "NumAttributes": 138,
+    "DateDonated": "2018-06-06",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00455/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Provide all relevant information about your data set.",
+    "Source": "Ahmet Turan \u00c3\u2013zdemir\r\nPhone: +90 352 207 6666 (int 32233)\r\nAddr: Erciyes University, Electrical and Electronic Department, TR 38039, Melikgazi/Kayseri/Turkey\r\naturan@erciyes.edu.tr\r\nwww.aturan.com \r\n\r\nBillur Barshan\r\nPhone: +90 312 290 2161\r\nAddr: Bilkent University, Electrical and Electronic Department, TR 06800, Bilkent/Ankara/Turkey\r\nhttp://kilyos.ee.bilkent.edu.tr/~billur/\r\nbillur@ee.bilkent.edu.tr \r\n",
+    "Acknowledgements": "\u00c3\u2013zdemir, A.T.; Barshan, B. \u00e2\u20ac\u0153Detecting Falls with Wearable Sensors Using Machine Learning Techniques.\u00e2\u20ac\u009d, Sensors 2014, 14, 10691-10708.",
+    "Area": "Life",
+    "RelevantPapers": "[1] Ozdemir, A.T.; Barshan, B. \u201cDetecting Falls with Wearable Sensors Using Machine Learning Techniques.\u201d, Sensors 2014, 14, 10691-10708.\r\n[2] Ozdemir A.T., Orman A., ' Developing an iPhone smartphone based fall detection algorithm.', IEEE, 23rd Signal Processing and Communications Applications Conference (SIU), Malatya, Turkey, 16-19 May 2015, pp.1-4.\r\n[3] Ozdemir A.T., 'An Analysis on Sensor Locations of the Human Body for Wearable Fall Detection Devices: Principles and Practice.', Sensors 2016, 16, 11691.\r\n[4] Ntanasis P., Pippa E., Ozdemir A.T., Barshan B., Megalooikonomou V., 'Investigation of sensor placement for accurate fall detection', 6th EAI International Conference on Wireless Mobile Communication and Healthcare (MobiHealth), Milan, Italy, 14-16 Nov. 2016, pp.1-6",
+    "AttributeInfo": "Provide information about each attribute in your data set.",
+    "FormatType": "",
+    "NumHits": 0
+}

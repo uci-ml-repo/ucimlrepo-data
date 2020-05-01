@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "D5C9736BF1F3FFCEF872485704A680ED34084301",
+    "rexaID": "179e206cfdc14b74819ce95f39bb68610874578b",
+    "author": "Juan J. Rodr##guez and Carlos J. Alonso and Henrik Bostrom",
+    "title": "Boosting Interval Based Literals",
+    "venue": "",
+    "year": "2000",
+    "window": "in a supervised classification setting from other authors. The results are shown in table 10. All the differences considered are significant, with only one exception. 4.6 <b>Sonar</b> This data set was introduced in [GS88] and it is available at the UCI ML Repository [Bay99]. The task is to discriminate between sonar signals bounced off a metal cylinder and those bounced off a roughly",
+    "mykey": 2130
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 101,
+    "supportID": "EC9570BD04915D03CA6306B11BAE55C2CBE731DE",
+    "rexaID": "f1395e1da4a724219d6cc414e48969140355bebb",
+    "author": "David R. Musicant",
+    "title": "DATA MINING VIA MATHEMATICAL PROGRAMMING AND MACHINE LEARNING",
+    "venue": "Doctor of Philosophy (Computer Sciences) UNIVERSITY",
+    "year": "",
+    "window": "we used contained 22 features with 200 points in class 1 and 300 points in class -1. . The <b>tic-tac-toe</b> dataset is a two class dataset that contains legal complete tic-tac-toe games. All those games where \"X\" has a \"win\" (three in a row) end up in category 1, and all other games end up in category -1. We have",
+    "mykey": 2376
+}

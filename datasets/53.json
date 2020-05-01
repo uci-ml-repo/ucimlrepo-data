@@ -1,0 +1,23 @@
+{
+    "ID": 53,
+    "Name": "Iris",
+    "Abstract": "Famous database; from Fisher, 1936",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 150,
+    "NumAttributes": 4,
+    "DateDonated": "1988-07-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/iris/",
+    "URLReadme": "../machine-learning-databases/iris/iris.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This is perhaps the best known database to be found in the pattern recognition literature.  Fisher's paper is a classic in the field and is referenced frequently to this day.  (See Duda & Hart, for example.)  The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant.  One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.\r\n\r\nPredicted attribute: class of iris plant.\r\n\r\nThis is an exceedingly simple domain.\r\n\r\nThis data differs from the data presented in Fishers article (identified by Steve Chadwick,  spchadwick@espeedaz.net ).  The 35th sample should be: 4.9,3.1,1.5,0.2,\"Iris-setosa\" where the error is in the fourth feature. The 38th sample: 4.9,3.6,1.4,0.1,\"Iris-setosa\" where the errors are in the second and third features.  ",
+    "Source": "Creator: \r\n\r\nR.A. Fisher\r\n\r\nDonor: \r\n\r\nMichael Marshall (MARSHALL%PLU@io.arc.nasa.gov)",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "Fisher,R.A. \"The use of multiple measurements in taxonomic problems\" Annual Eugenics, 7, Part II, 179-188 (1936); also in \"Contributions to Mathematical Statistics\" (John Wiley, NY, 1950).\r\nhttp://rexa.info/paper/2fb499aa4d6a7071a6ba53c679ccca7055813114\r\n\r\nDuda,R.O., & Hart,P.E. (1973) Pattern Classification and Scene Analysis. (Q327.D83) John Wiley & Sons.  ISBN 0-471-22361-1.  See page 218.\r\nhttp://rexa.info/paper/e6b7a3a8c46efef785a6ab735be07dafa0713ff3\r\n\r\nDasarathy, B.V. (1980) \"Nosing Around the Neighborhood: A New System Structure and Classification Rule for Recognition in Partially Exposed Environments\".  IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. PAMI-2, No. 1, 67-71.\r\nhttp://rexa.info/paper/acf9d77f6470a326f784fd50b08b7dd60be5fb9a\r\n\r\nGates, G.W. (1972) \"The Reduced Nearest Neighbor Rule\".  IEEE Transactions on Information Theory, May 1972, 431-433.\r\nhttp://rexa.info/paper/876f54b2ebfecb6a796590237abf245cf28d3c74\r\n\r\nSee also: 1988 MLC Proceedings, 54-64.",
+    "AttributeInfo": "   1. sepal length in cm\r\n   2. sepal width in cm\r\n   3. petal length in cm\r\n   4. petal width in cm\r\n   5. class: \r\n      -- Iris Setosa\r\n      -- Iris Versicolour\r\n      -- Iris Virginica",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 86507
+}

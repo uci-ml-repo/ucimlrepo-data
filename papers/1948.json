@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "C03B759A335C2780ACC82C216D32CF6E1BC2D00A",
+    "rexaID": "cbfc5b79f03770a32505b3342b2e330a1626be7d",
+    "author": "Wl/odzisl/aw Duch and Rafal Adamczak and Krzysztof Grabczewski",
+    "title": "Extraction of crisp logical rules using constrained backpropagation networks",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "a few cases. The final solution may be presented as a set of rules or as a network of nodes performing logical functions. III. Three examples A. <b>Iris</b> data In the first example the classical Iris dataset was used (all datasets were taken from the UCI machine learning repository [9]). The data has 150 vectors evenly distributed in three classes, called iris-setosa, iris-versicolor and iris-virginica.",
+    "mykey": 1948
+}

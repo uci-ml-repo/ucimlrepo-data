@@ -1,0 +1,11 @@
+{
+    "datasetID": 148,
+    "supportID": "186BF67295B88C9428E82A3524ECD00EED064BB8",
+    "rexaID": "c15fec7384ce8461549ba1fc09fb2d87024cf037",
+    "author": "Ron Kohavi and George H. John",
+    "title": "Automatic Parameter Selection by Minimizing Estimated Error",
+    "venue": "Computer Science Dept. Stanford University",
+    "year": "",
+    "window": "represent all of the available StatLog datasets except the <b>Shuttle</b> database (which was too large), all of the UCI datasets used by Holte (1993), all of the Monks datasets (Thrun et al. 1991), and Corral which is an artificial dataset presented",
+    "mykey": 219
+}

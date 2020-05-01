@@ -1,0 +1,23 @@
+{
+    "ID": 29,
+    "Name": "Computer Hardware",
+    "Abstract": "Relative CPU Performance Data, described in terms of its cycle time, memory size, etc.",
+    "Types": "Multivariate",
+    "Task": "Regression",
+    "AttributeTypes": "Integer",
+    "NumInstances": 209,
+    "NumAttributes": 9,
+    "DateDonated": "1987-10-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/cpu-performance/",
+    "URLReadme": "../machine-learning-databases/cpu-performance/machine.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The estimated relative performance values were estimated by the authors using a linear regression method.  See their article (pp 308-313) for more details on how the relative performance values were set.",
+    "Source": "Creator: \r\n\r\nPhillip Ein-Dor and Jacob Feldmesser\r\nEin-Dor: Faculty of Management \r\nTel Aviv University; Ramat-Aviv; \r\nTel Aviv, 69978; Israel\r\n\r\nDonor: \r\n\r\nDavid W. Aha (aha@ics.uci.edu) (714) 856-8779   ",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "Ein-Dor and Feldmesser (CACM 4/87, pp 308-317)\r\n\r\nKibler,D. & Aha,D. (1988).  Instance-Based Prediction of Real-Valued Attributes.  In Proceedings of the CSCSI (Canadian AI) Conference.\r\nhttp://rexa.info/paper/8fd866e9f08918a2d868e4dadbe7fbba661ce40d",
+    "AttributeInfo": "   1. vendor name: 30 \r\n      (adviser, amdahl,apollo, basf, bti, burroughs, c.r.d, cambex, cdc, dec, \r\n       dg, formation, four-phase, gould, honeywell, hp, ibm, ipl, magnuson, \r\n       microdata, nas, ncr, nixdorf, perkin-elmer, prime, siemens, sperry, \r\n       sratus, wang)\r\n   2. Model Name: many unique symbols\r\n   3. MYCT: machine cycle time in nanoseconds (integer)\r\n   4. MMIN: minimum main memory in kilobytes (integer)\r\n   5. MMAX: maximum main memory in kilobytes (integer)\r\n   6. CACH: cache memory in kilobytes (integer)\r\n   7. CHMIN: minimum channels in units (integer)\r\n   8. CHMAX: maximum channels in units (integer)\r\n   9. PRP: published relative performance (integer)\r\n  10. ERP: estimated relative performance from the original article (integer)",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 11406
+}

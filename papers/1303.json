@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "820E5427D5D8D1CA509AA08D4387187DABE4175E",
+    "rexaID": "dc4f2babc5ca4534b435280aec32f5816ddb53b0",
+    "author": "Stavros J. Perantonis and Vassilis Virvilis",
+    "title": "Input Feature Extraction for Multilayered Perceptrons Using Supervised Principal Component Analysis",
+    "venue": "Neural Processing Letters, 10",
+    "year": "1999",
+    "window": "Real World Examples: We give results concerning four supervised learning examples from the University of California-Irvine machine learning repository [13], namely 8 1. the  <b>Ionosphere</b>  data set [14]. Here the task is to distinguish between two sets of radar returns from the ionosphere. This set comprises 351 patterns with 33 features for each pattern. 2. the \"BUPA Liver Disorders\" set. The",
+    "mykey": 1303
+}

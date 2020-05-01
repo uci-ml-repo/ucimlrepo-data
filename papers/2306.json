@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "E40AC26D73386944414C5C9236D9622209BC9CFA",
+    "rexaID": "68b230977077ba67eb9e5c9a9111d3ccb3672150",
+    "author": "Karol Grudzi nski and Wl/odzisl/aw Duch",
+    "title": "SBL-PM: A Simple Algorithm for Selection of Reference Instances in Similarity Based Methods",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "the UCI repository [9] and contains 3 classes  <b>Iris</b> Setosa, Virginica and Versicolor flowers), 4 attributes (measurements of leaf and petal widths and length), 50 cases per class. The entire Iris dataset has been shown here (Fig. 1) in two dimensions, x 3 and x 4 , which are much more informative the other two (cf. [10]). In Fig 2. the reference set obtained by taking the value of # from the",
+    "mykey": 2306
+}

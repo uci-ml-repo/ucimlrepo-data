@@ -1,0 +1,11 @@
+{
+    "datasetID": 90,
+    "supportID": "9A4AB71FA8007EBC766C93E25181A097B2216D38",
+    "rexaID": "5193dfc0a9d39b5f86fe360d6beff81aa9b7390e",
+    "author": "Nikunj C. Oza and Stuart J. Russell",
+    "title": "Experimental comparisons of online and batch versions of bagging and boosting",
+    "venue": "KDD",
+    "year": "2001",
+    "window": "only the first ten examples before being 2 Recall that we test base model hm on the training examples in order to adjust their weights before using them to generate base model hm+1 . Table 1: The datasets used in our experiments. For the <b>Soybean</b> and Census Income datasets, we have given the sizes of the supplied training and test sets. For the remaining datasets, we have given the sizes of the",
+    "mykey": 1559
+}

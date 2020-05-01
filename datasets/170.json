@@ -1,0 +1,23 @@
+{
+    "ID": 170,
+    "Name": "Gisette",
+    "Abstract": "GISETTE is a handwritten digit recognition problem. The problem is to separate the highly confusible digits '4' and '9'. This dataset is one of five datasets of the NIPS 2003 feature selection challenge.\r\n",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 13500,
+    "NumAttributes": 5000,
+    "DateDonated": "2008-02-29",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/gisette/",
+    "URLReadme": "../machine-learning-databases/gisette/Dataset.pdf",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The digits have been size-normalized and centered in a fixed-size image of dimension 28x28. The original data were modified for the purpose of the feature selection challenge. In particular, pixels were samples at random in the middle top part of the feature containing the information necessary to disambiguate 4 from 9 and higher order features were created as products of these pixels to plunge the problem in a higher dimensional feature space. We also added a number of distractor features called 'probes' having no predictive power. The order of the features and patterns were randomized. \r\n\r\nGISETTE -- Positive ex. -- Negative ex. -- Total\r\nTraining set -- 3000 -- 3000 -- 6000\r\nValidation set -- 500 -- 500 -- 1000\r\nTest set -- 3250 -- 3250 -- 6500\r\nAll -- 6750 -- 6750 -- 13500\r\n\r\nNumber of variables/features/attributes:\r\nReal: 2500\r\nProbes: 2500\r\nTotal: 5000\r\n\r\nThis dataset is one of five datasets used in the NIPS 2003 feature selection challenge. Our website http://www.nipsfsc.ecs.soton.ac.uk/ is still open for post-challenge submissions. Information about other related challenges are found at: http://clopinet.com/challenges. The CLOP package includes sample code to process these data: http://clopinet.com/CLOP.\r\n\r\nAll details about the preparation of the data are found in our technical report: Design of experiments for the NIPS 2003 variable selection benchmark, Isabelle Guyon, July 2003, http://www.nipsfsc.ecs.soton.ac.uk/papers/NIPS2003-Datasets.pdf (also included in the dataset archive). Such information was made available only after the end of the challenge.\r\n\r\nThe data are split into training, validation, and test set. Target values are provided only for the 2 first sets. Test set performance results are obtained by submitting prediction results to: http://www.nipsfsc.ecs.soton.ac.uk/.\r\n\r\nThe data are in the following format:\r\ndataname.param: Parameters and statistics about the data\r\ndataname.feat: Identities of the features (withheld, to avoid biasing feature selection).\r\ndataname_train.data: Training set (a coma delimited regular matrix, patterns in lines, features in columns).\r\ndataname_valid.data: Validation set.\r\ndataname_test.data: Test set.\r\ndataname_train.labels: Labels (truth values of the classes) for training examples.\r\ndataname_valid.labels: Validation set labels (withheld during the benchmark, but provided now).\r\ndataname_test.labels: Test set labels (withheld, so the data can still be use as a benchmark). ",
+    "Source": "a. Original owners\r\nThe data set was constructed from the MNIST data that is made available by Yann LeCun and Corinna Cortes at http://yann.lecun.com/exdb/mnist/.\r\n\r\nb. Donor of database\r\nThis version of the database was prepared for the NIPS 2003 variable and feature selection benchmark by Isabelle Guyon, 955 Creston Road, Berkeley, CA 94708, USA (isabelle@clopinet.com).\r\n",
+    "Acknowledgements": "Isabelle Guyon, Steve R. Gunn, Asa Ben-Hur, Gideon Dror, 2004. Result analysis of the NIPS 2003 feature selection challenge. In: NIPS. http://books.nips.cc/papers/files/nips17/NIPS2004_0194.pdf.\r\n",
+    "Area": "Computer",
+    "RelevantPapers": "The best challenge entrants wrote papers collected in the book:\r\nIsabelle Guyon, Steve Gunn, Masoud Nikravesh, Lofti Zadeh (Eds.), Feature Extraction, Foundations and Applications. Studies in Fuzziness and Soft Computing. Physica-Verlag, Springer. http://clopinet.com/fextract-book/\r\n\r\nSee also:\r\nIsabelle Guyon, et al, 2007. Competitive baseline methods set new standards for the NIPS 2003 feature selection benchmark. Pattern Recognition Letters 28 (2007) 1438\u00131444.\r\nand the associated technical report:\r\nIsabelle Guyon, et al. 2006. Feature selection with the CLOP package. Technical Report. http://clopinet.com/isabelle/Projects/ETH/TM-fextract-class.pdf.\r\n",
+    "AttributeInfo": "We do not provide attribute information to avoid biasing the feature selection process. ",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

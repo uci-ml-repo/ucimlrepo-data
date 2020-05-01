@@ -1,0 +1,11 @@
+{
+    "datasetID": 44,
+    "supportID": "F71E4B90CE0A5FA15B7A148E97485C0B92D816A9",
+    "rexaID": "5ef9c5c8a24b6e0df983284f0caa3fb337c1a77a",
+    "author": "Yuan Jiang and Zhi-Hua Zhou",
+    "title": "Editing Training Data for kNN Classifiers with Neural Network Ensemble",
+    "venue": "ISNN (1)",
+    "year": "2004",
+    "window": "i.e. annealing, credit, liver, pima, soybean, wine and zoo. RemoveOnly obtains the best performance on three data sets, i.e. glass, <b>hayes</b> <b>roth</b> and wine. It is surprising that Depuration obtains the best performance on only one data set, i.e. iris, as RelabelOnly does. These observations indicate that NNEE is a",
+    "mykey": 2496
+}

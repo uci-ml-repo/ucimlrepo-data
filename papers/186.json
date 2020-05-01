@@ -1,0 +1,11 @@
+{
+    "datasetID": 155,
+    "supportID": "1457D4A2DEF6BBD29FE29251A878D171E617CABC",
+    "rexaID": "6c590e12408ebd3b9184e8f4634612e552a823e9",
+    "author": "Stephen D. Bay",
+    "title": "Nearest neighbor classification from multiple feature subsets",
+    "venue": "Intell. Data Anal, 3",
+    "year": "1999",
+    "window": "errors if different features were 17 selected. With this method they were able to improve performance on 7 of 10 domains tested (7 from the UCI repository and 3 proprietary <b>cloud</b> classification datasets), and they noted that ECOC accuracy gains tended to increase with increased diversity among the features selected for the two-class problems. NN-ECOC is similar to MFS as they both use NN",
+    "mykey": 186
+}

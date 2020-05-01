@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "0AC32B90D1BDE0AFF7CC7BEEF2A6B37847D956D9",
+    "rexaID": "80c67287e3ef7fe9828d8c898a3eacb7f1f4ebac",
+    "author": "Ronaldo C. Prati and Peter A. Flach",
+    "title": "ROCCER: A ROC convex hull rule learning algorithm",
+    "venue": "Institute of Mathematics and Computer Science at University of So Paulo",
+    "year": "",
+    "window": "# attributes # examples class distribution German 20 1000 bad (30%), good (70%) Pima 8 768 1 (34,8%), 0 (65,2%) <b>Sonar</b> 61 208 mine (46,6%), rock (53,4%) Table 1. Datasets summary. These datasets were chosen because classifiers using standard machine learning algorithms for those datasets are reported in the literature as having AUC values lower than 80%. As",
+    "mykey": 118
+}

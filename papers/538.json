@@ -1,0 +1,11 @@
+{
+    "datasetID": 102,
+    "supportID": "408763331A7D1D0FBAA9EAE40B7EB5C967470261",
+    "rexaID": "b0bf518f2c1c4ab72ebac0d17757aa8f52a6badf",
+    "author": "Andrew I. Schein and Lyle H. Ungar",
+    "title": "A-Optimality for Active Learning of Logistic Regression Classifiers",
+    "venue": "Department of Computer and Information Science Levine Hall",
+    "year": "",
+    "window": "chosen from the UC Irvine data repository (Blake & Merz, 1998): Forest Cover Type (FCT), Wisconsin Diagnostic Breast Cancer (WDBC), Splice Junction Gene Sequence (SJGS), and <b>Thyroid</b> Domain (TD). The data sets were converted to a binary classification task by merging all but the most representative class label into a single class. Table 1 describes the data set characteristics after formatting while the",
+    "mykey": 538
+}

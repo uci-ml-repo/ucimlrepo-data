@@ -1,0 +1,11 @@
+{
+    "datasetID": 143,
+    "supportID": "FAC3CBFDE2AC66DEE464925F2A8967F5A0884CDE",
+    "rexaID": "d64d2705cabed449e8cb2ecc3c3c77c54ee71051",
+    "author": "Jeroen Eggermont and Joost N. Kok and Walter A. Kosters",
+    "title": "Genetic Programming for data classification: partitioning the search space",
+    "venue": "SAC",
+    "year": "2004",
+    "window": "used in the experiments data set records attributes classes <b>Australian credit</b> (statlog) 690 14 2 German credit (statlog) 1000 23 2 Pima Indians diabetes 768 8 2 Heart disease (statlog) 270 13 2 Ionosphere 351 34 2 Iris 150 4 3 .",
+    "mykey": 2536
+}

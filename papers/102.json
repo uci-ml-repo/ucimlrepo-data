@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "091D64F79AA96D3B413514079D26E25BC6D456DA",
+    "rexaID": "019c2f2e77588b6e654cc5c4c27ae643d3bd0f62",
+    "author": "Thomas G. Dietterich and Ghulum Bakiri",
+    "title": "Solving Multiclass Learning Problems via Error-Correcting Output Codes",
+    "venue": "CoRR, csAI/9501101",
+    "year": "1995",
+    "window": "Table 4 summarizes the data sets employed in the study. The <b>glass</b>  vowel, soybean, audiologyS, ISOLET, letter, and NETtalk data sets are available from the Irvine Repository of machine learning databases (Murphy & Aha, 1994). 1",
+    "mykey": 102
+}

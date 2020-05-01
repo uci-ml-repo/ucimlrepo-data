@@ -1,0 +1,11 @@
+{
+    "datasetID": 54,
+    "supportID": "75FD06D392304EF1E1448A068315BB993DE16052",
+    "rexaID": "80b881ba423bc64d836bde049f1e5def83c1d5f8",
+    "author": "Erin L. Allwein and Robert E. Schapire and Yoram Singer",
+    "title": "Reducing Multiclass to Binary: A Unifying Approach for Margin Classifiers",
+    "venue": "ICML",
+    "year": "2000",
+    "window": "according to the number of classes): Dermatology, Satimage, Glass, Segmentation, E-coli, Pendigits, Yeast, Vowel, Soybean-large, Thyroid, Audiology, <b>Isolet</b>  Letterrecognition. The properties of the datasets are summarized in Table 1. In the SVM experiments, we skipped Audiology, Isolet, Letter-recognition, Segmentation, and Thyroid, because these datasets were either too big to be handled by our",
+    "mykey": 1181
+}

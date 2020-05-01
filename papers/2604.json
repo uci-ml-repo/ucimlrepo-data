@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "",
+    "rexaID": "ccb8723c010b86caeba62a4aba4ee0be19f2cbed",
+    "author": "Robert M French and Nick Chater",
+    "title": "Using Noise to Compute Error Surfaces in Connectionist Networks: A Novel Means of Reducing Catastrophic Forgetting",
+    "venue": "Neural Computation",
+    "year": "2002",
+    "window": "In order to further test the HPBP algorithm on a sequential learning task drawn from a realworld\r\ndatabase, we selected the 1984 <b>Congressional Voting Records</b> database from the UCI\r\nrepository (Murphy & Aha, 1992)",
+    "mykey": 2604
+}

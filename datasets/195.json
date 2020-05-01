@@ -1,0 +1,23 @@
+{
+    "ID": 195,
+    "Name": "Spoken Arabic Digit",
+    "Abstract": "This dataset contains timeseries of mel-frequency cepstrum coefficients (MFCCs) corresponding to spoken Arabic digits.  Includes data from 44 male and 44 female native Arabic speakers.",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 8800,
+    "NumAttributes": 13,
+    "DateDonated": "2010-09-13",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00195/",
+    "URLReadme": "../machine-learning-databases/00195/documentation.html",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Dataset from 8800(10 digits x 10 repetitions x 88 speakers) time series of 13 Frequency Cepstral\r\nCoefficients (MFCCs) had taken from 44 males and 44 females Arabic native speakers\r\nbetween the ages 18 and 40 to represent ten spoken Arabic digit.",
+    "Source": "Data Collected by the Laboratory of Automatic and Signals,\r\nUniversity of Badji-Mokhtar\r\nAnnaba, Algeria.\r\n\r\nDirection: Prof.Mouldi Bedda\r\nParticipants: H.Dahmani, C.Snani, MC.Amara Korba, S.Atoui\r\nAdapted and preprocessed by :\r\n                        Nacereddine Hammami and Mouldi Bedda\r\n                          Faculty of Engineering,\r\n                          Al-Jouf University\r\nSakaka, Al-Jouf\r\nKingdom of Saudi Arabia\r\n                          e-mail: nacereddine.hammami@gmail.com\r\nmouldi_bedda@yahoo.fr\r\nDate: October, 2008",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "[1] N. Hammami, M. Bedda ,\"Improved Tree model for Arabic Speech Recognition\", Proc. IEEE\r\nICCSIT10 Conference, 2010.\r\n[2] N. Hammami, M. Sellami ,\"Tree distribution classifier for automatic spoken Arabic digit\r\nrecognition\", Proc. IEEE ICITST09 Conference, 2009 , PP 1-4.",
+    "AttributeInfo": "Each line on the data base represents 13 MFCCs coefficients in the increasing order separated by\r\nspaces. This corresponds to one analysis frame. The 13 Mel Frequency Cepstral Coefficients\r\n(MFCCs) are computed with the following\r\nconditions;\r\nSampling rate: 11025 Hz, 16 bits\r\nWindow applied: hamming\r\nFilter pre-emphasized: 1-0.97Z^(-1)",
+    "FormatType": "",
+    "NumHits": 9
+}

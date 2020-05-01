@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "186BF67295B88C9428E82A3524ECD00EED064BB8",
+    "rexaID": "c15fec7384ce8461549ba1fc09fb2d87024cf037",
+    "author": "Ron Kohavi and George H. John",
+    "title": "Automatic Parameter Selection by Minimizing Estimated Error",
+    "venue": "Computer Science Dept. Stanford University",
+    "year": "",
+    "window": "so if we evaluate n nodes in the search, the total time is O(ntkA). In our experiments, t was limited to three, k was 10, and the number of nodes expanded was about 60. For example, on the <b>dna</b> dataset (which took the most time) C4.5 took just under 2 minutes, while C4.5-AP took 6.8 hours. 6 Related Work In statistics, model selection refers to the general problem of selecting a learning algorithm",
+    "mykey": 218
+}

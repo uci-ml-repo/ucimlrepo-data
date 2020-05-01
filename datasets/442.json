@@ -1,0 +1,23 @@
+{
+    "ID": 442,
+    "Name": "detection_of_IoT_botnet_attacks_N_BaIoT",
+    "Abstract": "This dataset addresses the lack of public botnet datasets, especially for the IoT. It suggests *real* traffic data, gathered from 9 commercial IoT devices authentically infected by Mirai and BASHLITE.",
+    "Types": "Multivariate, Sequential",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 7062606,
+    "NumAttributes": 115,
+    "DateDonated": "2018-03-19",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00442/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "(a) Attribute being predicted:\r\n-- Originally we aimed at distinguishing between benign and Malicious traffic data by means of anomaly detection techniques.\r\n-- However, as the malicious data can be divided into 10 attacks carried by 2 botnets, the dataset can also be used for multi-class classification: 10 classes of attacks, plus 1 class of 'benign'.\r\n\r\n(b) The study's results:\r\n-- For each of the 9 IoT devices we trained and optimized a deep autoencoder on 2/3 of its benign data (i.e., the training set of each device). This was done to capture normal network traffic patterns.\r\n-- The test data of each device comprised of the remaining 1/3 of benign data plus all the malicious data. On each test set we applied the respective trained (deep) autoencoder as an anomaly detector. The detection of anomalies (i.e., the cyberattacks launched from each of the above IoT devices) concluded with 100% TPR.",
+    "Source": "-- Creators: Yair Meidan, Michael Bohadana, Yael Mathov, Yisroel Mirsky, Dominik Breitenbacher, Asaf Shabtai and Yuval Elovici\r\n* Meidan, Bohadana, Mathov, Mirsky, Shabtai: Department of Software and Information Systems Engineering; Ben-Gurion University of the Negev; Beer-Sheva, 8410501; Israel\r\n* Breitenbacher, Elovici: iTrust Centre of Cybersecurity at Singapore University of Technology and Design; 8 Somapah Rd, Singapore 487372\r\n\r\n-- Donor: Yair Meidan (yairme@bgu.ac.il)\r\n-- Date: March, 2018 (databases may change over time without name change!)",
+    "Acknowledgements": "-- Reference to the article where the dataset was initially described and used:\r\nY. Meidan, M. Bohadana, Y. Mathov, Y. Mirsky, D. Breitenbacher, A. Shabtai, and Y. Elovici 'N-BaIoT: Network-based Detection of IoT Botnet Attacks Using Deep Autoencoders', IEEE Pervasive Computing, Special Issue - Securing the IoT (July/Sep 2018).",
+    "Area": "Computer",
+    "RelevantPapers": "-- Reference to the article where the feature extractor (from *.pcap to *.csv) was described: \r\nY. Mirsky, T. Doitshman, Y. Elovici & A. Shabtai 2018, 'Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection', in Network and Distributed System Security (NDSS) Symposium, San Diego, CA, USA.",
+    "AttributeInfo": "-- The following describes each of the features headers:\r\n\r\n* Stream aggregation:\r\nH: Stats summarizing the recent traffic from this packet's host (IP)\r\nHH: Stats summarizing the recent traffic going from this packet's host (IP) to the packet's destination host.\r\nHpHp: Stats summarizing the recent traffic going from this packet's host+port (IP) to the packet's destination host+port. Example 192.168.4.2:1242 -> 192.168.4.12:80\r\nHH_jit: Stats summarizing the jitter of the traffic going from this packet's host (IP) to the packet's destination host.\r\n\r\n* Time-frame (The decay factor Lambda used in the damped window): \r\nHow much recent history of the stream is capture in these statistics\r\nL5, L3, L1, ...\r\n\r\n* The statistics extracted from the packet stream:\r\nweight: The weight of the stream (can be viewed as the number of items observed in recent history)\r\nmean: ...\r\nstd: ...\r\nradius: The root squared sum of the two streams' variances\r\nmagnitude: The root squared sum of the two streams' means \r\ncov: an approximated covariance between  two streams\r\npcc: an approximated covariance between  two streams",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

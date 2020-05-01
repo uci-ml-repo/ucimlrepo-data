@@ -1,0 +1,11 @@
+{
+    "datasetID": 185,
+    "supportID": "",
+    "rexaID": "7CAA3EAD8ED92C9053B544B928EBBD41CC134098",
+    "author": "Martin Szomszor and Ciro Cattuto and Harith Alani and Kieron O'Hara and Andrea Baldassarri and Vittorio Loreto and Vito D. P Servedio",
+    "title": "Folksonomies, the Semantic Web, and Movie Recommendation",
+    "venue": "School of Electronics and Computer Science University of Southampton",
+    "year": "",
+    "window": "Using tags harvested from the Internet Movie Database, and movie rating data gathered by <b>Netflix</b>, we perform experiments to investigate the question that folksonomy-generated movie tag-clouds can be used to construct better user profiles that reflect a users level of interest in different kinds of movies, and therefore, provide a basis for prediction of their rating for a previously unseen movie.",
+    "mykey": 2602
+}

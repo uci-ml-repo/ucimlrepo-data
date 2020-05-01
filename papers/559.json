@@ -1,0 +1,11 @@
+{
+    "datasetID": 108,
+    "supportID": "411AC560C55FD39F7288CCBCA18D4EE4D22D4E31",
+    "rexaID": "b43d0101709b7b7b7b3fdd9fbd2efb9850d65a99",
+    "author": "Pierre Geurts",
+    "title": "Extremely randomized trees",
+    "venue": "Technical report June 2003 University of Li#ege Department of Electrical Engineering and Computer Science Institut Monte#ore",
+    "year": "",
+    "window": "Dataset Nb. attributs Nb. classes #LS #TS <b>Waveform</b> 21 3 4000 1000 Two-norm 20 2 8000 2000 Satellite 36 6 4435 2000 Pendigits 16 10 7494 3498 Dig44 16 10 14000 4000 Letter 16 26 16000 4000 Isolet 617 26 6238",
+    "mykey": 559
+}

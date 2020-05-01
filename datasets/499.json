@@ -1,0 +1,23 @@
+{
+    "ID": 499,
+    "Name": "Opinion Corpus for Lebanese Arabic Reviews (OCLAR)",
+    "Abstract": "Opinion Corpus for Lebanese Arabic Reviews (OCLAR) corpus is utilizable for Arabic sentiment classification on services\u00e2\u20ac\u2122 reviews, including hotels, restaurants, shops, and others.",
+    "Types": "Text",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 3916,
+    "NumAttributes": 3916,
+    "DateDonated": "2019-06-17",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00499/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The researchers of OCLAR Marwan et al. (2019), they gathered Arabic costumer reviews from (https://maps.google.com) and Zomato website (https://www.zomato.com/lebanon) on wide scope of domain, including restaurants, hotels, hospitals, local shops, etc. The corpus finally contains 3916 reviews in 5-rating scale. For this research purpose, the positive class considers rating stars from 5 to 3 of 3465 reviews, and the negative class is represented from values of 1 and 2 of about 451 texts.",
+    "Source": "Marwan Al Omari, Centre for Language Sciences and Communication, Lebanese University, Beirut, Lebanon, marwanalomari@yahoo.com\r\nMoustafa Al-Hajj, Centre for Language Sciences and Communication, Lebanese University, Beirut, Lebanon, moustafa.alhajj@ul.edu.lb\r\nNacereddine Hammami, college of Computer and Information Sciences, Jouf University, Aljouf, KSA, n.hammami@ju.edu.sa\r\nAmani Sabra, Centre for Language Sciences and Communication, Lebanese University, Beirut, Lebanon, amani.sabra@ul.edu.lb",
+    "Acknowledgements": "Please cite the above paper if you make use of the OCLAR dataset.",
+    "Area": "Computer",
+    "RelevantPapers": "Al Omari, M., Al-Hajj, M., Hammami, N., & Sabra, A. (2019). Sentiment Classifier: Logistic Regression for Arabic Services\u00e2\u20ac\u2122 Reviews in Lebanon. 2019 International Conference on Computer and Information Sciences (ICCIS), Sakaka, Saudi Arabia, 2019, pp. 1-5. Doi: 10.1109/ICCISci.2019.8716394",
+    "AttributeInfo": "1- 3916 text reviews\r\n2- 5-rating scale: 1: 303\r\n                   2: 148\r\n                   3: 418\r\n                   4: 734\r\n                   5: 2313\r\nPositive class includes rating stars from 5 to 3 of 3465 total.\r\nNegative class include rating stars from 1 to 2 of 451 total.\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

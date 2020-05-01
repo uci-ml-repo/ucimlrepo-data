@@ -1,0 +1,23 @@
+{
+    "ID": 188,
+    "Name": "p53 Mutants",
+    "Abstract": "The goal is to model mutant p53 transcriptional activity (active vs inactive) based on data extracted from biophysical simulations.\r\n",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 16772,
+    "NumAttributes": 5409,
+    "DateDonated": "2010-02-09",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/p53/",
+    "URLReadme": "../machine-learning-databases/p53/p53.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Biophysical models of mutant p53 proteins yield features which can be used to predict p53 transcriptional activity.  All class labels are determined via in vivo assays.\r\n\r\nK8.data - full dataset, 'K8'\r\n\r\nThe following files are provided in order to reconstruct this historical subsets of this data set:\r\nK8.instance.tags - provides the precise p53 mutant tag for each instance in the K8.data, for use with the historical definition files:\r\nK1.def - defines instances in the 'K1' set.\r\nK2.def - defines instances in the 'K2' set.\r\nK3.def - defines instances in the 'K3' set.\r\nK4.def - defines instances in the 'K4' set.\r\nK5.def - defines instances in the 'K5' set.\r\nK6.def - defines instances in the 'K6' set.\r\nK7.def - defines instances in the 'K7' set.\r\nK8.def - defines instances in the 'K8' (full) set.\r\n",
+    "Source": "Richard H. Lathrop, UC Irvine, http://www.ics.uci.edu/~rickl\r\n",
+    "Acknowledgements": "If you use this dataset, please cite the relevant papers above.  Thank you.\r\n",
+    "Area": "Life",
+    "RelevantPapers": "Danziger, S.A., Baronio, R., Ho, L., Hall, L., Salmon, K., Hatfield, G.W., Kaiser, P., and Lathrop, R.H. (2009) Predicting Positive p53 Cancer Rescue Regions Using Most Informative Positive (MIP) Active Learning, PLOS Computational Biology, 5(9), e1000498\r\n\r\nDanziger, S.A., Zeng, J., Wang, Y., Brachmann, R.K. and Lathrop, R.H. (2007) Choosing where to look next in a mutation sequence space: Active Learning of informative p53 cancer rescue mutants, Bioinformatics, 23(13), 104-114.\r\n\r\nDanziger, S.A., Swamidass, S.J., Zeng, J., Dearth, L.R., Lu, Q., Chen, J.H., Cheng, J., Hoang, V.P., Saigo, H., Luo, R., Baldi, P., Brachmann, R.K. and Lathrop, R.H. (2006) Functional census of mutation sequence spaces: the example of p53 cancer rescue mutants, IEEE/ACM transactions on computational biology and bioinformatics / IEEE, ACM, 3, 114-125.\r\n",
+    "AttributeInfo": "There are a total of 5409 attributes per instance.  \r\nAttributes 1-4826 represent 2D electrostatic and surface based features.\r\nAttributes 4827-5408 represent 3D distance based features.\r\nAttribute 5409 is the class attribute, which is either active or inactive. \r\nThe class labels are to be interpreted as follows: 'active' represents transcriptonally competent, active p53 whereas the 'inactive' label represents cancerous, inactive p53.  Class labels are determined experimentally.\r\n\r\nMore information is provided in the relevant papers cited.",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

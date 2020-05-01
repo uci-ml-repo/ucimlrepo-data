@@ -1,0 +1,23 @@
+{
+    "ID": 198,
+    "Name": "Steel Plates Faults",
+    "Abstract": "A dataset of steel plates\u00e2\u20ac\u2122 faults, classified into 7 different types. \r\nThe goal was to train machine learning for automatic pattern recognition.\r\n",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 1941,
+    "NumAttributes": 27,
+    "DateDonated": "2010-10-26",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00198/",
+    "URLReadme": "../noReadme.txt",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Type of dependent variables (7 Types of Steel Plates Faults):\r\n1.Pastry\r\n2.Z_Scratch\r\n3.K_Scatch\r\n4.Stains\r\n5.Dirtiness\r\n6.Bumps\r\n7.Other_Faults\r\n",
+    "Source": "Semeion, Research Center of Sciences of Communication, Via Sersale 117, 00128, Rome, Italy.\r\nwww.semeion.it",
+    "Acknowledgements": "dataset provided by Semeion, Research Center of Sciences of Communication, Via Sersale 117, 00128, Rome, Italy.\r\nwww.semeion.it  ",
+    "Area": "Physical",
+    "RelevantPapers": "1.M Buscema, S Terzi, W Tastle, A New Meta-Classifier,in NAFIPS 2010, Toronto (CANADA),26-28 July 2010, 978-1-4244-7858-6/10 \u00c2\u00a92010 IEEE\r\n2.M Buscema, MetaNet: The Theory of Independent Judges, in Substance Use & Misuse, 33(2), 439-461,1998",
+    "AttributeInfo": "27 independent variables:\r\nX_Minimum\r\nX_Maximum\r\nY_Minimum\r\nY_Maximum\r\nPixels_Areas\r\nX_Perimeter\r\nY_Perimeter\r\nSum_of_Luminosity\r\nMinimum_of_Luminosity\r\nMaximum_of_Luminosity\r\nLength_of_Conveyer\r\nTypeOfSteel_A300\r\nTypeOfSteel_A400\r\nSteel_Plate_Thickness\r\nEdges_Index\r\nEmpty_Index\r\nSquare_Index\r\nOutside_X_Index\r\nEdges_X_Index\r\nEdges_Y_Index\r\nOutside_Global_Index\r\nLogOfAreas\r\nLog_X_Index\r\nLog_Y_Index\r\nOrientation_Index\r\nLuminosity_Index\r\nSigmoidOfAreas\r\n",
+    "FormatType": "",
+    "NumHits": 8
+}

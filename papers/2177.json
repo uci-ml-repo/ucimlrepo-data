@@ -1,0 +1,11 @@
+{
+    "datasetID": 81,
+    "supportID": "D8546265D6422E49B38B8CC737E3ED7074A386EA",
+    "rexaID": "e5473e70fc6fbb348156490ee2bfb466937196bc",
+    "author": "Fabian Hoti and Lasse Holmstr\u00f6m",
+    "title": "A semiparametric density estimation approach to pattern classification",
+    "venue": "Pattern Recognition, 37",
+    "year": "2004",
+    "window": "classifiers tried in [17]. The classification error of both KDA and QDA was 3:7%. Using a so-called convex local subspace classifier, a smaller error rate of 2.1% was reported in [18]. 3.2.2 Public data sets 1: satellite image and <b>handwritten</b> <b>digits</b> Next we consider two public data sets obtained from the UCI Machine Learning Repository [19]. The first example is a satellite image data set with 4435",
+    "mykey": 2177
+}

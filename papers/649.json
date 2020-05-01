@@ -1,0 +1,11 @@
+{
+    "datasetID": 28,
+    "supportID": "4A57C0FFEEC2665CAF8E11574CE5A9618304B979",
+    "rexaID": "de9b2ac4ef9c6449914cdc375972f722190fee7a",
+    "author": "Chris Drummond and Robert C. Holte",
+    "title": "C4.5, Class Imbalance, and Cost Sensitivity: Why Under-Sampling beats Over-Sampling",
+    "venue": "Institute for Information Technology, National Research Council Canada",
+    "year": "",
+    "window": "Expected Cost 0.4 0.6 0.8 1.0 0.0 0.1 0.2 0.3 0.4 \u00c5 \u00c5 \u00c5 \u00c5 \u00c5 \u00c5 \u00c5 \u00c5 \u00c5 \u00c5 \u00c5 \u00c5 0.0 \u00c5 0.2 Figure 2. Sonar: Comparing Sampling Schemes Figure 3 shows the different sampling schemes for the <b>Japanese</b> <b>credit</b> data set. It has 690 instances, 307 positive and 383 negative, with 15 attributes, 6 real and 9 nominal. Again for under-sampling, the curve is reasonably smooth and this time remains completely within the",
+    "mykey": 649
+}

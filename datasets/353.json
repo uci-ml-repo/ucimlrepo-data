@@ -1,0 +1,23 @@
+{
+    "ID": 353,
+    "Name": "SIFT10M",
+    "Abstract": "In SIFT10M, each data point is a SIFT feature which is extracted from Caltech-256 by the open source VLFeat library. The corresponding patches of the SIFT features are provided.",
+    "Types": "Multivariate",
+    "Task": "Causal-Discovery",
+    "AttributeTypes": "Integer",
+    "NumInstances": 11164866,
+    "NumAttributes": 128,
+    "DateDonated": "2016-02-23",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00353/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "In SIFT10M, the titles of the png files indicate the columns position of the SIFT features. This data set has been used for evaluating the approximate nearest neighbour search methods. The patches can be used for visualisation purpose and helps for analysing the performance of the corresponding approximate nearest neighbour search methods.",
+    "Source": "Xiping Fu, Brendan McCane, Steven Mills, Michael Albert and Lech Szymanski\r\nDepartment of Computer Science, University of Otago, Dunedin, New Zealand\r\n{xiping, mccane, steven, malbert, lechszym}@cs.otago.ac.nz",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "Xiping Fu, Brendan McCane, Steven Mills, and Michael Albert, 'NOKMeans: Non-orthogonal K-means hashing', in Asian Conference on Computer Vision (ACCV14). pp 162--177.\r\nXiping Fu, Brendan McCane, Steven Mills, Michael Albert, and Lech Szymanski, 'Auto-JacoBin: Auto-encoder Jacobian Binary Hashing', submitted to PAMI.",
+    "AttributeInfo": "Each SIFT feature is a 128D column, and the corresponding patch is saved in  41*41 png format. The png files are compressed into 307 tar files for downloading.",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

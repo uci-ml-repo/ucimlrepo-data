@@ -1,0 +1,11 @@
+{
+    "datasetID": 33,
+    "supportID": "31B54D3A573A6383A9C3FA9DDFD11C4B51855F70",
+    "rexaID": "25c83dd7b43db4459e6eec12a71a229e10afac90",
+    "author": "M. V. Fidelis and Heitor S. Lopes and Alex Alves Freitas",
+    "title": "Discovering Comprehensible Classification Rules with a Genetic Algorithm",
+    "venue": "UEPG, CPD CEFET-PR, CPGEI PUC-PR, PPGIA Praa Santos Andrade, s/n Av. Sete de Setembro",
+    "year": "",
+    "window": "is fixed, the number of rule conditions (phenotype) is variable. The GA also has specific mutation operators for this chromosome encoding. The algorithm was evaluated on two public domain, realworld data sets (on the medical domains of <b>dermatology</b> and breast cancer). 1 Introduction This work presents a system based on genetic algorithms (GAs) to perform the task of classification. The system is",
+    "mykey": 423
+}

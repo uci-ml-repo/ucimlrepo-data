@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "609CF16352322905E6716CA1B1F41E06DEC1DBAE",
+    "rexaID": "faf03ce4427609aa6db25e3d0e6479fb2ae153a7",
+    "author": "Zhi-Hua Zhou and Yuan Jiang and Shifu Chen",
+    "title": "Extracting symbolic rules from trained neural network ensembles",
+    "venue": "AI Commun, 16",
+    "year": "2003",
+    "window": "80 2 19 13 6 <b>iris</b> plant iris 150 3 4 0 4 statlog australian credit approval credit-a 690 2 15 9 6 statlog german credit credit-g 1,000 2 20 13 7 Table 2 Fidelity of rules extracted via REFNE data set balance voting hepatitis iris credit-a credit-g average fidelity 87.88% 89.26% 84.50% 96.25% 84.13% 74.10% 86.02% Table 3 Comparison of generalization error data set REFNE ensemble single NN C4.5",
+    "mykey": 907
+}

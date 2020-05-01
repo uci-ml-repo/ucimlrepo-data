@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "08758F084F0C61926AF47778A33DC294804540EF",
+    "rexaID": "9a75a9a8ce786d6a05ad51afa124cd4f70bfbb36",
+    "author": "Rudy Setiono and Huan Liu",
+    "title": "Neural-Network Feature Selector",
+    "venue": "Department of Information Systems and Computer Science National University of Singapore",
+    "year": "",
+    "window": "1990 [17]. For our experiment, 315 samples were randomly selected for training, 35 samples were selected for cross-validation, and 349 for testing. 2. United States Congressional <b>voting records</b> Dataset. The dataset consists of the voting records of 435 congressmen on 16 major issues in the 98th Congress. The votes are classified into one of the three different types of votes: yea, nay, and",
+    "mykey": 89
+}

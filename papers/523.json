@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "3ED26DE59E6B04767815B636D509561388063922",
+    "rexaID": "55c53fc4220e8b51b81b1ec2ed81f4b54f3747ff",
+    "author": "Tapio Elomaa and Juho Rousu",
+    "title": "General and Efficient Multisplitting of Numerical Attributes",
+    "venue": "Machine Learning, 36",
+    "year": "1999",
+    "window": "values that they produce. In order to assess how different multisplitting strategies 226 T. ELOMAA AND J. ROUSU Table 1. Characteristic figures of the thirty test domains. Attributes Data set Nomin. Int. Real V B Examples Classes <b>Abalone</b> 1 7 863:7 826:4 4;177 29 Adult 8 6 3; 673:7 1; 668:2 32;561 2 Annealing 10 4 6 27:5 17:7 798 5 Australian 9 6 188:2 129:7 690 2 Auto insuran. 10 8 7",
+    "mykey": 523
+}

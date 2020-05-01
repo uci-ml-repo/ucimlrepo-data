@@ -1,0 +1,23 @@
+{
+    "ID": 101,
+    "Name": "Tic-Tac-Toe Endgame",
+    "Abstract": "Binary classification task on possible configurations of tic-tac-toe game",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 958,
+    "NumAttributes": 9,
+    "DateDonated": "1991-08-19",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/tic-tac-toe/",
+    "URLReadme": "../machine-learning-databases/tic-tac-toe/tic-tac-toe.names",
+    "HighestAccuracy": 99,
+    "RelevantInfo": "This database encodes the complete set of possible board configurations at the end of tic-tac-toe games, where \"x\" is assumed to have played first.  The target concept is \"win for x\" (i.e., true when \"x\" has one of 8 possible ways to create a \"three-in-a-row\").  \r\n\r\nInterestingly, this raw database gives a stripped-down decision tree algorithm (e.g., ID3) fits.  However, the rule-based CN2 algorithm, the simple IB1 instance-based learning algorithm, and the CITRE feature-constructing decision tree algorithm perform well on it.",
+    "Source": "Creator: \r\n\r\nDavid W. Aha (aha@cs.jhu.edu)\r\n\r\nDonor: \r\n\r\nDavid W. Aha (aha@cs.jhu.edu)",
+    "Acknowledgements": "",
+    "Area": "Game",
+    "RelevantPapers": "Matheus, C.J., & Rendell, L.A. (1989).  Constructive induction on decision trees.  In Proceedings of the Eleventh International Joint Conference on Artificial Intelligence. (pp. 645--650).  Detroit, MI: Morgan Kaufmann.\r\nhttp://rexa.info/paper/df1caa2dabcd790eeceb2517978f3f51aafd732f\r\n\r\nMatheus, C.J. (1990). Adding domain knowledge to SBL through feature construction.  In Proceedings of the Eighth National Conference on Artificial Intelligence (pp. 803--808). Boston, MA: AAAI Press.\r\nhttp://rexa.info/paper/670978e95aa98bcebd9f1001dd9bb8b197b1f824\r\n\r\nAha, D. W. (1991). Incremental constructive induction: An instance-based approach.  In Proceedings of the Eighth International Workshop on Machine Learning (pp. 117--121).  Evanston, ILL: Morgan Kaufmann.\r\nhttp://rexa.info/paper/a34e4a4618986a05c919f6ebb466e45d797392e1",
+    "AttributeInfo": "    1. top-left-square: {x,o,b}\r\n    2. top-middle-square: {x,o,b}\r\n    3. top-right-square: {x,o,b}\r\n    4. middle-left-square: {x,o,b}\r\n    5. middle-middle-square: {x,o,b}\r\n    6. middle-right-square: {x,o,b}\r\n    7. bottom-left-square: {x,o,b}\r\n    8. bottom-middle-square: {x,o,b}\r\n    9. bottom-right-square: {x,o,b}\r\n   10. Class: {positive,negative}",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 16636
+}

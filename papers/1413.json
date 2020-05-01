@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "8FC40C2531C8D5D088AE1A3FB26965D7B6945FD7",
+    "rexaID": "ae82a44ada49c66439b67eae7ff10392ff209df9",
+    "author": "Christopher J. Merz",
+    "title": "Using Correspondence Analysis to Combine Classifiers",
+    "venue": "Machine Learning, 36",
+    "year": "1999",
+    "window": "number of examples; number of attributes; number of numeric attributes; number of classes; and whether missing values exist. Data Set Exs. Atts. Num. Class Missing <b>abalone</b> 4177 8 7 3 no balance 625 4 4 3 no breast 286 9 4 2 yes credit 690 15 6 2 yes dementia 118 26 26 3 no glass 214 10 10 7 no heart 303 13 6 2 yes ionosphere 351",
+    "mykey": 1413
+}

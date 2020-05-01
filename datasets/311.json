@@ -1,0 +1,23 @@
+{
+    "ID": 311,
+    "Name": "Sentence Classification",
+    "Abstract": "Contains sentences from the abstract and introduction of 30 articles annotated with a modified Argumentative Zones annotation scheme. These articles come from biology, machine learning and psychology.",
+    "Types": "Text",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "2014-11-05",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00311/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Please see the README file that accompanies the data.",
+    "Source": "America Chambers, ahollowa@ics.uci.edu, University of California, Irvine",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Other",
+    "RelevantPapers": "A. Chambers. Statistical models for text classification: Applications and analysis, Ph.D., University of California, Irvine (2013). ProQuest Dissertations and Theses.",
+    "AttributeInfo": "Please see the README file that accompanies the data. ",
+    "FormatType": "",
+    "NumHits": 8
+}

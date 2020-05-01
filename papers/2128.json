@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "D4D07EEC4396CC723978AB30DF9EE1BEC22701CE",
+    "rexaID": "d2ef68752af3ba25d7fcf8275b91cf592511f2e9",
+    "author": "Mark A. Hall and Lloyd A. Smith",
+    "title": "Feature Selection for Machine Learning: Comparing a Correlation-Based Filter Approach to the Wrapper",
+    "venue": "FLAIRS Conference",
+    "year": "1999",
+    "window": "5% level according to a paired two-sided t-test. Similarly, Table 3 shows the results of feature selection for C4.5. Table 2: Accuracy of naive Bayes with feature selection by CFS and the wrapper. Dataset CFS Wrapper All features <b>mushroom</b> 98.53+ 98.86+ 94.75 vote 95.20+ 95.24+ 90.25 vote1 89.51+ 88.95+ 87.20 australian 85.90+ 85.16+ 78.21 lymph 83.92+ 76.00Gamma 82.12 primary-tumor 46.73 42.32Gamma",
+    "mykey": 2128
+}

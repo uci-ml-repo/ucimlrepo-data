@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "EBA66836EA15BF1E730C8E80671D9ACF89C32EF0",
+    "rexaID": "ccd4e75ad23df528a465f79fc83a186aa23ebebe",
+    "author": "Huan Liu and Hongjun Lu and Jie Yao",
+    "title": "Toward Multidatabase Mining: Identifying Relevant Databases",
+    "venue": "IEEE Trans. Knowl. Data Eng, 13",
+    "year": "2001",
+    "window": "(Table 6). We ran C4.5rules [27] and confirmed that classification rules for \benign\" cases contain attributes 2, 3, 5, 7 and 9 from all the three data sets. Results of the <b>Mushroom</b> data: This data has 22 attributes. Relief ranks importance order of attributes as: 5, 20, 11, 8, 19, 4, 10, 22, 9, 12, 13, 21, 7, 3, 2, 15, 14, 18, 6, 17, 16, 1. We divide",
+    "mykey": 2349
+}

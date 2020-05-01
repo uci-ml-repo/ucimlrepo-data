@@ -1,0 +1,11 @@
+{
+    "datasetID": 9,
+    "supportID": "0E5715775ED4C7FCA23ADA1814AF77075D0C17E0",
+    "rexaID": "e7628956b46a78e64774af25d99c0afd0cf90001",
+    "author": "Johannes Furnkranz",
+    "title": "Pairwise Classification as an Ensemble Technique",
+    "venue": "Austrian Research Institute for Artificial Intelligence",
+    "year": "",
+    "window": "Four of the datasets (Pole Telecom, MV Artificial, <b>Auto</b> <b>MPG</b>  and Triazines) seem to be completely unamenable to pairwise classification, i.w., j48 performs better in all three classification settings. This, however,",
+    "mykey": 145
+}

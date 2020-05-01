@@ -1,0 +1,11 @@
+{
+    "datasetID": 79,
+    "supportID": "00D5BFDFF843700050588C025F7F5BDB6CE5E24A",
+    "rexaID": "c5da3959b262c7f9f7d339d5a61d1af0ed0ee805",
+    "author": "Federico Divina and Elena Marchiori",
+    "title": "Knowledge-Based Evolutionary Search for Inductive Concept Learning",
+    "venue": "Vrije Universiteit of Amsterdam",
+    "year": "",
+    "window": "training examples. It can be seen that in most of the cases, the EWUS selection operator leads to a population characterized by a higher diversity. Only in two cases (the breast and the <b>pima</b> <b>indians</b> datasets) the population evolved with the use of the standard US operators has a higher diversity. However, also in these two cases, the diversity of the two populations are comparable. The WUS selection",
+    "mykey": 9
+}

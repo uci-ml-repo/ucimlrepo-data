@@ -1,0 +1,23 @@
+{
+    "ID": 402,
+    "Name": "Hybrid Indoor Positioning Dataset from WiFi RSSI, Bluetooth and magnetometer",
+    "Abstract": "The dataset was created for the comparison and evaluation of hybrid indoor positioning methods. The dataset presented contains data from W-LAN and Bluetooth interfaces, and Magnetometer. ",
+    "Types": "Multivariate, Sequential, Time-Series",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 1540,
+    "NumAttributes": 65,
+    "DateDonated": "2016-12-18",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00402/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The measurements were created to ease the development, comparison and evaluation of fingerprinting based hybrid indoor positioning methods. The measurements were recorded by the same kind of Android devices in order to reduce the effect of the variety of the hardware. The recording was preformed at weekend to reduce the noise of the environment. The measurements were performed in a three-story building and cover about 50% of it. ",
+    "Source": "Zsolt T\u00f3th University of Miskolc <tothzs@iit.uni-miskolc.hu>\r\nJudit Tam\u00e1s University of Miskolc <tamas13@iit.uni-miskolc.hu>",
+    "Acknowledgements": "@InProceedings{toth2016miskolcIIS,\r\n  Title                    = {Miskolc IIS Hybrid IPS: Dataset for Hybrid Indoor Positioning},\r\n  Author                   = {{Zs}olt T\u00f3th, Judit Tam\u00e1s},\r\n  Booktitle                = {26st International Conference on Radioelektronika},\r\n  Year                     = {2016},\r\n  Organization             = {IEEE},\r\n  Pages                    = {408--412},\r\n}",
+    "Area": "Computer",
+    "RelevantPapers": "@InProceedings{toth2016miskolcIIS,\r\n  Title                    = {Miskolc IIS Hybrid IPS: Dataset for Hybrid Indoor Positioning},\r\n  Author                   = {Zsolt T\u00f3th, Judit Tam\u00e1s},\r\n  Booktitle                = {26st International Conference on Radioelektronika},\r\n  Year                     = {2016},\r\n  Organization             = {IEEE},\r\n  Pages                    = {408--412},\r\n}\r\n\r\n@inproceedings{tamas2016classification,\r\n  title={Classification based Symbolic Indoor Positioning over the Miskolc IIS Dataset},\r\n  author={Tam\u00e1s, Judit and T\u00f3th, Zsolt},\r\n  booktitle={THE 10TH JUBILEE CONFERENCE OF PHD STUDENTS IN COMPUTER SCIENCE},\r\n  pages={60},\r\n  year={2016}\r\n}\r\n\r\n@article{toth7data,\r\n  title={Data model for hybrid indoor positioning systems},\r\n  author={T\u00f3th, Zsolt and Magnucz, P\u00e9ter and N\u00e9meth, Rich\u00e1rd and Tam\u00e1s, Judit},\r\n  journal={Production Systems and Information Engineering},\r\n  volume={7},\r\n  number={1},\r\n  pages={67--80}\r\n}\r\n",
+    "AttributeInfo": "#Measurement Info\r\n1) \tMeasurement Id - Java UUID\r\n2) \tTimestamp - YYYY-MM-dd hh:mm:ss \r\n\r\n#Position Info\r\n3-5) \tCoordinates of the absolute position (x,y,z)\r\n6-7) \tSymbolic position - UUID and name of the position\r\n\r\n#Measruement Values\r\n8-10) \tMagnetometer values x,y,z, real\r\n11-42) \tWiFi RSSI values, negative integeres [-255,0]\r\n43-65) \tBluetooth devices {0,1} - 1 if the given devices was sensed in during the measurement.\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 1
+}

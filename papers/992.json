@@ -1,0 +1,11 @@
+{
+    "datasetID": 120,
+    "supportID": "68E4CBD76EB78057876930BD7362D346BE6BFED4",
+    "rexaID": "cd11168bb19fd462bc59beefbe670bc4eb31e3eb",
+    "author": "Mark A. Hall",
+    "title": "Department of Computer Science Hamilton, NewZealand Correlation-based Feature Selection for Machine Learning",
+    "venue": "Doctor of Philosophy at The University of Waikato",
+    "year": "1999",
+    "window": "is to predict whether cancer will recur in patients. There are 9 nominal attributes describing characteristics such as tumour size and location. There are 286 instances. Dna-promoter (dna) A small dataset containing 53 positive examples of <b>E</b>  <b>coli</b> promoter gene sequences and 53 negative examples. There are 55 nominal attributes representing the gene sequence. Each attribute is a DNA nucleotide",
+    "mykey": 992
+}

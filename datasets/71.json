@@ -1,0 +1,23 @@
+{
+    "ID": 71,
+    "Name": "Moral Reasoner",
+    "Abstract": "Horn-clause model that qualitatively simulates moral reasoning; Theory includes negated literals",
+    "Types": "Domain-Theory",
+    "Task": "",
+    "AttributeTypes": "",
+    "NumInstances": 202,
+    "NumAttributes": 0,
+    "DateDonated": "1994-06-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/moral-reasoner/",
+    "URLReadme": "../machine-learning-databases/moral-reasoner/moral.info",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This is a rule-based model that qualitatively simulates moral reasoning. The model was intended to simulate how an ordinary person, down to about age five, reasons about harm-doing.\r\n\r\nThe horn-clause theory and the 202 instances are the same as were used in (Wogulis, 1994).  The top-level predicate to predict is guilty/1. For more information, e.g. on the generation of instances, see (Wogulis, 1994).",
+    "Source": "Creators: \r\n\r\nT.R. Shultz & J.M. Daley \r\n\r\nDonor: \r\n\r\nJames L. Wogulis \r\nUniversity of California, Irvine\r\nIrvine, CA USA",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "Darley, J.M. & Shultz, T.R. (1990). Moral rules: Their content and acquisition.  Annual Review of Psychology, 41, 525-556.\r\n\r\nShultz, T.R. (1990). A rule base model of judging harm-doing. In Proceedings of the Twelfth Annual Conference of the Cognitive Science Society, (pp. 229-236).,Cambridge, MA. Lawrence Erlbaum.\r\nhttp://rexa.info/paper/e1bb2d6ef9d817276ac5d52357fab40506b7d0d6\r\n\r\nWogulis, J.L. (1994). An Approach to Repairing and Evaluating First-Order Theories Containing Multiple Concepts and Negation. Doctoral Dissertation. University of California, Irvine.\r\nhttp://rexa.info/paper/f4f97da541535691215a83f567a841144cd5eafd",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 15
+}

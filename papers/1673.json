@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "A3A1E2640DDAEED9C586CE43F217DC03D9C3B00E",
+    "rexaID": "d64d2705cabed449e8cb2ecc3c3c77c54ee71051",
+    "author": "Jeroen Eggermont and Joost N. Kok and Walter A. Kosters",
+    "title": "Genetic Programming for data classification: partitioning the search space",
+    "venue": "SAC",
+    "year": "2004",
+    "window": "algorithm has a much smaller standard deviation. When we look at the number of clusters or maximum number of partitions we see that a maximum of 2 clusters or partitions is clearly the best for this data set. The <b>Ionosphere</b> Data Set If we look at the results on the Ionosphere data set in Table 7 we see that using the gain ratio instead of the gain criterion with our refined gp algorithms greatly",
+    "mykey": 1673
+}

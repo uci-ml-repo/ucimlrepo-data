@@ -1,0 +1,11 @@
+{
+    "datasetID": 137,
+    "supportID": "F6958E1F94409544C5B1A4BEF7E3E13861A8173A",
+    "rexaID": "1543ea7033e6a4fc2ab140096210d7821d7018fc",
+    "author": "Vijay S. Iyengar and Chidanand Apt and Tong Zhang",
+    "title": "Active learning using adaptive resampling",
+    "venue": "KDD",
+    "year": "2000",
+    "window": "the ALAR method are shown in Figure 5. Both ALAR-3-nn and ALAR-vote-E achieve the accuracy goal with only 8000 labeled instances. The last benchmark used is the Mod-Apte split of the <b>Reuters</b> data set available from [20]. Only the top ten categories are considered. For eachofthemwe solve the binary classification problem of being in or out of that category.Weused the notion of information gain",
+    "mykey": 2488
+}

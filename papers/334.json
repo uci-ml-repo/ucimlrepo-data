@@ -1,0 +1,11 @@
+{
+    "datasetID": 108,
+    "supportID": "28BBE8AB2BB3C6F5C8073C41BE6E10ACA0D05814",
+    "rexaID": "43960812b02c29db1368816cd996112a9af54a99",
+    "author": "Juan J. Rodr##guez and Carlos J. Alonso",
+    "title": "Applying Boosting to Similarity Literals for Time Series Classification",
+    "venue": "Department of Informatics University of Valladolid, Spain",
+    "year": "2000",
+    "window": "are sumarised in table 2. The main criterion for selecting them has been that the number of examples available were big enough, to ensure that the results were reliable. <b>Waveform</b>  This dataset was introduced by [Breiman et al., 1993]. The purpouse is to distinguish between three classes, defined by the evaluation in 1; 2 : : : 21, of the following functions: x 1 (i) = uh 1 (i) + (1 u)h 2",
+    "mykey": 334
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 60,
+    "supportID": "A5BF048C34C3C6916162F8F241BAB1F8336025EE",
+    "rexaID": "d18b9cca12173a8ca3d5a781cadcf847442930f4",
+    "author": "Carlotta Domeniconi and Jing Peng and Dimitrios Gunopulos",
+    "title": "An Adaptive Metric Machine for Pattern Classification",
+    "venue": "NIPS",
+    "year": "2000",
+    "window": "consists of q = 16 numerical attributes and J = 26 classes; 8. <b>Liver</b> data. This data set consists of 345 instances, represented by q = 6 numerical attributes, and J = 2 classes; and 9. Lung data. This example has 32 instances having q = 56 numerical features and J = 3 classes. Results:",
+    "mykey": 1694
+}

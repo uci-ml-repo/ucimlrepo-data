@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "A7B9ECDA37828776A14147E3F7B137D41E2E71A3",
+    "rexaID": "80d25f1152aed1f55fc47bd0f450312debe7617e",
+    "author": "Jos'e L. Balc'azar",
+    "title": "Rules with Bounded Negations and the Coverage Inference Scheme",
+    "venue": "Dept. LSI, UPC",
+    "year": "",
+    "window": "being able to generate exactly the same set of rules that would be found at the chosen support and confidence. We describe next such a notion of cover, due to [CS], who applied it to a synthetic dataset and to the <b>Mushroom</b> database. We describe the results of employing this cover strategy on the databases Car (which is close to synthetic) and Contraceptive Method Choice, with real-world data coming",
+    "mykey": 1722
+}

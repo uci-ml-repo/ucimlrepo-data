@@ -1,0 +1,23 @@
+{
+    "ID": 446,
+    "Name": "SCADI",
+    "Abstract": "First self-care activities dataset based on ICF-CY.",
+    "Types": "Multivariate",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "",
+    "NumInstances": 70,
+    "NumAttributes": 206,
+    "DateDonated": "2018-04-14",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00446/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset contains 206 attributes of 70 children with physical and motor disability based on ICF-CY. \r\nIn particular, the SCADI dataset is the only one that has been used by ML researchers for self-care problems classification based on ICF-CY to this date. \r\nThe 'Class' field refers to the presence of the self-care problems of the children with physical and motor disabilities.The classes are determined by occupational therapists.\r\nThe names and social security numbers of the children were recently removed from the dataset. \r\n\r\nTwo files have been 'processed', SCADI.arff for using in WEKA and SCADI.CSV for using in MATLAB and similar tools. \r\n",
+    "Source": "--Creators: S.M.M. Fatemi Bushehri, Moslem Dehghanizadeh, Shokoofeh Kalantar, Mohsen Sardari Zarchi \r\n\r\n* S.M.M. Fatemi Bushehri: Department of Software Engineering, Yazd Branch, Islamic Azad University, Yazd, Iran \r\n* Moslem Dehghanizadeh: Department of Occupational Therapy, School of Rehabilitation, Iran University of Medical Sciences, Tehran, Iran \r\n* Shokoofeh Kalantar: Student Senior Counseling & Guidance, Islamic Azad University, Department of Human Science, Yazd, Iran \r\n* Mohsen Sardari Zarchi: Department of Computer Engineering, Meybod University, Meybod, Iran \r\n\r\n-- Donator: S.M.M. Fatemi Bushehri ",
+    "Acknowledgements": "Please include this citation if you plan to use this database (BibTeX format):\r\n\r\n@article{zarchi2018scadi,\r\n  title={SCADI: A standard dataset for self-care problems classification of children with physical and motor disability},\r\n  author={Zarchi, MS and Bushehri, SMM Fatemi and Dehghanizadeh, M},\r\n  journal={International Journal of Medical Informatics},\r\n  year={2018},\r\n  publisher={Elsevier}\r\n}\r\n\r\n\r\n@article{bushehri2019expert,\r\n  title={An expert model for self-care problems classification using   probabilistic neural network and feature selection approach},\r\n  author={Bushehri, SMM Fatemi and Zarchi, Mohsen Sardari},\r\n  journal={Applied Soft Computing},\r\n  volume={82},\r\n  pages={105545},\r\n  year={2019},\r\n  publisher={Elsevier}\r\n}",
+    "Area": "Life",
+    "RelevantPapers": "Zarchi, M. S., SMM Fatemi Bushehri, and M. Dehghanizadeh. 'SCADI: A standard dataset for self-care problems classification of children with physical and motor disability.' International Journal of Medical Informatics (2018).\r\n\r\nBushehri, SMM Fatemi, and Mohsen Sardari Zarchi. \"An expert model for self-care problems classification using probabilistic neural network and feature selection approach.\" Applied Soft Computing 82 (2019): 105545.\r\n",
+    "AttributeInfo": "1:     gender: gender (1 = male; 0 = female)\r\n2:     age: age in years \r\n3-205: self-care activities based on ICF-CY (1 = The case has this feature; 0 = otherwise) \r\n206:   Classes ( class1 = Caring for body parts problem; class2 = Toileting problem; class3 = Dressing problem; class4 = Washing oneself and Caring for body parts and Dressing problem; class5 = Washing oneself, Caring for body parts, Toileting, and Dressing problem; class6 = Eating, Drinking, Washing oneself, Caring for body parts, toileting,Dressing, Looking after one\u00e2\u20ac\u2122s health and Looking  after one\u00e2\u20ac\u2122s safety problem; class7 = No Problem; ) ",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

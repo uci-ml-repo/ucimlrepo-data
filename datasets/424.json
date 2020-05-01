@@ -1,0 +1,23 @@
+{
+    "ID": 424,
+    "Name": "CSM (Conventional and Social Media Movies) Dataset 2014 and 2015",
+    "Abstract": "12 features categorized as conventional and social media features. Both conventional features, collected from movies databases on Web as well as social media features(YouTube,Twitter).",
+    "Types": "Multivariate",
+    "Task": "Classification, Regression",
+    "AttributeTypes": "Integer",
+    "NumInstances": 217,
+    "NumAttributes": 12,
+    "DateDonated": "2017-10-11",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00424/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Year:2014 and 2015\r\nSource: Twitter,YouTube,IMDB",
+    "Source": "Mehreen Ahmed\r\nDepartment of Computer Software Engineering\r\nNational University of Sciences and Technology (NUST),\r\nIslamabad, Pakistan\r\nmahreenmcs@gmail.com",
+    "Acknowledgements": "Please cite this paper:\r\nAhmed M, Jahangir M, Afzal H, Majeed A, Siddiqi I. Using Crowd-source based features from social media and Conventional features to predict the movies popularity. InSmart City/SocialCom/SustainCom (SmartCity), 2015 IEEE International Conference on 2015 Dec 19 (pp. 273-278). IEEE.",
+    "Area": "Computer",
+    "RelevantPapers": "Ahmed M, Jahangir M, Afzal H, Majeed A, Siddiqi I. Using Crowd-source based features from social media and Conventional features to predict the movies popularity. InSmart City/SocialCom/SustainCom (SmartCity), 2015 IEEE International Conference on 2015 Dec 19 (pp. 273-278). IEEE.",
+    "AttributeInfo": "Provide information about each attribute in your data set.",
+    "FormatType": "",
+    "NumHits": 0
+}

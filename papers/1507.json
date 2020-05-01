@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "96255EE83ABB19925C340F5124EA14A75D3D853F",
+    "rexaID": "3c3eb7beca3f6ab6fcebe2863131fa3dbae6cb7f",
+    "author": "Yuh-Jeng Lee",
+    "title": "Smooth Support Vector Machines",
+    "venue": "Preliminary Thesis Proposal Computer Sciences Department University of Wisconsin",
+    "year": "2000",
+    "window": "A medical application is also proposed here. A linear support vector machine (SVM) is used to extract 6 features from a total of 31 features in a dataset of 253 <b>breast</b> <b>cancer</b> patients. Five features are nuclear features obtained during a non-invasive diagnostic procedure while one feature, tumor size, is obtained during surgery. The linear SVM",
+    "mykey": 1507
+}

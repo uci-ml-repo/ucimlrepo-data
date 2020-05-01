@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "4D259A4113D23F61585386EB7C46A16989AE0BD4",
+    "rexaID": "df4390b4164d70e186a080009bf9b23fb367478c",
+    "author": "Michail Vlachos and Carlotta Domeniconi and Dimitrios Gunopulos and George Kollios and Nick Koudas",
+    "title": "Non-linear dimensionality reduction techniques for classification and visualization",
+    "venue": "KDD",
+    "year": "2002",
+    "window": "used in our experiments Dataset ] data ] dims ] classes experiment <b>Iris</b> 100 4 2 leave 1 out c-v Sonar 208 60 2 leave 1 out c-v Glass 214 9 6 leave 1 out c-v Liver 345 6 2 leave 1 out c-v Lung 32 56 3 leave 1 out c-v Image 640 16",
+    "mykey": 677
+}

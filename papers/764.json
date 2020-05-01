@@ -1,0 +1,11 @@
+{
+    "datasetID": 21,
+    "supportID": "53DFABDDB60022FB5D0D4AE073A86B8B6B9C9C1A",
+    "rexaID": "12fe4ef85ae4ef89437a10d0a7b0daf32af2be21",
+    "author": "Jerome H. Friedman and Ron Kohavi and Youngkeol Yun",
+    "title": "To appear in AAAI-96 Lazy Decision Trees",
+    "venue": "Statistics Department and Stanford Linear Accelerator Center Stanford University",
+    "year": "",
+    "window": "fast algorithm. The largest running time by far was for mushroom with 8.4 Sparc-10 cpu minutes per crossvalidation fold (equivalent to a run), followed by <b>chess</b> with 1.59 cpu minutes. These datasets have 8124 instances and 3196 instances, respectively. From the table we can see that simple ID3 is generally inferior, as is C4.5 without pruning. Pruning improves C4.5-NP's performance, except for",
+    "mykey": 764
+}

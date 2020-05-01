@@ -1,0 +1,23 @@
+{
+    "ID": 41,
+    "Name": "Function Finding",
+    "Abstract": "Cases collected mostly from investigations in physical science; intention is to evaluate function-finding algorithms",
+    "Types": "",
+    "Task": "Function-Learning",
+    "AttributeTypes": "Real",
+    "NumInstances": 352,
+    "NumAttributes": 0,
+    "DateDonated": "1990-09-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/function-finding/",
+    "URLReadme": "../machine-learning-databases/function-finding/function-finding.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "[Please note the use of Latex format here for algebraic expressions. See Leslie Lamport, Latex: A Document Preparation System, Addison-Wesley, 1986 for details.]\r\n\r\nThis database contains 352 bivariate numeric data sets collected from diverse sources and resulting, with a few exceptions, from investigations in physical science. For each data set, the collection includes:\r\n\r\n1. Source: Bibliographic information for the source of the data.\r\n2. Description: Identification of the variables $x$ and $y$.  Except in a few clearly identified instances, the abbreviated format $y$ vs. $x$ is employed.  An entry of the form\r\n\r\nDescription: Force vs. separation.\r\n  \r\nindicates that $x$ is a separation and $y$ is a force.  In some cases--when the information was readily available--the description also includes the units in which the data was originally reported.\r\n     \r\n3. Reference relation: The functional relationship proposed by the reporting scientist in the original source.\r\n\r\n4. Comments (optional): Additional information pertaining to the case.\r\n\r\nIn recording reference relations, the database often omits details of parameter values.  If a scientist proposes $y=23.1x-.0014$, the reference relation may be given as just $y=k_{1}x+k_{2}$.  Also, since algebraic transformations have been employed freely, the same relation might be given as $y/x=k_{2}/x+k_{1}$.\r\n\r\nIn general, data collected here is given in full as it appeared in the original source.  Fractions have been converted to decimals, numbers have been freely translated to and from scientific notation and zeros have sometimes been added to decimal numbers to facilitate tabulation. Any additional deviations from verbatim transcription are noted in the Comments entry of the associated case.  Note in particular that, in a few clearly identified cases, apparent typographical errors have been corrected and that, in others, data points identified by the reporting scientist as *not* conforming to the proposed relationship have been omitted.",
+    "Source": "Donor: \r\n\r\nCullen Schaffer\r\nDepartment of Computer Science\r\nRutgers University\r\nNew Brunswick, NJ  08903\r\nschaffer@paul.rutgers.edu\r\n\r\nSource: \r\n\r\nCullen Schaffer, Domain-Independent Scientific Function Finding.  \r\nPhD Thesis, Department of Computer Science, Rutgers University, 1990 (Technical Report LCSR-TR-149).",
+    "Acknowledgements": "",
+    "Area": "Physical",
+    "RelevantPapers": "Cullen Schaffer, \"A Proven Domain-Independent Scientific Function-Finding Algorithm,\" in AAAI-90.\r\nhttp://rexa.info/paper/2e142445dafcc45bf5817dc166c90af15c2d9618\r\n",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 19
+}

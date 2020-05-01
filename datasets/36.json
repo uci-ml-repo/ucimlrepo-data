@@ -1,0 +1,23 @@
+{
+    "ID": 36,
+    "Name": "Document Understanding",
+    "Abstract": "Five concepts, expressed as predicates, to be learned",
+    "Types": "",
+    "Task": "",
+    "AttributeTypes": "",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "1994-11-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/document-understanding",
+    "URLReadme": "../machine-learning-databases/document-understanding/document-understanding.info",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "In the experimentation, 30 single page documents were considered.  They are copies of letters sent by Olivetti. Six trials were performed by randomly selecting 20 documents for the training set and 10 for the test set. Each document is identified by a letter (A to Z) or a pair of letters (AA, AB, AC, AD).\r\n\r\n   Trial  Training documents\r\n     1    A B C D E F G H I J K L M N O P Q R S T\r\n     2    C D E F G H I M P R S V X Y W Z AA AB AC AD\r\n     3    C D E F G H I J K P R S T U V Y W AA AB AC\r\n     4    A B C D E F G J L M N O P Q T V X Z AB AD\r\n     5    A B E F G I J K M N O P Q R T V X Z AA AD\r\n     6    A B C D E F G I J M Q S T X Y Z AA AB AC AD",
+    "Source": "Owner:\r\n\r\nDonato Malerba\r\nDipartimento di Informatica\r\nUniversity of Bari\r\nvia Orabona 4\r\n70126 Bari - Italy\r\nphone: +39 - 80 - 5443269\r\nfax: +39 - 80 - 5443196\r\nmalerbad@vm.csata.it\r\n\r\nDonor: \r\n\r\nDonato Malerba",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "Malerba D. Document Understanding: A Machine Learning Approach. Technical Report, Esprit Project 5203 INTREPID, 4 March 1993.\r\nhttp://rexa.info/paper/2658c6d0e87781751651c6ff32490eacfa5eaf72\r\n\r\nEsposito F., Malerba D., Semeraro G., & Pazzani M. A Machine Learning Approach to Document Understanding. Proc. 2nd Int. Workshop on Multistrategy Learning, Harpers Ferry, WV, pp. 276-292, May 1993.\r\nhttp://rexa.info/paper/8c30fb9f9d0cbf4bcacf91ba4ff479cae1d3e7bc\r\n\r\nEsposito F., Malerba D., & Semeraro G. Learning Contextual Rules in First-Order Logic. Proc. 4th Italian Workshop on Machine Learning (GAA93), Milan, Italy, pp. 111-127, June 1993.\r\n\r\nEsposito F., Malerba D., & Semeraro G. Automated Acquisition of Rules for Document Understanding. Proc. of the 2nd Int. Conf. on Document Analysis and Recognition, Tsukuba Science City, Japan, pp. 650-654, October 1993.\r\nhttp://rexa.info/paper/6f708a1a6ca5a62c81da81ca430355d385472271\r\n\r\nSemeraro G., Esposito F., & Malerba D. Learning Contextual Rules for Document Understanding. Proc. 10th IEEE Conf. on Artificial Intelligence for Applications. San Antonio, Texas, pp. 108-115, March 1994.\r\nhttp://rexa.info/paper/04659534cc8f1c690876a3e437f3501abd912ae0\r\n\r\nEsposito F., Malerba D., & Semeraro G. Multistrategy Learning for Document Recognition. Applied Artificial Intelligence, 8, pp. 33-84, 1994\r\nhttp://rexa.info/paper/b0720de1fb5b2586a298d305caa788c78a1d6160",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 21
+}

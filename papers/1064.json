@@ -1,0 +1,11 @@
+{
+    "datasetID": 79,
+    "supportID": "6DA89FF970749A5C92453FB296AE39D3379A77D0",
+    "rexaID": "bf8052c51e6338fa2ab5479c08d657a06e4dbd4a",
+    "author": "Eibe Frank and Mark Hall",
+    "title": "Visualizing Class Probability Estimators",
+    "venue": "PKDD",
+    "year": "2003",
+    "window": "(although they are not explicitly represented in the classifier). To provide a more realistic example Figure 8 shows four visualizations for pairs of attributes from the <b>pima</b> <b>indians</b> <b>diabetes</b> dataset (Blake & Merz, 1998). This dataset has eight attributes and 768 instances (500 belonging to class tested_negative and 268 to class tested_positive). The decision tree for this problem is shown in",
+    "mykey": 1064
+}

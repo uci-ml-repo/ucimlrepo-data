@@ -1,0 +1,23 @@
+{
+    "ID": 173,
+    "Name": "Abscisic Acid Signaling Network",
+    "Abstract": "The objective is to determine the set of boolean rules that describe the interactions of the nodes within this plant signaling network.  The dataset includes 300 separate boolean pseudodynamic simulations using an asynchronous update scheme. ",
+    "Types": "Multivariate",
+    "Task": "Causal-Discovery",
+    "AttributeTypes": "Integer",
+    "NumInstances": 300,
+    "NumAttributes": 43,
+    "DateDonated": "2008-04-03",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/abscisic-acid/",
+    "URLReadme": "../machine-learning-databases/abscisic-acid/plantCellSignaling.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The objective is to determine the set of boolean rules that describe the interactions of the nodes within this plant signaling network. The dataset includes 300 separate boolean pseudodynamic simulations of the true rules, using an asynchronous update scheme. Each of the 300 simulations begin with a randomly generated initial condition, in order to ensure sampling of all of the steady states of the system.  There are a total of 43 nodes in this dataset, with 5 ndoes being constants.\r\n\r\nThe results for 300 separate simulations are included in the dataset.  Each simulation consists of a matrix of 0's and 1's, with 21 rows and 43 columns.  The first row is the randomly generated initial condition for the particular simulation, with the next 20 rows being the output from the boolean pseudodynamics simulation.  Each of the 43 columns represent the transient response of a particular node.  The nodal names are identified at the top of the data file.  A line of asterisks is used to separate the simulations from one another.  An example set of data is included below:\r\n\r\n***************************\r\n1011101110101101101101001010001011000011001\r\n1100001110111101101101111111011001011101011\r\n1100011110111110101101100011010001110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n1100001110111110101101100011000011110101010\r\n\r\n",
+    "Source": "Jerry W. Jenkins, Ph.D.\r\nSystems Biology and Bioinformations Group\r\nCFD Research Corporation\r\n215 Wynn Drive\r\nHuntsville, AL 35805\r\nemail: jwj@cfdrc.com\r\n\r\nAbhishek Soni, Ph.D.\r\nSystems Biology and Bioinformations Group\r\nCFD Research Corporation\r\n215 Wynn Drive\r\nHuntsville, AL 35805\r\nemail: axs@cfdrc.com\r\n",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "Li S, Assman SM, Albert R (2006) Predicting essential components of signal transduction networks: a dynamic model of guard cell abscisic acid signaling. Plos Biology 4: p. 1732-1748\r\n\r\nSoni, A.S., Jenkins, J.W., and Sundaram, S.S.: \u201dDetermination of critical network interactions: An augmented Boolean pseudo-dynamics approach\u201d, IET Systems Biology, vol. 2, p. 55-63 (2008).\r\n",
+    "AttributeInfo": "Each node can have a value of 0 or 1.  38 of the 43 nodes are allowed to vary, with 5 nodes held constant throughout the simulation.\r\n\r\n",
+    "FormatType": "",
+    "NumHits": 9
+}

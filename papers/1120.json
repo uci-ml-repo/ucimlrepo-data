@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "739EA27FE24EC5E11A27EFE980FBC887003F7B6B",
+    "rexaID": "63ebbe51c9c4dea76320f7b6a40f2a59f10cc7c0",
+    "author": "Kristin P. Bennett and Erin J. Bredensteiner",
+    "title": "A Parametric Optimization Method for Machine Learning",
+    "venue": "INFORMS Journal on Computing, 9",
+    "year": "1997",
+    "window": "were used in the computational experiments. Johns Hopkins University <b>Ionosphere</b> Database The Ionosphere dataset is used to distinguish between good and bad radar returns. A good return is one indicating evidence of some type of structure in the ionosphere. A bad return simply passes through the ionosphere.",
+    "mykey": 1120
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 21,
+    "supportID": "5AA16679C7A3EB570FEC55489097B9A2E7A2AEE2",
+    "rexaID": "287a92657decc181f6842e52b05c1fa17e5ab277",
+    "author": "Hankil Yoon and Khaled A. Alsabti and Sanjay Ranka",
+    "title": "Tree-based Incremental Classification for Large Datasets",
+    "venue": "CISE Department, University of Florida",
+    "year": "",
+    "window": "very quickly and identify a method that better suits to the application. 5.2 Experimental results with <b>chess</b> dataset The chess dataset obtained from [BKM98] contains 25,000 training records and 3,056 test records. There are 18 class values and each record consists of 6 attributes, all of which are numeric",
+    "mykey": 837
+}

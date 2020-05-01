@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "5FD66E44BB96F8919F46F1E20FB1F1CBECB487F3",
+    "rexaID": "632fe4095475bee152843a02969ade56a290db39",
+    "author": "Igor Kononenko and Edvard Simec and Marko Robnik-Sikonja",
+    "title": "Overcoming the Myopia of Inductive Learning Algorithms with RELIEFF",
+    "venue": "Appl. Intell, 7",
+    "year": "1997",
+    "window": "(SOYB, IRIS, and VOTE are obtained from the Irvine database[21], SAT is obtained from the StatLog database [18]): SOYB: The famous <b>soybean</b> data set used by Michalski & Chilausky [17]. IRIS: The well known Fisher's problem of determining the type of iris flower. MESH3,MESH15: The problem of determining the number of elements for each of the",
+    "mykey": 902
+}

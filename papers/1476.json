@@ -1,0 +1,11 @@
+{
+    "datasetID": 81,
+    "supportID": "93EA823E7F542C16A90FEA8A80521A4B9E54F91E",
+    "rexaID": "03534af8424987a10b9e264147f082059665f7b7",
+    "author": "Dennis DeCoste",
+    "title": "Anytime Query-Tuned Kernel Machines via Cholesky Factorization",
+    "venue": "SDM",
+    "year": "2003",
+    "window": "Lanckriet, L. E. Ghaoui, C. Bhattacharyya, and M. I. Jordan. Minmax probability machine. Advances in Neural Information Processing Systems (NIPS) 14, 2002. [10] Y. LeCun. MNIST <b>handwritten</b> <b>digits</b> dataset. Available at http://www.research.att.com/ #yann/ ocr/ mnist/, 2000. [11] S. Mika, G. Ratsch, and K.-R. Muller. A mathematical programming approach to the kernel Fisher algorithm. In Advances in",
+    "mykey": 1476
+}

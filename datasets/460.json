@@ -1,0 +1,23 @@
+{
+    "ID": 460,
+    "Name": "PANDOR",
+    "Abstract": "PANDOR is a novel and publicly available dataset for online recommendation provided by Purch (http://www.purch.com/). ",
+    "Types": "Multivariate",
+    "Task": "Recommendation",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "2018-10-02",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00460/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "source, offerId, pageViewId, offerViewId, utcDate, keywords, wasClicked, offerViewCountPerPageView, clickCountPerPageView, userId, productLemmas, productFeatures, url, pageLemmas, pageFeatures\r\n\r\n# Events: 48,602,664\r\n# Users: 5,894,431\r\n# Offers: 14,716\r\n# Clicks: 337,511\r\n# OffersShown: 48,754,927\r\n# Max offers shown to 1 user: 2,029\r\n# Max clicks done by 1 user: 119\r\n\r\nAverage # Offers Shown to 1 user: 8.271\r\nAverage # Clicks done by 1 user: 0.057\r\nAverage # Clicks done by 1 user (if user did at least 1 click): 1.350616661464461\r\n\r\n \r\n# Events where user did at least 1 click: 4,544,848\r\n# Events which have at least 1 page text words: 1,212,170\r\n# Events which have at least 1 product Text words: 450,050\r\n# Events which have at least 1 keyword: 4,492,544\r\n \r\npage text vocabulary size: 9,111\r\nproduct text vocabulary size: 6,016\r\nkeyword vocabulary size: 543\r\n\r\n \r\nOut of 9,847 offers, 2,701 offers have at least 1 text word (27.4%)\r\nOut of 7,092 pages, 1,990 pages have at least 1 text word (28.1%)\r\n\r\n\r\n",
+    "Source": "Massih-Reza Amini\r\nUniv. Grenoble Alpes, CNRS/LIG\r\nmassih-reza.amini '@' univ-grenoble-alpes.fr\r\n\r\nCharlotte Laclau\r\nUniv. Grenoble Alpes, CNRS/LIG\r\ncharlotte.laclau '@' univ-grenoble-alpes.fr\r\n\r\nSumit Sidana\r\nUniv. Grenoble Alpes, CNRS/LIG\r\nsumit.sidana '@' imag.fr",
+    "Acknowledgements": "If you publish results based on this data set, please acknowledge its use, by referring to:\r\nSumit Sidana, Charlotte Laclau, Massih-Reza Amini. 'Learning to Recommend Diverse Items over Implicit Feedback on PANDOR',  RecSYS 2018.\r\n",
+    "Area": "Life",
+    "RelevantPapers": "Sumit Sidana, Charlotte Laclau, Massih-Reza Amini. 'Learning to Recommend Diverse Items over Implicit Feedback on PANDOR',  RecSYS 2018.\r\n",
+    "AttributeInfo": "Provide information about each attribute in your data set.",
+    "FormatType": "Non-matrix",
+    "NumHits": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 255,
+    "Name": "BLOGGER",
+    "Abstract": "In this paper, we look for to recognize the causes of users tend\r\nto cyber space in Kohkiloye and Boyer Ahmad Province in\r\nIran",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 100,
+    "NumAttributes": 6,
+    "DateDonated": "2013-07-06",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00255/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "In this paper, we look for to recognize the causes of users tend\r\nto cyber space in Kohkiloye and Boyer Ahmad Province in\r\nIran. Collecting information to form database is done by\r\nquestionnaire. This questionnaire is provided as oral, written\r\nand also programming of a website which includes an internet\r\nquestionnaire and the users can answer the questions as they\r\nwish. They entered their used websites, blogs and social\r\nnetworks during the day.\r\nAfter collecting questionnaires, the wed addresses are\r\ngathered to get expected results. And finally, their trustfulness\r\nis checked by analyzing their used web pages. As the results\r\nwere same, for getting better and noiseless response, they will\r\nput in database",
+    "Source": "http://www.ijcaonline.org/archives/volume47/number18/7291-0509",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Computer",
+    "RelevantPapers": "F.S GHAREHCHOPOGH, S.R.KHAZE, 'Data Mining Application for Cyber Space Tendency in Blog Writing: A Case Study\u00e2\u20ac\u009d, International Journal of Computer Applications (IJCA), Vol: 47, No: 18, pp: 40-46, June 2012.",
+    "AttributeInfo": "We considered the following parameters as questions: age,\r\neducation, political attitudes, blog topic, and the type of the\r\nidentity in internet, the influence of managers\u00e2\u20ac\u2122 inefficiency on\r\ntendency, the effect of inefficient media on tendency, the\r\neffects of social and political conditions on tendency and\r\nfinally the effect of poverty in the province on tendency. The\r\nnoisy or too detailed data in database makes us far from to get\r\nproper and suitable answers of algorithms [8]. We preprocessed\r\nthe data and eliminated some non-relevant data.\r\nFinally the followings are considered as the main fields which\r\ninclude: education, political caprice, topics, local media\r\nturnover (LMT) and local, political and social space (LPSS).\r\nThe collected data are shown in Table 1.\r\nIn order to get correct answer, we classify bloggers to two\r\ngroups: professional bloggers and seasonal (temporary)\r\nbloggers. Professional bloggers are those who adopt blog as\r\nan effective digital media and interested in digital writing in\r\ncontinuous time intervals. Seasonal (temporary) bloggers\r\naren\u00e2\u20ac\u2122t professional and follow blogging in discrete time\r\nperiods. In this study, we review the tendency factors\r\nconsidering whether these people are among professional\r\nbloggers (Pro Bloggers, PB) and then, consider the other\r\nfactors according to it.",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

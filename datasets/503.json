@@ -1,0 +1,23 @@
+{
+    "ID": 503,
+    "Name": "Hepatitis C Virus (HCV) for Egyptian patients",
+    "Abstract": "Egyptian patients who underwent treatment dosages for HCV about 18 months. Discretization should be applied based on expert recommendations; there is an attached file shows how.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 1385,
+    "NumAttributes": 29,
+    "DateDonated": "2019-09-30",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00503/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Provide all relevant information about your data set.",
+    "Source": "- Professor: Sanaa Kamal\r\n  (Professor of Medicine, Ain Shams University - Faculty of Medicine-Egypt).\r\n- Prof. Dr. Khalid Abdelhameed ElBahnasy\r\n  (Professor of Information Systems, Faculty of Computer and Information Sciences, Ain Shams University-Egypt).\r\n- Dr. Mohamed Hamdy ElEleimy\r\n  (Associate Professor at Information Systems Department, Faculty of Computer and Information Sciences, Ain Shams University-Egypt).\r\n- Dr. Doaa Hegazy\r\n  (Assistant Professor at Information Systems Department, Faculty of Computer and Information Sciences, Ain Shams University-Egypt).\r\n- Mr. Mahmoud Nasr\r\n (MSc. Faculty of computer and information sciences - Ain Shams University-Egypt).\r\n* For any inquiries please contact me at:\r\nm.nasr '@' cis.asu.edu.eg\r\n",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "@INPROCEEDINGS{8289800,\r\nauthor={M. {Nasr} and K. {El-Bahnasy} and M. {Hamdy} and S. M. {Kamal}},\r\nbooktitle={2017 13th International Computer Engineering Conference (ICENCO)},\r\ntitle={A novel model based on non invasive methods for prediction of liver fibrosis},\r\nyear={2017},\r\nvolume={},\r\nnumber={},\r\npages={276-281},\r\nkeywords={diseases;liver;medical computing;patient diagnosis;physiological models;liver fibrosis progression diagnosis;classification models;liver biopsy;serial liver biopsies;noninvasive methods;Liver;Medical diagnostic imaging;Decision making;XML;Artificial neural networks;Machine learning algorithms;Subsumption;Minimal unique rules;Classification;Knowledge representation},\r\ndoi={10.1109/ICENCO.2017.8289800},\r\nISSN={},\r\nmonth={Dec},}",
+    "AttributeInfo": "Age\tAge\r\nGender\tGender\r\nBMI\tBody Mass Index\r\nFever\tFever\r\nNausea/Vomting\tNausea/Vomting\r\nHeadache\tHeadache\r\nDiarrhea\tDiarrhea\r\nFatigue & generalized bone ache\tFatigue & generalized bone ache\r\nJaundice\tJaundice\r\nEpigastric pain\tEpigastric pain\r\nWBC\tWhite blood cell\r\nRBC\tred blood cells\r\nHGB\tHemoglobin\r\nPlat\tPlatelets\r\nAST 1\taspartate transaminase ratio\r\nALT 1\talanine transaminase ratio 1 week\r\nALT 4\talanine transaminase ratio 12 weeks\r\nALT 12\talanine transaminase ratio 4 weeks\r\nALT 24\talanine transaminase ratio 24 weeks\r\nALT 36\talanine transaminase ratio 36 weeks\r\nALT 48\talanine transaminase ratio 48 weeks\r\nALT after 24 w\talanine transaminase ratio 24 weeks\r\nRNA Base\tRNA Base\r\nRNA 4\tRNA 4\r\nRNA 12\tRNA 12\r\nRNA EOT\tRNA end-of-treatment \r\nRNA EF\tRNA Elongation Factor\r\nBaseline histological Grading\tBaseline histological Grading\r\nBaselinehistological staging\tBaselinehistological staging",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 102,
+    "supportID": "A91062CAA36819ED58BC819A3D9D76EF6C7F542C",
+    "rexaID": "6f2537b9354cfbd865cc2057f04a6216cbafd89c",
+    "author": "Ethem Alpaydin",
+    "title": "Voting over Multiple Condensed Nearest Neighbors",
+    "venue": "Artif. Intell. Rev, 11",
+    "year": "1997",
+    "window": "are given in Table 2. OCR is a handwritten digit database (Guyon et al., 1989). Others are available from the UCI Repository (Murphy, 1994). In the OCR, VOWEL, and <b>THYROID</b> datasets, the training and test sets are separated. In others, we chose the training set small for not to have too large accuracy with NN thus leaving space for improvement. Euclidean distance is used as",
+    "mykey": 1734
+}

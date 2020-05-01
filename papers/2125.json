@@ -1,0 +1,11 @@
+{
+    "datasetID": 111,
+    "supportID": "D46A21A56EEE7E0DD9A329DE9444BCDE3FEE134E",
+    "rexaID": "28734e2b9b072c9ef055eefa88999a60f6a3dc81",
+    "author": "Jun Wang",
+    "title": "Classification Visualization with Shaded Similarity Matrix",
+    "venue": "Bei Yu Les Gasser Graduate School of Library and Information Science University of Illinois at Urbana-Champaign",
+    "year": "",
+    "window": "because that object A is the nearest neighbor of object B does not imply B is the nearest neighbor of A. Figure a) in Fig. 8 (on the last page) is an illustration of this setting. The <b>Zoo</b> data set used in the figure comes from the UCI repository. It contains 101 instances with 7 classes {mammal, bird, reptile, fish, amphibian, insect, and invertebrate}. In the distance threshold setting, only",
+    "mykey": 2125
+}

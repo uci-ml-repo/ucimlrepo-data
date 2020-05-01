@@ -1,0 +1,23 @@
+{
+    "ID": 227,
+    "Name": "Nomao",
+    "Abstract": "Nomao collects data about places (name, phone, localization...) from many sources.\r\nDeduplication consists in detecting what data refer to the same place.\r\nInstances in the dataset compare 2 spots.",
+    "Types": "Univariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 34465,
+    "NumAttributes": 120,
+    "DateDonated": "2012-07-04",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00227/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset has been enriched during the Nomao Challenge:\r\nhttp://www.nomao.com/labs/challenge\r\norganized along with the ALRA workshop (Active Learning in Real-world Applications):\r\nhttp://www.nomao.com/labs/alra\r\nheld at the ECML-PKDD 2012 conference.",
+    "Source": "(a) Original owner of database (name / phone / snail address / email address)\r\nNomao / 00 33 5 62 48 33 90 / 1 avenue Jean Rieux, 31500 Toulouse / challenge@nomao.com\r\n(b) Donor of database (name / phone / snail address / email address) \r\nLaurent Candillier / - /  1 avenue Jean Rieux, 31500 Toulouse  / laurent@nomao.com",
+    "Acknowledgements": "Thanks to Nomao Labs for opening its data:\r\nhttp://www.nomao.com/labs",
+    "Area": "Computer",
+    "RelevantPapers": "@inproceedings{nomaochallenge-ecml,\r\n  author={Laurent Candillier and Vincent Lemaire},\r\n  title={Design and Analysis of the Nomao Challenge - Active Learning in the Real-World},\r\n  booktitle={Proceedings of the ALRA : Active Learning in Real-world Applications, Workshop ECML-PKDD 2012, Friday, September 28, 2012, Bristol, UK},\r\n  year = 2012,\r\n  pages={to appear}\r\n}",
+    "AttributeInfo": "120 attributes: 89 continuous, 31 nominal (including the attributes 'label' and 'id').",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

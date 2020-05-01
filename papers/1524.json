@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "97FC8CAD79557A06EBD7B79951BFEDC4855EC5B4",
+    "rexaID": "74b68cad54c62b62b7ad64911291e2e0b0620dd8",
+    "author": "Bart Hamers and J. A. K Suykens",
+    "title": "Coupled Transductive Ensemble Learning of Kernel Models",
+    "venue": "Bart De Moor",
+    "year": "2003",
+    "window": "models of both ensembles (uncoupled (left); coupled (right)). This shows the e\u00aeect and improvement obtained by coupling of the learning processes for the individual submodels. 5.1.2 Boston <b>housing</b> Data Set The Boston housing data set is a multivariate regression data set of 506 cases in 14 attributes. It has two prototasks: NOX, in which the nitrous oxide level is to be predicted, and price MEDV, in",
+    "mykey": 1524
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "A0EF5CFFF9CED79D4A44168B5BF1EDFAD46FF222",
+    "rexaID": "d4664ad584fcc55802b2bffeb0d57f8e62eca0e2",
+    "author": "Ron Kohavi and Brian Frasca",
+    "title": "Useful Feature Subsets and Rough Set Reducts",
+    "venue": "the Third International Workshop on Rough Sets and Soft Computing",
+    "year": "",
+    "window": "taken from Holte's paper, C4.5 has a 3.5% higher accuracy. The average accuracy for Holte-II is 82.7%, and 86.2% for C4.5. If we ignore the two <b>glass</b> datasets on which Holte-II does poorly, the difference shrinks to 1.3%. Thus even on data with continuous features that have not been discretized, Holte-II does reasonably close to C4.5. Moreover, the",
+    "mykey": 1645
+}

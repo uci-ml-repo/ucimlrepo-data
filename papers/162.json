@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "1135DDB82695B44516CBCB5C1465A01420279A44",
+    "rexaID": "f820b10d6723504d343c9741f7333fbc3393fd05",
+    "author": "Lorne Mason and Jonathan Baxter and Peter L. Bartlett and Marcus Frean",
+    "title": "Boosting Algorithms as Gradient Descent",
+    "venue": "NIPS",
+    "year": "1999",
+    "window": "0% noise - AdaBoost 0% noise - DOOM II 15% noise - AdaBoost 15% noise - DOOM II Figure 2: Margin distributions for AdaBoost and DOOM II with 0% and 15% label noise for the <b>breast</b> <b>cancer</b> and splice data sets. Given that AdaBoost suffers from overfitting and minimizes an exponential cost function of the margins, this cost function certainly does not relate to test error. Howdoesthevalue of our proposed",
+    "mykey": 162
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 74,
+    "supportID": "55CA7A12A4E48E0101D240880BB8C025D62E2253",
+    "rexaID": "c2fee20b32fddc929738addedddbe57ccb74800e",
+    "author": "Hendrik Blockeel and Luc De Raedt",
+    "title": "Top-down Induction of Logical Decision Trees",
+    "venue": "Katholieke Universiteit Leuven Department of Computer Science",
+    "year": "",
+    "window": "Dougherty's [DKS95] work, and as such is capable of handling numerical data. For more details see [VLDDR96, BDR97b]. 5 Experimental Evaluation Experiments have been performed on several benchmark datasets: Mutagenesis [SMSK96], <b>Musk</b> [DLLP97, MM96], and Diterpenes [DSKH + 96]. For all the experiments, Tilde's default parameters were used; only the choice of the number of thresholds for discretization",
+    "mykey": 779
+}

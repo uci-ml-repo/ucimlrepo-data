@@ -1,0 +1,11 @@
+{
+    "datasetID": 107,
+    "supportID": "17E7C99313085AE9DD177C5FA7FAC92939F6A343",
+    "rexaID": "a210d2418e04c74da13adc0356b79daa197b9d89",
+    "author": "Zoran Obradovic and Slobodan Vucetic",
+    "title": "Challenges in Scientific Data Mining: Heterogeneous, Biased, and Large Samples",
+    "venue": "Center for Information Science and Technology Temple University",
+    "year": "",
+    "window": "algorithm on synthetic data of various statistical properties showed that it accurately estimates the class probabilities on unlabeled data [73]. In another experiment on a 3-class benchmark dataset called <b>Waveform</b> [7] the SL was constructed with balanced classes, while we experimented with different class distributions p j on SU . It was shown that for balanced classes p = [1=3; 1=3; 1=3] the",
+    "mykey": 207
+}

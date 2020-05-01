@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "BE80C65A6EC7C2ACF49476DBB8C6C3D57E55A757",
+    "rexaID": "4e69e64b6902aa2a91b5cda5a69eb6b030ac12c4",
+    "author": "Adil M. Bagirov and John Yearwood",
+    "title": "A new nonsmooth optimization algorithm for clustering",
+    "venue": "Centre for Informatics and Applied Optimization, School of Information Technology and Mathematical Sciences, University of Ballarat",
+    "year": "",
+    "window": "13 768/768 274.73 1.0 13 389/768 115.44 1.5 14 283/768 113.64 2.0 13 215/768 66.59 4.0 11 94/768 18.45 6.0 5 52/768 2.31 8.0 5 38/768 2.02 The results presented in Table 1 show that for the <b>diabetes</b> data set we can take c 2 [0, 4]. Further decrease of c leads to sharp changes in the cluster structure of the data set. We can see that there are dierences in the number of clusters when c 2 [0, 4]. But for",
+    "mykey": 1924
+}

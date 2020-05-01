@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "02D4ACD2DDAA4D862358ABC571DCD02FC2F36196",
+    "rexaID": "0767f0171b0f74f96978a41f3e947ea91cc9dbd3",
+    "author": "Alexander J. Smola and Vishy Vishwanathan and Eleazar Eskin",
+    "title": "Laplace Propagation",
+    "venue": "NIPS",
+    "year": "2003",
+    "window": "# \u00c4 # # # ##\u00c7 # (15) with the joint minimizer being the average of the individual solutions. 5 Experiments To test our ideas we performed a set of experiments with the widely available Web and <b>Adult</b> datasets from the UCI repository [1]. All experiments were performed on a 2.4 MHz 2 Note that we had to replace the equality with set inclusion due to the fact that \u00dc is not everywhere differentiable, hence",
+    "mykey": 17
+}

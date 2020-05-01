@@ -1,0 +1,11 @@
+{
+    "datasetID": 9,
+    "supportID": "81CFEC9792E3C838407EDA64D716D13C610284B8",
+    "rexaID": "ae50055cb7507aa6cad70a2adf7d0f55a25268c7",
+    "author": "Zhi-Hua Zhou and Shifu Chen and Zhaoqian Chen",
+    "title": "A Statistics Based Approach for Extracting Priority Rules from Trained Neural Networks",
+    "venue": "IJCNN (3)",
+    "year": "2000",
+    "window": "80 2 19 19 0 UCI-Iris Plant 150 3 4 0 4 UCI-Lung Cancer 27 3 56 56 0 IS Fault Diagnosis 352 10 22 8 14 Table 3. Comparison of STARE and Crave & Shavlik's approach Rule number Test set fidelity Data set CS94 STARE CS94 STARE UCI-1985 <b>Auto</b> Imports 27 36 93.1% 100% UCI-Credit Screening 32 38 96.6% 98.3% UCI-Hepatitis 11 12 92.5% 100% UCI-Iris Plant 10 13 92.0% 97.3% UCI-Lung Cancer 7 8 92.6% 100% IS",
+    "mykey": 1300
+}

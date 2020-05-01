@@ -1,0 +1,11 @@
+{
+    "datasetID": 107,
+    "supportID": "F2DC7581BC7D742CADDA07A2968E02E6B8D46BBB",
+    "rexaID": "bf6cec50b7f7d48d105c8c649210cc3a42d3d71e",
+    "author": "Ron Kohavi",
+    "title": "Scaling Up the Accuracy of Naive-Bayes Classifiers: A Decision-Tree Hybrid",
+    "venue": "KDD",
+    "year": "1996",
+    "window": "segment 19 2,310 CV-10 shuttle 9 43,500 14,500 soybean-large 35 562 CV-10 tic-tac-toe 9 958 CV-10 vehicle 18 846 CV-10 vote 16 435 CV-10 vote1 15 435 CV-10 <b>waveform</b> 40 40 300 4,700 Table 1: The datasets used, the number of attributes, and the training/test-set sizes (CV-10 denotes 10-fold cross-validation was used). NBTree - C4.5 NBTree - NB tic-tac-toe chess letter vehicle vote monk1 segment",
+    "mykey": 2466
+}

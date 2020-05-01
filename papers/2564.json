@@ -1,0 +1,11 @@
+{
+    "datasetID": 137,
+    "supportID": "FC7416B90605524F15AA767A2BC06C9E87E8AAF7",
+    "rexaID": "4284c9cb6236847cd246f69cfb8e4209c107d18f",
+    "author": "Bianca Zadrozny and Charles Elkan",
+    "title": "Transforming classifier scores into accurate multiclass probability estimates",
+    "venue": "KDD",
+    "year": "2002",
+    "window": "estimates using a sigmoid function. rate class membership probability estimates, while being faster. The same method can be applied to naive Bayes. This was proposed by Bennett [4] for the <b>Reuters</b> dataset. In Figure 4 we show the sigmoidal fit to the naive Bayes scores for the Adult and TIC datasets. The sigmoidal shape does not appear to fit naive Bayes scores as well as it fits SVM scores, for",
+    "mykey": 2564
+}

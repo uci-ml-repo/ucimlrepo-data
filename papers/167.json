@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "116EC8FF41BED0C7B593F620C732B82E6D06F1C9",
+    "rexaID": "fcba21d24e397e9639efbad04b5be06fbe9c0df2",
+    "author": "Jeremy Kubica and Andrew Moore",
+    "title": "Probabilistic Noise Identification and Data Cleaning",
+    "venue": "ICDM",
+    "year": "2003",
+    "window": "from the assumed models. 5.1.1 Leaf and Rock Data The leaf and rock data, summarized in Table 1, consist of attributes extracted from a series of pictures of leaves and <b>rocks</b> respectively. The leaf data set contains 71 records from pictures of living and dead leaves. As expected, the living leaves were green in color while the dead leaves were brownish or yellow. The rock data set contains 56 records",
+    "mykey": 167
+}

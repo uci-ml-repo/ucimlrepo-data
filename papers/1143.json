@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "74C01DA43B215794D83BBB05569B744721F382EA",
+    "rexaID": "66e4adde5454a4c13960687a350b7bd2b12859db",
+    "author": "Hyunsoo Kim and Se Hyun Park",
+    "title": "Data Reduction in Support Vector Machines by a Kernelized Ionic Interaction Model",
+    "venue": "SDM",
+    "year": "2004",
+    "window": "The number of 50% data points are approximately similar to the number of support vectors that was found after training with the full number of data points, except the <b>Ionosphere</b> and Mushroom data sets. For the Mushroom data set, the percentage of the points predicted as support vectors is mush less than 50% though the desired selection percentage was 50% in the IoI algorithm. By selecting",
+    "mykey": 1143
+}

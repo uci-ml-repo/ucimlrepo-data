@@ -1,0 +1,11 @@
+{
+    "datasetID": 59,
+    "supportID": "A4ECC6C7345A85C80DEEFC233EE5E8A22A1343BD",
+    "rexaID": "5f8eb537fc397ad5e506b2eae4f6676b48990ba6",
+    "author": "Thomas G. Dietterich",
+    "title": "Approximate Statistical Test For Comparing Supervised Classification Learning Algorithms",
+    "venue": "Neural Computation, 10",
+    "year": "1998",
+    "window": "1 (Quinlan, 1993) and the first nearest-neighbor (NN) algorithm (Dasarathy, 1991). We then selected three difficult problems: the EXP6 problem developed by Kong (1995), the <b>Letter Recognition</b> data set (Frey & Slate, 1991), and the Pima Indians Diabetes Task (Merz & Murphy, 1996). Of course, C4.5 and NN do not have the same performance on these data sets. In EXP6 and Letter Recognition, NN",
+    "mykey": 1682
+}

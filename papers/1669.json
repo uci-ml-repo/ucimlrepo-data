@@ -1,0 +1,11 @@
+{
+    "datasetID": 149,
+    "supportID": "A380817FB24FF67AE988D4CB2326573F6B7CCB02",
+    "rexaID": "dedfa4527706631a09382e23555649c7b3e37ebd",
+    "author": "Ken Tang and Ponnuthurai N. Suganthan and Xi Yao and A. Kai Qin",
+    "title": "Linear dimensionalityreduction using relevance weighted LDA",
+    "venue": "School of Electrical and Electronic Engineering Nanyang Technological University",
+    "year": "2005",
+    "window": "to compare LDA, aPAC, WLDR, EWLDR. The six data sets are landsat, optdigits, <b>vehicle</b>  DNA, thyroid disease and vowel data sets. Landsat. The Landsat data set is generated from landsat multi-spectral scanner image data. It has 36 dimensions, 4435",
+    "mykey": 1669
+}

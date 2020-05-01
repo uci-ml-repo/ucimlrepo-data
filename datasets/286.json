@@ -1,0 +1,23 @@
+{
+    "ID": 286,
+    "Name": "User Identification From Walking Activity",
+    "Abstract": "The dataset collects data from an Android smartphone positioned in the chest pocket from 22 participants walking in the wild over a predefined path. \r\n",
+    "Types": "Univariate, Sequential, Time-Series",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "2014-03-02",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00286/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset collects data from an Android smartphone positioned in the chest pocket. Accelerometer Data are collected from 22 participants walking in the wild over a predefined path. The dataset is intended for Activity Recognition research purposes. It provides challenges for identification and authentication of people using motion patterns.\r\n   --- Sampling frequency of the accelerometer: DELAY_FASTEST with network connections disabled\r\n   --- Number of Participants: 22\r\n   --- Data Format: CSV\r\n",
+    "Source": "Pierluigi Casale, Computer Vision Center, Barcelona, Spain. Email: plcasale@ieee.org",
+    "Acknowledgements": "  --- Casale, P. Pujol, O. and Radeva, P. \r\n       'Personalization and user verification in wearable systems using biometric walking patterns'\r\n       Personal and Ubiquitous Computing, 16(5), 563-580, 2012",
+    "Area": "Other",
+    "RelevantPapers": "  --- Casale, P. Pujol, O. and Radeva, P. \r\n       'Personalization and user verification in wearable systems using biometric walking patterns'\r\n       Personal and Ubiquitous Computing, 16(5), 563-580, 2012",
+    "AttributeInfo": "   --- Data are separated by participant\r\n   --- Each file contains the following information\r\n       ---- time-step, x acceleration, y acceleration, z acceleration",
+    "FormatType": "",
+    "NumHits": 8
+}

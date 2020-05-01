@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "DFE056C98ADE4D3A6B9054C770484C479ED189BF",
+    "rexaID": "bc80295973a43d3806ff4dfe83e5724260301c33",
+    "author": "Iztok Savnik and Peter A. Flach",
+    "title": "Discovery of multivalued dependencies from relations",
+    "venue": "Intell. Data Anal, 4",
+    "year": "2000",
+    "window": "which were used in the experiments are available at UCI Machine learning repository [10]. In the case of the datasets Car, Bupa and <b>Abalone</b> we use randomly selected subsets of the original datasets. For each experiment we specify the name of the relation (dataset) r(R), the number of tuples in relation jrj, the",
+    "mykey": 2247
+}

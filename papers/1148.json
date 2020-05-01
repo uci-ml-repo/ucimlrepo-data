@@ -1,0 +1,11 @@
+{
+    "datasetID": 59,
+    "supportID": "7540A934F393C20AA2002A1BCD3990EF6BC18CCD",
+    "rexaID": "097c7a7a0199cda61be7fac0050755303cec3b46",
+    "author": "Arto Klami and Samuel Kaski and Ty n ohjaaja and Janne Sinkkonen",
+    "title": "HELSINKI UNIVERSITY OF TECHNOLOGY Department of Engineering Physics and Mathematics Arto Klami Regularized Discriminative Clustering",
+    "venue": "Regularized Discriminative Clustering",
+    "year": "",
+    "window": "runs were selected. The model was then re-trained with the whole training data to produce the final clustering. The value of M was five in <b>Letter recognition</b>  and three for the other two data sets. I had to keep the number of candidate values, from which the best value was selected, quite small because of computational reasons. Preliminary runs were used to select a set of reasonable values",
+    "mykey": 1148
+}

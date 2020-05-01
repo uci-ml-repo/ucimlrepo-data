@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "038AFE265B710AAE768EF46FE11F6165F5E614BC",
+    "rexaID": "e3d2f48bca20059ef311938077d747d4f7f7a83a",
+    "author": "Rich Caruana and Alexandru Niculescu-Mizil",
+    "title": "Data Mining in Metric Space: An Empirical Analysis of Supervised Learning Performance Criteria",
+    "venue": "ROCAI",
+    "year": "2004",
+    "window": "25 letters as negative, yielding a very unbalanced binary problem. LETTER.p2 uses letters A-M as positives and the rest as negatives, yielding a well balanced problem. HYPER SP is the IndianPine92 data set [4] where the difficult class <b>Soybean</b> mintill is the positive class. SLAC is a problem from collaborators at the Stanford Linear Accelerator and MEDIS is a medical data set. The characteristics of",
+    "mykey": 26
+}

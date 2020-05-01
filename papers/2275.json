@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "E0E98D01166A5932B1AE04416B051ED8E7391223",
+    "rexaID": "7354900bd4fb9f6d03256986c4181c92ab534f80",
+    "author": "Ivor W. Tsang and James T. Kwok",
+    "title": "Distance Metric Learning with Kernels",
+    "venue": "Department of Computer Science Hong Kong University of Science and Technology Clear Water Bay Hong Kong",
+    "year": "",
+    "window": "the data distributions using the two distance metrics. As can be seen, similar patterns become more 2 ionosphere, sonar and wine are from the UCI repository [2], and microarray (a <b>DNA</b> microarray dataset for colon cancer) is from http://www.kyb.tuebingen.mpg.de/bs/people/weston/l0. clustered while dissimilar patterns are more separated. Table II reports the classification accuracies, averaged over",
+    "mykey": 2275
+}

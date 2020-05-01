@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "31B54D3A573A6383A9C3FA9DDFD11C4B51855F70",
+    "rexaID": "25c83dd7b43db4459e6eec12a71a229e10afac90",
+    "author": "M. V. Fidelis and Heitor S. Lopes and Alex Alves Freitas",
+    "title": "Discovering Comprehensible Classification Rules with a Genetic Algorithm",
+    "venue": "UEPG, CPD CEFET-PR, CPGEI PUC-PR, PPGIA Praa Santos Andrade, s/n Av. Sete de Setembro",
+    "year": "",
+    "window": "in the medical domains of dermatology and <b>breast</b> <b>cancer</b>  These data sets were obtained from the UCI (University of California at Irvine) - Machine Learning Repository [17]. These data sets have been used extensively for classification tasks using different paradigms,",
+    "mykey": 422
+}

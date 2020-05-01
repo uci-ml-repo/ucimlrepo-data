@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "6CEA5EF59096948B99F761531EFC55FEA9819322",
+    "rexaID": "3e9ebff12a232c9f091156827e92c55d259b95f3",
+    "author": "Nikunj C. Oza and Stuart J. Russell",
+    "title": "Online Bagging and Boosting",
+    "venue": "Computer Science Division University of California",
+    "year": "",
+    "window": "and their performances relative to a single Naive Bayes classifier consistently improved as the sizes of the datasets grew. On the Balance and <b>Soybean</b> datasets, the boosting algorithms performed signi#cantly worse than Naive Bayes. On the Breast Cancer dataset, AdaBoost performed significantly worse and online",
+    "mykey": 1059
+}

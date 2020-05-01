@@ -1,0 +1,23 @@
+{
+    "ID": 57,
+    "Name": "LED Display Domain",
+    "Abstract": "From Classification and Regression Trees book; We provide here 2 C programs for generating sample databases",
+    "Types": "Multivariate, Data-Generator",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 0,
+    "NumAttributes": 7,
+    "DateDonated": "1988-11-10",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/led-display-creator/",
+    "URLReadme": "../machine-learning-databases/led-display-creator/led-creator.names",
+    "HighestAccuracy": 74,
+    "RelevantInfo": "This simple domain contains 7 Boolean attributes and 10 concepts, the set of decimal digits.  Recall that LED displays contain 7 light-emitting diodes -- hence the reason for 7 attributes.  The problem would be easy if not for the introduction of noise.  In this case, each attribute value has the 10% probability of having its value inverted.  \r\n\r\nIt's valuable to know the optimal Bayes rate for these databases. In this case, the misclassification rate is 26% (74% classification accuracy).",
+    "Source": "Original Source:\r\n\r\nBreiman,L., Friedman,J.H., Olshen,R.A., & Stone,C.J. (1984).  \r\nClassification and Regression Trees.  Wadsworth International Group: Belmont, California.  (see pages 43-49).\r\n\r\nDonor: \r\n\r\nDavid Aha ",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "Breiman,L., Friedman,J.H., Olshen,R.A., & Stone,C.J.  Classification and Regression Trees.  Wadsworth International Group: Belmont, California. 1984. (see pages 43-49).\r\nhttp://rexa.info/paper/1cc283c272e7f15f24de4da020029e6f9f7471f8\r\n\r\nQuinlan,J.R. (1987). Simplifying Decision Trees.  In International Journal of Man-Machine Studies.\r\nhttp://rexa.info/paper/a4b6ebb7accef3ee497d6e127f4a0adc5ab16d25\r\n\r\nTan,M. & Eshelman,L. (1988). Using Weighted Networks to Represent Classification Knowledge in Noisy Domains.  In Proceedings of the 5th International Conference on Machine Learning, 121-134, Ann Arbor, Michigan: Morgan Kaufmann.  \r\nhttp://rexa.info/paper/9caf1d9fd8292532ba2a5348c6f381ca5421b59e\r\n",
+    "AttributeInfo": "   -- All attribute values are either 0 or 1, according to whether the corresponding light is on or not for the decimal digit.\r\n   -- Each attribute (excluding the class attribute, which is an integer ranging between 0 and 9 inclusive) has a 10% percent chance of being inverted.\r\n",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 9496
+}

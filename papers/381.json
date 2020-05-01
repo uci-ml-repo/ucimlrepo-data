@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "2E536803D722A87FA2164BCA17510481136EE1BA",
+    "rexaID": "49b5aef7a515640b1dde8f9f777d5a1f0c014022",
+    "author": "Glenn Fung and M. Murat Dundar and Jinbo Bi and Bharat Rao",
+    "title": "A fast iterative algorithm for fisher discriminant using heterogeneous kernels",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "p-values obtained show that there is no significant difference between A-KFD and the the standard KFD where the kernel model is chosen using a cross-validation tuning procedure. Only on two of the datasets, <b>ionosphere</b> and housing there is a small statistically significant difference for the two methods, with the performance of A-KFD being the better of the two for the ionosphere dataset and the",
+    "mykey": 381
+}

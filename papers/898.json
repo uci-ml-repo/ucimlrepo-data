@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "5FD66E44BB96F8919F46F1E20FB1F1CBECB487F3",
+    "rexaID": "632fe4095475bee152843a02969ade56a290db39",
+    "author": "Igor Kononenko and Edvard Simec and Marko Robnik-Sikonja",
+    "title": "Overcoming the Myopia of Inductive Learning Algorithms with RELIEFF",
+    "venue": "Appl. Intell, 7",
+    "year": "1997",
+    "window": "obtained from the StatLog database[18]: diagnosis of diabetes (DIAB) and diagnosis of <b>HEART</b> diseases (HEART). For the DIAB data set, Ragavan & Rendell [27]report 78.8% classification accuracy with their LFC algorithm. They also report poor performance of 12 THE AUTHORS??? Table 8 Basic description of the medical data sets domain",
+    "mykey": 898
+}

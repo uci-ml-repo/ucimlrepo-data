@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "B407910FB3CB79A34C3082A189AB4291BC67A4FB",
+    "rexaID": "c7147f5e08903c837fbc854a1979dd207bd90350",
+    "author": "Wl odzisl and aw Duch",
+    "title": "Committees of Undemocratic Competent Models",
+    "venue": "School of Computer Engineering Nanyang Technological University",
+    "year": "",
+    "window": "k=7, Euclidean 94.9 95.3 best single CUC model Dipol92 98.3 95.2 <b>STATLOG</b> Alloc80 93.7 94.3 Statlog Quadratic DA 100 94.1 Statlog LDA 96.6 94.1 Statlog TABLE II COMPARISON OF RESULTS ON THE LETTER DATASET. RESULTS ARE FROM THE STATLOG BOOK OR OUR OWN CALCULATIONS . System Train % Test % Remarks CUC committee 98.5 96.5 Majority committee 95.8 95.4 kNN, k=5, Euclidean 94.8 95.4 best single CUC model",
+    "mykey": 1847
+}

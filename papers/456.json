@@ -1,0 +1,11 @@
+{
+    "datasetID": 87,
+    "supportID": "3575C8302580A62693F32D5438C2ABB2F762C138",
+    "rexaID": "0244677960291674fa0816f5d724ca20eef22bf7",
+    "author": "Georg Thimm and E. Fiesler",
+    "title": "Optimal Setting of Weights, Learning Rate, and Gain",
+    "venue": "E S E A R C H R E P R O R T I D I A P",
+    "year": "1997",
+    "window": "Multilayer perceptrons behave similarly, as shown in figure 4, as confirmed by experiments performed with the Solar, Wine, Glass and <b>Servo</b> data sets. The most important difference with high order perceptrons is that the networks do not or only very slowly converge for weight variances close to zero. Such variances should therefore not be used",
+    "mykey": 456
+}

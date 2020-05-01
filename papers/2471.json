@@ -1,0 +1,11 @@
+{
+    "datasetID": 69,
+    "supportID": "F49D7374CF15093F6D620177713903EE47B9220A",
+    "rexaID": "75f0f1770a1317fc5ab730609fa1e3cf642794f6",
+    "author": "Xiaojin Zhu",
+    "title": "Label Propagation for Eukaryotic Splice Junction Identification",
+    "venue": "",
+    "year": "2002",
+    "window": "biology problem of eukaryotic <b>splice</b> junction identification. We compare the classi#cation accuracy of using unlabeled data versus not using them, under the same amount of labeled data. 2 The dataset The dataset is the Primate <b>splice-junction</b> gene sequences dataset, available at the UCI machine learning data repository [2]. There are 3190 examples in this dataset. Each example is a sequence of",
+    "mykey": 2471
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 20,
+    "supportID": "F2DC7581BC7D742CADDA07A2968E02E6B8D46BBB",
+    "rexaID": "bf6cec50b7f7d48d105c8c649210cc3a42d3d71e",
+    "author": "Ron Kohavi",
+    "title": "Scaling Up the Accuracy of Naive-Bayes Classifiers: A Decision-Tree Hybrid",
+    "venue": "KDD",
+    "year": "1996",
+    "window": "the algorithm, and 20 intervals were used. The error bars show 95% confidence intervals on the accuracy, based on the leftout sample. In most cases it is clear that even with much more 1 The Adult dataset is from the <b>Census</b> bureau and the task is to predict whether a given adult makes more than $50,000 a year based attributes such as education, hours of work per week, etc.. 74 76 78 80 82 84 86 88 90",
+    "mykey": 2460
+}

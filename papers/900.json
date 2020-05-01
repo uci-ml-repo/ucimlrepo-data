@@ -1,0 +1,11 @@
+{
+    "datasetID": 83,
+    "supportID": "5FD66E44BB96F8919F46F1E20FB1F1CBECB487F3",
+    "rexaID": "632fe4095475bee152843a02969ade56a290db39",
+    "author": "Igor Kononenko and Edvard Simec and Marko Robnik-Sikonja",
+    "title": "Overcoming the Myopia of Inductive Learning Algorithms with RELIEFF",
+    "venue": "Appl. Intell, 7",
+    "year": "1997",
+    "window": "This corresponds to the estimates by RELIEFF with very large number of nearest hits/misses. To test the effect of the normalization factor in eq. (3) we run RELIEFF also on one well known medical data set, ` <b>primary</b> <b>tumor</b> ', described in 6 THE AUTHORS??? Section 5.3. The major difference between the estimates by impurity functions and the estimates by RELIEFF in the ``primary tumor'' problem is in",
+    "mykey": 900
+}

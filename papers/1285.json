@@ -1,0 +1,11 @@
+{
+    "datasetID": 20,
+    "supportID": "8128AC09A26E5C9890926D1A9E7915312225825C",
+    "rexaID": "686ccd571de3e92d89394f207348bd5a669558d2",
+    "author": "Rakesh Agrawal and Ramakrishnan ikant and Dilys Thomas",
+    "title": "Privacy Preserving OLAP",
+    "venue": "SIGMOD Conference",
+    "year": "2005",
+    "window": "from the UCI Machine Learning Repository [5], which has <b>census</b> information. The Adult dataset contains about 32,000 rows with 4 numerical columns. The columns and their ranges are: age[17 - 90], fnlwgt[10000 - 1500000], hrsweek[1 - 100] and edunum[1 - 16]. For synthetic data, we used",
+    "mykey": 1285
+}

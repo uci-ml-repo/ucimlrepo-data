@@ -1,0 +1,23 @@
+{
+    "ID": 415,
+    "Name": "DSRC Vehicle Communications",
+    "Abstract": "This set Provides data regarding wireless communications between vehicles and road side units. two separate data sets are provided (normal scenario) and in the presence of attacker (jammer).",
+    "Types": "Sequential, Text",
+    "Task": "Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 10000,
+    "NumAttributes": 5,
+    "DateDonated": "2017-12-13",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00415/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Communications were setup based on IEEE 802.11p standards at 5.9Ghz. 10BSM (Basic Service messages) per second. Using Control Channel (Ch172) a 10 Mhz channel. Also Attached a clean version in spreadsheets for each dataset (jammed and normal)",
+    "Source": "Sharaf Malebary, malebary@email.sc.edu, University of South Carolina, Dept of computer Science and Engineering, USA.",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Computer",
+    "RelevantPapers": "Malebary, W. Xu and C. T. Huang, 'Jamming mobility in 802.11p networks: Modeling, evaluation, and detection,' 2016 IEEE 35th International Performance Computing and Communications Conference (IPCCC), Las Vegas, NV, 2016, pp. 1-7, doi: 10.1109/PCCC.2016.7820665",
+    "AttributeInfo": "Txnid Transmitted node ID number\r\nRxnid- Received Node Id number\r\nRSS- Received Signal Strength in dbm\r\nBER- Packet Error Rate\r\nRSSI- Received Signal Strength Indicator\r\nSNR- Signal to noise ratio",
+    "FormatType": "",
+    "NumHits": 0
+}

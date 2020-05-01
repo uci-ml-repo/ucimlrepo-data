@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "699120D8BA13272EB88DD13FCC90648210EBFE77",
+    "rexaID": "45391c9343dc03f6033eba55364366eddbb693db",
+    "author": "Predrag Radivojac and Zoran Obradovic and A. Keith Dunker and Slobodan Vucetic",
+    "title": "Feature Selection Filters Based on the Permutation Test",
+    "venue": "ECML",
+    "year": "2004",
+    "window": "basic characteristics. NF and CF indicate the number of numerical and categorical features, respectively. Dataset Size Size of class 1 NF CF <b>IONOSPHERE</b> 351 225 34 0 VOTES 435 267 0 48 GLASS 214 163 9 0 HEART 303 139 6 7 LABOR 57 37 8 21 HOUSING 506 250 13 0 CREDIT 690 307 6 41 PIMA 768 268 9 0 ZOO 78 41 1 15",
+    "mykey": 1011
+}

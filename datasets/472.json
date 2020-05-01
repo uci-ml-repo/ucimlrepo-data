@@ -1,0 +1,23 @@
+{
+    "ID": 472,
+    "Name": "Caesarian Section Classification Dataset",
+    "Abstract": "This dataset contains information about caesarian section results of  80 pregnant women with the most important characteristics of delivery problems in the medical field.",
+    "Types": "Univariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 80,
+    "NumAttributes": 5,
+    "DateDonated": "2018-11-02",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00472/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Provide all relevant information about your data set.",
+    "Source": "Name: Muhammad Zain Amin \r\nEmail: ZainAmin1@outlook.com\r\nInstitution: University of Engineering and Technology, Lahore, Pakistan\r\n\r\nName: Amir Ali\r\nEmail: amirali.ryk1@gmail.com\r\nInstitution: University of Engineering and Technology, Lahore, Pakistan\r\n",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Life",
+    "RelevantPapers": "1. M.Zain Amin, Amir Ali.'Performance Evaluation of Supervised Machine Learning Classifiers for Predicting Healthcare Operational Decisions'.Machine Learning for Operational Decision Making, Wavy Artificial Intelligence Research Foundation, Pakistan, 2018",
+    "AttributeInfo": "We choose age, delivery number, delivery time, blood pressure and heart status.\r\nWe classify delivery time to Premature, Timely and Latecomer. As like the delivery time we consider blood pressure in three statuses of Low, Normal and High moods. Heart Problem is classified as apt and inept.\r\n\r\n@attribute 'Age' { 22,26,28,27,32,36,33,23,20,29,25,37,24,18,30,40,31,19,21,35,17,38 } \r\n@attribute 'Delivery number' { 1,2,3,4 }\r\n@attribute 'Delivery time' { 0,1,2 } -> {0 = timely , 1 = premature , 2 = latecomer}\r\n@attribute 'Blood of Pressure' { 2,1,0 } -> {0 = low , 1 = normal , 2 = high }\r\n@attribute 'Heart Problem' { 1,0 } -> {0 = apt, 1 = inept }\r\n\r\n@attribute Caesarian { 0,1 } -> {0 = No, 1 = Yes }\r\n ",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

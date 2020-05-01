@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "DEA2FFAF3A1031738792A5567EE13717406348EF",
+    "rexaID": "fc0a66d3a7336b6eabad919a7389c68cc37f2564",
+    "author": "Ayhan Demiriz and Kristin P. Bennett and John Shawe and I. Nouretdinov V.",
+    "title": "Linear Programming Boosting via Column Generation",
+    "venue": "Dept. of Decision Sciences and Eng. Systems, Rensselaer Polytechnic Institute",
+    "year": "",
+    "window": "function based on the margin obtained by each point. This is just one method of boosting multiclass problems. Further investigation of multiclass approaches is needed. We ran experiments on larger datasets: Forest, <b>Adult</b>  USPS, and Optdigits from UCI[10]. LPBoost was adopted to the multiclass problem by defining h j (x i ) = 1 if instance x i is correctly classified by weak learner h j and -1",
+    "mykey": 2229
+}

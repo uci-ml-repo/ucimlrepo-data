@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "A3151BB9874AE321C671EBEE0526F2770E529FAD",
+    "rexaID": "f894a06c44cd7ad6cf65caefba1dbe69d29763ec",
+    "author": "Ron Kohavi and George John and Richard Long and David Manley and Karl Pfleger",
+    "title": "Appears in Tools with AI '94",
+    "venue": "Computer Science Department Stanford University",
+    "year": "",
+    "window": "but they are not an integrated environment, and are not very efficient. <b>StatLog</b> [19] is an ESPRIT project studying the behavior of over twenty algorithms (mostly in the MLToolbox), on over twenty datasets. StatLog is an instance of a good experimental study, but does not provide the tools to aid researchers in performing similar studies. Wray Buntine has recently suggested a unified approach to some",
+    "mykey": 1660
+}

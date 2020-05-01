@@ -1,0 +1,11 @@
+{
+    "datasetID": 56,
+    "supportID": "7471D780EE25D4010170C5BC233C38D5AFF3AF95",
+    "rexaID": "55a7f45a6b42ceb9097c7260032694bcbd8a2fd2",
+    "author": "Gary M. Weiss and Haym Hirsh",
+    "title": "A Quantitative Study of Small Disjuncts: Experiments and Results",
+    "venue": "Department of Computer Science Rutgers University",
+    "year": "2000",
+    "window": "noise. What is much more apparent, however, is that many concepts with low EC values are extremely tolerant of noise, whereas none of the concepts with high EC's are. For example, two of the low-EC datasets, blackjack and <b>labor</b>  are so tolerant of noise that when 50% random class noise is added to the training set (i.e., the class value is replaced with a randomly selected valid value 50% of the",
+    "mykey": 1134
+}

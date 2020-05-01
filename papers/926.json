@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "62F9594F8F2D9E2742D3EABB99CC7227469F46E3",
+    "rexaID": "2d05e6777bcfde449fc35a3a95dde0697a5c49ac",
+    "author": "David W. Opitz and Richard Maclin",
+    "title": "Popular Ensemble Methods: An Empirical Study",
+    "venue": "J. Artif. Intell. Res. (JAIR, 11",
+    "year": "1999",
+    "window": "ensemble. Also shown (results column 3) is the \"best\" result produced from all of the single network results run using all of the training data. 197 Opitz & Maclin Single Bagging Arcing Boosting Data Set Err SD Best Err SD Err SD Err SD <b>breast</b> <b>cancer</b> w 5.0 0.7 4.0 3.7 0.5 3.5 0.6 3.5 0.3 credit-a 14.9 0.8 14.2 13.4 0.5 14.0 0.9 13.7 0.5 credit-g 29.6 1.0 28.7 25.2 0.7 25.9 1.0 26.7 0.4 diabetes 27.8",
+    "mykey": 926
+}

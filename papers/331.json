@@ -1,0 +1,11 @@
+{
+    "datasetID": 54,
+    "supportID": "2874A0E977200B03C9F1A3DADEB68D41C11C8089",
+    "rexaID": "df61ac3ab404fccb23262b177e5475d1f4c236de",
+    "author": "Hiroshi Shimodaira and Jun Okui and Mitsuru Nakai",
+    "title": "Modified Minimum Classification Error Learning and Its Application to Neural Networks",
+    "venue": "SSPR/SPR",
+    "year": "1998",
+    "window": "#. This shows the proposed approach is more effective than the McDermott's approach [5] discussed in Section 3. B. Results of Multi-Class Problems In order to evaluate the performance on different datasets, speech database  <b>isolet</b>  (isolated alphabet letters) of the UCI repository, and \"vowels\" (Japanese five vowels) made from the ATR continuous speech database \"Set-B\" were collected. In the \"isolet\"",
+    "mykey": 331
+}

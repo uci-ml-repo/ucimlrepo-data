@@ -1,0 +1,11 @@
+{
+    "datasetID": 20,
+    "supportID": "3D00E90CFD9FA60E27463F8386806BBFA51DFCE1",
+    "rexaID": "6d06e4392537787017a43aa34b5412cfa28e31e8",
+    "author": "Dan Pelleg and Andrew W. Moore",
+    "title": "Mixtures of Rectangles: Interpretable Soft Clustering",
+    "venue": "ICML",
+    "year": "2001",
+    "window": "form of a rectangle (in this case a line-segment) with tails. An M-dimensional tailed rectangle is simply a product of these. Experiments on real-life data were done on the ``mpg'' and ` <b>census</b> ' datasets from the UCI repository (Blake & Merz, 1998). The ``mpg'' data has about 400 records with 7 continuous 3 attributes. Running on this data with the number of components set to three, we get the",
+    "mykey": 499
+}

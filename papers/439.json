@@ -1,0 +1,11 @@
+{
+    "datasetID": 18,
+    "supportID": "341105F12992761F2B22C880671604A5D406850C",
+    "rexaID": "ce75ba6b3cf7315e2578b0181306beb521c91fbd",
+    "author": "Paul D. Wilson and Tony R. Martinez",
+    "title": "Combining Cross-Validation and Confidence to Measure Fitness",
+    "venue": "fonix corporation Brigham Young University",
+    "year": "",
+    "window": "at the bottom of Table 1, CVC had a significantly higher average generalization accuracy on this set of classification tasks than both the static and LCV methods at a 99% confidence level or higher. Dataset Anneal Australian Breast Cancer(WI) <b>Bridges</b> Crx Echocardiogram Flag Glass Heart Heart(Cleveland) Heart(Hungarian) Heart(Long Beach) Heart(More) Heart(Swiss) Hepatitis Horse Colic Image Segmentation",
+    "mykey": 439
+}

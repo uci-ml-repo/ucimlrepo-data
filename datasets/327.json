@@ -1,0 +1,23 @@
+{
+    "ID": 327,
+    "Name": "Phishing Websites",
+    "Abstract": "This dataset collected mainly from: PhishTank archive, MillerSmiles archive, Google\u00e2\u20ac\u2122s searching operators.",
+    "Types": "",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 2456,
+    "NumAttributes": 30,
+    "DateDonated": "2015-03-26",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00327/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "One of the challenges faced by our research was the unavailability of reliable training datasets. In fact this challenge faces any researcher in the field. However, although plenty of articles about predicting phishing websites have been disseminated these days, no reliable training dataset has been published publically, may be because there is no agreement in literature on the definitive features that characterize phishing webpages, hence it is difficult to shape a dataset that covers all possible features. \r\nIn this dataset, we shed light on the important features that have proved to be sound and effective in predicting phishing websites. In addition, we propose some new features.",
+    "Source": "Rami Mustafa A Mohammad ( University of Huddersfield, rami.mohammad@hud.ac.uk, rami.mustafa.a@gmail.com)\nLee McCluskey (University of Huddersfield,t.l.mccluskey@hud.ac.uk )\n \nFadi Thabtah (Canadian University of Dubai,fadi@cud.ac.ae)",
+    "Acknowledgements": "",
+    "Area": "Computer Security",
+    "RelevantPapers": "Mohammad, Rami, McCluskey, T.L. and Thabtah, Fadi (2012) An Assessment of Features Related to Phishing Websites using an Automated Technique. In: International Conferece For Internet Technology And Secured Transactions. ICITST 2012 . IEEE, London, UK, pp. 492-497. ISBN 978-1-4673-5325-0\n \nMohammad, Rami, Thabtah, Fadi Abdeljaber and McCluskey, T.L. (2014) Predicting phishing websites based on self-structuring neural network. Neural Computing and Applications, 25 (2). pp. 443-458. ISSN 0941-0643\n \nMohammad, Rami, McCluskey, T.L. and Thabtah, Fadi Abdeljaber (2014) Intelligent Rule based Phishing Websites Classification. IET Information Security, 8 (3). pp. 153-160. ISSN 1751-8709",
+    "AttributeInfo": "For Further information about the features see the features file in the data folder.",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

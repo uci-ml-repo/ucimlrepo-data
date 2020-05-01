@@ -1,0 +1,23 @@
+{
+    "ID": 359,
+    "Name": "News Aggregator",
+    "Abstract": "References to news pages collected from an web aggregator in the period from 10-March-2014 to 10-August-2014. The resources are grouped into clusters that represent pages discussing the same story.",
+    "Types": "Multivariate",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "",
+    "NumInstances": 422937,
+    "NumAttributes": 5,
+    "DateDonated": "2016-02-28",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00359/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "News are grouped into clusters that represent pages discussing the same news story. \r\nThe dataset includes also references to web pages that, at the access time, pointed (has a link to) one of the news page in the collection.\r\n\r\n422937 news pages and divided up into:\r\n\r\n152746 \tnews of business category\r\n108465 \tnews of science and technology category\r\n115920 \tnews of business category\r\n 45615 \tnews of health category\r\n\r\n2076 clusters of similar news for entertainment category\r\n1789 clusters of similar news for science and technology category\r\n2019 clusters of similar news for business category\r\n1347 clusters of similar news for health category\r\n\r\nReferences to web pages containing a link to one news included in the collection are also included. They are represented as pairs of urls corresponding to 2-page browsing sessions. The collection includes 15516 2-page browsing sessions covering 946 distinct clusters divided up into:\r\n\r\n6091 2-page sessions for business category\r\n9425 2-page sessions for entertainment category",
+    "Source": "Provided by Artificial Intelligence Lab @ Faculty of Engineering, Roma Tre University - Italy\r\n\r\nContact: Fabio Gasparetti, Faculty of Engineering, Roma Tre University - Italy (gaspare@dia.uniroma3.it)",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "Fabio Gasparetti. 2017. Modeling user interests from web browsing activities. Data Min. Knowl. Discov. 31, 2 (March 2017), 502-547. DOI: https://doi.org/10.1007/s10618-016-0482-x",
+    "AttributeInfo": "FILENAME #1: newsCorpora.csv (102.297.000 bytes)\r\nDESCRIPTION: News pages\r\nFORMAT: ID \t TITLE \t URL \t PUBLISHER \t CATEGORY \t STORY \t HOSTNAME \t TIMESTAMP\r\n\r\nwhere:\r\nID\t\tNumeric ID\r\nTITLE\t\tNews title \r\nURL\t\tUrl\r\nPUBLISHER\tPublisher name\r\nCATEGORY\tNews category (b = business, t = science and technology, e = entertainment, m = health)\r\nSTORY\t\tAlphanumeric ID of the cluster that includes news about the same story\r\nHOSTNAME\tUrl hostname\r\nTIMESTAMP \tApproximate time the news was published, as the number of milliseconds since the epoch 00:00:00 GMT, January 1, 1970\r\n\r\n\r\nFILENAME #2: 2pageSessions.csv (3.049.986 bytes)\r\nDESCRIPTION: 2-page sessions\r\nFORMAT: STORY \t HOSTNAME \t CATEGORY \t URL\r\n\r\nwhere:\r\nSTORY\t\tAlphanumeric ID of the cluster that includes news about the same story\r\nHOSTNAME\tUrl hostname\r\nCATEGORY\tNews category (b = business, t = science and technology, e = entertainment, m = health)\r\nURL\t\tTwo space-delimited urls representing a browsing session\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

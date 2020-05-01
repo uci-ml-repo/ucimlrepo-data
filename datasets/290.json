@@ -1,0 +1,23 @@
+{
+    "ID": 290,
+    "Name": "Tamilnadu Electricity Board Hourly Readings",
+    "Abstract": "This data can be effectively produced the result to fewer parameter of the Load profile can be reduced in the Database  ",
+    "Types": "Multivariate",
+    "Task": "Classification, Regression, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 45781,
+    "NumAttributes": 5,
+    "DateDonated": "2013-12-22",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00290/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Collect the real time readings for residential,commercial,industrial,agriculure,to find the accuracy consumption in Tamil Nadu Around Thanajvur",
+    "Source": "K.Kalyani ,kkalyanims@gmail.com,T.U.K Arts College,Karanthai,Thanjavur.",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Life",
+    "RelevantPapers": "Efficient Electricity Utilization By IHBMO",
+    "AttributeInfo": "forkva,forkw,type,sector,service",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

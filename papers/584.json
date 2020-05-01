@@ -1,0 +1,11 @@
+{
+    "datasetID": 82,
+    "supportID": "4357E3C12134AD70F70300666459DD3D97DE399A",
+    "rexaID": "319529c0338699404ff7d7f9d7e5c900e5294959",
+    "author": "Art B. Owen",
+    "title": "Tubular neighbors for regression and classification",
+    "venue": "Stanford University",
+    "year": "1999",
+    "window": "The model it chose ignored three of the input variables, was linear in four of the others and piece-wise linear in one input variable. 29 7.6 Other data 7.6.1 <b>post-operative</b> data This post-operative data set comes from the Irvine repository. The goal is to predict whether a patient will be sent to the hospital floor or sent home. The training data also include two patients who were sent to the intensive",
+    "mykey": 584
+}

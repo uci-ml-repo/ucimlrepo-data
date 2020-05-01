@@ -1,0 +1,23 @@
+{
+    "ID": 129,
+    "Name": "KDD Cup 1998 Data",
+    "Abstract": "This is the data set used for The Second International Knowledge Discovery and Data Mining Tools Competition, which was held in conjunction with KDD-98",
+    "Types": "Multivariate",
+    "Task": "Regression",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 191779,
+    "NumAttributes": 481,
+    "DateDonated": "1998-07-20",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/kddcup98-mld/",
+    "URLReadme": "../machine-learning-databases/kddcup98-mld/epsilon_mirror/readme",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Please see associated text files in the download folder.",
+    "Source": "Ismail Parsa\r\nEpsilon\r\n50 Cambridge Street\r\nBurlington MA 01803 USA\r\nTEL: (781) 685-6734\r\nFAX: (781) 685-0806 ",
+    "Acknowledgements": "The KDD-CUP-98 data set and the accompanying documentation are now available for general use with the following restrictions:\r\n\r\n   1. The users of the data must notify Ismail Parsa (iparsa@epsilon.com) and Ken Howes (khowes@epsilon.com) in the event they produce results, visuals or tables, etc. from the data and send a note that includes a summary of the final result.\r\n   2. The authors of published and/or unpublished articles that use the KDD-Cup-98 data set must also notify the individuals listed above and send a copy of their published and/or unpublished work.\r\n   3. If you intend to use this data set for training or educational purposes, you must not reveal the name of the sponsor PVA (Paralyzed Veterans of America) to the trainees or students. You are allowed to say \"a national veterans organization\"... \r\n\r\nFor more information regarding the KDD-Cup (including the list of the participants and the results), please visit the KDD-Cup-98 web page at: http://www.epsilon.com/new. While there, scroll down to Data Mining Presentations where you will find the KDD-Cup-98 web page. ",
+    "Area": "Other",
+    "RelevantPapers": "",
+    "AttributeInfo": "",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 6525
+}

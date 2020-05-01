@@ -1,0 +1,11 @@
+{
+    "datasetID": 56,
+    "supportID": "1135DDB82695B44516CBCB5C1465A01420279A44",
+    "rexaID": "f820b10d6723504d343c9741f7333fbc3393fd05",
+    "author": "Lorne Mason and Jonathan Baxter and Peter L. Bartlett and Marcus Frean",
+    "title": "Boosting Algorithms as Gradient Descent",
+    "venue": "NIPS",
+    "year": "1999",
+    "window": "the minimum of AdaBoost's test error and the minimum of the normalized sigmoid cost very nearly coincide. In the <b>labor</b> data set AdaBoost's test error converges and overfitting does not occur. For this data set both the normalized sigmoid cost and the exponential cost converge. In the vote1 data set AdaBoost initially",
+    "mykey": 165
+}

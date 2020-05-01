@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "62F990B49134CD6D18256372320D07EBDF4846AB",
+    "rexaID": "a8617c8faca95eaf149b490cac7eebacb2af28ea",
+    "author": "Christian Borgelt and Rudolf Kruse",
+    "title": "Speeding Up Fuzzy Clustering with Neural Network Techniques",
+    "venue": "Research Group Neural Networks and Fuzzy Systems Dept. of Knowledge Processing and Language Engineering, School of Computer Science Otto-von-Guericke-University of Magdeburg",
+    "year": "",
+    "window": "the number of clusters to find (abalone: 3, breast: 2, iris: 3, <b>wine</b>  3), so we ran the clustering using these numbers. In addition, we ran the algorithm with 6 clusters for the abalone and the wine dataset. The clustering process was terminated when a normal update step changed no center coordinate by more than 10 6 . That is, regardless of the modification employed, we used the normal update step to",
+    "mykey": 929
+}

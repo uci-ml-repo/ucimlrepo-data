@@ -1,0 +1,11 @@
+{
+    "datasetID": 148,
+    "supportID": "81BCEE95A323170579DE2013114C54475378AF52",
+    "rexaID": "f624e93bd6b670bc3dc31925c1c885b538131534",
+    "author": "Chih-Wei Hsu and Cheng-Ru Lin",
+    "title": "A Comparison of Methods for Multi-class Support Vector Machines",
+    "venue": "Department of Computer Science and Information Engineering National Taiwan University",
+    "year": "",
+    "window": "; 2 3 ; 2 2 ; : : : ; 2 10 ] and C = [2 12 ; 2 11 ; 2 10 ; : : : ; 2 2 ]. Therefore, for each problem we try 15 # 15 = 225 combinations. We use two criteria to estimate the generalized accuracy. For datasets dna, satimage, letter, and <b>shuttle</b> where both training and testing sets are available, for each pair of (C; #), the validation performance is measured by training 70% of the training set and",
+    "mykey": 1296
+}

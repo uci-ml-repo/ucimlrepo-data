@@ -1,0 +1,11 @@
+{
+    "datasetID": 7,
+    "supportID": "2C9C29E8266044832AFB0F0833620E35B60BB2E9",
+    "rexaID": "a914c3920de02d035db122f72172f31446e9f5e1",
+    "author": "Richard Nock and Marc Sebban and David Bernard",
+    "title": "A SIMPLE LOCALLY ADAPTIVE NEAREST NEIGHBOR RULE WITH APPLICATION TO POLLUTION FORECASTING",
+    "venue": "International Journal of Pattern Recognition and Artificial Intelligence Vol",
+    "year": "2003",
+    "window": "The average accuracy of sNN is bold-faced because a paired t-test reveals a threshold risk of order < 1/10% when comparing it w.r.t. NN and tNN (see text). Accuracy# Dataset NN tNN sNN <b>Audiology</b> 65.45 4.63 65.96 4.48 68.79 2.48 Australian 77.89 0.88 77.88 0.83 77.68 1.27 Balance 85.35 1.11 86.48 1.53 86.59 1.48 Bigpole 64.73 1.23 64.75 1.34 65.43 1.19 Breast-W 95.89",
+    "mykey": 370
+}

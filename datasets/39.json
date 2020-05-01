@@ -1,0 +1,23 @@
+{
+    "ID": 39,
+    "Name": "Ecoli",
+    "Abstract": "This data contains protein localization sites",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 336,
+    "NumAttributes": 8,
+    "DateDonated": "1996-09-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/ecoli/",
+    "URLReadme": "../machine-learning-databases/ecoli/ecoli.names",
+    "HighestAccuracy": 81,
+    "RelevantInfo": "The references below describe a predecessor to this dataset and its development. They also give results (not cross-validated) for classification by a rule-based expert system with that version of the dataset.\r\n\r\nReference: \"Expert Sytem for Predicting Protein Localization Sites in Gram-Negative Bacteria\", Kenta Nakai & Minoru Kanehisa,  PROTEINS: Structure, Function, and Genetics 11:95-110, 1991.\r\n\r\nReference: \"A Knowledge Base for Predicting Protein Localization Sites in Eukaryotic Cells\", Kenta Nakai & Minoru Kanehisa, Genomics 14:897-911, 1992.",
+    "Source": "Creator and Maintainer:\r\n\r\nKenta Nakai\r\nInstitue of Molecular and Cellular Biology\r\nOsaka, University\r\n1-3 Yamada-oka, Suita 565 Japan\r\nnakai@imcb.osaka-u.ac.jp\r\nhttp://www.imcb.osaka-u.ac.jp/nakai/psort.html\\\r\n\r\nDonor: \r\n\r\nPaul Horton (paulh@cs.berkeley.edu)\r\n\r\nSee also: yeast database",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "Paul Horton & Kenta Nakai. \"A Probablistic Classification System for Predicting the Cellular Localization Sites of Proteins\".Intelligent Systems in Molecular Biology, 109-115. St. Louis, USA 1996.\r\nhttp://rexa.info/paper/0bdd557e38df58faa94b5bab28134b6ab77ac551",
+    "AttributeInfo": "  1.  Sequence Name: Accession number for the SWISS-PROT database\r\n  2.  mcg: McGeoch's method for signal sequence recognition.\r\n  3.  gvh: von Heijne's method for signal sequence recognition.\r\n  4.  lip: von Heijne's Signal Peptidase II consensus sequence score. Binary attribute.\r\n  5.  chg: Presence of charge on N-terminus of predicted lipoproteins. Binary attribute.\r\n  6.  aac: score of discriminant analysis of the amino acid content of outer membrane and periplasmic proteins.\r\n  7. alm1: score of the ALOM membrane spanning region prediction program.\r\n  8. alm2: score of ALOM program after excluding putative cleavable signal regions from the sequence.",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 12465
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 60,
+    "supportID": "00FCD4F8B110D7A81C0BC50BC6872EB10E5AA654",
+    "rexaID": "178fbe6319b02d3cbf96285c713232c47ff6b4dc",
+    "author": "Jochen Garcke and Michael Griebel",
+    "title": "Data mining with sparse grids using simplicial basis functions",
+    "venue": "KDD",
+    "year": "2001",
+    "window": "combination technique with linear basis functions. Left: level 4, # = 0.0035. Right: level 8, # = 0.0037 90.6 % and 91.1 % was achieved in [36] and [35], respectively, for this data set. 3.2 6-dimensional problems 3.2.1 BUPA <b>Liver</b> The BUPA Liver Disorders data set from Irvine Machine Learning Database Repository [6] consists of 345 data points with 6 features and a selector field",
+    "mykey": 13
+}

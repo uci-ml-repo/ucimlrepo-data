@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "6C79B6228AA533774359EB0CBDDB6C7EF0240041",
+    "rexaID": "01ede1d6464c9533cd6ec1a4492d134729ce99bd",
+    "author": "Christophe Giraud and Tony Martinez and Christophe G. Giraud-Carrier",
+    "title": "University of Bristol Department of Computer Science ILA: Combining Inductive Learning with Prior Knowledge and Reasoning",
+    "venue": "",
+    "year": "1995",
+    "window": "Study Algorithm PA GR ILA 82.7 .49 ILA, T=2 73.9 .20 PDL2 79.7 .66 As expected, results with T=2 show a decrease in PA (about 10%), but also a significant decrease in GR (over 59%). For three of the datasets (zoo, <b>breast</b> <b>cancer</b>  and soybean-small), the decrease in PA is less than 1.1% on average, while the decrease in GR is greater than 76%. The threshold T, though not part of the basic model, provides",
+    "mykey": 1046
+}

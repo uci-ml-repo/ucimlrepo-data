@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "8C3750B994826A11F8D7E8D602D298D8E0F2DCCE",
+    "rexaID": "7637452ffb3440dd348caafed1512ce844300dac",
+    "author": "Shai Fine and Katya Scheinberg",
+    "title": "Incremental Learning and Selective Sampling via Parametric Optimization Framework for SVM",
+    "venue": "NIPS",
+    "year": "2001",
+    "window": "bias is most likely far away from the global solution, and as such, the results presented here should be regarded as a lower bound. We examined performances on a moderate size problem, the <b>Abalone</b> data set from the UCI Repository [2]. We fed the training algorithm with increasing subsets up to the whole set (of size 4177). The gender encoding (male/female/infant) was mapped into",
+    "mykey": 1392
+}

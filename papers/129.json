@@ -1,0 +1,11 @@
+{
+    "datasetID": 102,
+    "supportID": "0B3E886EE7E63492903EFE5385D93B5B26DCCBB2",
+    "rexaID": "e6315f170eea3cc52ade688d0abb40f3372ec35d",
+    "author": "Zhi-Hua Zhou and Yuan Jiang",
+    "title": "NeC4.5: Neural Ensemble Based C4.5",
+    "venue": "IEEE Trans. Knowl. Data Eng, 16",
+    "year": "2004",
+    "window": "To explore this issue, further experiments are performed on data sets (australian, page, <b>thyroid</b>  voting, wdbc, wpbc) where neither NeC4.5 with \u00b5 = 100% nor NeC4.5 with \u00b5 = 0% is significantly more accurate than C4.5. The results are depicted in Fig.s 1 and 2. Note",
+    "mykey": 129
+}

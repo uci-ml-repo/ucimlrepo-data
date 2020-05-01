@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "CA3D2D438FA6F35DA3CC4D30D7098D2B6814139D",
+    "rexaID": "ce160518d6a429585aeeb3f7a784c5dfb124b669",
+    "author": "Kuan-ming Lin and Chih-Jen Lin",
+    "title": "A Study on Reduced Support Vector Machines",
+    "venue": "Department of Computer Science and Information Engineering National Taiwan University",
+    "year": "",
+    "window": "votes. The implementation of all methods mentioned above is available upon request. V. EXPERIMENTS In this section we conduct experiments on some commonly used problems. We choose large multiclass datasets from the Statlog collection: <b>dna</b>  satimage, letter, and shuttle [16]. We also consider mnist [9], an important benchmark for handwritten digit recognition. The problem ijcnn1 is from the first",
+    "mykey": 2028
+}

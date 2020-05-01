@@ -1,0 +1,11 @@
+{
+    "datasetID": 60,
+    "supportID": "53561D3A6F34CA7B6B5884466236FD6A5C45B5FB",
+    "rexaID": "19e1b6e0932bbe665a2c4a069a0636d8d5cf0c6f",
+    "author": "Jennifer A. Blue and Kristin P. Bennett",
+    "title": "Hybrid Extreme Point Tabu Search",
+    "venue": "Department of Mathematical Sciences Rensselaer Polytechnic Institute",
+    "year": "1996",
+    "window": "available via anonymous ftp from the Machine Learning Repository at the University of California at Irvine [16]. The datasets are: the BUPA <b>Liver</b> Disease dataset (Liver); the PIMA Indians Diabetes dataset (Diabetes), the Wisconsin Breast Cancer Database (Cancer) [23], and the Cleveland Heart Disease Database (Heart) [9].",
+    "mykey": 738
+}

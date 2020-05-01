@@ -1,0 +1,23 @@
+{
+    "ID": 380,
+    "Name": "YouTube Spam Collection",
+    "Abstract": "It is a public set of comments collected for spam research. It has five datasets composed by 1,956 real messages extracted from five videos that were among the 10 most viewed on the collection period.",
+    "Types": "Text",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 1956,
+    "NumAttributes": 5,
+    "DateDonated": "2017-03-26",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00380/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The table below lists the datasets, the YouTube video ID, the amount of samples in each class and the total number of samples per dataset.\r\n\r\nDataset --- YouTube ID -- # Spam - # Ham - Total\r\nPsy ------- 9bZkp7q19f0 --- 175 --- 175 --- 350\r\nKatyPerry - CevxZvSJLk8 --- 175 --- 175 --- 350\r\nLMFAO ----- KQ6zr6kCPj8 --- 236 --- 202 --- 438\r\nEminem ---- uelHwf8o7_U --- 245 --- 203 --- 448\r\nShakira --- pRpeEdMmmQ0 --- 174 --- 196 --- 370\r\n\r\nNote: the chronological order of the comments were kept.\r\n",
+    "Source": "This corpus has been collected using the YouTube Data API v3.",
+    "Acknowledgements": "We would appreciate:\r\n\r\n1. If you find this collection useful, make a reference to the paper below and the web page: http://dcomp.sor.ufscar.br/talmeida/youtubespamcollection/.\r\n2. Send us a message either to talmeida < AT > ufscar.br or tuliocasagrande < AT > acm.org in case you make use of the corpus.\r\n",
+    "Area": "Computer",
+    "RelevantPapers": "Alberto, T.C., Lochter J.V., Almeida, T.A. TubeSpam: Comment Spam Filtering on YouTube. Proceedings of the 14th IEEE International Conference on Machine Learning and Applications (ICMLA'15), 1-6, Miami, FL, USA, December, 2015.\r\n\r\nT.A. ALMEIDA, T.P. SILVA, I. SANTOS and J.M. GOMEZ HIDALGO. Text Normalization and Semantic Indexing to Enhance Instant Messaging and SMS Spam Filtering. Knowledge-Based Systems, Elsevier, 108(2016), 25-32, 2016.\r\n",
+    "AttributeInfo": "The collection is composed by one CSV file per dataset, where each line has the following attributes:\r\n\r\nCOMMENT_ID,AUTHOR,DATE,CONTENT,TAG\r\n\r\nWe offer one example bellow:\r\n\r\nz12oglnpoq3gjh4om04cfdlbgp2uepyytpw0k,Francisco Nora,2013-11-28T19:52:35,please like :D https://premium.easypromosapp.com/voteme/19924/616375350,1\r\n",
+    "FormatType": "",
+    "NumHits": 1
+}

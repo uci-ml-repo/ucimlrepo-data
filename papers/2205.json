@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "D9F0E1C7E240597992232840F7CB96CEEEFA1940",
+    "rexaID": "a6fa92d0caaa949b6ebd6531b2e6d4e7e0f03387",
+    "author": "David M J Tax and Robert P W Duin",
+    "title": "Support vector domain description",
+    "venue": "Pattern Recognition Letters, 20",
+    "year": "1999",
+    "window": "almost Gaussian distributed and class 2 is scattered around it. The SVDD cannot distinguish one class 2 object from class 1. Finally, the performance of the outlier methods are applied on the <b>iris</b> dataset. Here, all methods work reasonably well, which indicates that the data distributions of the classes are well clustered. Only the Parzen density estimation slightly overtrains. From these results we",
+    "mykey": 2205
+}

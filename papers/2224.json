@@ -1,0 +1,11 @@
+{
+    "datasetID": 143,
+    "supportID": "DDD93D7A7F8CD0946343DBE84F5D888E168628DD",
+    "rexaID": "2b9850dda87431cc9117f2a0a63d79863723e4b0",
+    "author": "Krzysztof Grabczewski and Wl/odzisl/aw Duch",
+    "title": "THE SEPARABILITY OF SPLIT VALUE CRITERION",
+    "venue": "Department of Computer Methods, Nicolaus Copernicus University",
+    "year": "",
+    "window": "analyzed in the Stalog project [6]. Results of the C4.5 decision tree are already significantly worse. 5.4 Statlog <b>Australian credit</b> data This dataset contains 690 cases classified in 2 classes (+ and -). Data vectors are described by 14 attributes (6 continuous and 8 discrete). In the Table 4 a comparison of 10 fold crossvalidation results for",
+    "mykey": 2224
+}

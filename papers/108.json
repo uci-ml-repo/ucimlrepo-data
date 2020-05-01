@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "093083A5664DE02C0648062E1AF92669D268BF45",
+    "rexaID": "d8bc3a2d334e33553c2c7e052ce8c2fd9ae5718b",
+    "author": "Marina Skurichina and Ludmila Kuncheva and Robert P W Duin",
+    "title": "Bagging and Boosting for the Nearest Mean Classifier: Effects of Sample Size on Diversity and Accuracy",
+    "venue": "Multiple Classifier Systems",
+    "year": "2002",
+    "window": "are taken from the UCI Repository [22]. They are the 8dimensional pima <b>diabetes</b> data set, the 34-dimensional ionosphere data set and the 60-dimensional sonar data set. Training sets are chosen randomly and the remaining data are used for testing. All experiments are repeated 50 times on",
+    "mykey": 108
+}

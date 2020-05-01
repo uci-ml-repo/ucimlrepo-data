@@ -1,0 +1,11 @@
+{
+    "datasetID": 83,
+    "supportID": "75EBD298A57E2BBB3DE34EA2E6D6997E61E6944F",
+    "rexaID": "349644828ad3c8da8e1a15eee5aec0d704db34a1",
+    "author": "Kamal Ali and Michael J. Pazzani",
+    "title": "Error Reduction through Learning Multiple Descriptions",
+    "venue": "Machine Learning, 24",
+    "year": "1996",
+    "window": "uniformly weighted voting between eleven, stochastically-generated descriptions is only one seventh that of the error obtained by using a single description. On the other hand, on the <b>primary</b> <b>tumor</b> data set, the error obtained by the identical multiple models procedure is the same as that obtained by using a single description. Much of the work on learning multiple models is motivated by Bayesian",
+    "mykey": 1177
+}

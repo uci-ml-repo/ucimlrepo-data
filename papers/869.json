@@ -1,0 +1,11 @@
+{
+    "datasetID": 69,
+    "supportID": "5DB332AAD676E48D55D15331FA47E86A3CDBC9F0",
+    "rexaID": "58642563848aaece947320829da7d338224cb8b3",
+    "author": "Yoav Freund and Lorne Mason",
+    "title": "The Alternating Decision Tree Learning Algorithm",
+    "venue": "ICML",
+    "year": "1999",
+    "window": "1 Proportion +ve Prediction <b>splice</b> train test 0 0.2 0.4 0.6 0.8 1 -1 -0.5 0 0.5 1 Proportion +ve Prediction sick-euthyroid train test Figure 7: Calibration graphs for the splice and sick-euthyroid data sets for train and test after 100 rounds of ADTree. In addition to justifying our interpretation, the calibration graphs can potentially be used to improve our performance situation where our",
+    "mykey": 869
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 149,
+    "supportID": "90C23F9C87A8E20BD4530E8A49A8B326991E429F",
+    "rexaID": "56eb4e64499baa9ef620d2aeb5383e1739a2e6e3",
+    "author": "Remco R. Bouckaert and Eibe Frank",
+    "title": "Evaluating the Replicability of Significance Tests for Comparing Learning Algorithms",
+    "venue": "PAKDD",
+    "year": "2004",
+    "window": "very sensitive to the particular partitioning of the anneal data. Looking at the column for naive Bayes vs. C4.5, this test could be used to justify the claim that the two perform the same for all datasets except the <b>vehicle</b> dataset just by choosing appropriate random number seeds. However, it could just as well be used to support the claim that the two algorithms perform differently in 19 out of 27",
+    "mykey": 1431
+}

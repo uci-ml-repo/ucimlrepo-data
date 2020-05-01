@@ -1,0 +1,23 @@
+{
+    "ID": 94,
+    "Name": "Spambase",
+    "Abstract": "Classifying Email as Spam or Non-Spam",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 4601,
+    "NumAttributes": 57,
+    "DateDonated": "1999-07-01",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/spambase/",
+    "URLReadme": "../machine-learning-databases/spambase/spambase.names",
+    "HighestAccuracy": 93,
+    "RelevantInfo": "The \"spam\" concept is diverse: advertisements for products/web sites, make money fast schemes, chain letters, pornography...\r\n\t\r\nOur collection of spam e-mails came from our postmaster and individuals who had filed spam.  Our collection of non-spam e-mails came from filed work and personal e-mails, and hence the word 'george' and the area code '650' are indicators of non-spam.  These are useful when constructing a personalized spam filter.  One would either have to blind such non-spam indicators or get a very wide collection of non-spam to generate a general purpose spam filter.\r\n\r\nFor background on spam:\r\n        \r\nCranor, Lorrie F., LaMacchia, Brian A.  Spam! \r\nCommunications of the ACM, 41(8):74-83, 1998.\r\n\r\n   (a) Hewlett-Packard Internal-only Technical Report. External forthcoming.\r\n   (b) Determine whether a given email is spam or not.\r\n   (c) ~7% misclassification error. False positives (marking good mail as spam) are very undesirable.If we insist on zero false positives in the training/testing set, 20-25% of the spam passed through the filter.",
+    "Source": "Creators: \r\n\r\nMark Hopkins, Erik Reeber, George Forman, Jaap Suermondt\r\nHewlett-Packard Labs, 1501 Page Mill Rd., Palo Alto, CA 94304\r\n\r\nDonor: \r\n\r\nGeorge Forman (gforman at nospam hpl.hp.com)  650-857-7835",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "",
+    "AttributeInfo": "The last column of 'spambase.data' denotes whether the e-mail was considered spam (1) or not (0), i.e. unsolicited commercial e-mail.  Most of the attributes indicate whether a particular word or character was frequently occuring in the e-mail.  The run-length attributes (55-57) measure the length of sequences of consecutive capital letters.  For the statistical measures of each attribute, see the end of this file.  Here are the definitions of the attributes:\r\n\r\n48 continuous real [0,100] attributes of type word_freq_WORD \r\n= percentage of words in the e-mail that match WORD, i.e. 100 * (number of times the WORD appears in the e-mail) / total number of words in e-mail.  A \"word\" in this case is any string of alphanumeric characters bounded by non-alphanumeric characters or end-of-string.\r\n\r\n6 continuous real [0,100] attributes of type char_freq_CHAR] \r\n= percentage of characters in the e-mail that match CHAR, i.e. 100 * (number of CHAR occurences) / total characters in e-mail\r\n\r\n1 continuous real [1,...] attribute of type capital_run_length_average \r\n= average length of uninterrupted sequences of capital letters\r\n\r\n1 continuous integer [1,...] attribute of type capital_run_length_longest \r\n= length of longest uninterrupted sequence of capital letters\r\n\r\n1 continuous integer [1,...] attribute of type capital_run_length_total \r\n= sum of length of uninterrupted sequences of capital letters \r\n= total number of capital letters in the e-mail\r\n\r\n1 nominal {0,1} class attribute of type spam\r\n= denotes whether the e-mail was considered spam (1) or not (0), i.e. unsolicited commercial e-mail.  \r\n",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 17159
+}

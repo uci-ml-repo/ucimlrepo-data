@@ -1,0 +1,23 @@
+{
+    "ID": 459,
+    "Name": "Avila",
+    "Abstract": "The Avila data set has been extracted from 800 images of the 'Avila Bible', an XII century giant Latin copy of the Bible.  The prediction task consists in associating each pattern to a copyist.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 20867,
+    "NumAttributes": 10,
+    "DateDonated": "2018-06-20",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00459/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Data have been normalized by using the Z-normalization method and divided into two data sets: a training set containing 10430 samples, and a test set containing the 10437 samples.\r\n\r\nCLASS DISTRIBUTION (training set)\r\nA: 4286\r\nB: 5  \r\nC: 103 \r\nD: 352 \r\nE: 1095 \r\nF: 1961 \r\nG: 446 \r\nH: 519\r\nI: 831\r\nW: 44\r\nX: 522 \r\nY: 266",
+    "Source": "Claudio De Stefano, destefano@unicas.it, University of Cassino and Southern Lazio (ITALY)\r\nFrancesco Fontanella, fontanella@unicas.it, University of Cassino and Southern Lazio (ITALY)\r\nMarilena Maniaci, m.maniaci@unicas.it, University of Cassino and Southern Lazio (ITALY)\r\nAlessandra Scotto di Freca, a.scotto@unicas.it, University of Cassino and Southern Lazio (ITALY)\r\nProvide the names, email addresses, institutions, and other contact information of the donors and creators of the data set.",
+    "Acknowledgements": "C. De\u00c2\u00a0Stefano, M. Maniaci, F. Fontanella, A. Scotto\u00c2\u00a0di\u00c2\u00a0Freca, Reliable writer identification in medieval manuscripts through page layout features: The 'Avila' Bible case, Engineering Applications of Artificial Intelligence, Volume 72, 2018, pp. 99-110.",
+    "Area": "Computer",
+    "RelevantPapers": "C. De\u00c2\u00a0Stefano, M. Maniaci, F. Fontanella, A. Scotto\u00c2\u00a0di\u00c2\u00a0Freca,\r\nReliable writer identification in medieval manuscripts through page layout features: The 'Avila' Bible case, Engineering Applications of Artificial Intelligence, Volume 72, 2018, pp. 99-110.\r\n\r\nC. De Stefano, F. Fontanella, M. Maniaci and A. Scotto di Freca, 'A Method for Scribe Distinction in Medieval Manuscripts Using Page Layout Features', Lecture Notes in Computer Science, G. Maino and G. Foresti (eds.), Springer-Verlag, vol. 6978, pp. 393-402.",
+    "AttributeInfo": "F1: intercolumnar distance \r\nF2: upper margin \r\nF3: lower margin \r\nF4: exploitation \r\nF5: row number \r\nF6: modular ratio \r\nF7: interlinear spacing \r\nF8: weight \r\nF9: peak number \r\nF10: modular ratio/ interlinear spacing\r\nClass: A, B, C, D, E, F, G, H, I, W, X, Y",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

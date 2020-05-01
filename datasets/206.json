@@ -1,0 +1,23 @@
+{
+    "ID": 206,
+    "Name": "Relative location of CT slices on axial axis",
+    "Abstract": "The dataset consists of 384 features extracted from CT images. The class variable is numeric and denotes the relative location of the CT slice on the axial axis of the human body.",
+    "Types": "Domain-Theory",
+    "Task": "Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 53500,
+    "NumAttributes": 386,
+    "DateDonated": "2011-07-07",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00206/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The data was retrieved from a set of 53500 CT images from 74 different\r\npatients (43 male, 31 female).\r\n\r\nEach CT slice is described by two histograms in polar space.\r\nThe first histogram describes the location of bone structures in the image,\r\nthe second the location of air inclusions inside of the body.\r\nBoth histograms are concatenated to form the final feature vector.\r\nBins that are outside of the image are marked with the value -0.25.\r\n\r\nThe class variable (relative location of an image on the axial axis) was\r\nconstructed by manually annotating up to 10 different distinct landmarks in\r\neach CT Volume with known location. The location of slices in between\r\nlandmarks was interpolated.",
+    "Source": "F. Graf, H.-P. Kriegel, M. Schubert, S. Poelsterl, A. Cavallaro\r\n\r\nLudwig-Maximilians-Universit\u00c3\u00a4t Munich\r\nDatabase Systems Group\r\nOettingenstra\u00c3\u0178e 67\r\n80538 Munich, Germany",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "1. F. Graf, H.-P. Kriegel, M. Schubert, S. Poelsterl, A. Cavallaro\n2D Image Registration in CT Images using Radial Image Descriptors\nIn Medical Image Computing and Computer-Assisted Intervention (MICCAI),\nToronto, Canada, 2011.\n\nThe data was used to predict the relative location of CT slices on\nthe axial axis using k-nearest neighbor search.\n\n2. F. Graf, H.-P. Kriegel, S. P\u00c3\u00b6lsterl, M. Schubert, A. Cavallaro\nPosition Prediction in CT Volume Scans\nIn Proceedings of the 28th International Conference on Machine\nLearning (ICML) Workshop on Learning for Global Challenges,\nBellevue, Washington, WA, 2011.\n\nHere, the data was used to apply weighted combinations of image \nfeatures for the localization of small sub volumes in CT scans.\n\n3. Cheng, Ming-Yen, and Hau-tieng Wu. \"Local Linear Regression on Manifolds and its Geometric Interpretation.\" arXiv preprint  (2012).",
+    "AttributeInfo": "1. patientId:      Each ID identifies a different patient\r\n2. - 241.:         Histogram describing bone structures\r\n242. - 385.:       Histogram describing air inclusions\r\n386. reference:    Relative location of the image on the axial axis (class\r\n\t      value). Values are in the range [0; 180] where 0 denotes\r\n\t      the top of the head and 180 the soles of the feet.",
+    "FormatType": "",
+    "NumHits": 9
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 502,
+    "Name": "Online Retail II",
+    "Abstract": "A real online retail transaction data set of two years.",
+    "Types": "Multivariate, Sequential, Time-Series, Text",
+    "Task": "Classification, Regression, Clustering",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 1067371,
+    "NumAttributes": 8,
+    "DateDonated": "2019-09-21",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00502/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This Online Retail II data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011.The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers.",
+    "Source": "Dr. Daqing Chen, Course Director: MSc Data Science. chend@lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Business",
+    "RelevantPapers": "Chen, D. Sain, S.L., and Guo, K. (2012), Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining, Journal of Database Marketing and Customer Strategy Management, Vol. 19, No. 3, pp. 197-208. doi: https://link.springer.com/article/10.1057/dbm.2012.17.\r\nChen, D., Guo, K. and Ubakanma, G. (2015), Predicting customer profitability over time based on RFM time series, International Journal of Business Forecasting and Marketing Intelligence, Vol. 2, No. 1, pp.1-18. doi: http://www.inderscience.com/offer.php?id=75325.\r\nChen, D., Guo, K., and Li, Bo (2019), Predicting Customer Profitability Dynamically over Time: An Experimental Comparative Study, 24th Iberoamerican Congress on Pattern Recognition (CIARP 2019), Havana, Cuba, 28-31 Oct, 2019.\r\nLaha Ale, Ning Zhang, Huici Wu, Dajiang Chen, and Tao Han, Online Proactive Caching in Mobile Edge Computing Using Bidirectional Deep Recurrent Neural Network, IEEE Internet of Things Journal, Vol. 6, Issue 3, pp. 5520-5530, 2019.\r\nRina Singh, Jeffrey A. Graves, Douglas A. Talbert, William Eberle, Prefix and Suffix Sequential Pattern Mining, Industrial Conference on Data Mining 2018: Advances in Data Mining. Applications and Theoretical Aspects, pp. 309-324. 2018.\r\n",
+    "AttributeInfo": "InvoiceNo: Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'c', it indicates a cancellation. \r\nStockCode: Product (item) code. Nominal. A 5-digit integral number uniquely assigned to each distinct product. \r\nDescription: Product (item) name. Nominal. \r\nQuantity: The quantities of each product (item) per transaction. Numeric.\t\r\nInvoiceDate: Invice date and time. Numeric. The day and time when a transaction was generated. \r\nUnitPrice: Unit price. Numeric. Product price per unit in sterling (\u00c2\u00a3). \r\nCustomerID: Customer number. Nominal. A 5-digit integral number uniquely assigned to each customer. \r\nCountry: Country name. Nominal. The name of the country where a customer resides.",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 144,
+    "supportID": "FAC3CBFDE2AC66DEE464925F2A8967F5A0884CDE",
+    "rexaID": "d64d2705cabed449e8cb2ecc3c3c77c54ee71051",
+    "author": "Jeroen Eggermont and Joost N. Kok and Walter A. Kosters",
+    "title": "Genetic Programming for data classification: partitioning the search space",
+    "venue": "SAC",
+    "year": "2004",
+    "window": "C4.5 or our simple gp. A positive aspect of the refined gp algorithms using the gain ratio criterion is that the standard deviations are lower than for our other algorithms. Table 4: <b>German credit</b> data set results algorithm k average s.d. best worst rank clustering gp 2 27.8 0.7 26.3 28.8 4 clustering gp 3 28.0 0.8 27.0 29.8 6 clustering gp 4 27.9 0.9 26.7 29.4 5 clustering gp 5 28.4 0.8 26.9 29.5 11",
+    "mykey": 2537
+}

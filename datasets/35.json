@@ -1,0 +1,23 @@
+{
+    "ID": 35,
+    "Name": "DGP2 - The Second Data Generation Program",
+    "Abstract": "Generates application domains based on specific parameters, number of features, and proportion of positive to negative examples",
+    "Types": "Data-Generator",
+    "Task": "",
+    "AttributeTypes": "Real",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/dgp-2/",
+    "URLReadme": "../machine-learning-databases/dgp-2/DGP-2.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "DGP/2 is an improvement of DGP.  It allows for additional parameters and automates the setting of the standard deviation parameter, which is not easily done by the user.  In particular, DGP/2 allows for variation in the number of instances, the number of features, the range of feature values, the number of peaks, the percent of positive instances desired and a radius around the peaks that these instances will fall within (this controls instance density, and determines the standard deviation value for the normal distribution function).",
+    "Source": "Powell Benedict\r\nUniversity of Illinois at Urbana\r\nInductive Learning Group\r\nBeckman Institute\r\nUrbana, IL 61801\r\ntel: (217) 244-1620\r\nE-mail: benedict@cs.uiuc.edu",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "Benedict, P.A., The Use of Synthetic Data in Dynamic Bias Selection, Proc. Of the 6th Aerospace Applications of Artificial Intelligence Conference, Dayton, Ohio, October, 1990.\r\n\r\nEhrenfeucht, A., Haussler, D., Kearns, M,  Valiant, L. A general lower bound on the number of examples needed for learning.  Proc. Computational Learning Theory, 1988, 139-154.\r\nhttp://rexa.info/paper/cc1f0ee84eda9d9a5f581d67c98077e6a21d7701\r\n\r\nKononenko, I., Bratko, I., Roskar, E., Experiments in Automatic Learning of Medical Diagnostic Rules (Ljubljana, Yugoslavia: Jozef Stefan Institute, 1984).\r\nhttp://rexa.info/paper/857084912302f43949c37011e4a415cde416d771\r\n\r\nMichalski, R.S., Mozetic, I., Hong, J., Lavrac, N., The Multipurpose Incremental Learning System AQ15 and Its Testing Application to Three Medical Domains, Proc. Of the Fifth National Conference on Artificial Intelligence, Pp. 1041-1045, Morgan Kaufman, Los Altos, Ca, 1986.\r\nhttp://rexa.info/paper/2aba4fdd38df99d73ae0097b58ba06a02f048326\r\n\r\nMitchell, T. M. The need for biases in learning generalizations.  Technical Report CBM-TR-117, May 1980.\r\nhttp://rexa.info/paper/d3d64222b3114b2d48c2d7409115ad5de3487b1b\r\n\r\nRendell, L.A., A New Basis for State Space Learning Systems and a Successful Implementation, Artificial Intelligence 20(1983):369-392.\r\nhttp://rexa.info/paper/5fcdb6a9e12811af85f4fde720a4965c6cb3fcc6\r\n\r\nRendell, L. A.,  Cho, H. H. The effect of data character on empirical  concept learning in  Proc. Fifth International Conference on Artificial Intelligence Applications, March, 1989.\r\nhttp://rexa.info/paper/ed9108ce387e91325faf67144d0a1535cde34906\r\n\r\nRendell, L. A., Benedict, P. A., Cho, H. H.,  Seshu, Improving the design of rule-learning systems,  Proceedings of the Seventh  International Conference on Expert Systems and their Applications, June, 1988.\r\n\r\nRendell, L.,  Seshu, R., Learning hard concepts through constructive induction: framework and rationale, Computational Intelligence, 1990.\r\nhttp://rexa.info/paper/ee66c770f0879709836d22c4bd7d4e842da07390\r\n\r\nRendell, L. A., Seshu, R. M.,  Tcheng, D. K. Layered concept learning and dynamically-variable bias management.  Proceedings of the Tenth  International Joint Conference on Artificial Intelligence, 1987.\r\nhttp://rexa.info/paper/a50159194a489a4dd1a0328a9843c4f32d40eeab\r\n\r\nRussell, S.,  Grosof, B. Declarative bias: An overview, in P. Benjamin  (Ed.), Change of Representation and Inductive Bias. Kluwer Academic  Press, 1990.\r\nhttp://rexa.info/paper/611a5c6903116929699e79f75e645c045a083038\r\n\r\nUtgoff, P. E. Shift of bias for inductive concept learning.  Machine Learning: An Artificial Intelligence Approach,  1986,  III.\r\nhttp://rexa.info/paper/4abc6a70e463c12e0b6348f006be5a211ce12dcd\r\n\r\nUtgoff, P. E.,  Mitchell, T. M., Acquisition of appropriate bias for inductive concept learning,  Proc. National Conference on Artificial  Intelligence, 1982.\r\nhttp://rexa.info/paper/03ec75cb1e700d198032721ea6edf396334a8a37",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 21
+}

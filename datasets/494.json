@@ -1,0 +1,23 @@
+{
+    "ID": 494,
+    "Name": "Wave Energy Converters",
+    "Abstract": "This data set consists of positions and absorbed power outputs of wave energy converters (WECs) in four real wave scenarios from the southern coast of Australia.",
+    "Types": "Multivariate",
+    "Task": "Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 288000,
+    "NumAttributes": 49,
+    "DateDonated": "2019-06-30",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00494/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This data set consists of positions and absorbed power outputs of wave energy converters (WECs) in four real wave scenarios from the southern coast of Australia (Sydney, Adelaide, Perth and Tasmania). The applied converter model is a fully submerged three-tether converter called CETO [1]. 16 WECs locations are placed and optimized in a size-constrained environment. In terms of optimization, the problem is categorised as an expensive optimization problem that each farm evaluation takes several minutes. The results are derived from several popular and successful Evolutionary optimization methods that are published in [2,3].  The source code of the applied hydrodynamic simulator [4] is available by the below link: \r\nhttps://au.mathworks.com/matlabcentral/fileexchange/71840-wave-energy-converter-wec-array-simulator\r\n\r\nThis work was supported with supercomputing resources provided by the Phoenix HPC service at the University of Adelaide.\r\n",
+    "Source": "Creator/Donor: \r\n\r\nMehdi Neshat , Optimization and Logistic group, Computer science department, Adelaide University, neshat.mehdi@gmail.com, mehdi.neshat@adelaide.edu.au. \r\nSupervisors:\r\nDr. Markus Wagner\r\nhttps://cs.adelaide.edu.au/users/markus/\r\nhttps://cs.adelaide.edu.au/~optlog/research/energy.php\r\nDr. Bradley Alexander\r\nhttps://researchers.adelaide.edu.au/profile/bradley.alexander\r\n",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "[1] L. D. Mann, A. R. Burns, , and M. E. Ottaviano. 2007. CETO, a carbon free wave power energy provider of the future. In the 7th European Wave and Tidal Energy Conference (EWTEC).\r\n\r\n\r\n[2] Neshat, M., Alexander, B., Wagner, M., & Xia, Y. (2018, July). A detailed comparison of meta-heuristic methods for optimising wave energy converter placements. In Proceedings of the Genetic and Evolutionary Computation Conference (pp. 1318-1325). ACM.\r\n[3] Neshat, M., Alexander, B., Sergiienko, N., & Wagner, M. (2019). A new insight into the Position Optimization of Wave Energy Converters by a Hybrid Local Search. arXiv preprint arXiv:1904.09599.\r\n",
+    "AttributeInfo": "Attribute: Attribute Range \r\n\r\n1. WECs position {X1, X2, \u00e2\u20ac\u00a6, X16; Y1, Y2,\u00e2\u20ac\u00a6, Y16} continuous from 0 to 566 (m). \r\n2. WECs absorbed power: {P1, P2, \u00e2\u20ac\u00a6, P16} \r\n3. Total power output of the farm: Powerall\r\n\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

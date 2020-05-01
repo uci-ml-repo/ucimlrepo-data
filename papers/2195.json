@@ -1,0 +1,11 @@
+{
+    "datasetID": 102,
+    "supportID": "D97C395FC546457D38AE4CD03549D2577C5F6DDC",
+    "rexaID": "8978cfdbc009102478ae8b1d327fafd076c14538",
+    "author": "Petri Kontkanen and Jussi Lahtinen and Petri Myllym\u00e4ki and Henry Tirri",
+    "title": "Unsupervised Bayesian visualization of high-dimensional data",
+    "venue": "KDD",
+    "year": "2000",
+    "window": "purposes a reasonable approximation is usually quite sufficient. How to find effectively good approximations of the optimal visualization is however a wide 327 Figure 1: The <b>Thyroid</b> Disease data set: an example of the unsupervised visualizations obtained with the suggested method. research problem on its own, and is not discussed in detail here. In the experiments reported here we used a simple",
+    "mykey": 2195
+}

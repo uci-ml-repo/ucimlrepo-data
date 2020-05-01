@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "AE2071BC88FAA6BF9590282025159B0A6424ABC0",
+    "rexaID": "17b1afb4bd706435fa92313e1e85a5d6009a42f4",
+    "author": "Ping Zhong and Masao Fukushima",
+    "title": "Second Order Cone Programming Formulations for Robust Multi-class Classification",
+    "venue": "",
+    "year": "",
+    "window": "problem as follows: max \u00ae,\u00be,\u00bf e T \u00ae- (\u00be + \u00bf) s.t. \u00af E T \u00ae = 0, \u00ae \u00b7 (1 - \u00ba)e, (38) \u00be - \u00bf = \u00ba, \u00b0 \u00b0 \u00b0 \u00b0 \u00b0 \u00b0 2 4 - 1 p 2(K+1) ~ A T \u00ae \u00bf 3 5 \u00b0 \u00b0 \u00b0 \u00b0 \u00b0 \u00b0 \u00b7 \u00be. Table 1: Description of Iris, Wine and <b>Glass</b> datasets. name dimension (N) #classes (K) #examples (L) Iris 4 3 150 Wine 13 3 178 Glass 9 6 214 14 Table 2: Results for Iris, Wine and Glass datasets with noise (\u00bd = 0.3, \u00b7 = 2, \u00ba = 0.05). R a Robust (I)",
+    "mykey": 1778
+}

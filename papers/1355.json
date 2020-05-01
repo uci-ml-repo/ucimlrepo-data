@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "8780573935919B75F6A4A96C6D7672C4383A4935",
+    "rexaID": "ef65a20ee05551cc411c8acd0c5af4796dc1a39e",
+    "author": "Ahmed Hussain Khan and Intensive Care",
+    "title": "Multiplier-Free Feedforward Networks",
+    "venue": "174",
+    "year": "",
+    "window": "forward-pass capability. It differs from the conventional model in restricting its synapses to the set{- 1, 0, 1} while allowing unrestricted offsets. Simulation results on the `onset of <b>diabetes</b>  data set and a handwritten numeral recognition database indicate that the new network, despite having strong constraints on its synapses, has a generalization performance similar to that of its conventional",
+    "mykey": 1355
+}

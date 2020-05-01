@@ -1,0 +1,23 @@
+{
+    "ID": 315,
+    "Name": "Geographical Original of Music",
+    "Abstract": "Instances in this dataset contain audio features extracted from 1059 wave files. The task associated with the data is to predict the geographical origin of music.\r\n",
+    "Types": "Multivariate",
+    "Task": "Classification, Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 1059,
+    "NumAttributes": 68,
+    "DateDonated": "2014-10-18",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00315/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": " The dataset was built from a personal collection of 1059 tracks covering 33 countries/area. The music used is traditional, ethnic or `world' only, as classified by the publishers of the product on which it appears. Any Western music is not included because its influence is global - what we seek are the aspects of music that most influence location. Thus, being able to specify a location with strong influence on the music is central. \r\n\r\nThe geographical location of origin was manually collected the information from the CD sleeve notes, and when this information was inadequate we searched other information sources. The location data is limited in precision to the country of origin.  \r\n\r\nThe country of origin was determined by the artist's or artists' main country/area of residence.  Any track that had ambiguous origin is not included.  We have taken the position of each country's capital city (or the province of the area) by latitude and longitude as the absolute point of origin.\r\n\r\nThe program MARSYAS[1] was used to extract audio features from the wave files. We used the default MARSYAS settings in single vector format (68 features) to estimate the performance with basic timbal information covering the entire length of each track. No feature weighting or pre-filtering was applied. All features were transformed to have a mean of 0, and a standard deviation of 1. We also investigated the utility of adding chromatic attributes. These describe the notes of the scale being used. This is especially important as a distinguishing feature in geographical ethnomusicology. The chromatic features provided by MARSYAS are 12 per octave - Western tuning, but it may be possible to tell something from how similar to or different from Western tuning the music is.\r\n\r\n[1] G. Tzanetakis and P. Cook, \u00e2\u20ac\u0153MARSYAS: a framework for audio analysis,\u00e2\u20ac\u009d Organised Sound, vol. 4, pp. 169\u00e2\u20ac\u201c175, 2000. \r\n",
+    "Source": "Creators:\r\nFang Zhou (fang.zhou '@' nottingham.edu.cn)\r\nThe University of Nottinghan, Ningbo, China\r\n\r\nDonors of the Dataset:\r\nFang Zhou (fang.zhou '@' nottingham.edu.cn)\r\nClaire Q (eskoala '@' gmail.com)\r\nRoss D. King (ross.king '@' manchester.ac.uk)",
+    "Acknowledgements": "The following citation is requested if you use the dataset: \r\n\r\nFang Zhou, Claire Q and Ross. D. King\r\nPredicting the Geographical Origin of Music, ICDM, 2014",
+    "Area": "Other",
+    "RelevantPapers": "The description of music collection and audio features can be found in:\r\n\r\nFang Zhou, Claire Q and Ross. D. King\r\nPredicting the Geographical Origin of Music, ICDM, 2014",
+    "AttributeInfo": "The dataset is present in two files, where each file corresponds to a different feature sets.\r\n\r\nBoth files contain the audio features of 1059 tracks.\r\n\r\nIn the 'default_features_1059_tracks.txt' file, the first 68 columns are audio features of the track, and the last two columns are the origin of the music, represented by latitude and longitude.\r\n\r\nIn the 'default_plus_chromatic_features_1059_tracks.txt' file, the first 116 columns are audio features of the track, and the last two columns are the origin of the music.",
+    "FormatType": "",
+    "NumHits": 8
+}

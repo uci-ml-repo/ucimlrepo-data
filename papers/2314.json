@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "E68C6C26D2C2C3F80D6B7004F6B86C8F059DEC58",
+    "rexaID": "22550465c3724dd8650d67a7470a2c1dc90abd25",
+    "author": "Rong Jin and Yan Liu and Luo Si and Jaime Carbonell and Alexander G. Hauptmann",
+    "title": "A New Boosting Algorithm Using Input-Dependent Regularizer",
+    "venue": "School of Computer Science, Carnegie Mellon University",
+    "year": "",
+    "window": "with 10% noise. From the results we can see that AdaBoost algorithm did su\u00aeer from overfitting on some of the data sets, such as \"German\",  <b>Breast</b> <b>cancer</b>  and \"Contraceptive\", while WeightBoost consistently achieved improvement on all of the eight data sets. In addition, our new algorithm demonstrates great",
+    "mykey": 2314
+}

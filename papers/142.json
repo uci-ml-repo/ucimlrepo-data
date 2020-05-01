@@ -1,0 +1,11 @@
+{
+    "datasetID": 147,
+    "supportID": "0D709C7F1575F29D5583948922D082D87B4B312B",
+    "rexaID": "06d7cfa086a7ed2a236674fa2ea7271dfacf9a54",
+    "author": "K. A. J Doherty and Rolf Adams and Neil Davey",
+    "title": "Non-Euclidean Norms and Data Normalisation",
+    "venue": "Department of Computer Science, University of Hertfordshire, College Lane",
+    "year": "",
+    "window": "We repeated the empirical test of NN search using both fractional and higher-order L r norms in [1] with the Ionosphere, Wisconsin Diagnostic Breast Cancer (WDBC), and <b>Image Segmentation</b> labelled data sets from the UCI Machine Learning Repository [5]. We report only a single representative result set. Table I shows the results of the nearest neighbour search on the raw Image Segmentation data set,",
+    "mykey": 142
+}

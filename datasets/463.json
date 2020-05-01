@@ -1,0 +1,23 @@
+{
+    "ID": 463,
+    "Name": "Physical Unclonable Functions",
+    "Abstract": "The dataset is generated from Physical Unclonable Functions (PUFs) simulation, specifically XOR Arbiter PUFs. PUFs are used for authentication purposes. For more info, refer to our paper below.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 6000000,
+    "NumAttributes": 129,
+    "DateDonated": "2018-10-08",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00463/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": " ",
+    "Source": "Ahmad O. Aseeri (a.aseeri@psau.edu.sa), Yu Zhuang (yu.zhuang@ttu.edu) - Department of Computer Science, Texas Tech University, United States\r\nMohammed Saeed Alkatheiri (msalkatheri@uj.edu.sa) - Faculty of Computing and Information Technology, University of Jeddah, Saudi Arabia",
+    "Acknowledgements": "The use of this dataset in publications should be acknowledged by referencing publication [1] listed above.",
+    "Area": "Computer",
+    "RelevantPapers": "[1] Aseeri, A. O., Zhuang, Y., & Alkatheiri, M. S. (2018, July). A Machine Learning-Based Security Vulnerability Study on XOR PUFs for Resource-Constraint Internet of Things. In 2018 IEEE International Congress on Internet of Things (ICIOT) (pp. 49-56). IEEE.",
+    "AttributeInfo": "There are two datasets generated from k-XOR Arbiter PUFs simulation:  \r\n\r\n(1) 5-XOR_128bit dataset:  \r\nThis dataset is generated using 5-XOR arbiters of 128bit stages PUF. It consists of 6 million rows and 129 attributes where the last attribute is the class label (1 or -1). It is divided into two sets: training set (5 million) and testing set (1 million).  \r\n\r\n(1) 6-XOR_64bit dataset:  \r\nThis dataset is generated using 6-XOR arbiters of 64bit stages PUF. It consists of 2.4 million rows and 65 attributes where the last attribute is the class label (1 or -1). It is divided into two sets: training set (2 million) and testing set (400K). ",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

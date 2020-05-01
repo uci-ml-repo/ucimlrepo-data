@@ -1,0 +1,23 @@
+{
+    "ID": 111,
+    "Name": "Zoo",
+    "Abstract": "Artificial, 7 classes of animals",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 101,
+    "NumAttributes": 17,
+    "DateDonated": "1990-05-15",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/zoo/",
+    "URLReadme": "../machine-learning-databases/zoo/zoo.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "A simple database containing 17 Boolean-valued attributes.  The \"type\" attribute appears to be the class attribute.  Here is a breakdown of which animals are in which type: (I find it unusual that there are 2 instances of \"frog\" and one of \"girl\"!)\r\n\r\nClass# -- Set of animals:\r\n====== ====================================================\r\n1 -- (41) aardvark, antelope, bear, boar, buffalo, calf, cavy, cheetah, deer, dolphin, elephant, fruitbat, giraffe, girl, goat, gorilla, hamster, hare, leopard, lion, lynx, mink, mole, mongoose, opossum, oryx, platypus, polecat, pony, porpoise, puma, pussycat, raccoon, reindeer, seal, sealion, squirrel, vampire, vole, wallaby,wolf\r\n2 -- (20) chicken, crow, dove, duck, flamingo, gull, hawk, kiwi, lark, ostrich, parakeet, penguin, pheasant, rhea, skimmer, skua, sparrow, swan, vulture, wren\r\n3 -- (5)  pitviper, seasnake, slowworm, tortoise, tuatara \r\n4 -- (13) bass, carp, catfish, chub, dogfish, haddock, herring, pike, piranha, seahorse, sole, stingray, tuna\r\n5 -- (4)  frog, frog, newt, toad \r\n6 -- (8)  flea, gnat, honeybee, housefly, ladybird, moth, termite, wasp\r\n7 -- (10) clam, crab, crayfish, lobster, octopus, scorpion, seawasp, slug, starfish, worm",
+    "Source": "Creator:\r\n\r\nRichard Forsyth\r\n\r\nDonor: \r\n\r\nRichard S. Forsyth \r\n8 Grosvenor Avenue\r\nMapperley Park\r\nNottingham NG3 5DX\r\n0602-621676",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "Forsyth's PC/BEAGLE User's Guide.",
+    "AttributeInfo": "   1. animal name:      Unique for each instance\r\n   2. hair:\t\tBoolean\r\n   3. feathers:\t\tBoolean\r\n   4. eggs:\t\tBoolean\r\n   5. milk:\t\tBoolean\r\n   6. airborne:\t\tBoolean\r\n   7. aquatic:\t\tBoolean\r\n   8. predator:\t\tBoolean\r\n   9. toothed:\t\tBoolean\r\n  10. backbone:\t\tBoolean\r\n  11. breathes:\t\tBoolean\r\n  12. venomous:\t\tBoolean\r\n  13. fins:\t\tBoolean\r\n  14. legs:\t\tNumeric (set of values: {0,2,4,5,6,8})\r\n  15. tail:\t\tBoolean\r\n  16. domestic:\t\tBoolean\r\n  17. catsize:\t\tBoolean\r\n  18. type:\t\tNumeric (integer values in range [1,7])",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 19344
+}

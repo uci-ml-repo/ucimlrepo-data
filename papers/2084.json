@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "D1B537E2FF5C9AEA371CBD65DACA7D49A39D8F2C",
+    "rexaID": "e7f14adabe196dbd08024790f0df92a43728d643",
+    "author": "Asa Ben-Hur and David Horn and Hava T. Siegelmann and Vladimir Vapnik",
+    "title": "A Support Vector Method for Clustering",
+    "venue": "NIPS",
+    "year": "2000",
+    "window": "the core regions by an SV method with a global optimal solution. We have found examples where a local maximum is hard to identify by Roberts' method. 3.2 The <b>iris</b> data We ran SVC on the iris data set [9], which is a standard benchmark in the pattern recognition literature. It can be obtained from the UCI repository [10]. The data set contains 150 instances, each containing four measurements of",
+    "mykey": 2084
+}

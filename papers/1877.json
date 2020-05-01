@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "B901BD4349D785BD08348428527315C09AA9BC1C",
+    "rexaID": "7c48d99a6eaf10a72fda6d4dd5591be082286c84",
+    "author": "Rudy Setiono and Huan Liu",
+    "title": "A connectionist approach to generating oblique decision trees",
+    "venue": "IEEE Transactions on Systems, Man, and Cybernetics, Part B, 29",
+    "year": "1999",
+    "window": "351 34 continuous 9. Iris 150 4 continuous 10. Pima-diabetes 768 8 continuous 11. Sonar 208 60 continuous 12. Australian 690 14 mixed 13. HeartDisease 297 13 mixed 14. <b>Housing</b> 506 13 mixed Table 1: Dataset Summary. #Data - data size, Type - attribute type, and #A - number of attributes. 3. Apply NN-DT as follows: (a) Construct a network using the algorithm MLNNCA for the training dataset. Stop MLNNCA",
+    "mykey": 1877
+}

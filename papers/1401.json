@@ -1,0 +1,11 @@
+{
+    "datasetID": 21,
+    "supportID": "8F3C952DA5B26AF4D092034012E9826624E1C2BC",
+    "rexaID": "d342517262ff52ffd3566bd8f520b36723486aa3",
+    "author": "M. A. Galway and Michael G. Madden",
+    "title": "DEPARTMENT OF INFORMATION TECHNOLOGY technical report NUIG-IT-011002 Evaluation of the Performance of the Markov Blanket Bayesian Classifier Algorithm",
+    "venue": "Department of Information Technology National University of Ireland, Galway",
+    "year": "",
+    "window": "were selected that had these characteristics and that were not very small. The datasets are listed in Table 1. Dataset #I #A <b>Chess</b> (King & Rook vs King & Pawn) 3196 32 Wisconsin Breast Cancer Diagnosis 699 9 LED-24 (17 irrelevant attributes) 3200 24 DNA: Splice Junction Gene Sequences",
+    "mykey": 1401
+}

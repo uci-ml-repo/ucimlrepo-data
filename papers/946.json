@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "649EB4948F8B02309F15F52D9F057793787CD88E",
+    "rexaID": "a3483a19000e691a9fbd69f2b008445f3acd3124",
+    "author": "Blai Bonet and Hector Geffner",
+    "title": "Learning Sorting and Decision Trees with POMDPs",
+    "venue": "ICML",
+    "year": "1998",
+    "window": "takes a few minutes on average and leaves a few thousand entries in the hash table. For the larger <b>Votes dataset</b>  the run takes 24 minutes on average and leaves around 16000 entries in the hash table. During testing, whenever a new belief state b o a was generated that was not in the hash table, b o a was",
+    "mykey": 946
+}

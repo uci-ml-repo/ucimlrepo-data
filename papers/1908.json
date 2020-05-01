@@ -1,0 +1,11 @@
+{
+    "datasetID": 146,
+    "supportID": "BC2AC20DF2551DDDF69C935BC8276DF6B2841270",
+    "rexaID": "8e5c7f7c811898dd8308bdf011e3bd14e3b43980",
+    "author": "Jaakko Peltonen and Arto Klami and Samuel Kaski",
+    "title": "Improved Learning of Riemannian Metrics for Exploratory Analysis",
+    "venue": "Improved Learning of Riemannian Metrics for Exploratory Analysis. Neural Networks",
+    "year": "2004",
+    "window": "used for empirical comparisons Data set Dimensions Classes Samples <b>Landsat</b> <b>Satellite</b> Data a 36 6 6435 Letter Recognition Data a 16 26 20000 Phoneme Data b 20 13 3656 TIMIT Data from (TIMIT, 1998) 12 41 14994 a from the UCI Machine",
+    "mykey": 1908
+}

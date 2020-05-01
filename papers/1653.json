@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "A1219D14D53EE0B93C6D2C8118EDA251B1C00FB7",
+    "rexaID": "e28683d93b8fd976add91a9a13a588202d32fcea",
+    "author": "Peter L. Hammer and Alexander Kogan and Bruno Simeone and Sandor Szedm'ak",
+    "title": "R u t c o r Research R e p o r t",
+    "venue": "Rutgers Center for Operations Research Rutgers University",
+    "year": "2001",
+    "window": "are obtained by lexicographically Page 28 RRR 7-2001 Figure 1: Cost of Classification Inaccuracy for # = 0 0 5 10 15 20 25 30 Credit Breast Cancer Boston <b>Housing</b> Diabetes Heart Disease Oil Voting Datasets Mean Cost LAD StrongSpanned StrongPrime Prime Figure 2: Cost of Classification Inaccuracy for # = 0.5 0 5 10 15 20 25 30 35 40 Credit Breast Cancer Boston Housing Diabetes Heart Disease Oil Voting",
+    "mykey": 1653
+}

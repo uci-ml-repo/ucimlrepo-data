@@ -1,0 +1,11 @@
+{
+    "datasetID": 124,
+    "supportID": "9420108AB1160C43755C76C0AE57C71F2162F004",
+    "rexaID": "4a338bab101f6721ea5dc4d76de5456721fbf0a3",
+    "author": "Marina Meila and Michael I. Jordan",
+    "title": "Learning with Mixtures of Trees",
+    "venue": "Journal of Machine Learning Research, 1",
+    "year": "2000",
+    "window": "For the third density estimation experiment, we used a subset of 576 images from the normalized <b <b>face</b> images</b> dataset of [43]. These images were downsampled to 48 variables (pixels) and 5 gray levels. We divided the data randomly into N train = 500 and N test = 76 examples; of the 500 training examples, 50 were",
+    "mykey": 1477
+}

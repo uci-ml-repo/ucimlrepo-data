@@ -1,0 +1,11 @@
+{
+    "datasetID": 24,
+    "supportID": "68E4CBD76EB78057876930BD7362D346BE6BFED4",
+    "rexaID": "cd11168bb19fd462bc59beefbe670bc4eb31e3eb",
+    "author": "Mark A. Hall",
+    "title": "Department of Computer Science Hamilton, NewZealand Correlation-based Feature Selection for Machine Learning",
+    "venue": "Doctor of Philosophy at The University of Waikato",
+    "year": "1999",
+    "window": "2 In comparison, CFS-P using the MDL measure considered on average less than 50 derived attributes on the <b>chess</b> end-game dataset. 141 IB1 <b>Domain</b> CFS-UC CFS-P CFS-RELIEF mu 98.48 \u00b1 0.1 98.64 \u00b1 0.3+ 99.72 \u00b1 0.2+ vo 95.60 \u00b1 1.0 95.60 \u00b1 1.0 95.12 \u00b1 1.2 - v1 88.35 \u00b1 2.1 88.35 \u00b1 2.1 88.17 \u00b1 1.9 cr 85.61 \u00b1 1.0 85.61 \u00b1 1.0 85.61 \u00b1",
+    "mykey": 988
+}

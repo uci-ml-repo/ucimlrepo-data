@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "77F4EEBD7DDDDCD93BFE35DB2F803C992B9D48E1",
+    "rexaID": "9a0d2c026da6cf5175639b0c375bf7ab56106e1e",
+    "author": "Wojciech Kwedlo and Marek Kretowski",
+    "title": "Discovery of Decision Rules from Databases: An Evolutionary Approach",
+    "venue": "PKDD",
+    "year": "1998",
+    "window": "Features Examples Classes australian 15 (9 nominal) 690 2 diabetes 8 768 2 german 20 (13 nominal) 1000 2 glass 9 214 7 hepatitis 19 (13 nominal) 155 2 <b>iris</b> 4 150 3 Table 1. Description of the datasets used in the experiments. Dataset Majority C4.5 EDRL fi australian 55.5 85:3 Sigma 0:2 86:1 Sigma 0:4 0.05 diabetes 65.1 74:6 Sigma 0:3 77:9 Sigma 0:3 0.2 german 70.0 71:6 Sigma 0:3 70:1 Sigma",
+    "mykey": 1192
+}

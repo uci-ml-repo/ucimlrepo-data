@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "4357E3C12134AD70F70300666459DD3D97DE399A",
+    "rexaID": "319529c0338699404ff7d7f9d7e5c900e5294959",
+    "author": "Art B. Owen",
+    "title": "Tubular neighbors for regression and classification",
+    "venue": "Stanford University",
+    "year": "1999",
+    "window": "data translates into a mean absolute error of about 0:58, and suggests that the recorded results really are better. 7.4 <b>sonar</b> data This data is from the Irvine repository. The predictors in this data set are 60 values in a sonar spectrum reflected by an object. The response is a 1 if the object is a metal cylinder, and 0 if it is a cylindrical rock. The objective was to distinguish underwater mines",
+    "mykey": 581
+}

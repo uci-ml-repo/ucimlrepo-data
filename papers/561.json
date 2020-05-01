@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "41581B846BA6DD7BF4F05DEFC37668A334D8A455",
+    "rexaID": "9e2e49a81a0cec7e7872787b2b52ec128f5ebb0d",
+    "author": "Francesco Masulli and Giorgio Valentini",
+    "title": "Effectiveness of Error Correcting Output Codes in Multiclass Learning Problems",
+    "venue": "Multiple Classifier Systems",
+    "year": "2000",
+    "window": "effective for PND classi#ers rather than monolithic MLP classifiers. Hypothesis 2 In PLD error recovering induced by ECOC is counter-balanced by the higher error rate of the dichotomizers. Table 1. Data sets general features. The data sets <b>glass</b>  letter and optdigits data sets are from the UCI repository [16]. Data set Number of Number of Number of Number of attributes classes training samples testing",
+    "mykey": 561
+}

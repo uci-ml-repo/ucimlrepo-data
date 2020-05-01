@@ -1,0 +1,23 @@
+{
+    "ID": 117,
+    "Name": "Census-Income (KDD)",
+    "Abstract": "This data set contains weighted census data extracted from the 1994 and 1995 current population surveys conducted by the U.S. Census Bureau.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 299285,
+    "NumAttributes": 40,
+    "DateDonated": "2000-03-07",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/census-income-mld/",
+    "URLReadme": "../machine-learning-databases/census-income-mld/census-income.data.html",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This data set contains weighted census data extracted from the 1994 and 1995 Current Population Surveys conducted by the U.S. Census Bureau. The data contains 41 demographic and employment related variables. \r\n\r\nThe instance weight indicates the number of people in the population that each record represents due to stratified sampling. To do real analysis and derive conclusions, this field must be used. This attribute should *not* be used in the classifiers. \r\n\r\nOne instance per line with comma delimited fields. There are 199523 instances in the data file and 99762 in the test file. \r\n\r\nThe data was split into train/test in approximately 2/3, 1/3 proportions using MineSet's MIndUtil mineset-to-mlc. \r\n",
+    "Source": "Original Owner:\r\n\r\nU.S. Census Bureau\r\nhttp://www.census.gov/\r\nUnited States Department of Commerce\r\n\r\nDonor:\r\n\r\nTerran Lane and Ronny Kohavi\r\nData Mining and Visualization\r\nSilicon Graphics.\r\nterran@ecn.purdue.edu, ronnyk@sgi.com\r\n\r\n",
+    "Acknowledgements": "",
+    "Area": "Social",
+    "RelevantPapers": "",
+    "AttributeInfo": "More information detailing the meaning of the attributes can be found in the Census Bureau's documentation To make use of the data descriptions at this site, the following mappings to the Census Bureau's internal database column names will be needed: \r\n\r\nage\t\t\t\t\t\tAAGE\r\nclass of worker\t\t\t\t\tACLSWKR\r\nindustry code\t\t\t\t\tADTIND\r\noccupation code\t\t\t\t\tADTOCC\r\nadjusted gross income\t\t\t\tAGI\r\neducation\t\t\t\t\tAHGA\r\nwage per hour\t\t\t\t\tAHRSPAY\r\nenrolled in edu inst last wk\t\t\tAHSCOL\r\nmarital status\t\t\t\t\tAMARITL\r\nmajor industry code\t\t\t\tAMJIND\r\nmajor occupation code\t\t\t\tAMJOCC\r\nmace\t\t\t\t\t\tARACE\r\nhispanic Origin\t\t\t\t\tAREORGN\r\nsex\t\t\t\t\t\tASEX\r\nmember of a labor union\t\t\t\tAUNMEM\r\nreason for unemployment\t\t\t\tAUNTYPE\r\nfull or part time employment stat\t\tAWKSTAT\r\ncapital gains\t\t\t\t\tCAPGAIN\r\ncapital losses\t\t\t\t\tCAPLOSS\r\ndivdends from stocks\t\t\t\tDIVVAL\r\nfederal income tax liability\t\t\tFEDTAX\r\ntax filer status\t\t\t\tFILESTAT\r\nregion of previous residence\t\t\tGRINREG\r\nstate of previous residence\t\t\tGRINST\r\ndetailed household and family stat\t\tHHDFMX\r\ndetailed household summary in household\t\tHHDREL\r\ninstance weight\t\t\t\t\tMARSUPWT\r\nmigration code-change in msa\t\t\tMIGMTR1\r\nmigration code-change in reg\t\t\tMIGMTR3\r\nmigration code-move within reg\t\t\tMIGMTR4\r\nlive in this house 1 year ago\t\t\tMIGSAME\r\nmigration prev res in sunbelt\t\t\tMIGSUN\r\nnum persons worked for employer\t\t\tNOEMP\r\nfamily members under 18\t\t\t\tPARENT\r\ntotal person earnings\t\t\t\tPEARNVAL\r\ncountry of birth father\t\t\t\tPEFNTVTY\r\ncountry of birth mother\t\t\t\tPEMNTVTY\r\ncountry of birth self\t\t\t\tPENATVTY\r\ncitizenship\t\t\t\t\tPRCITSHP\r\ntotal person income\t\t\t\tPTOTVAL\r\nown business or self employed\t\t\tSEOTR\r\ntaxable income amount\t\t\t\tTAXINC\r\nfill inc questionnaire for veteran's admin\tVETQVA\r\nveterans benefits\t\t\t\tVETYN\r\nweeks worked in year\t\t\t\tWKSWORK\r\n\r\nNote that Incomes have been binned at the $50K level to present a binary classification problem, much like the original UCI/ADULT database. The goal field of this data, however, was drawn from the \"total person income\" field rather than the \"adjusted gross income\" and may, therefore, behave differently than the orginal ADULT goal field. \r\n",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 9419
+}

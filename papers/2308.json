@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "E4DEB4A2CFC87ADE92365A880C2DAB4321752D38",
+    "rexaID": "d024a37a0324a4e5218f79ec65fd33e4cff7825e",
+    "author": "Isabelle Alvarez and Stephan Bernard",
+    "title": "Ranking Cases with Decision Trees: a Geometric Method that Preserves Intelligibility",
+    "venue": "",
+    "year": "",
+    "window": "score gives interesting results when misclassified examples are near the decision boundary. This is particularly true for the bupa (liver-disorder) and <b>ionosphere</b> databases. Table 2 shows that these datasets doesn't verify the hypothesis of proximity of errors on a majority of samples, and actually the global geometric score give bad results for these datasets. Concerning the improvement of the",
+    "mykey": 2308
+}

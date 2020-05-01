@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "CA467D091BA5B36ED20FAA7672080E679EE82E01",
+    "rexaID": "877f66dae749b55055910c2f9ad01e4208eb9042",
+    "author": "Michael R. Berthold and Klaus--Peter Huber",
+    "title": "From Radial to Rectangular Basis Functions: A new Approach for Rule Learning from Large Datasets",
+    "venue": "Institut fur Rechnerentwurf und Fehlertoleranz (Prof. D. Schmid) Universitat Karlsruhe",
+    "year": "",
+    "window": "extracted from a Neural Network trained on the data, rather than from the data itself. In this scenario the Neural Network already took care of the noisy patterns. B. The <b>IRIS</b> -data This very famous dataset from Fisher ([5]) contains three classes of 50 instances each, where each class refers to a type of iris plant. One class is linearly separable from the other two; the latter are not linearly",
+    "mykey": 2033
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 121,
+    "supportID": "AEBFCD088646B6ED3D0E4896C24086B57967E6A9",
+    "rexaID": "c58fd4c0c5b8fefc00686150d5af26f6966807ef",
+    "author": "Stephen D. Bay and Dennis F. Kibler and Michael J. Pazzani and Padhraic Smyth",
+    "title": "The UCI KDD Archive of Large Data Sets for Data Mining Research and Experimentation",
+    "venue": "SIGKDD Explorations, 2",
+    "year": "2000",
+    "window": "dealing with four different topic areas (music bands, bio-medical, goats, and sheep). Time series and Sequence data which consists of a consecutively ordered set of observations, such as the <b>EEG</b> data set in the archive. Time series measure changes in the value of a continuous variable such as stock prices or economic indicators whereas sequence data records an ordered set of categorical variables",
+    "mykey": 1781
+}

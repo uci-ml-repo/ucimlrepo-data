@@ -1,0 +1,23 @@
+{
+    "ID": 486,
+    "Name": "Rice Leaf Diseases",
+    "Abstract": "There are three classes/diseases: Bacterial leaf blight, Brown spot, and Leaf smut, each having 40 images. The format of all images is jpg.  ",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 120,
+    "NumAttributes": 0,
+    "DateDonated": "2019-04-14",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00486/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset was created by manually separating infected leaves into different disease classes. We had consulted the farmers and had asked them to provide names of diseases for sample leaves. Farmers had provided names in their native languages (Gujarati) and we identi\u00ef\u00ac\u0081ed and veri\u00ef\u00ac\u0081ed English names of those diseases by consulting with experts of agriculture \u00ef\u00ac\u0081eld.\r\n\r\nThis dataset was used for Detection and Classi\u00ef\u00ac\u0081cation of Rice Plant Diseases. As part of the work, the following activities were carried out (1) How to extract various image features (2) which image processing operations can provide needed information (3) which image features can provide substantial input for classification. The survey work is available in IEEE conference paper: \r\n\r\n\r\nA Survey on Detection and Classification of Rice Plant Diseases, available at https://ieeexplore.ieee.org/document/7567333. A classification model was developed using SVM. The detailed information is available in the published journal article:Detection and classification of rice plant diseases, in Intelligent Decision Technologies, IOS Press, available at https://content.iospress.com/articles/intelligent-decision-technologies/idt301",
+    "Source": "Jitesh P. Shah, Email: jitesh2k12@gmail.com, Institute: Department of Information Technology, Dharmsinh Desai University,Nadiad-387001, Gujarat, INDIA. Creator Name: Harshadkumar B. Prajapati, Email: prajapatihb.it@ddu.ac.in, Institute: Department of Information Technology, Dharmsinh Desai University,Nadiad-387001, Gujarat, INDIA. Creator Name: Vipul K. Dabhi, Email: vipuldabhi.it@ddu.ac.in, Institute: Department of Information Technology, Dharmsinh Desai University,Nadiad-387001, Gujarat, INDIA. ",
+    "Acknowledgements": "Prajapati HB, Shah JP, Dabhi VK. Detection and classification of rice plant diseases. Intelligent Decision Technologies. 2017 Jan 1;11(3):357-73, doi: 10.3233/IDT-170301.",
+    "Area": "Computer",
+    "RelevantPapers": "(1) Prajapati HB, Shah JP, Dabhi VK. Detection and classification of rice plant diseases. Intelligent Decision Technologies. 2017 Jan 1;11(3):357-73, doi: 10.3233/IDT-170301. (2)  Shah JP, Prajapati HB, Dabhi VK. A survey on detection and classification of rice plant diseases. InCurrent Trends in Advanced Computing (ICCTAC), IEEE International Conference on 2016 Mar 10 (pp. 1-8). IEEE.",
+    "AttributeInfo": "Image Format: .jpg, The images were captured with a white background, in direct sunlight. The images were reduced to the desired resolution for processing.",
+    "FormatType": "",
+    "NumHits": 0
+}

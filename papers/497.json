@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "3BFC2FF6C91B26CB2B08FCFDAB7068C921BCE513",
+    "rexaID": "b4cdcd80235e99bc622bb39208ba35f943eeb7ba",
+    "author": "Thomas G. Dietterich",
+    "title": "Machine-Learning Research",
+    "venue": "AI Magazine, 18",
+    "year": "1997",
+    "window": "fast fourier transform). The resulting ensemble classifier was able to match the performance of human experts in identifying volcanoes. Tumer and Ghosh (1996) applied a similar technique to a <b>sonar</b> dataset with 25 input features. However, they found that deleting even a few of the input features hurt the performance of the individual classifiers so much that the voted ensemble did not perform very",
+    "mykey": 497
+}

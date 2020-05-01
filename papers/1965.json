@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "C236AE947E41B2A044C181842DF6842A435DF558",
+    "rexaID": "53ac23f963b3607aae9580b356e6b236d2955314",
+    "author": "Wl/odzisl/aw Duch and Rafal/ Adamczak Email:duchraad@phys. uni. torun. pl",
+    "title": "Statistical methods for construction of neural networks",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "cases give results that are comparable or better than those found by neural networks. A review of different approaches to classification and comparison of performance of 20 methods on 22 real world datasets has been done within the <b>StatLog</b> European Community project [3]. The algorithms that appeared most frequently as the top five were all of statistical nature, including four discriminant approaches:",
+    "mykey": 1965
+}

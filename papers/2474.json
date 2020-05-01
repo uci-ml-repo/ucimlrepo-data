@@ -1,0 +1,11 @@
+{
+    "datasetID": 107,
+    "supportID": "F61F4F7A98535965FA1399D2EBEA1D266A6838A7",
+    "rexaID": "b9b24d88e45ac7034e22363aac1347ca65caffc6",
+    "author": "I\u00f1aki Inza and Pedro Larraaga and Ramon Etxeberria and Basilio Sierra",
+    "title": "Feature Subset Selection by Bayesian networks based optimization",
+    "venue": "Dept. of Computer Science and Artificial Intelligence. University of the Basque Country",
+    "year": "",
+    "window": "principal reason of `overfitting' was the low amount of training instances. To study this issue for FSS-EBNA, we have carried out a set of experiments with different training sizes of <b>Waveform</b> 40 dataset [15] with Naive-Bayes classification algorithm [19]: training sizes of 100; 200; 400; 800 and 1; 600 samples and tested over a fixed test set with 3; 200 instances. Figure 7 summarizes the set of",
+    "mykey": 2474
+}

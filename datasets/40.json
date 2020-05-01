@@ -1,0 +1,23 @@
+{
+    "ID": 40,
+    "Name": "Flags",
+    "Abstract": "From Collins Gem Guide to Flags, 1986",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 194,
+    "NumAttributes": 30,
+    "DateDonated": "1990-05-15",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/flags/",
+    "URLReadme": "../machine-learning-databases/flags/flag.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This data file contains details of various nations and their flags. In this file the fields are separated by spaces (not commas).  With this data you can try things like predicting the religion of a country from its size and the colours in its flag.  \r\n\r\n10 attributes are numeric-valued.  The remainder are either Boolean- or nominal-valued.",
+    "Source": "Creators: \r\n\r\nCollected primarily from the \"Collins Gem Guide to Flags\": Collins Publishers (1986).\r\n\r\nDonor: \r\n\r\nRichard S. Forsyth \r\n8 Grosvenor Avenue\r\nMapperley Park\r\nNottingham NG3 5DX\r\n0602-621676",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "Forsyth's PC/BEAGLE User's Guide.",
+    "AttributeInfo": "   1. name:\tName of the country concerned\r\n   2. landmass:\t1=N.America, 2=S.America, 3=Europe, 4=Africa, 4=Asia, 6=Oceania\r\n   3. zone:\tGeographic quadrant, based on Greenwich and the Equator; 1=NE, 2=SE, 3=SW, 4=NW\r\n   4. area:\tin thousands of square km\r\n   5. population:\tin round millions\r\n   6. language: 1=English, 2=Spanish, 3=French, 4=German, 5=Slavic, 6=Other Indo-European, 7=Chinese, 8=Arabic, 9=Japanese/Turkish/Finnish/Magyar, 10=Others\r\n   7. religion: 0=Catholic, 1=Other Christian, 2=Muslim, 3=Buddhist, 4=Hindu, 5=Ethnic, 6=Marxist, 7=Others\r\n   8. bars:     Number of vertical bars in the flag\r\n   9. stripes:  Number of horizontal stripes in the flag\r\n  10. colours:  Number of different colours in the flag\r\n  11. red:      0 if red absent, 1 if red present in the flag\r\n  12. green:    same for green\r\n  13. blue:     same for blue\r\n  14. gold:     same for gold (also yellow)\r\n  15. white:    same for white\r\n  16. black:    same for black\r\n  17. orange:   same for orange (also brown)\r\n  18. mainhue:  predominant colour in the flag (tie-breaks decided by taking the topmost hue, if that fails then the most central hue, and if that fails the leftmost hue)\r\n  19. circles:  Number of circles in the flag\r\n  20. crosses:  Number of (upright) crosses\r\n  21. saltires: Number of diagonal crosses\r\n  22. quarters: Number of quartered sections\r\n  23. sunstars: Number of sun or star symbols\r\n  24. crescent: 1 if a crescent moon symbol present, else 0\r\n  25. triangle: 1 if any triangles present, 0 otherwise\r\n  26. icon:     1 if an inanimate image present (e.g., a boat), otherwise 0\r\n  27. animate:  1 if an animate image (e.g., an eagle, a tree, a human hand) present, 0 otherwise\r\n  28. text:     1 if any letters or writing on the flag (e.g., a motto or slogan), 0 otherwise\r\n  29. topleft:  colour in the top-left corner (moving right to decide tie-breaks)\r\n  30. botright: Colour in the bottom-left corner (moving left to decide tie-breaks)",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 10761
+}

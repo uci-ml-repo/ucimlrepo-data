@@ -1,0 +1,11 @@
+{
+    "datasetID": 54,
+    "supportID": "75401E5B7D456A3ABD6751DC88FF8E37F72C1F82",
+    "rexaID": "9acaa3dfebccac9d79abb08f7eced65482be1631",
+    "author": "Inderjit S. Dhillon and Dharmendra S. Modha and W. Scott Spangler",
+    "title": "Class visualization of high-dimensional data with applications",
+    "venue": "Department of Computer Sciences, University of Texas",
+    "year": "2002",
+    "window": "we will use later in this paper. In the isolated letter speech recognition  <b>ISOLET</b>  speech recognition data set, k = 26, n = 7797 and d = 617, while in the PENDIGITS example k = 10, n = 10992 and d = 16. The non-linear SOM and MDS projections are even more expensive to compute than PCA. Our superior eNciency",
+    "mykey": 1146
+}

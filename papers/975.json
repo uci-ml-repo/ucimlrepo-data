@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "67282C3CE8BA6668F510EBDD68A87F9EB72B8B57",
+    "rexaID": "7ca6f3f2b00e225b5b648c2998c727d0b7d6cde8",
+    "author": "Krzysztof Krawiec",
+    "title": "Genetic Programming-based Construction of Features for Machine Learning and Knowledge Discovery Tasks",
+    "venue": "Institute of Computing Science, Poznan University of Technology",
+    "year": "2002",
+    "window": "in favor of feature construction is usually statistically relevant. Note also that positive results have been obtained for both real-world problems (Crx, <b>Diabetes</b> and Glass) as well as artificial datasets, which were intentionally designed to test the usefulness of feature construction methods [34]. Although the increases in accuracy of classification are not always impressive, the feature",
+    "mykey": 975
+}

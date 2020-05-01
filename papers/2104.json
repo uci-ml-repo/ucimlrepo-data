@@ -1,0 +1,11 @@
+{
+    "datasetID": 58,
+    "supportID": "D31BEE63C05B00FE2C2ACB117FA3EA55BAC72971",
+    "rexaID": "81a75649d5acc1cc428ca756dac221bac3c8fe01",
+    "author": "Geoffrey I. Webb",
+    "title": "OPUS: An Efficient Admissible Algorithm for Unordered Search",
+    "venue": "J. Artif. Intell. Res. (JAIR, 3",
+    "year": "1995",
+    "window": "the 24 CPU hour limit. may turn out to be a better choice than the other, leading to the exploration of fewer nodes. To test the plausibility of this explanation, OPUS o was run again on the <b>Lenses</b> data set with Step 8 altered to ensure that where two siblings have equal optimistic value they are ordered in the same order as was employed with no optimistic reordering. This resulted in the exploration",
+    "mykey": 2104
+}

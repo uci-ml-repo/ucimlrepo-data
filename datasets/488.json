@@ -1,0 +1,23 @@
+{
+    "ID": 488,
+    "Name": "Facebook Live Sellers in Thailand",
+    "Abstract": "Facebook pages of 10 Thai fashion and cosmetics retail sellers. Posts of a different nature (video, photos, statuses, and links). Engagement metrics consist of comments, shares, and reactions.",
+    "Types": "Multivariate",
+    "Task": "Clustering",
+    "AttributeTypes": "Integer",
+    "NumInstances": 7051,
+    "NumAttributes": 12,
+    "DateDonated": "2019-04-22",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00488/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The variability of consumer engagement is analysed through a Principal Component Analysis, highlighting the changes induced by the use of Facebook Live. The seasonal component is analysed through a study of the averages of the different engagement metrics for different time-frames (hourly, daily and monthly). Finally, we identify statistical outlier posts, that are qualitatively analyzed further, in terms of their selling approach and activities.  ",
+    "Source": "Nassim Dehouche, Mahidol University International College, nassim.deh@mahidol.edu",
+    "Acknowledgements": "Nassim Dehouche and Apiradee Wongkitrungrueng. Facebook Live as a Direct Selling Channel, 2018, Proceedings of ANZMAC 2018: The 20th Conference of the Australian and New Zealand Marketing Academy. Adelaide (Australia), 3-5 December 2018.",
+    "Area": "Business",
+    "RelevantPapers": "Nassim Dehouche and Apiradee Wongkitrungrueng. Facebook Live as a Direct Selling Channel, 2018, Proceedings of ANZMAC 2018: The 20th Conference of the Australian and New Zealand Marketing Academy. Adelaide (Australia), 3-5 December 2018.",
+    "AttributeInfo": "status_id\t\r\nstatus_type\t\r\nstatus_published\t\r\nnum_reactions\t\r\nnum_comments\t\r\nnum_shares\t\r\nnum_likes\t\r\nnum_loves\t\r\nnum_wows\t\r\nnum_hahas\t\r\nnum_sads\t\r\nnum_angrys",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

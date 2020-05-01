@@ -1,0 +1,23 @@
+{
+    "ID": 13,
+    "Name": "Balloons",
+    "Abstract": "Data previously used in cognitive psychology experiment; 4 data sets represent different conditions of an experiment",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 16,
+    "NumAttributes": 4,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/balloons/",
+    "URLReadme": "../machine-learning-databases/balloons/balloons.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "There are four data sets representing different conditions of an experiment. All have the same attributes.\r\n\r\na. adult-stretch.data  Inflated is true if age=adult or act=stretch\r\n\r\nb. adult+stretch.data  Inflated is true if age=adult and act=stretch\r\n\r\nc. small-yellow.data   Inflated is true if (color=yellow and size = small) or\r\n\r\nd. small-yellow+adult-stretch.data  Inflated is true if (color=yellow and size = small) or (age=adult and act=stretch)",
+    "Source": "Michael Pazzani (pazzani@ics.uci.edu)",
+    "Acknowledgements": "",
+    "Area": "Social",
+    "RelevantPapers": "Pazzani, M. (1991). The influence of prior knowledge on concept acquisition: Experimental and computational results. Journal of Experimental Psychology: Learning, Memory & Cognition, 17, 3,  416-432.\r\nhttp://rexa.info/paper/99b17b7a6a0f924611880117798f8790618347f0",
+    "AttributeInfo": "(Classes Inflated T or F)\r\n\r\nColor:             yellow, purple\r\nsize:              large, small\r\nact:               stretch, dip\r\nage:               adult, child\r\ninflated:          T, F",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 8792
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "058E5056FB1ACE262D0F5A1F0EC0F137248D7BC0",
+    "rexaID": "e8eb0092d0fc87ff35447cec823b43a406ac8372",
+    "author": "G. Ratsch and B. Scholkopf and Alex Smola and K. -R Muller and T. Onoda and Sebastian Mika",
+    "title": "Arc: Ensemble Learning in the Presence of Outliers",
+    "venue": "GMD FIRST",
+    "year": "",
+    "window": "[17] explains the good generalization performance of AdaBoost in the low noise regime. However, AdaBoost performs worse on noisy tasks [10, 11], such as the <b>iris</b> and the breast cancer benchmark data sets [1]. On the latter tasks, a large margin on all training points cannot be achieved without adverse effects on the generalization error. This experimental observation was supported by the study of",
+    "mykey": 40
+}

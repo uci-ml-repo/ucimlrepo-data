@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "093083A5664DE02C0648062E1AF92669D268BF45",
+    "rexaID": "d8bc3a2d334e33553c2c7e052ce8c2fd9ae5718b",
+    "author": "Marina Skurichina and Ludmila Kuncheva and Robert P W Duin",
+    "title": "Bagging and Boosting for the Nearest Mean Classifier: Effects of Sample Size on Diversity and Accuracy",
+    "venue": "Multiple Classifier Systems",
+    "year": "2002",
+    "window": "the 34-dimensional ionosphere data set and the 60-dimensional <b>sonar</b> data set. Training sets are chosen randomly and the remaining data are used for testing. All experiments are repeated 50 times on independent training sets. So all the",
+    "mykey": 107
+}

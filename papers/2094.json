@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "D2C145479F672A054BC13DFAEDD2B6D923D0B4A9",
+    "rexaID": "8e674b6eff0f726ba6fff46ef6eaff968dc89f39",
+    "author": "Qingping Tao Ph. D",
+    "title": "MAKING EFFICIENT LEARNING ALGORITHMS WITH EXPONENTIALLY MANY FEATURES",
+    "venue": "Qingping Tao A DISSERTATION Faculty of The Graduate College University of Nebraska In Partial Fulfillment of Requirements",
+    "year": "2004",
+    "window": "(T 0 = n 2 and T s =10n 2 ). M - Metropolis, G - Gibbs, MG - Metropolized Gibbs, PT - Parallel Tempering, BF - Brute Force. Data Sets <b>iris</b> car breast cancer voting auto annealing n 4 6 9 16 25 38 M 5.3 \u00b1 2.1 1.7 \u00b1 0.831.5 \u00b1 5.05.0\u00b1 2.1 12.8 \u00b1 7.5 1.0 \u00b1 0.7 G 6.7 \u00b1 3.81.9 \u00b1 0.8 30.9 \u00b1 5.5 5.0 \u00b1 2.415.6 \u00b1 7.80.6 \u00b1 0.5 MG 6.0 \u00b1 1.7",
+    "mykey": 2094
+}

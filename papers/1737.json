@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "A9581E5B9CDB67A124DACC66C2C98C723A9F67E3",
+    "rexaID": "1383360e8bb2cfd7a98219f867869a9f6d7e0db0",
+    "author": "Wei-Chun Kao and Kai-Min Chung and Lucas Assun and Chih-Jen Lin",
+    "title": "Decomposition Methods for Linear Support Vector Machines",
+    "venue": "Neural Computation, 16",
+    "year": "2004",
+    "window": "in (Keerthi and Lin 2003), due to the di\u00b1culty on solving linear SVMs, Algorithm 1 is only tested on small two-class problems. Here, we would like to evaluate this algorithm on large multi-class data sets. We consider problems <b>dna</b>  satimage, letter, and shuttle, which were originally from the statlog collection (Michie, Spiegelhalter, and Taylor 1994) and were used in (Hsu and Lin 2002a). Except",
+    "mykey": 1737
+}

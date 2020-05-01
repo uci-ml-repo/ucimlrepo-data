@@ -1,0 +1,11 @@
+{
+    "datasetID": 60,
+    "supportID": "EC9570BD04915D03CA6306B11BAE55C2CBE731DE",
+    "rexaID": "f1395e1da4a724219d6cc414e48969140355bebb",
+    "author": "David R. Musicant",
+    "title": "DATA MINING VIA MATHEMATICAL PROGRAMMING AND MACHINE LEARNING",
+    "venue": "Doctor of Philosophy (Computer Sciences) UNIVERSITY",
+    "year": "",
+    "window": "from the University of California at Irvine (UCI) repository [85]: . The <b>liver</b> disorders dataset contains 345 points, each consisting of six features. Class 1 contains 145 points, and class -1 contains 200 points. . The letter-recognition dataset is used for recognizing letters of the alphabet.",
+    "mykey": 2374
+}

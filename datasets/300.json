@@ -1,0 +1,23 @@
+{
+    "ID": 300,
+    "Name": "Tennis Major Tournament Match Statistics",
+    "Abstract": "This is a collection of 8 files containing the match statistics for both women and men at the four major tennis tournaments of the year 2013. Each file has 42 columns and a minimum of 76 rows.",
+    "Types": "Multivariate",
+    "Task": "Classification, Regression, Clustering",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 127,
+    "NumAttributes": 42,
+    "DateDonated": "2014-06-01",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00300/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "N/A",
+    "Source": "Shruti Jauhari\r\nDepartment of Computer Science\r\nRochester Institute of Technology\r\nRochester, NY 14623\r\neMail: sxj6633@rit.edu\r\n\r\nAniket Morankar\r\nDepartment of Computer Science\r\nRochester Institute of Technology\r\nRochester, NY 14623\r\neMail: asm6887@rit.edu\r\n\r\nErnest Fokoue\r\nCenter for Quality of Applied Statistics\r\nRochester Institute of Technology\r\nRochester, NY 14623\r\neMail: ernest.fokoue@rit.edu\r\nPhone: 585 475 7525 or 575 643 5549",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Other",
+    "RelevantPapers": "N/A",
+    "AttributeInfo": "Player 1              Name of Player 1\r\nPlayer 2              Name of Player 2\r\nResult                Result of the match (0/1) - Referenced on Player 1 is Result = 1 if Player 1 wins (FNL.1>FNL.2)\r\nFSP.1                 First Serve Percentage for player 1 (Real Number)\r\nFSW.1                 First Serve Won by player 1 (Real Number)\r\nSSP.1                 Second Serve Percentage for player 1 (Real Number)\r\nSSW.1                 Second Serve Won by player 1 (Real Number)\r\nACE.1                 Aces won by player 1 (Numeric-Integer)\r\nDBF.1                 Double Faults committed by player 1 (Numeric-Integer)\r\nWNR.1                 Winners earned by player 1 (Numeric)\r\nUFE.1                 Unforced Errors committed by player 1 (Numeric)\r\nBPC.1                 Break Points Created by player 1   (Numeric)  \r\nBPW.1                 Break Points Won by player 1    (Numeric) \r\nNPA.1                 Net Points Attempted by player 1 (Numeric)\r\nNPW.1                 Net Points Won by player 1  (Numeric)      \r\nTPW.1                 Total Points Won by player 1 (Numeric)\r\nST1.1                 Set 1 result for Player 1 (Numeric-Integer)\r\nST2.1                 Set 2 Result for Player 1 (Numeric-Integer)\r\nST3.1                 Set 3 Result for Player 1 (Numeric-Integer)\r\nST4.1                 Set 4 Result for Player 1 (Numeric-Integer)\r\nST5.1                 Set 5 Result for Player 1 (Numeric-Integer) \r\nFNL.1                 Final Number of Games Won by Player 1 (Numeric-Integer)\r\nFSP.2                 First Serve Percentage for player 2 (Real Number)\r\nFSW.2                 First Serve Won by player 2 (Real Number)\r\nSSP.2                 Second Serve Percentage for player 2 (Real Number)\r\nSSW.2                 Second Serve Won by player 2 (Real Number)\r\nACE.2                 Aces won by player 2 (Numeric-Integer)\r\nDBF.2                 Double Faults committed by player 2 (Numeric-Integer)\r\nWNR.2                 Winners earned by player 2 (Numeric)\r\nUFE.2                 Unforced Errors committed by player 2 (Numeric)\r\nBPC.2                 Break Points Created by player 2   (Numeric)  \r\nBPW.2                 Break Points Won by player 2    (Numeric) \r\nNPA.2                 Net Points Attempted by player 2 (Numeric)\r\nNPW.2                 Net Points Won by player 2  (Numeric)      \r\nTPW.2                 Total Points Won by player 2 (Numeric)\r\nST1.2                 Set 1 result for Player 2 (Numeric-Integer)\r\nST2.2                 Set 2 Result for Player 2 (Numeric-Integer)\r\nST3.2                 Set 3 Result for Player 2 (Numeric-Integer)\r\nST4.2                 Set 4 Result for Player 2 (Numeric-Integer)\r\nST5.2                 Set 5 Result for Player 2 (Numeric-Integer) \r\nFNL.2                 Final Number of Games Won by Player 2 (Numeric-Integer)\r\nRound                 Round of the tournament at which game is played (Numeric-Integer)\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

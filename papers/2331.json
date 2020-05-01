@@ -1,0 +1,11 @@
+{
+    "datasetID": 46,
+    "supportID": "E8D73CD4F3695E35156605DDA9A3E1A8F750B147",
+    "rexaID": "2d05e6777bcfde449fc35a3a95dde0697a5c49ac",
+    "author": "David W. Opitz and Richard Maclin",
+    "title": "Popular Ensemble Methods: An Empirical Study",
+    "venue": "J. Artif. Intell. Res. (JAIR, 11",
+    "year": "1999",
+    "window": "then the decision-tree ensemble methods also had lower (or higher) error than their neural network counterpart. The exceptions to this rule generally happened on the same data set for all three ensemble methods (e.g., <b>hepatitis</b>  soybean, satellite, credit-a, and heart-cleveland). These results suggest that (a) the performance of the ensemble methods is dependent on both the",
+    "mykey": 2331
+}

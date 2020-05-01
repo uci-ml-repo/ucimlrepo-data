@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "A5BF048C34C3C6916162F8F241BAB1F8336025EE",
+    "rexaID": "d18b9cca12173a8ca3d5a781cadcf847442930f4",
+    "author": "Carlotta Domeniconi and Jing Peng and Dimitrios Gunopulos",
+    "title": "An Adaptive Metric Machine for Pattern Classification",
+    "venue": "NIPS",
+    "year": "2000",
+    "window": "N = 208 data of J = 2 classes (``mines'' and ``rocks''); 3. Vowel data. This example has q = 10 measurements and 11 classes. There are total of N = 528 samples in this example; 4. <b>Glass</b> data. This data set consists of q = 9 chemical attributes measured for each of N = 214 data of J = 6 classes; 5. Image data. This data set consists of 40 texture images that are manually classified into 15 classes. The",
+    "mykey": 1692
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "FE8B5679F61BDCC07FB8087BAA693A078DD60D8B",
+    "rexaID": "9ad134b043c73e8215bea14ecf8a270904b0b535",
+    "author": "Enes Makalic and Lloyd Allison and David L. Dowe",
+    "title": "MML INFERENCE OF SINGLE-LAYER NEURAL NETWORKS",
+    "venue": "School of Computer Science and Software Engineering Monash University",
+    "year": "",
+    "window": "and noise levels. The last BIC variant examined, namely BIC 4 , did not do well for function f 3 . BIC 4 inferred the simplest network as optimal for all N # 200. 15 5.4 <b>iris</b> Dataset The iris dataset is a classification task and requires a network to classify between three different types of iris plants. The dataset comprises three classes of 50 instances each. The first two",
+    "mykey": 2580
+}

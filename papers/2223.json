@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "DDD93D7A7F8CD0946343DBE84F5D888E168628DD",
+    "rexaID": "2b9850dda87431cc9117f2a0a63d79863723e4b0",
+    "author": "Krzysztof Grabczewski and Wl/odzisl/aw Duch",
+    "title": "THE SEPARABILITY OF SPLIT VALUE CRITERION",
+    "venue": "Department of Computer Methods, Nicolaus Copernicus University",
+    "year": "",
+    "window": "96.0 Sigillito [7] C4.5 94.9 Hamilton [8] FSM 92.8 Rafal/ Adamczak (our group) [9] SSV Tree 92.0 this paper DB-CART 91.3 Shang, Breiman [10] CART 88.9 Shang, Breiman [10] Table 2: Test <b>ionosphere</b> dataset results 5.2 Ionosphere The ionosphere dataset has 200 vectors in the training set and 150 in the test set. Each data vector is described by 34 continuous attributes and belongs to one of two",
+    "mykey": 2223
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "BD333434A79B1E1994E14CF251C6082976FC34F4",
+    "rexaID": "a702c0617d7187cfc988819d79f0eb2a42ba3f19",
+    "author": "Thomas Serafini and G. Zanghirati and Del Zanna and T. Serafini and Gaetano Zanghirati and Luca Zanni",
+    "title": "DIPARTIMENTO DI MATEMATICA",
+    "venue": "Gradient Projection Methods for",
+    "year": "2003",
+    "window": "strategy and evaluate its e\u00aeectiveness on large-scale benchmark problems. All the subsequent computational results are obtained by training Gaussian SVMs on the well known UCI <b>Adult</b>  Web and MNIST data sets [9, 21]; we describe in detail the test problems and the IBM SP4 testing platform in the Appendix. As already observed, the original selection strategy described in [9] falls within Algorithm DT by",
+    "mykey": 1909
+}

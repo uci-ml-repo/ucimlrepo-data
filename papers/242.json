@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "1C80B1A27A5F5F75422EBEB846B3E74BF5D4D21E",
+    "rexaID": "eef68e57188bfabe4dff279cf32efe545bd7fe3c",
+    "author": "Fei Sha and Lawrence K. Saul and Daniel D. Lee",
+    "title": "Multiplicative Updates for Nonnegative Quadratic Programming in Support Vector Machines",
+    "venue": "NIPS",
+    "year": "2002",
+    "window": "Kernel Polynomial Radial Data k=4 k=6 #=0.3 #=1.0 #=3.0 <b>sonar</b> 9.6% 9.6% 7.6% 6.7% 10.6% Breast cancer 5.1% 3.6% 4.4% 4.4% 4.4% Table 1: Misclassification error rates on the sonar and breast cancer data sets after 512 iterations of the multiplicative updates. 3.1 Multiplicative updates The loss function in eq. (6) is a special case of eq. (1) with A ij = y i y j K(x i , x j ) and b i =- 1. Thus, the",
+    "mykey": 242
+}

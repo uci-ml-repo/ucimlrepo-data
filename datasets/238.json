@@ -1,0 +1,23 @@
+{
+    "ID": 238,
+    "Name": "QtyT40I10D100K",
+    "Abstract": "Since there is no numerical sequential data stream available in standard data sets, this data set is generated from the original T40I10D100K data set",
+    "Types": "Sequential",
+    "Task": "",
+    "AttributeTypes": "Integer",
+    "NumInstances": 3960456,
+    "NumAttributes": 4,
+    "DateDonated": "2012-10-21",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00238/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This data set is generated from the original T40I10D100K data set, to mine fuzzy sequential patterns over quantitative streams. While the original T40I10D100K is generated from the synthetic data generator described in \u00e2\u20ac\u0153R. Agrawal, R. Srikant, Fast algorithms for mining association rules, 20th Intl. Conf. on Very Large Databases (VLDB\u00e2\u20ac\u212294), pp. 487-499. 1994\u00e2\u20ac\u009d.\r\nThe data set is a SQL Server 2008 database, which can be attached to a SQL Server Instance to use\r\n",
+    "Source": "Omid Shakeri, M.Sc \r\nomid.shakeri@tmu.ac.ir ; omid.shakeri@gmail.com\r\nData Mining Lab., Computer Engineering Department, Kharazmi University, Karaj/Tehran, Iran\r\n\r\nMir Mohsen Pedram, Ph.D\r\npedram@tmu.ac.ir\r\nData Mining Lab., Computer Engineering Department, Kharazmi University, Karaj/Tehran, Iran",
+    "Acknowledgements": "",
+    "Area": "",
+    "RelevantPapers": "The papers which use this data set are being reviewed by referees.",
+    "AttributeInfo": "CustomerID: the ID of the customer who has performed the transaction (randomly generated [1 100])\r\nTime: the time that the transaction has been performed\r\nTransaction: the transaction which has been performed\r\nQuantity: the quantity value of each transaction (randomly generated [1 10])",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

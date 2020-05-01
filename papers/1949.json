@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "C03B759A335C2780ACC82C216D32CF6E1BC2D00A",
+    "rexaID": "cbfc5b79f03770a32505b3342b2e330a1626be7d",
+    "author": "Wl/odzisl/aw Duch and Rafal Adamczak and Krzysztof Grabczewski",
+    "title": "Extraction of crisp logical rules using constrained backpropagation networks",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "and four antecedents. We have also tried to derive rules using only 10% of cases for training, achieving identical results. This is the simplest systematic logical description of the <b>mushroom</b> dataset that we know of, although some of these rules have probably been also found by RULEX and TREX algorithms [1]. Analysis of the graph representing possible contributions of the relevant attributes to",
+    "mykey": 1949
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 16,
+    "supportID": "739EA27FE24EC5E11A27EFE980FBC887003F7B6B",
+    "rexaID": "63ebbe51c9c4dea76320f7b6a40f2a59f10cc7c0",
+    "author": "Kristin P. Bennett and Erin J. Bredensteiner",
+    "title": "A Parametric Optimization Method for Machine Learning",
+    "venue": "INFORMS Journal on Computing, 9",
+    "year": "1997",
+    "window": "of the Federal Reserve Bank of Dallas [BS90], has 9 numeric features which range from 0 to 1. The data represent 4311 successful banks and 441 failed banks. <b>Wisconsin</b> <b>Breast</b> <b>Cancer</b> Database This dataset is used to classify a set of 682 patients with breast cancer [WM90]. Each patient is represented by nine integral attributes ranging in value from 1 to 10. The two classes represented are benign and",
+    "mykey": 1118
+}

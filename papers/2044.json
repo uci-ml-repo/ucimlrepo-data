@@ -1,0 +1,11 @@
+{
+    "datasetID": 15,
+    "supportID": "CC16A0BD95C49368A00330A580BD943E0B0283F9",
+    "rexaID": "705b438dbe9ed18fe23005c774d2993019da030f",
+    "author": "Jarkko Salojarvi and Samuel Kaski and Janne Sinkkonen",
+    "title": "Discriminative clustering in Fisher metrics",
+    "venue": "Neural Networks Research Centre Helsinki University of Technology",
+    "year": "",
+    "window": "and secondly through the density function estimate that generates the metric used to define the Fisherian Voronoi regions. IV. EXPERIMENTS Experiments were run with the <b>Wisconsin</b> <b>breast</b> <b>cancer</b> data set from the UCI machine learning repository [9]. The 569 samples consisted of 30 attributes, measured from malignant and benign tumors. We chose the ordinary k-means as the baseline reference method.",
+    "mykey": 2044
+}

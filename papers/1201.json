@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "7989EBED2CD1267D5CD9F9025ECA48984E305D8C",
+    "rexaID": "72d5bd2d46a0dc05c20340f71ac9c9e0eb6e0abf",
+    "author": "Nir Friedman and Iftach Nachman",
+    "title": "Gaussian Process Networks",
+    "venue": "UAI",
+    "year": "2000",
+    "window": "contains 4177 samples with 9 attributes. 300 samples were used as a test set. # <b>Glass</b> identification data set - a data describing the material concentrations in glasses, with a class attribute denoting the type of the glass. The data set contains 214 samples with 10 attributes. 64 samples were used as a",
+    "mykey": 1201
+}

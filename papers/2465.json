@@ -1,0 +1,11 @@
+{
+    "datasetID": 148,
+    "supportID": "F2DC7581BC7D742CADDA07A2968E02E6B8D46BBB",
+    "rexaID": "bf6cec50b7f7d48d105c8c649210cc3a42d3d71e",
+    "author": "Ron Kohavi",
+    "title": "Scaling Up the Accuracy of Naive-Bayes Classifiers: A Decision-Tree Hybrid",
+    "venue": "KDD",
+    "year": "1996",
+    "window": "the accuracy of medical diagnosis from 98% to 99% may cut costs by half because the number of errors is halved. Figure 5 shows the ratio of errors (where error is 100%-accuracy). The <b>shuttle</b> dataset, which is the largest dataset tested, has only 0.04% absolute difference between NBTree and C4.5, but the error decreases from 0.05% to 0.01%, which is a huge relative improvement. The number of",
+    "mykey": 2465
+}

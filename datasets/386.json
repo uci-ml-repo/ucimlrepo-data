@@ -1,0 +1,23 @@
+{
+    "ID": 386,
+    "Name": "FMA: A Dataset For Music Analysis",
+    "Abstract": "FMA features 106,574 tracks and includes song title, album, artist, genres; play counts, favorites, comments; description, biography, tags; together with audio (343 days, 917 GiB) and features.",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 106574,
+    "NumAttributes": 518,
+    "DateDonated": "2017-05-24",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00386/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "* Audio track (encoded as mp3) of each of the 106,574 tracks. It is on average 10 millions samples per track.\n* Nine audio features (consisting of 518 attributes) for each of the 106,574 tracks.\n* Given the metadata, multiple problems can be explored: recommendation, genre recognition, artist identification, year prediction, music annotation, unsupervized categorization.\n* The dataset is split into four sizes: small, medium, large, full.\n* Please see the paper and the GitHub repository for more information (https://github.com/mdeff/fma)",
+    "Source": "Micha\u00ebl Defferrard, Kirell Benzi, Pierre Vandergheynst, Xavier Bresson, EPFL LTS2.",
+    "Acknowledgements": "Micha\u00ebl Defferrard, Kirell Benzi, Pierre Vandergheynst, Xavier Bresson. FMA: A Dataset For Music Analysis. https://arxiv.org/abs/1612.01840, 2017.",
+    "Area": "Computer",
+    "RelevantPapers": "",
+    "AttributeInfo": "Nine audio features computed across time and summarized with seven statistics (mean, standard deviation, skew, kurtosis, median, minimum, maximum):\r\n1. Chroma, 84 attributes\r\n2. Tonnetz, 42 attributes\r\n3. Mel Frequency Cepstral Coefficient (MFCC), 140 attributes\r\n4. Spectral centroid, 7 attributes\r\n5. Spectral bandwidth, 7 attributes\r\n6. Spectral contrast, 49 attributes\r\n7. Spectral rolloff, 7 attributes\r\n8. Root Mean Square energy, 7 attributes\r\n9. Zero-crossing rate, 7 attributes",
+    "FormatType": "Matrix",
+    "NumHits": 1
+}

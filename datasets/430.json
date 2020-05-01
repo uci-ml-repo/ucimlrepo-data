@@ -1,0 +1,23 @@
+{
+    "ID": 430,
+    "Name": "OCT data & Color Fundus Images of Left & Right Eyes",
+    "Abstract": "This dataset contains OCT data (in mat format) and color fundus data (in jpg format) of left & right eyes of 50 healthy persons.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 50,
+    "NumAttributes": 2,
+    "DateDonated": "2016-11-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00430/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "OCT data & Color Fundus Images of Left & Right Eyes : This dataset contains OCT data (in mat format) and color fundus data (in jpg format) of left & right eyes of 50 healthy persons. Each volunteer's folder includes color fundus images (.jpg) and OCT data (.mat) of the right and left eyes.",
+    "Source": "Tahereh Mahmudi; Rahele Kafieh; Hossein Rabbani; Alireza Mehri dehnavi; Mohammadreza Akhlagi",
+    "Acknowledgements": "* T. Mahmudi, R. Kafieh, H. Rabbani, \u00e2\u20ac\u0153Comparison of macular OCTs in right andleft eyes of normal people\u00e2\u20ac\u009d, in Proc. SPIE 9038, Medical Imaging 2014: Biomedical Applications in Molecular, Structural, and Functional Imaging, 90381K, San Diego, California, United States Feb. 15-20, 2014. doi: 10.1117/12.2044046\r\nTo download more free dataset in different medical applications, please visit http://www.biosigdata.com/\r\n\r\n",
+    "Area": "Computer",
+    "RelevantPapers": "* T. Mahmudi, R. Kafieh, H. Rabbani, \u00e2\u20ac\u0153Comparison of macular OCTs in right andleft eyes of normal people\u00e2\u20ac\u009d, in Proc. SPIE 9038, Medical Imaging 2014: Biomedical Applications in Molecular, Structural, and Functional Imaging, 90381K, San Diego, California, United States Feb. 15-20, 2014. doi: 10.1117/12.2044046",
+    "AttributeInfo": "OCT data & Color Fundus Images of Left & Right Eyes : This dataset contains OCT data (in mat format) and color fundus data (in jpg format) of left & right eyes of 50 healthy persons. Each volunteer's folder includes color fundus images (.jpg) and OCT data (.mat) of the right and left eyes.",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

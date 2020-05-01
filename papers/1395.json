@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "8D64C051CF022841541BEA3ED92C41B2098BD9EA",
+    "rexaID": "7e787ada7263180d2a9bad6a3c490e7f8b0d4cd0",
+    "author": "Daniel J. Lizotte and Omid Madani and Russell Greiner",
+    "title": "Budgeted Learning, Part II: The Na#ve-Bayes Case",
+    "venue": "Department of Computing Science University of Alberta",
+    "year": "",
+    "window": "from the UCI Machine Learning Repository [BM98]. These plots show cross validation error (20% of the dataset) on the <b>mushroom</b> and votes datasets of the different policies. Each point is an average of 50 trials where in each trial a random balanced partition of classes were made for training and validation.",
+    "mykey": 1395
+}

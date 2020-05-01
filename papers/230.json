@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "19B51725937B2E53552E50AE2E8D86CB46EF3FDE",
+    "rexaID": "c6b935ac4dda0316f104278bd74029b224d8ed74",
+    "author": "A. da Valls and Vicen Torra",
+    "title": "Explaining the consensus of opinions with the vocabulary of the experts",
+    "venue": "Dept. d'Enginyeria Informtica i Matemtiques Universitat Rovira i Virgili",
+    "year": "",
+    "window": "as L i+1 end if return d(P i ,P c ) calculated with the definition (1). end. 4.1 Experimental results We have made different tests on different domains. Particularly, we have considered a well-known data set: <b>Iris</b> [10], which has 150 flowers described by means of 4 numerical attributes: petal and sepal length, and petal and sepal width; and a second set of data built by 5 colleagues who have described",
+    "mykey": 230
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "53DFBC477FFB016E36D54F98E48695902D8EB566",
+    "rexaID": "944b9d70eb0a01d18c91109dfeb566936461a194",
+    "author": "Alexander K. Seewald",
+    "title": "Meta-Learning for Stacked Classification",
+    "venue": "Austrian Research Institute for Artificial Intelligence",
+    "year": "",
+    "window": "features which uniquely characterize the dataset. These were inspired by the <b>StatLOG</b> project (Brazdil, Gama & Henery, 1994) and reimplemented in WEKA. # Inst, the number of examples. # log(Inst) which is the natural logarithm of Inst. # Classes,",
+    "mykey": 772
+}

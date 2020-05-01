@@ -1,0 +1,23 @@
+{
+    "ID": 434,
+    "Name": "ICMLA 2014 Accepted Papers Data Set",
+    "Abstract": "This data set compromises the metadata for the 2014 ICMLA conference's accepted papers, including ID, paper titles, author's keywords, abstracts and sessions in which they were exposed.",
+    "Types": "Multivariate",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "",
+    "NumInstances": 105,
+    "NumAttributes": 5,
+    "DateDonated": "2018-02-19",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00434/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "CSV format where each row is a paper and each column an attribute.",
+    "Source": "Diego Vallejo-Huanga, dvallejoh@asig.com.ec, Professor of the Department of Mathematics, Universidad San Francisco de Quito.",
+    "Acknowledgements": "[1] Vallejo-Huanga, Diego, Paulina Morillo, and Cesar Ferri. 2017. \u00e2\u20ac\u0153Semi-Supervised Clustering Algorithms for Grouping Scientific Articles.\u00e2\u20ac\u009d In Procedia Computer Science, 108:325\u00e2\u20ac\u201c34. Elsevier B.V. doi:10.1016/j.procs.2017.05.206.\r\n[2] Vallejo, Diego, Paulina Morillo, and Cesar Ferri. 2017. \u00e2\u20ac\u0153ADoCS: Automatic Designer of Conference Schedules.\u00e2\u20ac\u009d In Proceedings of the Software Demonstrations of the 15th Conference of the European Chapter of the Association for Computational Linguistics (pp. 41-44).",
+    "Area": "Other",
+    "RelevantPapers": "[1] Vallejo-Huanga, Diego, Paulina Morillo, and Cesar Ferri. 2017. \u00e2\u20ac\u0153Semi-Supervised Clustering Algorithms for Grouping Scientific Articles.\u00e2\u20ac\u009d In Procedia Computer Science, 108:325\u00e2\u20ac\u201c34. Elsevier B.V. doi:10.1016/j.procs.2017.05.206.\r\n[2] Vallejo, Diego, Paulina Morillo, and Cesar Ferri. 2017. \u00e2\u20ac\u0153ADoCS: Automatic Designer of Conference Schedules.\u00e2\u20ac\u009d In Proceedings of the Software Demonstrations of the 15th Conference of the European Chapter of the Association for Computational Linguistics (pp. 41-44).",
+    "AttributeInfo": "Paper_Id: Number; identifier of the paper\r\nPaper_Title: Free text; title of the paper \r\nAuthor_Keywords: Free text; author-generated keywords \r\nAbstract: Free text; paper abstracts\r\nSession: Categorical; conference organizer's-selected, conference session in which the paper was presented",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

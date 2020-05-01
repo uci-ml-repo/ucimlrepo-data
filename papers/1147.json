@@ -1,0 +1,11 @@
+{
+    "datasetID": 31,
+    "supportID": "7540A934F393C20AA2002A1BCD3990EF6BC18CCD",
+    "rexaID": "097c7a7a0199cda61be7fac0050755303cec3b46",
+    "author": "Arto Klami and Samuel Kaski and Ty n ohjaaja and Janne Sinkkonen",
+    "title": "HELSINKI UNIVERSITY OF TECHNOLOGY Department of Engineering Physics and Mathematics Arto Klami Regularized Discriminative Clustering",
+    "venue": "Regularized Discriminative Clustering",
+    "year": "",
+    "window": "Dimensions Classes Samples TIMIT phoneme data 12 41 99983 Letter Recognition Data 16 26 20000 Forest <b>CoverType</b> data 10 7 100000 6.2.1 Data sets The data sets used for testing were chosen to be suitable for the task of discriminative clustering. The feature vectors are continuous and real-valued, and a categorical variable to be used as",
+    "mykey": 1147
+}

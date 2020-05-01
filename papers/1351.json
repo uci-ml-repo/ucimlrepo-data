@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "876648730F2CE199B9368ED5DF5B6A6838C48DA0",
+    "rexaID": "da329267bf8880c2becb15eae121a5b002347349",
+    "author": "Rong-En Fan and P. -H Chen and C. -J Lin",
+    "title": "Working Set Selection Using the Second Order Information for Training SVM",
+    "venue": "Department of Computer Science and Information Engineering National Taiwan University",
+    "year": "",
+    "window": "was originally used in (Bailey et al., 1993). The problem mg is a Mackey <b>Glass</b> time series. The data sets cpusmall and splice are from the Delve archive (http://www.cs.toronto.edu/~delve). Problem fourclass is from (Ho and Kleinberg, 1996) and we further transform it to a two-class set. The problem",
+    "mykey": 1351
+}

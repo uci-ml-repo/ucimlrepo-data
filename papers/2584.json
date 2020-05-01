@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "FFB009681A2DF6A14F88336D04CB6758B090F8E4",
+    "rexaID": "93fcd9513832c5bf30d24120ab3bba1f9ec422b2",
+    "author": "Richard Maclin",
+    "title": "Boosting Classifiers Regionally",
+    "venue": "AAAI/IAAI",
+    "year": "1998",
+    "window": "used in this paper. Shown are the number of examples and output classes, plus the number of inputs, outputs, hidden units and training epochs used for each network. Data Set Case Out In Hid Epch <b>breast</b> <b>cancer</b> w 699 2 9 5 20 credit-a 690 2 47 10 35 credit-g 1000 2 63 10 30 diabetes 768 2 8 5 30 glass 214 6 9 10 80 heart-cleveland 303 2 13 5 40 hepatitis 155 2 32 10 60",
+    "mykey": 2584
+}

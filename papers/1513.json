@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "9689A0CB301FFED7D71BD2DD5DB76408B2CE7B4B",
+    "rexaID": "b2d8d3d5275f9de64f7d1d58ed346fc673f94065",
+    "author": "Edward Snelson and Carl Edward Rasmussen and Zoubin Ghahramani",
+    "title": "Draft version; accepted for NIPS*03 Warped Gaussian Processes",
+    "venue": "Gatsby Computational Neuroscience Unit University College London",
+    "year": "",
+    "window": "D t min t max N train N test creep 30 18 MPa 530 MPa 800 1266 <b>abalone</b> 8 1 yr 29 yrs 1000 3177 ailerons 4010Dataset Model Absolute error Squared errorcreep GP 16.4 654 4.46 GP + log 15.6 587 4.24 warped GP 15.0 554 4.19 abalone GP 1.53 4.79 2.19 GP + log 1.48 4.62 2.01 warped GP 1.47 4.63 1.96 ailerons GP 1.23 \u00d7",
+    "mykey": 1513
+}

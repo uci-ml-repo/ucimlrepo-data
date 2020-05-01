@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "FB9D0E16A7153662666E3B418B0E61EED5CD6F42",
+    "rexaID": "f14d3edaeac2280dc4e49948d9d0fc1159bd05ca",
+    "author": "Daniel J. Lizotte and Omid Madani and Russell Greiner",
+    "title": "Budgeted Learning of Naive-Bayes Classifiers",
+    "venue": "UAI",
+    "year": "2003",
+    "window": "from the UCI Machine Learning Repository [BM98]. These plots show cross validation error (20% of the dataset) on the <b>mushroom</b> and votes datasets of the different policies. Each point is an average of 50 trials where in each trial a random balanced partition of classes was made for training and validation.",
+    "mykey": 2550
+}

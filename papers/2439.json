@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "F208C18D930B97D19D1035520FA85CD2DFEB86D9",
+    "rexaID": "6f73140310964259ac6a55207d875a82537c0548",
+    "author": "Wl/odzisl/aw Duch and Jerzy J. Korczak",
+    "title": "Optimization and global minimization methods suitable for neural networks",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "by NOVEL and SIMANN. Genetic algorithms achieved the worst results, below 60% in all cases, being unable to find good solutions. NOVEL has also been tried on <b>Sonar</b>  Vovel, 10-parity and NetTalk datasets from the UCI repository [13], using different number of hidden units, achieving very good results on the test sets, and falling behind TN-MS only in one case. From these few comparisons scattered",
+    "mykey": 2439
+}

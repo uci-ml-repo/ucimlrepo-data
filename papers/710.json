@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "5084909AA758ACF14841A1DDAF0DFE88CDDCEA6A",
+    "rexaID": "3f9e71cd1f71f5f65b712d5cc5c29045d0193711",
+    "author": "Ron Kohavi and George H. John and Richard Long and David Manley and Karl Pfleger",
+    "title": "MLC++: A Machine Learning Library in C",
+    "venue": "ICTAI",
+    "year": "1994",
+    "window": "n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u n y u Figure 4: The <b>vote dataset</b> (top), the concept induced by ID3 (center), and the concept induced by HOODG (bottom). 13 Body Shape Head Shape Is Smiling yes no yes no yes no yes no yes no yes no yes no yes no yes no round squar",
+    "mykey": 710
+}

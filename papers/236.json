@@ -1,0 +1,11 @@
+{
+    "datasetID": 60,
+    "supportID": "1AAC6453FBB8333EE638B6D8B2BB2AFF06C3654B",
+    "rexaID": "16dd8d9f932c39ea0ea893358ed2642560fd6244",
+    "author": "Greg Ridgeway",
+    "title": "The State of Boosting",
+    "venue": "Department of Statistics University of Washington",
+    "year": "",
+    "window": "to examine the performance of boosting Cox's proportional hazards model, I turn to a clinical trial for testing the drug DPCA for the treatment of primary biliary cirrhosis of the <b>liver</b> (PBC). This dataset has been the subject of several modern data analyses (Fleming and Harrington 1991). I tested this method by comparing the out-of-sample predictive performance of the linear Cox model to the Cox",
+    "mykey": 236
+}

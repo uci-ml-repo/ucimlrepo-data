@@ -1,0 +1,11 @@
+{
+    "datasetID": 147,
+    "supportID": "7FF8F0363289161F9CA8B223E5B317357C29CC1A",
+    "rexaID": "c495658301b0128f01553cf69d64ab348a217d67",
+    "author": "James Tin and Yau Kwok",
+    "title": "Moderating the Outputs of Support Vector Machine Classifiers",
+    "venue": "Department of Computer Science Hong Kong Baptist University Hong Kong",
+    "year": "",
+    "window": "NETWORKS, VOL. XX, NO. Y, MONTH 1999 5 TABLE I Values of G from various SVM outputs. clipped MAP unmoderated regularized, unmoderated moderated 1 1 3801 1417 B. <b>image segmentation</b> Problem The second data set is the image segmentation data from the UCI machine learning repository[37]. Each pattern has 19 continuous attributes and corresponds to a 3 # 3 region of an outdoor image. The problem is to",
+    "mykey": 1279
+}

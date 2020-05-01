@@ -1,0 +1,11 @@
+{
+    "datasetID": 87,
+    "supportID": "561C40AC0091D15185FF9435B69D6C1FEB299749",
+    "rexaID": "e76ede4369e0fb1cdbdae67f131c89b40f76e74c",
+    "author": "Georg Thimm and Emile Fiesler",
+    "title": "High Order and Multilayer Perceptron Initialization",
+    "venue": "",
+    "year": "",
+    "window": "itself has a large influence on the optimal initial weight variance: for the solar, wine, and <b>servo</b> data sets, the networks have about the same size for the same order, but the optimal value for the weight variance differs a lot for the network with the logistic activation function. Further, the optimal",
+    "mykey": 782
+}

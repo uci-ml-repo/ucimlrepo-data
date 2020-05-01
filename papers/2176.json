@@ -1,0 +1,11 @@
+{
+    "datasetID": 54,
+    "supportID": "D805A7A2A26466B05693D5FB11BE65E4FA3FF1EC",
+    "rexaID": "9fe9e6630b7b953504726b9b36281c4f738b964e",
+    "author": "Shlomo Dubnov and Ran El and Yaniv Technion and Yoram Gdalyahu and Elad Schneidman and Naftali Tishby and Golan Yona",
+    "title": "Clustering By Friends : A New Nonparametric Pairwise Distance Based Clustering Algorithm",
+    "venue": "Ben Gurion University",
+    "year": "",
+    "window": "procedure of the cross-validation index (see Section 3) and we only report the resulting cross-validation indices obtained during the computations. In section 5.1 we consider the classical Iris data sets. Then, in section 5.2 we consider the <b>Isolet</b> data set. An application to musical data is considered in section 5.3. 5.1. The Iris Data This data set, due to Fisher (Fisher, 1936), is a classic",
+    "mykey": 2176
+}

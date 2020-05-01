@@ -1,0 +1,23 @@
+{
+    "ID": 90,
+    "Name": "Soybean (Large)",
+    "Abstract": "Michalski's famous soybean disease database",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 307,
+    "NumAttributes": 35,
+    "DateDonated": "1988-07-11",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/soybean/",
+    "URLReadme": "../machine-learning-databases/soybean/soybean-large.names",
+    "HighestAccuracy": 97,
+    "RelevantInfo": "There are 19 classes, only the first 15 of which have been used in prior work. The folklore seems to be that the last four classes are unjustified by the data since they have so few examples. There are 35 categorical attributes, some nominal and some ordered.  The value \"dna'' means does not apply.  The values for attributes are encoded numerically, with the first value encoded as \"0,'' the second as \"1,'' and so forth.  An unknown values is encoded as \"?''.",
+    "Source": "Origin:\r\n\r\nR.S. Michalski and R.L. Chilausky \r\n\"Learning by Being Told and Learning from Examples: An Experimental Comparison of the Two Methods of Knowledge Acquisition in the Context of Developing an Expert System for Soybean Disease Diagnosis\", \r\nInternational Journal of Policy Analysis and Information Systems, Vol. 4, No. 2, 1980.\r\n\r\nDonor: \r\n\r\nMing Tan & Jeff Schlimmer (Jeff.Schlimmer%cs.cmu.edu)",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "Tan, M., & Eshelman, L. (1988). Using weighted networks to represent classification knowledge in noisy domains.  Proceedings of the Fifth International Conference on Machine Learning (pp. 121-134). Ann Arbor, Michigan: Morgan Kaufmann.\r\nhttp://rexa.info/paper/9caf1d9fd8292532ba2a5348c6f381ca5421b59e\r\n\r\nFisher,D.H. & Schlimmer,J.C. (1988). Concept Simplification and Predictive Accuracy. Proceedings of the Fifth International Conference on Machine Learning (pp. 22-28). Ann Arbor, Michigan: Morgan Kaufmann.\r\nhttp://rexa.info/paper/71b78822eab4b70819ca479b23c5a84a70185605",
+    "AttributeInfo": "    -- 19 Classes\r\n     diaporthe-stem-canker, charcoal-rot, rhizoctonia-root-rot,\r\n     phytophthora-rot, brown-stem-rot, powdery-mildew,\r\n     downy-mildew, brown-spot, bacterial-blight,\r\n     bacterial-pustule, purple-seed-stain, anthracnose,\r\n     phyllosticta-leaf-spot, alternarialeaf-spot,\r\n     frog-eye-leaf-spot, diaporthe-pod-&-stem-blight,\r\n     cyst-nematode, 2-4-d-injury, herbicide-injury.\t\r\n\r\n    1. date:\t\tapril,may,june,july,august,september,october,?.\r\n    2. plant-stand:\tnormal,lt-normal,?.\r\n    3. precip:\t\tlt-norm,norm,gt-norm,?.\r\n    4. temp:\t\tlt-norm,norm,gt-norm,?.\r\n    5. hail:\t\tyes,no,?.\r\n    6. crop-hist:\tdiff-lst-year,same-lst-yr,same-lst-two-yrs,\r\n                        same-lst-sev-yrs,?.\r\n    7. area-damaged:\tscattered,low-areas,upper-areas,whole-field,?.\r\n    8. severity:\tminor,pot-severe,severe,?.\r\n    9. seed-tmt:\tnone,fungicide,other,?.\r\n   10. germination:\t90-100%,80-89%,lt-80%,?.\r\n   11. plant-growth:\tnorm,abnorm,?.\r\n   12. leaves:\t\tnorm,abnorm.\r\n   13. leafspots-halo:\tabsent,yellow-halos,no-yellow-halos,?.\r\n   14. leafspots-marg:\tw-s-marg,no-w-s-marg,dna,?.\r\n   15. leafspot-size:\tlt-1/8,gt-1/8,dna,?.\r\n   16. leaf-shread:\tabsent,present,?.\r\n   17. leaf-malf:\tabsent,present,?.\r\n   18. leaf-mild:\tabsent,upper-surf,lower-surf,?.\r\n   19. stem:\t\tnorm,abnorm,?.\r\n   20. lodging:    \tyes,no,?.\r\n   21. stem-cankers:\tabsent,below-soil,above-soil,above-sec-nde,?.\r\n   22. canker-lesion:\tdna,brown,dk-brown-blk,tan,?.\r\n   23. fruiting-bodies:\tabsent,present,?.\r\n   24. external decay:\tabsent,firm-and-dry,watery,?.\r\n   25. mycelium:\tabsent,present,?.\r\n   26. int-discolor:\tnone,brown,black,?.\r\n   27. sclerotia:\tabsent,present,?.\r\n   28. fruit-pods:\tnorm,diseased,few-present,dna,?.\r\n   29. fruit spots:\tabsent,colored,brown-w/blk-specks,distort,dna,?.\r\n   30. seed:\t\tnorm,abnorm,?.\r\n   31. mold-growth:\tabsent,present,?.\r\n   32. seed-discolor:\tabsent,present,?.\r\n   33. seed-size:\tnorm,lt-norm,?.\r\n   34. shriveling:\tabsent,present,?.\r\n   35. roots:\t\tnorm,rotted,galls-cysts,?.",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 16290
+}

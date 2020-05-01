@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "84E683FAF2CD08B20401EF2471DB2B85B44F2BB7",
+    "rexaID": "edc7361f3edbcbb2421477d257bf1305834c5c61",
+    "author": "Sherrie L. W and Zijian Zheng",
+    "title": "A BENCHMARK FOR CLASSIFIER LEARNING",
+    "venue": "Basser Department of Computer Science The University of Sydney",
+    "year": "",
+    "window": "in the first quartile of all the candidate values. Large and high mean in the last quartile of all the candidate values. Medium means between the small (or low) and the large (or high). Table 1. Datasets in the benchmark Name Description <b>Breast</b> <b>Cancer</b> (W) Medical diagnosis applied to breast cytology (Wisconsin) Diabetes Pima Indians diabetes database for diagnosing diabetes Hepatitis Predicting",
+    "mykey": 1333
+}

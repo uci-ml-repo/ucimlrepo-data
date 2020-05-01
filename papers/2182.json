@@ -1,0 +1,11 @@
+{
+    "datasetID": 8,
+    "supportID": "D89D572598888C820DF232F1E1F1F0D1A3210231",
+    "rexaID": "7125dc87ceddf952f1840074b40ac0526dcc03dc",
+    "author": "Marcus Hutter and Marco Zaffalon",
+    "title": "Distribution of Mutual Information from Complete and Incomplete Data",
+    "venue": "CoRR, csLG/0403025",
+    "year": "2004",
+    "window": "behave very similarly to the case of complete data. The filter FF still selects the smallest number of features, and this number usually increases with F and even more with BF. The selection 23 Data set #feat. FF F BF <b>Audiology</b> 69 64.3 68.0 68.7 Crx 15 9.7 12.6 13.8 Horse-colic 18 11.8 16.1 17.4 Hypothyroidloss 23 4.3 8.3 13.2 Soybean-large 35 34.2 35.0 35.0 Tab l e 4 Average number of attributes",
+    "mykey": 2182
+}

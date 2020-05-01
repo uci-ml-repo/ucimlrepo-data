@@ -1,0 +1,11 @@
+{
+    "datasetID": 102,
+    "supportID": "C236AE947E41B2A044C181842DF6842A435DF558",
+    "rexaID": "53ac23f963b3607aae9580b356e6b236d2955314",
+    "author": "Wl/odzisl/aw Duch and Rafal/ Adamczak Email:duchraad@phys. uni. torun. pl",
+    "title": "Statistical methods for construction of neural networks",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "show that it would certainly be worthwhile to try. 3. Logical rules for network construction. Table 1: Classification results for a number of optimized MLP training algorithms applied to the <b>thyroid</b> dataset -- only the best results are shown. BP = Backpropagation. Method Training % Test k-NN (Manhattan) -- 93.8 Bayes rule [14] 97.0 96.1 BP+conjugate gradient 94.6 93.8 Best BP 99.1 97.6 RPROP 99.6 98.0",
+    "mykey": 1966
+}

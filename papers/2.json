@@ -1,0 +1,11 @@
+{
+    "datasetID": 40,
+    "supportID": "007BBC1796239FF0E9C3507E864AA0E12F41F79A",
+    "rexaID": "82cbfc464ed8d2bd0b91ffd1132022df16b7334d",
+    "author": "Wl/odzisl/aw Duch and Karol Grudzi nski and Grzegorz Stawski",
+    "title": "SYMBOLIC FEATURES IN NEURAL NETWORKS",
+    "venue": "Department of Computer Methods, Nicolaus Copernicus University",
+    "year": "",
+    "window": "Both FSM network and k-NN algorithm achieved similar results (within statistical accuracy) on the raw data as on the converted data (the number of attributes did not change here). On the <b>Flags</b> dataset, containing 194 samples, 3 continuous and 25 symbolic attributes, 8 classes (majority rate 30.8%) and no missing values, 10-fold cross-validation tests were performed. Large improvement is observed",
+    "mykey": 2
+}

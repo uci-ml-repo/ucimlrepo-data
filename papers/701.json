@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "4F7B8693AA194F6404D868962DF65BC4997C9029",
+    "rexaID": "30ef69908e0a0792007e4a8b95c7c422b7e0ff99",
+    "author": "Zoubin Ghahramani and Hyun-Chul Kim",
+    "title": "Bayesian Classifier Combination",
+    "venue": "Gatsby Computational Neuroscience Unit University College London",
+    "year": "2003",
+    "window": "and using different component classifiers. We used Satellite and DNA data sets from the <b>Statlog</b> project([8]) and the UCI digit data set ([1]) 3 . Our goal was not to obtain the best classifier performance---for this we would have paid very careful attention to the component",
+    "mykey": 701
+}

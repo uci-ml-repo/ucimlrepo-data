@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "A37D1BCD1A7A46081EADA6AC96E787D4EBE10722",
+    "rexaID": "4133f6bdbdc248e6e8cac9083cf934be0dd0fa31",
+    "author": "W. Nick Street and Yoo-Hyon Kim",
+    "title": "A streaming ensemble algorithm (SEA) for large-scale classification",
+    "venue": "KDD",
+    "year": "2001",
+    "window": "contains 44,848 instances of which 29.3% are in the over 50k\" class. # SEER <b>breast</b> <b>cancer</b>  The breast cancer data set from the Surveillance, Epidemiology, and End Results (SEER) program [6] of the National Institutes of Health contains follow-up data on over 44,000 breast cancer patients. The cases were filtered to",
+    "mykey": 1664
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 485,
+    "Name": "Tarvel Review Ratings",
+    "Abstract": "Google reviews on attractions from 24 categories across Europe are considered. Google user rating ranges from 1 to 5 and average user rating per category is calculated.",
+    "Types": "Multivariate, Text",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 5456,
+    "NumAttributes": 25,
+    "DateDonated": "2018-12-19",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00485/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This data set is populated by capturing user ratings from Google reviews. Reviews on attractions from 24 categories across Europe are considered. Google user rating ranges from 1 to 5 and average user rating per category is calculated. ",
+    "Source": "Shini Renjith, shinirenjith@gmail.com",
+    "Acknowledgements": "Renjith, Shini, A. Sreekumar, and M. Jathavedan. 2018. \u00e2\u20ac\u0153Evaluation of Partitioning Clustering Algorithms for Processing Social Media Data in Tourism Domain\u00e2\u20ac\u009d. In 2018 IEEE Recent Advances in Intelligent Computational Systems (RAICS), 127\u00e2\u20ac\u201c31. IEEE.",
+    "Area": "Other",
+    "RelevantPapers": "Renjith, Shini, A. Sreekumar, and M. Jathavedan. 2018. \u00e2\u20ac\u0153Evaluation of Partitioning Clustering Algorithms for Processing Social Media Data in Tourism Domain\u00e2\u20ac\u009d. In 2018 IEEE Recent Advances in Intelligent Computational Systems (RAICS), 127\u00e2\u20ac\u201c31. IEEE.",
+    "AttributeInfo": "Attribute 1 : Unique user id\r\nAttribute 2 : Average ratings on churches\r\nAttribute 3 : Average ratings on resorts\r\nAttribute 4 : Average ratings on beaches\r\nAttribute 5 : Average ratings on parks\r\nAttribute 6 : Average ratings on theatres\r\nAttribute 7 : Average ratings on museums\r\nAttribute 8 : Average ratings on malls\r\nAttribute 9 : Average ratings on zoo\r\nAttribute 10 : Average ratings on restaurants\r\nAttribute 11 : Average ratings on pubs/bars\r\nAttribute 12 : Average ratings on local services\r\nAttribute 13 : Average ratings on burger/pizza shops\r\nAttribute 14 : Average ratings on hotels/other lodgings\r\nAttribute 15 : Average ratings on juice bars\r\nAttribute 16 : Average ratings on art galleries\r\nAttribute 17 : Average ratings on dance clubs\r\nAttribute 18 : Average ratings on swimming pools\r\nAttribute 19 : Average ratings on gyms\r\nAttribute 20 : Average ratings on bakeries\r\nAttribute 21 : Average ratings on beauty & spas\r\nAttribute 22 : Average ratings on cafes\r\nAttribute 23 : Average ratings on view points\r\nAttribute 24 : Average ratings on monuments\r\nAttribute 25 : Average ratings on gardens",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

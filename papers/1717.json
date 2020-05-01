@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "A7AE71206FBB3DCF5718BF6B8CAD9C2E208E6289",
+    "rexaID": "fdc570273fa15597fa6f45ce2a2d2129f56e2c56",
+    "author": "Asa Ben-Hur and David Horn and Hava T. Siegelmann and Vladimir Vapnik",
+    "title": "A Support Vector Method for Hierarchical Clustering",
+    "venue": "Faculty of IE and Management Technion",
+    "year": "",
+    "window": "cost of a decrease in efficiency, which makes our algorithm useful even for very large data-sets. To compare the performance of our algorithm with other hierarchical algorithms we ran it on the <b>Iris</b> data set [15], which is a standard benchmark in the pattern recognition literature. It can be obtained from the UCI repository [16]. The data set contains 150 instances each containing four measurements of",
+    "mykey": 1717
+}

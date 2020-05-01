@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "DA10D6267911AD40DA9891992870DCD8D8012F41",
+    "rexaID": "9628f95b0cc07019875b0659d10aab8e2904bfca",
+    "author": "Jianping Wu and Zhi-Hua Zhou and Cheng-The Chen",
+    "title": "Ensemble of GA based Selective Neural Network Ensembles",
+    "venue": "National Laboratory for Novel Software Technology Nanjing University",
+    "year": "",
+    "window": "average mean squared error and corresponding standard deviation is also recorded. Experimental results are shown in Table 1. Statistical tests show that on the Friedman#1, Boston <b>Housing</b>  and Ozone data sets, GASEN's generalization error is significantly lower than that of the simple ensemble method, and e-GASEN attains still lower generalization errors than GASEN. On the Servo data set, GASEN is",
+    "mykey": 2206
+}

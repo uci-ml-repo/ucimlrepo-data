@@ -1,0 +1,23 @@
+{
+    "ID": 304,
+    "Name": "BlogFeedback",
+    "Abstract": "Instances in this dataset contain features extracted from blog posts. The task associated with the data is to predict how many comments the post will receive.",
+    "Types": "Multivariate",
+    "Task": "Regression",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 60021,
+    "NumAttributes": 281,
+    "DateDonated": "2014-05-29",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00304/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This data originates from blog posts. The raw HTML-documents \r\nof the blog posts were crawled and processed. \r\nThe prediction task associated with the data is the prediction \r\nof the number of comments in the upcoming 24 hours. In order \r\nto simulate this situation, we choose a basetime (in the past) \r\nand select the blog posts that were published at most\r\n72 hours before the selected base date/time. Then, we calculate\r\nall the features of the selected blog posts from the information \r\nthat was available at the basetime, therefore each instance \r\ncorresponds to a blog post. The target is the number of \r\ncomments that the blog post received in the next 24 hours \r\nrelative to the basetime. \r\n\r\nIn the train data, the basetimes were in the years \r\n2010 and 2011. In the test data the basetimes were \r\nin February and March 2012. This simulates the real-world \r\nsitutation in which training data from the past is available \r\nto predict events in the future.\r\n\r\nThe train data was generated from different basetimes that may \r\ntemporally overlap. Therefore, if you simply split the train \r\ninto disjoint partitions, the underlying time intervals may \r\noverlap. Therefore, the you should use the provided, temporally \r\ndisjoint train and test splits in order to ensure that the\r\nevaluation is fair. ",
+    "Source": "Krisztian Buza\r\nBudapest University of Technology and Economics\r\nbuza@cs.bme.hu\r\nhttp://www.cs.bme.hu/~buza",
+    "Acknowledgements": "Buza, K. (2014). Feedback Prediction for Blogs. In Data Analysis, Machine Learning and Knowledge Discovery (pp. 145-152). Springer International Publishing.",
+    "Area": "Social",
+    "RelevantPapers": "Buza, K. (2014). Feedback Prediction for Blogs. In Data Analysis, Machine Learning and Knowledge Discovery (pp. 145-152). Springer International Publishing.",
+    "AttributeInfo": "1...50: \r\n      Average, standard deviation, min, max and median of the \r\n      Attributes 51...60 for the source of the current blog post\r\n      With source we mean the blog on which the post appeared. \r\n      For example, myblog.blog.org would be the source of \r\n      the post myblog.blog.org/post_2010_09_10 \r\n51:   Total number of comments before basetime\r\n52:   Number of comments in the last 24 hours before the \r\n      basetime\r\n53:   Let T1 denote the datetime 48 hours before basetime,\r\n      Let T2 denote the datetime 24 hours before basetime.\r\n      This attribute is the number of comments in the time period \r\n      between T1 and T2\r\n54:   Number of comments in the first 24 hours after the \r\n      publication of the blog post, but before basetime\r\n55:   The difference of Attribute 52 and Attribute 53\r\n56...60: \r\n      The same features as the attributes 51...55, but  \r\n      features 56...60 refer to the number of links (trackbacks), \r\n      while features 51...55 refer to the number of comments.\r\n61:   The length of time between the publication of the blog post \r\n      and basetime\r\n62:   The length of the blog post\r\n63...262: \r\n      The 200 bag of words features for 200 frequent words of the \r\n      text of the blog post\r\n263...269: binary indicator features (0 or 1) for the weekday\r\n      (Monday...Sunday) of the basetime\r\n270...276: binary indicator features (0 or 1) for the weekday\r\n      (Monday...Sunday) of the date of publication of the blog\r\n      post\r\n277:  Number of parent pages: we consider a blog post P as a\r\n      parent of blog post B, if B is a reply (trackback) to \r\n      blog post P.\r\n278...280:  \r\n      Minimum, maximum, average number of comments that the \r\n      parents received\r\n281:  The target: the number of comments in the next 24 hours\r\n      (relative to basetime)",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "7471D780EE25D4010170C5BC233C38D5AFF3AF95",
+    "rexaID": "55a7f45a6b42ceb9097c7260032694bcbd8a2fd2",
+    "author": "Gary M. Weiss and Haym Hirsh",
+    "title": "A Quantitative Study of Small Disjuncts: Experiments and Results",
+    "venue": "Department of Computer Science Rutgers University",
+    "year": "2000",
+    "window": "validation and the results are therefore based on averages of the test set calculated over 10 runs. Unless specified otherwise, all results are based on C4.5 without pruning. 3 AN EXAMPLE: THE <b>VOTE DATASET</b> In order to illustrate the problem with small disjuncts and introduce a way of measuring this problem, we examine the concept learned by C4.5 from the Vote dataset. Figure 1 shows how the correctly",
+    "mykey": 1132
+}

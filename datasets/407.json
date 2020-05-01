@@ -1,0 +1,23 @@
+{
+    "ID": 407,
+    "Name": "TTC-3600: Benchmark dataset for Turkish text categorization",
+    "Abstract": "The TTC-3600 data set is a collection of Turkish news and articles including categorized 3,600 documents from 6 well-known portals in Turkey. It has 4 different forms in ARFF Weka format.",
+    "Types": "Text",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Integer",
+    "NumInstances": 3600,
+    "NumAttributes": 4814,
+    "DateDonated": "2017-02-08",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00407/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset consists of a total of 3600 documents including 600 news/texts from six categories \u00e2\u20ac\u201c economy, culture-arts, health, politics, sports and technology \u00e2\u20ac\u201c obtained\r\nfrom six well-known news portals and agencies (Hurriyet,Posta,Iha,HaberTurk,Radikal and Zaman). Documents of TTC-3600 dataset were collected between May and July 2015 via Rich Site Summary (RSS) feeds from six categories of the respective portals. All java scripts, HTML tags ( < img> , < a > , < p > , < strong> etc.), operators, punctuations, non-printable characters and irrelevant data such as advertising are removed.\r\n\r\nThree additional dataset versions are created on TTC-3600 by implementing different stemming methods. In all versions of datasets, first, removal-based pre-processing, which is explained in Section 3.2 in detail, is used. Then Turkish stop-words that have no discriminatory power (pronouns, prepositions, conjunctions, etc.) in regard to TC are removed\r\nfrom datasets except for the original one. In this study, a semi-automatically constructed stop-words list that contains 147 words is utilized.",
+    "Source": "Assist.Prof.Dr. Deniz KILIN\u00c3\u2021, Faculty of Technology, Celal Bayar University, Turkey\r\ndrdenizkilinc'@'gmail.com",
+    "Acknowledgements": "K\u00c4\u00b1l\u00c4\u00b1n\u00c3\u00a7, Deniz, et al. 'TTC-3600: A new benchmark dataset for Turkish text categorization.' Journal of Information Science (2015): 0165551515620551.",
+    "Area": "Computer",
+    "RelevantPapers": "http://journals.sagepub.com/doi/abs/10.1177/0165551515620551",
+    "AttributeInfo": "ARFF (Attribute-Relation File Format) Weka format ",
+    "FormatType": "Matrix",
+    "NumHits": 1
+}

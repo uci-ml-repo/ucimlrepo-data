@@ -1,0 +1,11 @@
+{
+    "datasetID": 89,
+    "supportID": "5A13D7532F186BB8D3B04A802BCD657FD4B2A027",
+    "rexaID": "021a415dcb129689411af1d4b233ec48a090aae6",
+    "author": "Sally A. Goldman and Yan Zhou",
+    "title": "Enhancing Supervised Learning with Unlabeled Data",
+    "venue": "ICML",
+    "year": "2000",
+    "window": "we used for our empirical tests as well as a summary of our results. Figure 1 shows the results from one of our runs using the <b>Flare</b> data in graphical form. For this data set HOODG performed better than ID3 when using just the initial labeled data (i.e. round 0). Our cotraining procedure helped both algorithms to improve their performance. Figure 2 shows the results from",
+    "mykey": 829
+}

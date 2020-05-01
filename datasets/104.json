@@ -1,0 +1,23 @@
+{
+    "ID": 104,
+    "Name": "University",
+    "Abstract": "Data in original (LISP-readable) form",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 285,
+    "NumAttributes": 17,
+    "DateDonated": "1988-07-01",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/university/",
+    "URLReadme": "../machine-learning-databases/university/university.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Format: Each observation concerns one university. In some cases, more information is provided about the attribute (e.g., units or domain). Some duplicates may exist and a single observation may have more than one value for a given attribute (esp. academic emphasis).\r\n\r\nIt appears that several attributes could serve as a distinguished class attribute for this database.  The data file remains in the state as given to us by Steve Souders.  It is a LISP readable file with a few relevant functions at the end of the data file.  The info on missing data values have not been calculated.  We hope to get to this in the future.",
+    "Source": "Original Owner: \r\n\r\nunknown\r\n\r\nDonor:  \r\n\r\nSteve Souders <souders@ads.com>",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "Lebowitz M. \"Concept learning in a rich input domain : generalization-based memory.\" Machine Learning, Vol 2, No 2, September 1987.\r\nhttp://rexa.info/paper/53f68588175a200a47d7a671b4e62551874ef1d2",
+    "AttributeInfo": "     1. University-name\r\n     2. State\r\n     3. location\r\n     4. Control\r\n     5. number-of-students\r\n     6. male:female (ratio)\r\n     7. student:faculty (ratio)\r\n     8. sat-verbal\r\n     9. sat-math\r\n    10. expenses\r\n    11. percent-financial-aid\r\n    12. number-of-applicants\r\n    13. percent-admittance\r\n    14. percent-enrolled\r\n    15. academics \r\n    16. social\r\n    17. quality-of-life\r\n    18. academic-emphasis\r\n",
+    "FormatType": "",
+    "NumHits": 21
+}

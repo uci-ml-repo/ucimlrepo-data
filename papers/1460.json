@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "93187059BF6EAB8DBAE1762B80ED7071F9A435BF",
+    "rexaID": "e2b2b723df700c90e69a31a4403b740c2d2a7b2f",
+    "author": "Alexander K. Seewald",
+    "title": "Dissertation Towards Understanding Stacking Studies of a General Ensemble Learning Scheme ausgefuhrt zum Zwecke der Erlangung des akademischen Grades eines Doktors der technischen Naturwissenschaften",
+    "venue": "",
+    "year": "",
+    "window": "instances. We rejected Principal Components Analysis after initial experiments because its linear projection on orthogonal axes is less general and the representation is noticeably worse for some datasets, e.g. <b>soybean</b>  We rejected self-organizing 1 We used the Sammon Mapping implementation from Vesanto, Himberg, Alhoniemi & Parhankangas (2000), which was written in MatLab script language. It worked",
+    "mykey": 1460
+}

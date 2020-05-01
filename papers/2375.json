@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "EC9570BD04915D03CA6306B11BAE55C2CBE731DE",
+    "rexaID": "f1395e1da4a724219d6cc414e48969140355bebb",
+    "author": "David R. Musicant",
+    "title": "DATA MINING VIA MATHEMATICAL PROGRAMMING AND MACHINE LEARNING",
+    "venue": "Doctor of Philosophy (Computer Sciences) UNIVERSITY",
+    "year": "",
+    "window": "of 600 points with 6 features, where each class contained 300 points. . The <b>mushroom</b> dataset is a two class dataset which contains a number of categorical attributes. We transformed each categorical attribute into a series of binary attributes, one attribute for each distinct value. For",
+    "mykey": 2375
+}

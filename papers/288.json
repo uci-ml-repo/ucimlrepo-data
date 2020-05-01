@@ -1,0 +1,11 @@
+{
+    "datasetID": 137,
+    "supportID": "2434E4B7E650DFAA074247083DCC8AFD7E8D0FBE",
+    "rexaID": "d6a42d10713c10dbc3efa4b7de53fb7f807caa0b",
+    "author": "Dmitry Pavlov and Jianchang Mao and Byron Dom",
+    "title": "Scaling-Up Support Vector Machines Using Boosting Algorithm",
+    "venue": "ICPR",
+    "year": "2000",
+    "window": "by the standard SVM training algorithms. 3. Experiments We compared performance of linear classifiers trained with the Boost-SMO and the Full-SMO (conventional SMO algorithm) on the following three data sets: the <b>Reuters</b> Data, the Microsoft Web Data and the UCI Adult Data. For the Reuters Data we looked at the classes \"acq\" and \"earn\" that have the greatest number of positive examples. The Microsoft",
+    "mykey": 288
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 185,
+    "supportID": "",
+    "rexaID": "F30678A01C0C743884981DC3811DFA481B78E627",
+    "author": "Tapani Raiko and Alexander Ilin and Juha Karhunen",
+    "title": "Principal Component Analysis for Large Scale Problems with Lots of Missing Values",
+    "venue": "ECML",
+    "year": "2007",
+    "window": "The experiments with <b>Netflix</b> data confirm that the proposed algorithm is much faster than any of the compared methods, and that VB-PCA method provides more accurate predictions for new data than traditional PCA or regularized PCA.",
+    "mykey": 2599
+}

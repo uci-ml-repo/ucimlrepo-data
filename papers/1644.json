@@ -1,0 +1,11 @@
+{
+    "datasetID": 150,
+    "supportID": "A0C968B9AE31C39DC2DEE8D213A25B07C277E341",
+    "rexaID": "86b2d2adbc4692e9aeafc750d7e02ef28799ac8f",
+    "author": "Steve Whittaker and Loren G. Terveen and Bonnie A. Nardi",
+    "title": "Let's stop pushing the envelope and start addressing it: a reference task agenda for HCI",
+    "venue": "a Senior Research Scientist in the Human Computer Interaction Department of AT&T LabsResearch",
+    "year": "",
+    "window": "(Marcus, 1992, Price, 1991, Stern, 1990, Wayne,  1989). A dataset consists of a publicly available <b>corpus</b> of spoken sentences,  divided into training and test sentences. The initial task was to recognise the  individual sentences in the corpus. There was no",
+    "mykey": 1644
+}

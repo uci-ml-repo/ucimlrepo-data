@@ -1,0 +1,23 @@
+{
+    "ID": 190,
+    "Name": "Demospongiae",
+    "Abstract": "Marine sponges of the Demospongiae class classification domain.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 503,
+    "NumAttributes": 0,
+    "DateDonated": "2010-01-21",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/demospongiae",
+    "URLReadme": "../machine-learning-databases/demospongiae/demospongiae.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset contains 503 sponges belonging to the Demospongiae class collected from the Mediterranean (451 sponges) and Atlantic oceans (52 sponges). Each sponge is classified according to a hierarchy formed by: order, family, genus and specie. Each order is subdivided in several families. Each family is also divided in several genus, and each genus in several species:\r\n- There are 7 different orders (between 42 to 117 sponges per order)\r\n- 42 different families (1 to 43 sponges per family)\r\n- 114 different genus (1 to 34 sponges per genus)\r\n- 230 different species (1 to 15 sponges per specie)\r\n\r\nAlthough classification at all these levels can be attempted, it has traditionally been used as a classification dataset, using 'order' as the target class. Moreover, a subset consisting of 280 sponges (orders astrophoricda, axinellida and hadromerida) is also commonly used.\r\n\r\nThe data set is relational and is provided in two alternative formats (which are equivalent):\r\n- NOOS: NOOS is a lisp-like language to represent data as feature-terms. The following files contain the dataset in this format:\r\n\t- sponge-ontology.noos: this defines the ontology (sorts and features)\r\n\t- sponge-dm.noos: this file defines the different constants used in the examples\r\n\t- sponge-cases-503.noos: this file contains the actual dataset\r\n- Horn Clauses: the dataset is also provided as a set of prolog clauses, equivalent to the feature-term representation in NOOS. The file sponges-503.pl contains the dataset in this format. Each predicate with head 'sponge-problem' defines a different sponge.",
+    "Source": "Creator:\r\n\r\nEva Armengol, Enric Plaza, Marta Domingo and Iosune Uriz\r\n\r\nDonor:\r\n\r\nSantiago Ontanon (santi@iiia.csic.es)",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "Santiago Ontanon and Enric Plaza (2009) On Similarity Measures based on a Refinement Lattice. in ICCBR 2009, LNAI 5650, pp 240 - 255.\r\n\r\nEva Armengol, Enric Plaza: Lazy Induction of Descriptions for Relational Case-Based Learning. ECML 2001: 13-24\r\n\r\nEva Armengol, Enric Plaza: Similarity Assessment for Relational CBR. ICCBR 2001: 44-58",
+    "AttributeInfo": "Each sponge defines 2 attributes:\r\n- description: which in itself defines up to 6 attributes (external-features, ecological-features, spikulate-skeleton, fibrous-skeleton, tracts-skeleton, and anatomy). Each of those attributes has additional attributes defined, and so on, forming a tree structure. The leaves of the tree contain both categorial as well as numerical features. Moreover, some features are multi-valued (i.e. a feature can contain more than one value)\r\n- solution: this attribute has 4 additional attributes defined (order, family, genus and specie), which are the target attributes. As explained above, typically 'order' is used as the target class, since there are not enough examples to predict family, genus and specie accurately.\r\n\r\nThe trees representing the sponges vary in size: their depth varies form 5 to 8, and their number of leaves from 17 to 51.\r\n\r\nA graphical representation of a sponge is shown in the file sponge-220.pdf as an example.",
+    "FormatType": "",
+    "NumHits": 9
+}

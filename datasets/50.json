@@ -1,0 +1,23 @@
+{
+    "ID": 50,
+    "Name": "Image Segmentation",
+    "Abstract": "Image data described by high-level numeric-valued attributes, 7 classes",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 2310,
+    "NumAttributes": 19,
+    "DateDonated": "1990-11-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/image/",
+    "URLReadme": "../machine-learning-databases/image/segmentation.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The instances were drawn randomly from a database of 7 outdoor images.  The images were handsegmented to create a classification for every pixel.  \r\n\r\n   Each instance is a 3x3 region.",
+    "Source": "Creators: \r\n\r\nVision Group, University of Massachusetts\r\n\r\nDonor: \r\n\r\nVision Group (Carla Brodley, brodley@cs.umass.edu)",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "",
+    "AttributeInfo": "    1.  region-centroid-col:  the column of the center pixel of the region.\r\n    2.  region-centroid-row:  the row of the center pixel of the region.\r\n    3.  region-pixel-count:  the number of pixels in a region = 9.\r\n    4.  short-line-density-5:  the results of a line extractoin algorithm that counts how many lines of length 5 (any orientation) with low contrast, less than or equal to 5, go through the region.\r\n    5.  short-line-density-2:  same as short-line-density-5 but counts lines of high contrast, greater than 5.\r\n    6.  vedge-mean:  measure the contrast of horizontally adjacent pixels in the region.  There are 6, the mean and standard deviation are given.  This attribute is used as a vertical edge detector.\r\n    7.  vegde-sd:  (see 6)\r\n    8.  hedge-mean:  measures the contrast of vertically adjacent pixels. Used for horizontal line detection. \r\n    9.  hedge-sd: (see 8).\r\n    10. intensity-mean:  the average over the region of (R + G + B)/3\r\n    11. rawred-mean: the average over the region of the R value.\r\n    12. rawblue-mean: the average over the region of the B value.\r\n    13. rawgreen-mean: the average over the region of the G value.\r\n    14. exred-mean: measure the excess red:  (2R - (G + B))\r\n    15. exblue-mean: measure the excess blue:  (2B - (G + R))\r\n    16. exgreen-mean: measure the excess green:  (2G - (R + B))\r\n    17. value-mean:  3-d nonlinear transformation of RGB. (Algorithm can be found in Foley and VanDam, Fundamentals of Interactive Computer Graphics)\r\n    18. saturatoin-mean:  (see 17)\r\n    19. hue-mean:  (see 17)",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 21939
+}

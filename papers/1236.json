@@ -1,0 +1,11 @@
+{
+    "datasetID": 146,
+    "supportID": "7D057A83E835B97E36E076FE0509F7B0AB62C5AD",
+    "rexaID": "a5aba686ed10e6524f1a20a041eebfbf4ca08436",
+    "author": "Igor V. Tetko",
+    "title": "Associative Neural Network",
+    "venue": "Neural Processing Letters, 16",
+    "year": "2002",
+    "window": "of such data without a need to retrain the neural network ensemble. Applications of ASNN for prediction of lipophilicity of chemical compounds and classification of UCI letter and <b>satellite</b> data set are presented. The developed algorithm is available on-line at http://www.virtuallaboratory.org/lab/asnn. Key words. associative memory, bias correction, classification, function approximation,",
+    "mykey": 1236
+}

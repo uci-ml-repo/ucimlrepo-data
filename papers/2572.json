@@ -1,0 +1,11 @@
+{
+    "datasetID": 60,
+    "supportID": "FDB2618E913374A850500BDF861399CA4793D230",
+    "rexaID": "f6f302674e1188614eaa6f23c782d8d1c0ea2320",
+    "author": "Peter D. Turney",
+    "title": "Cost-Sensitive Classification: Empirical Evaluation of a Hybrid Genetic Decision Tree Induction Algorithm",
+    "venue": "CoRR, csAI/9503102",
+    "year": "1995",
+    "window": "reasonable to assume that other areas have similar relative test costs. For our purposes, the relative costs are important, not the absolute costs. A.1 BUPA <b>Liver</b> Disorders The BUPA Liver Disorders dataset was created by BUPA Medical Research Ltd. and it was donated to the Irvine collection by Richard Forsyth. 19 Table 15 shows the test costs for the BUPA Liver Disorders dataset. The tests in group A",
+    "mykey": 2572
+}

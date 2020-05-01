@@ -1,0 +1,11 @@
+{
+    "datasetID": 21,
+    "supportID": "F6A259EB01135352243E2D963E79BC28C9BC697C",
+    "rexaID": "128dbeaae1b5807933aa2a5983bc1765dcaf6f85",
+    "author": "Brian R. Gaines",
+    "title": "Structured and Unstructured Induction with EDAGs",
+    "venue": "KDD",
+    "year": "1995",
+    "window": "EDAG for this problem with that obtained from human <b>Chess</b> experts. Before this is done, the following section illustrates the induction of EDAGs for a simple chess problem. 2 Modeling a Simple Chess Dataset Quinlan (1979) describes ID3 models of 7 rook versus knight end game situations of increasing difficulty. The third problem involves 647 cases with 4 3-valued attributes, 3 2-valued attributes, and",
+    "mykey": 2490
+}

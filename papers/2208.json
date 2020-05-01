@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "DA81B9EE585961702840898F80FC6E592A60CF63",
+    "rexaID": "27e33344198975ea1b20e02c8f0fce01cd29f6e5",
+    "author": "Eibe Frank and Ian H. Witten",
+    "title": "Generating Accurate Rule Sets Without Global Optimization",
+    "venue": "ICML",
+    "year": "1998",
+    "window": "listed in Table 2. They give the percentage of correct classifications, averaged over ten ten-fold cross-validation runs, and standard 3 Following Holte (Holte, 1993), the G2 variant of the <b>glass</b> dataset has classes 1 and 3 combined and classes 4 to 7 deleted, and the horse-colic dataset has attributes 3, 25, 26, 27, 28 deleted with attribute 24 being used as the class. We also deleted all",
+    "mykey": 2208
+}

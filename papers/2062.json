@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "CD6FD34EA5A5C1F7388324FCCEC3B50EE74C6E1C",
+    "rexaID": "42ba5137ab9d88dc1eae5caac18cb6a1818ae700",
+    "author": "Rudy Setiono",
+    "title": "Extracting M-of-N Rules from Trained Neural Networks",
+    "venue": "School of Computing National University of Singapore",
+    "year": "",
+    "window": "or (jacket-color is not blue and body-shape is not octagon). Each input attribute value is coded as -1 or 1. Hence, 17 input units are required. The total number of patterns in each of the three datasets is 432. 3. The <b>mushroom</b> classification dataset [16]. The dataset consists of 8124 samples, each of which is described by 22 nominal attributes that are the characteristics of species of mushroom.",
+    "mykey": 2062
+}

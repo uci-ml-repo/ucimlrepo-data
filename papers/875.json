@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "5F16AAFCE2B0C777DE3F25FCFB5185FC32D3D5D0",
+    "rexaID": "c5ac7c07f095dd7068c3ab10d4e7615b6d1564d5",
+    "author": "Liping Wei and Russ B. Altman",
+    "title": "An Automated System for Generating Comparative Disease Profiles and Making Diagnoses",
+    "venue": "Section on Medical Informatics Stanford University School of Medicine, MSOB X215",
+    "year": "",
+    "window": "profile instead of using all attributes in the original clinical data. The results remain the same. RESULTS We evaluated the system by applying it to <b>heart</b> disease, diabetes, and breast cancer. All data sets were obtained from the UCI Repository of Machine Learning databases and domain theories. 7 Heart Disease Four clinical data sets were used. These sets consists of patients who had been referred for",
+    "mykey": 875
+}

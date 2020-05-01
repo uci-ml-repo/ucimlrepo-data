@@ -1,0 +1,23 @@
+{
+    "ID": 4,
+    "Name": "Anonymous Microsoft Web Data",
+    "Abstract": "Log of anonymous users of www.microsoft.com; predict areas of the web site a user visited based on data on other areas the user visited.",
+    "Types": "",
+    "Task": "Recommender-Systems",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 37711,
+    "NumAttributes": 294,
+    "DateDonated": "1998-11-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/anonymous/",
+    "URLReadme": "../machine-learning-databases/anonymous/anonymous-msweb.info",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "We created the data by sampling and processing the www.microsoft.com logs. The data records the use of www.microsoft.com by 38000 anonymous, randomly-selected users. For each user, the data lists all the areas of the web site (Vroots) that user visited in a one week timeframe.\r\n\r\nUsers are identified only by a sequential number, for example, User #14988, User #14989, etc. The file contains no personally identifiable information. The 294 Vroots are identified by their title (e.g. \"NetShow for PowerPoint\") and URL (e.g. \"/stream\"). The data comes from one week in February, 1998.\r\n",
+    "Source": "Creators: \r\n\r\nJack S. Breese, David Heckerman, Carl M. Kadie\r\nMicrosoft Research, Redmond WA, 98052-6399, USA\r\nbreese@microsoft.com, heckerma@microsoft.com, carlk@microsoft.com\r\n \r\nDonors:\r\n\r\nBreese:, Heckerman, & Kadie",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "J. Breese, D. Heckerman., C. Kadie _Empirical Analysis of Predictive Algorithms for Collaborative Filtering_ Proceedings of the Fourteenth Conference on Uncertainty in Artificial Intelligence, Madison, WI, July, 1998. \r\nhttp://rexa.info/paper/d0cb54d67c2b44a6ebd5ed84f60d7eaf073dede9\r\n\r\nAlso, expanded as Microsoft Research Technical Report MSR-TR-98-12,  The papers are available on-line at: http://research.microsoft.com/users/breese/cfalgs.html\r\n",
+    "AttributeInfo": "Each attribute is an area (\"vroot\") of the www.microsoft.com web site.\r\n\r\nThe datasets record which Vroots each user visited in a one-week timeframe in Feburary 1998.",
+    "FormatType": "Sparse-Matrix",
+    "NumHits": 14319
+}

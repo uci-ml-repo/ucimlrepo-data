@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "78E71A6A649DD6778BB1C0923F626D6573CC2B06",
+    "rexaID": "5cf41a736e03821c90e0d2ef143e7abf5abe02c9",
+    "author": "Bernhard Pfahringer and Hilan Bensusan",
+    "title": "Tell me who can learn you and I can tell you who you are: Landmarking Various Learning Algorithms",
+    "venue": "Austrian Research Institute for Artificial Intelligence",
+    "year": "",
+    "window": "had from 5 to 12 attributes and were classified by simple parity, dnf and cnf rules as well as at random. The 18 UCI datasets were: mushrooms, <b>abalone</b>  crx, sat, acetylation, titanic, waveform, yeast, car, chess(kingrook-vs-king), led7, led24, tic-tac-toe, monk1, monk2, monk3, satimage, quisclas. The performance of every",
+    "mykey": 1194
+}

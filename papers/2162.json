@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "D6B8975B43D28BB081FB2B58476AC3664B42C57F",
+    "rexaID": "8eb7bb53b63501db4eb1c49eab30d76f7febba8d",
+    "author": "H. Altay Guvenir",
+    "title": "A Classification Learning Algorithm Robust to Irrelevant Features",
+    "venue": "Bilkent University, Department of Computer Engineering and Information Science",
+    "year": "",
+    "window": "VFI5 1NN 3NN 5NN 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Number of irrelevant features added 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 Classification accuracy <b>Wine</b> data set VFI5 1NN 3NN 5NN Fig. 7. The comparison of the average classification accuracies for kNN and VFI5 on some of UCI-Repository data sets with increasing number of artificially added irrelevant",
+    "mykey": 2162
+}

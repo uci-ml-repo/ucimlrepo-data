@@ -1,0 +1,23 @@
+{
+    "ID": 165,
+    "Name": "Concrete Compressive Strength",
+    "Abstract": "Concrete is the most important material in civil engineering. The concrete compressive strength is a highly nonlinear function of age and ingredients. ",
+    "Types": "Multivariate",
+    "Task": "Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 1030,
+    "NumAttributes": 9,
+    "DateDonated": "2007-08-03",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/concrete/compressive/",
+    "URLReadme": "../machine-learning-databases/concrete/compressive/Concrete_Readme.txt",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Number of instances \t1030\r\nNumber of Attributes\t9\r\nAttribute breakdown\t8 quantitative input variables, and 1 quantitative output variable\r\nMissing Attribute Values\tNone \r\n",
+    "Source": "Original Owner and Donor\r\nProf. I-Cheng Yeh\r\nDepartment of Information Management \r\nChung-Hua University, \r\nHsin Chu, Taiwan 30067, R.O.C.\r\ne-mail:icyeh@chu.edu.tw\r\nTEL:886-3-5186511\r\n\r\nDate Donated: August 3, 2007\r\n",
+    "Acknowledgements": "NOTE: Reuse of this database is unlimited with retention of copyright notice for Prof. I-Cheng Yeh and the following published paper:\r\n\r\nI-Cheng Yeh, \"Modeling of strength of high performance concrete using artificial neural networks,\" Cement and Concrete Research, Vol. 28, No. 12, pp. 1797-1808 (1998).\r\n",
+    "Area": "Physical",
+    "RelevantPapers": "Main\r\n1.\tI-Cheng Yeh, \"Modeling of strength of high performance concrete using artificial neural networks,\" Cement and Concrete Research, Vol. 28, No. 12, pp. 1797-1808 (1998).\r\n\r\nOthers\r\n2.\tI-Cheng Yeh, \"Modeling Concrete Strength with Augment-Neuron Networks,\" J. of Materials in Civil Engineering, ASCE, Vol. 10, No. 4, pp. 263-268 (1998).\r\n3.\tI-Cheng Yeh, \"Design of High Performance Concrete Mixture Using Neural Networks,\"  J. of Computing in Civil Engineering, ASCE, Vol. 13, No. 1, pp. 36-42 (1999).\r\n4.\tI-Cheng Yeh, \"Prediction of Strength of Fly Ash and Slag Concrete By The Use of Artificial Neural Networks,\" Journal of the Chinese Institute of Civil and Hydraulic Engineering, Vol. 15, No. 4, pp. 659-663 (2003).\r\n5.\tI-Cheng Yeh, \"A mix Proportioning Methodology for Fly Ash and Slag Concrete Using Artificial Neural Networks,\" Chung Hua Journal of Science and Engineering, Vol. 1, No. 1, pp. 77-84 (2003).\r\n6.\tYeh, I-Cheng, \"Analysis of strength of concrete using design of experiments and neural networks,\" Journal of Materials in Civil Engineering, ASCE, Vol.18, No.4, pp.597-604 (2006).\r\n",
+    "AttributeInfo": "Given are the variable name, variable type, the measurement unit and a brief description. The concrete compressive strength is the regression problem. The order of this listing corresponds to the order of numerals along the rows of the database. \r\n\r\nName -- Data Type -- Measurement -- Description\r\n\r\nCement (component 1) -- quantitative -- kg in a m3 mixture -- Input Variable\r\nBlast Furnace Slag (component 2) -- quantitative -- kg in a m3 mixture -- Input Variable\r\nFly Ash (component 3) -- quantitative  -- kg in a m3 mixture -- Input Variable\r\nWater  (component 4) -- quantitative  -- kg in a m3 mixture -- Input Variable\r\nSuperplasticizer (component 5) -- quantitative -- kg in a m3 mixture -- Input Variable\r\nCoarse Aggregate  (component 6) -- quantitative -- kg in a m3 mixture -- Input Variable\r\nFine Aggregate (component 7)\t -- quantitative  -- kg in a m3 mixture -- Input Variable\r\nAge -- quantitative  -- Day (1~365) -- Input Variable\r\nConcrete compressive strength -- quantitative -- MPa -- Output Variable\r\n\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

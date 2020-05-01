@@ -1,0 +1,11 @@
+{
+    "datasetID": 146,
+    "supportID": "8BADD7F945EF2413390D2FEBB4F9737992137E86",
+    "rexaID": "63460ee5afd1e104ba91e654e9aee9b977433c4c",
+    "author": "S. Augustine Su and Jennifer G. Dy",
+    "title": "Automated hierarchical mixtures of probabilistic principal component analyzers",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "(toy, oil, and glass), which are well modeled by mixtures of Gaussians. PPCA with fewer clusters has a comparable performance with EM + PCA on the large data sets (optical digits, <b>satellite</b> image, segment), except for the letter data, where PPCA performed better. Finally, mixtures of PPCA are worse than PCA+EM on the chart and wine data. Upon closer",
+    "mykey": 1391
+}

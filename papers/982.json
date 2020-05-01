@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "67BB83EB88F003C6294A1DEB823054DCD0DBEF1E",
+    "rexaID": "32122524e8078586e382e0b8f07f6a91cc247358",
+    "author": "Agapito Ledezma and Ricardo Aler and Araceli Sanch\u00eds and Daniel Borrajo",
+    "title": "Empirical Evaluation of Optimized Stacking Configurations",
+    "venue": "ICTAI",
+    "year": "2004",
+    "window": "2 hepatitis 19 155 77 78 2 hypo 25 3163 2846 317 2 image 19 2310 1848 462 7 ionosphere 34 351 175 176 2 iris 4 150 75 75 3 soya 35 683 341 342 19 vote 16 435 217 218 2 <b>wine</b> 13 178 89 89 3 Table 1. Datasets descriptions . C4.5 [25]. It generates decision trees . A probabilistic Naive Bayes classifier [19] . IBk. This is Aha's instance based learning algorithm [1] . PART [14]. It forms a decision list",
+    "mykey": 982
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 20,
+    "supportID": "97FC8CAD79557A06EBD7B79951BFEDC4855EC5B4",
+    "rexaID": "74b68cad54c62b62b7ad64911291e2e0b0620dd8",
+    "author": "Bart Hamers and J. A. K Suykens",
+    "title": "Coupled Transductive Ensemble Learning of Kernel Models",
+    "venue": "Bart De Moor",
+    "year": "2003",
+    "window": "donated by Kohavi. It involves the prediction whether income exceeds 50,000 dollars a year based on <b>census</b> data. The original data set consists out of 48,842 observations each described by six numerical and eight categorical attributes. All the observations with missing values were removed from consideration. To show the use of our",
+    "mykey": 1523
+}

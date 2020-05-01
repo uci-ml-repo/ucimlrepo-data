@@ -1,0 +1,11 @@
+{
+    "datasetID": 150,
+    "supportID": "E3FBBC675A47BB90A75ECD89145DDE03399A09BB",
+    "rexaID": "21b1e6cdcd730f2bf7438109509c9abdf01767d7",
+    "author": "Rayid Ghani",
+    "title": "KDD Project Report Using Error-Correcting Codes for Efficient Text Classification with a Large Number of Categories",
+    "venue": "Center for Automated Learning and Discovery, School of Computer Science, Carnegie Mellon University",
+    "year": "",
+    "window": "used in the experiments are described in this section. 5.1 Hoovers Dataset This <b>corpus</b> of web pages was collected by the WebKB Group at CMU using the Hoovers Online Web resource (www.hoovers.com) by crawling 4285 companies on the web and, examining just over 108,000 Web",
+    "mykey": 2305
+}

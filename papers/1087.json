@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "6FD9759745E0CD054310B2F8BEF395FEFB72E409",
+    "rexaID": "b06bc893938966189c9aefe9a340bb51f7026522",
+    "author": "Matthew Mullin and Rahul Sukthankar",
+    "title": "Complete Cross-Validation for Nearest Neighbor Classifiers",
+    "venue": "ICML",
+    "year": "2000",
+    "window": "and Abalone-3 are twoand three-class versions of the problem, where the adjacent classes were grouped so that data was divided evenly. Abalone-3 was introduced in (Waugh, 1995). In the <b>Breast</b> <b>Cancer</b> dataset, the ID field was omitted, as was a field containing missing values. 7 Since the aim of these experiments was not to improve classification accuracy but rather to compare estimation variance and",
+    "mykey": 1087
+}

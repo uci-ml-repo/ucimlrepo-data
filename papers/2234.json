@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "DEC553E103846737C6522F67D94A9AF16050ED29",
+    "rexaID": "7d87efd12b445262eff46191ede868722a2be569",
+    "author": "Geoffrey Holmes and Leonard E. Trigg",
+    "title": "A Diagnostic Tool for Tree Based Supervised Classification Learning Algorithms",
+    "venue": "Department of Computer Science University of Waikato Hamilton New Zealand",
+    "year": "",
+    "window": "difference by the range of the tested attribute, giving the formula: cost v v a a = | - | max - min 1 2 1 1 Figure 2 illustrates the problem for case 4 with an example taken from the familiar <b>iris</b> dataset. The minimum cost edit sequence to transform the tree on the left involves deleting the non-root Petal width nodes and their rightmost leaf nodes (giving a cost of 4). We are left with two trees",
+    "mykey": 2234
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 54,
+    "supportID": "75AA3FB892CE86F4986C7C2877D66AE4FFB20D6B",
+    "rexaID": "9acaa3dfebccac9d79abb08f7eced65482be1631",
+    "author": "Inderjit S. Dhillon and Dharmendra S. Modha and W. Scott Spangler",
+    "title": "Class visualization of high-dimensional data with applications",
+    "venue": "Department of Computer Sciences, University of Texas",
+    "year": "2002",
+    "window": "to 2 preserve the inter-class structure present in the original multidimensional space R d . The underlying theory, supported by several illustrations on the Iris plant and <b>ISOLET</b> speech recognition data sets [9], is presented in Section 2. Class-similarity graphs to enhance each individual two-dimensional projection of the data. Such graphs provide a skeleton of the data and serve as guides through the",
+    "mykey": 1165
+}

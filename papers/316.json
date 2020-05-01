@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "26BC7F3FF5880D0E159C4823BAF333F8C5B6DD21",
+    "rexaID": "47354ca48da5014e0a8f5e4da7f3a7e9aaa6e9e5",
+    "author": "Jie Cheng and Russell Greiner",
+    "title": "Comparing Bayesian Network Classifiers",
+    "venue": "UAI",
+    "year": "1999",
+    "window": "used in the experiments. Instances Dataset Attributes. Classes Train Test <b>Adult</b> 13 2 32561 16281 Nursery 8 5 8640 4320 Mushroom 22 2 5416 2708 Chess 36 2 2130 1066 DNA 60 3 2000 1186 Car 6 4 1728 CV5 Flare 10 3 1066 CV5 Vote 16 2 435 CV5",
+    "mykey": 316
+}

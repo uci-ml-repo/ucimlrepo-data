@@ -1,0 +1,11 @@
+{
+    "datasetID": 19,
+    "supportID": "B038A9BFF06CE8A4834DD19EE798670609F6CD53",
+    "rexaID": "d2ad474fa4c9b346e9ac8f41900cea7d4917c7ac",
+    "author": "Marc Sebban and Richard Nock and Jean-Hugues Chauchat and Ricco Rakotomalala",
+    "title": "Impact of learning set quality and size on decision tree performances",
+    "venue": "Int. J. Comput. Syst. Signal, 1",
+    "year": "2000",
+    "window": "in detail. Actually, we note that for 3 datasets  <b>Car</b>  Pima and Xd6),thedecisiontreeisso reduced that no rule is induced, resulting in a decision rule in favor of the majority class in LS. This explains why accuracy falls much, respectively",
+    "mykey": 1813
+}

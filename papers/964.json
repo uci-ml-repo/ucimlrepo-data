@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "66CC6A2866834CDCD20DCAD562D43F42E98F955B",
+    "rexaID": "c185d513badef2336ca48f64098d4b5df17bf5a4",
+    "author": "Robert Burbidge and Matthew Trotter and Bernard F. Buxton and Sean B. Holden",
+    "title": "STAR - Sparsity through Automated Rejection",
+    "venue": "IWANN (1)",
+    "year": "2001",
+    "window": "has 270 examples in 13 dimensions. The Pima Indians <b>diabetes</b> data set has 768 examples in eight dimensions. These last two data sets have a high degree of overlap which leads to a dense model for the standard SVM as many training errors contribute to the solution. The",
+    "mykey": 964
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 127,
+    "Name": "IPUMS Census Database",
+    "Abstract": "This data set contains unweighted PUMS census data from the Los Angeles and Long Beach areas for the years 1970, 1980, and 1990.",
+    "Types": "Multivariate",
+    "Task": "",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 256932,
+    "NumAttributes": 61,
+    "DateDonated": "1999-11-09",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/ipums-mld/",
+    "URLReadme": "../machine-learning-databases/ipums-mld/ipums.data.html",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The original source for this data set is the IPUMS project (RugglesSobek, 1997). The IPUMS project is a large collection of federal census data which has standardized coding schemes to make comparisons across time easy.\r\n\r\nThe data is an unweighted 1 in 100 sample of responses from the Los Angeles -- Long Beach area for the years 1970, 1980, and 1990. The household and individual records were flattened into a single table and we used all variables that were available for all three years. When there was more than one version of a variable, such as for race, we used the most general. For occupation and industry we used the 1950 basis.\r\n\r\nNote that PUMS data is based on cluster samples, i.e. samples are made of households or dwellings from which there may be multiple individuals. Individuals from the same household are no longer independent. Ruggles (1995) considers this issue further and discusses its effect (along with the effects of stratification) on standard errors.\r\n\r\nThe variable schltype appears to have different coding values across the years 1970, 1980, and 1990.\r\n\r\nThere are two versions of this data set:\r\n\r\n1. The Small Data Set\r\n\r\nThe small data set contains a 1 in 1000 sample of the Los Angeles and Long Beach area. It was formed by sampling from the large data set.\r\n\r\n2. The Large Data Set\r\n\r\nThe large data set contains a 1 in 100 sample of the Los Angeles and Long Beach area.",
+    "Source": "Original Owner:\r\n\r\nIPUMS\r\nHistorical Census Projects\r\nUniversity of Minnesota\r\n614 Social Sciences\r\n267 19th Avenue South\r\nMinneapolis, MN 55455\r\nipums@hist.umn.edu\r\nhttp://www.ipums.umn.edu/\r\n\r\nDonor:\r\n\r\nStephen Bay\r\nDepartment of Information and Computer Science,\r\nUniversity of California, Irvine\r\nIrvine, CA 92697\r\nsbay@ics.uci.edu\r\n",
+    "Acknowledgements": "Reproduced here is the original IPUMS citation and use documentation:\r\n\r\nAll persons are granted a limited license to use and distribute this documentation and the accompanying data, subject to the following conditions: \r\n\r\n    * No fee may be charged for use or distribution.\r\n    * Publications and research reports based on the database must cite it appropriately. The citation should include the following:\r\n\r\n      Steven Ruggles and Matthew Sobek et. al. \r\n      Integrated Public Use Microdata Series: Version 2.0\r\n      Minneapolis: Historical Census Projects, \r\n      University of Minnesota, 1997\r\n       \r\n      If possible, citations should also include the URL for the IPUMS site: http://www.ipums.umn.edu/.\r\n\r\nIn addition, we request that users send us a copy of any publications, research reports, or educational material making use of the data or documentation. Printed matter should be sent to: \r\n\r\nIPUMS \r\nHistorical Census Projects \r\nUniversity of Minnesota \r\n614 Social Sciences \r\n267 19th Avenue South \r\nMinneapolis, MN 55455\r\nSend all electronic material to ipums@hist.umn.edu",
+    "Area": "Social",
+    "RelevantPapers": "S. Ruggles. (1995). \"Sample Designs and Sampling Errors\". Historical Methods. Volume 28. Number 1. Pages 40 - 46.\r\nhttp://rexa.info/paper/ce3c46d9c20e8385db62ee1fd1721f791ce5eeaa",
+    "AttributeInfo": "Please see ipums.la.names",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 6513
+}

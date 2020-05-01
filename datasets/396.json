@@ -1,0 +1,23 @@
+{
+    "ID": 396,
+    "Name": "Sales_Transactions_Dataset_Weekly",
+    "Abstract": "Contains weekly purchased quantities of 800 over products over 52 weeks. Normalised values are provided too.",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Clustering",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 811,
+    "NumAttributes": 53,
+    "DateDonated": "2017-07-16",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00396/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "52 columns for 52 weeks; normalised values of provided too.",
+    "Source": "James Tan, jamestansc@suss.edu.sg, Singapore University of Social Sciences",
+    "Acknowledgements": "@inproceedings{tan2014time,\r\n  title={Time series clustering: A superior alternative for market basket analysis},\r\n  author={Tan, Swee Chuan and San Lau, Jess Pei},\r\n  booktitle={Proceedings of the First International Conference on Advanced Data and Information Engineering (DaEng-2013)},\r\n  pages={241--248},\r\n  year={2014},\r\n  organization={Springer, Singapore}\r\n}",
+    "Area": "",
+    "RelevantPapers": "@inproceedings{tan2015finding,\r\n  title={Finding similar time series in sales transaction data},\r\n  author={Tan, Swee Chuan and San Lau, Pei and Yu, XiaoWei},\r\n  booktitle={International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems},\r\n  pages={645--654},\r\n  year={2015},\r\n  organization={Springer, Cham}\r\n}",
+    "AttributeInfo": "Product_Code\r\n52 weeks: W0, W1, ..., W51.\r\nNormalised vlaues of weekly data: Normalised 0, Normalised 1, ..., Normalised 51\r\n\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 1
+}

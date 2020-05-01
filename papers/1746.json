@@ -1,0 +1,11 @@
+{
+    "datasetID": 75,
+    "supportID": "AAFE3B91FCBE0DB5491BFB4F62FE3A788ACC316E",
+    "rexaID": "39b9817d095c310d94387745c74f7d429c8ec204",
+    "author": "Zhi-Hua Zhou and Hua Zhou",
+    "title": "Multi-Instance Learning: A Survey",
+    "venue": "National Laboratory for Novel Software Technology",
+    "year": "",
+    "window": "and relational learning. 24 7 Discussion The most serious problem encumbering the advance of multi-instance learning is that there is only one popularly used real-world benchmark data, i.e. the <b>Musk</b> data sets. Although some application data have been used in some works, they can hardly act as benchmarks for some reasons. For example, the COREL image database has been used by Maron and Ratan [18], Yang",
+    "mykey": 1746
+}

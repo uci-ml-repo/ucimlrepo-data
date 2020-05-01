@@ -1,0 +1,11 @@
+{
+    "datasetID": 22,
+    "supportID": "8363958134F892B60447671346B400BD4C5E35D7",
+    "rexaID": "9b1522e8a25d84453b24d3891ac99e165d3eebaa",
+    "author": "Ira Cohen and Fabio Gagliardi Cozman and Nicu Sebe and Marcelo Cesar Cirelo and Thomas S. Huang",
+    "title": "Semisupervised Learning of Classifiers: Theory, Algorithms, and Their Application to Human-Computer Interaction",
+    "venue": "IEEE Trans. Pattern Anal. Mach. Intell, 26",
+    "year": "2004",
+    "window": "EM-TAN can sometimes improve performance over TAN with just labeled data (Shuttle). With the <b>Chess</b> dataset, discarding the unlabeled data and using only TAN seems the best approach. We have compared two likelihood based structure learning methods (K2 and MCMC) on the same datasets as well [20], showing",
+    "mykey": 1320
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 95,
+    "supportID": "34A3FC6906DD972E03A41348B99C0232AD1EAA78",
+    "rexaID": "d25c86892bfa80849ecd629de4c45936a52a1590",
+    "author": "Michael G. Madden",
+    "title": "Evaluation of the Performance of the Markov Blanket Bayesian Classifier Algorithm",
+    "venue": "CoRR, csLG/0211003",
+    "year": "2002",
+    "window": "with the fewest instances, this procedure was repeated 10 times. For the <b>SPECT</b> and Lymphography datasets, the procedure was repeated 50 times to reduce variability. Prediction accuracy results and standard deviations are reported in Table 2. Following usual conventions, for each dataset the algorithm",
+    "mykey": 452
+}

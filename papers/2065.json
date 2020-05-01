@@ -1,0 +1,11 @@
+{
+    "datasetID": 102,
+    "supportID": "CE6E289B8764A8F4DD08C139A74E7417D3AC0B13",
+    "rexaID": "a89b63f8dd0c09e654eaa69a4801b0f52a970016",
+    "author": "Salvatore J. Stolfo and Andreas L. Prodromidis and Shelley Tselepis and Wenke Lee and David W. Fan and Philip K. Chan",
+    "title": "JAM: Java Agents for Meta-Learning over Distributed Databases",
+    "venue": "KDD",
+    "year": "1997",
+    "window": "is a medical database with records (Merz & Murphy 1996), noted by <b>thyroid</b> in the Data Set panel. Other parameters include the host of the CFM, the CrossValidation Fold, the Meta-Learning Fold, the MetaLearning Level, the names of the local learning agent and the local meta-learning",
+    "mykey": 2065
+}

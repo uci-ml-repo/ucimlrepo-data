@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "ED98837DE13155904405120B9407B6C6339D173C",
+    "rexaID": "b6fb41e86105131ea2ce769929b199c003161616",
+    "author": "Daichi Mochihashi and Gen-ichiro Kikui and Kenji Kita",
+    "title": "Learning Nonstructural Distance Metric by Minimum Cluster Distortions",
+    "venue": "ATR Spoken Language Translation research laboratories",
+    "year": "",
+    "window": "to get a small increase in precision like the document retrieval experiment in section 5.2. 0 . 6 0 . 7 0 . 8 0 . 9 1 1 2 5 1 0 1 3 D i m e n s i o n P r e c i s i o n (a)  <b>wine</b>  dataset 0 . 6 0 . 7 0 . 8 0 . 9 1 2 5 1 0 1 5 2 0 D i m e n s i o n P r e c i s i o n (b) \"protein\" dataset 0 . 7 0 . 8 0 . 9 1 1 2 3 4 D i m e n s i o n P r e c i s i o n (c) \"iris\" dataset 0 . 6 0 . 7 0 .",
+    "mykey": 2396
+}

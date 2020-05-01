@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "5762BBBC00F70B47EEF26D212556BC8A1B94193F",
+    "rexaID": "111c890abe7dc9f26523d1c59b7a75a04b69256b",
+    "author": "Jinyan Li and Guozhu Dong and Kotagiri Ramamohanarao",
+    "title": "Instance-Based Classification by Emerging Patterns",
+    "venue": "PKDD",
+    "year": "2000",
+    "window": "substantially reduced since itemsets T `` P i are frequently contained in some other itemsets T `` P j . Then, R p can be viewed as a compressed D p , and Rn a compressed Dn . We use the <b>mushroom</b> dataset to demonstrate this point. The original mushroom data has a volume of 3788 edible training instances, with 22 attributes per instance. The average number of items (or length) of the 3788 processed",
+    "mykey": 801
+}

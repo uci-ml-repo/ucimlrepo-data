@@ -1,0 +1,11 @@
+{
+    "datasetID": 149,
+    "supportID": "9ABD1A7995047CAF7ABB79B07682B1FFE981D9BD",
+    "rexaID": "1570e3547e5d0131eee5b25f40359409b8d8c396",
+    "author": "Rajesh Parekh and Jihoon Yang and Vasant Honavar",
+    "title": "Constructive Neural-Network Learning Algorithms for Pattern Classification",
+    "venue": "",
+    "year": "",
+    "window": "outputs represents the number of output classes, and attributes describes the type of input attributes of the patterns. The real-world datasets ionosphere, pima, segmentation, and <b>vehicle</b> are available at the UCI Machine Learning Repository [32] while the 3-circles dataset was artificially generated. The 3-circles dataset comprises of 1800",
+    "mykey": 1566
+}

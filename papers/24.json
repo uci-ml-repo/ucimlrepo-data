@@ -1,0 +1,11 @@
+{
+    "datasetID": 148,
+    "supportID": "037B89497BBDDCD16AB2A47B6AB2EF8892C5FBEB",
+    "rexaID": "69547b69d3133bba06b4ce74e67e2f3a6366a2f6",
+    "author": "Adil M. Bagirov and Julien Ugon",
+    "title": "An algorithm for computation of piecewise linear function separating two sets",
+    "venue": "CIAO, School of Information Technology and Mathematical Sciences, The University of Ballarat",
+    "year": "",
+    "window": "accuracy (a mc in Tables 2 and 3) as described above. First accuracy is an indication of separation quality and the second one is an indication of multi-class classification quality. 5.2 Datasets The datasets used are the <b>Shuttle</b> control , the Letter recognition, the Landsat satellite image, the Pen-based recognition of handwritten and the Page blocks classification databases. Table 1",
+    "mykey": 24
+}

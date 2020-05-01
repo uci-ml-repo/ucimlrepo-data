@@ -1,0 +1,23 @@
+{
+    "ID": 27,
+    "Name": "Credit Approval",
+    "Abstract": "This data concerns credit card applications; good mix of attributes",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer, Real",
+    "NumInstances": 690,
+    "NumAttributes": 15,
+    "DateDonated": "",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/credit-screening/",
+    "URLReadme": "../machine-learning-databases/credit-screening/crx.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This file concerns credit card applications.  All attribute names and values have been changed to meaningless symbols to protect confidentiality of the data.\r\n  \r\nThis dataset is interesting because there is a good mix of attributes -- continuous, nominal with small numbers of values, and nominal with larger numbers of values.  There are also a few missing values.",
+    "Source": "(confidential source) \r\n\r\nSubmitted by quinlan@cs.su.oz.au",
+    "Acknowledgements": "",
+    "Area": "Financial",
+    "RelevantPapers": "Quinlan. \"Simplifying decision trees\", Int J Man-Machine Studies 27, Dec 1987, pp. 221-234.\r\nhttp://rexa.info/paper/a4b6ebb7accef3ee497d6e127f4a0adc5ab16d25\r\n\r\nQuinlan. \"C4.5: Programs for Machine Learning\", Morgan Kaufmann, Oct 1992\r\nhttp://rexa.info/paper/ad6784a63b18b8018e884ada406b63bc1c9fa6e3\r\n",
+    "AttributeInfo": "A1:\tb, a.\r\nA2:\tcontinuous.\r\nA3:\tcontinuous.\r\nA4:\tu, y, l, t.\r\nA5:\tg, p, gg.\r\nA6:\tc, d, cc, i, j, k, m, r, q, w, x, e, aa, ff.\r\nA7:\tv, h, bb, j, n, z, dd, ff, o.\r\nA8:\tcontinuous.\r\nA9:\tt, f.\r\nA10:\tt, f.\r\nA11:\tcontinuous.\r\nA12:\tt, f.\r\nA13:\tg, p, s.\r\nA14:\tcontinuous.\r\nA15:\tcontinuous.\r\nA16: +,-         (class attribute)",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 13202
+}

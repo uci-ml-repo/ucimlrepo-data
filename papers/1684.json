@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "A4F29992C910C8F8CF9193CE2767482FAE39507F",
+    "rexaID": "482c2024eea88014e9cff136b42fc98cccf6dad4",
+    "author": "Richard Maclin and David W. Opitz",
+    "title": "An Empirical Evaluation of Bagging and Boosting",
+    "venue": "AAAI/IAAI",
+    "year": "1997",
+    "window": "outperforms using a single classifier, but significantly outperforms Bagging (e.g., kr-vskp, letter, segmentation, and vehicle). Ada-Boosting's results are even more extreme. For certain data sets (kr-vs-kp, letter, <b>sonar</b> , Ada-Boosting produces a significant gain over any other method (including Arcing). On other data sets Ada-Boosting produces results that are even worse than using a",
+    "mykey": 1684
+}

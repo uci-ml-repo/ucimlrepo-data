@@ -1,0 +1,11 @@
+{
+    "datasetID": 57,
+    "supportID": "EBA2B9A41FE064128CC2CB3DE09EA3725F234841",
+    "rexaID": "6391eca1c5d98b9fb8d601a26ec8f0bf382fd009",
+    "author": "Tim Leunig and D. Stott Parker",
+    "title": "Empirical comparisons of various voting methods in bagging",
+    "venue": "KDD",
+    "year": "2003",
+    "window": "that involve more than two classes. Voting methods that consider preference among classes can therefore gain an advantage over methods that do not, such as plurality. 3.4 Noise matters The <b>led datasets</b> in Table 3, for example, shows great sensitivity of the voting methods to noise. The amount of noise in led datasets increases from 0% to 50%. One somewhat surprising outcome of the experiments,",
+    "mykey": 2348
+}

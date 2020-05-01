@@ -1,0 +1,11 @@
+{
+    "datasetID": 120,
+    "supportID": "AFAB54B1327B2E5D26ADDB8EBFD61CCB8596CE5D",
+    "rexaID": "985a564327523fe48327882fdbb7869ef7c35d9f",
+    "author": "Paul Horton and Kenta Nakai",
+    "title": "Better Prediction of Protein Cellular Localization Sites with the it k Nearest Neighbors Classifier",
+    "venue": "ISMB",
+    "year": "1997",
+    "window": "used have been submitted to the UCI Machine Learning Data Repository (Murphy & Aha 1996) and are described in (Horton & Nakai 1996), (Nakai & Kanehisa 1991), and (Nakai & Kanehisa 1992). We used two datasets: an <b>E</b> <b>coli</b> dataset with 336 proteins sequences labeled according to 8 classes (localization sites) and a yeast dataset with 1462 sequences labeled according to 10 classes. The occurrence of classes",
+    "mykey": 1803
+}

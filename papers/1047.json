@@ -1,0 +1,11 @@
+{
+    "datasetID": 46,
+    "supportID": "6C79B6228AA533774359EB0CBDDB6C7EF0240041",
+    "rexaID": "01ede1d6464c9533cd6ec1a4492d134729ce99bd",
+    "author": "Christophe Giraud and Tony Martinez and Christophe G. Giraud-Carrier",
+    "title": "University of Bristol Department of Computer Science ILA: Combining Inductive Learning with Prior Knowledge and Reasoning",
+    "venue": "",
+    "year": "1995",
+    "window": "1. If representative voted 'no' on the 'physician-fee-freeze' issue, then rep. is a democrat <b>hepatitis</b> dataset: 1. If patient is between 21 and 30, then patient lives 2. If patient is between 51 and 60, is a male, uses steroids, has malaise, has a liver that is big and firm, has high bilirubin and high",
+    "mykey": 1047
+}

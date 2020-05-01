@@ -1,0 +1,23 @@
+{
+    "ID": 249,
+    "Name": "First-order theorem proving",
+    "Abstract": "Given a theorem, predict which of five heuristics will give the fastest proof when used by a first-order prover. A sixth prediction declines to attempt a proof, should the theorem be too difficult.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 6118,
+    "NumAttributes": 51,
+    "DateDonated": "2013-04-17",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00249/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "See the file bridge-holden-paulson-details.txt in the submitted tarball.",
+    "Source": "James P Bridge, Sean B Holden and Lawrence C Paulson\r\n\r\nUniversity of Cambridge\r\nComputer Laboratory\r\nWilliam Gates Building\r\n15 JJ Thomson Avenue\r\nCambridge CB3 0FD\r\nUK \r\n\r\n+44 (0)1223 763500 \r\nforename.surname@cl.cam.ac.uk",
+    "Acknowledgements": "Please cite the paper if you use this data set.",
+    "Area": "Computer",
+    "RelevantPapers": "Machine learning for first-order theorem proving: learning to select a good heuristic \r\nJames P Bridge, Sean B Holden and Lawrence C Paulson \r\nSubmitted for publication in the Journal of Automated Reasoning, Springer 2012/13.\r\n",
+    "AttributeInfo": "The attributes are a mixture of static and dynamic features derived from theorems to be proved. See the paper for full details.",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

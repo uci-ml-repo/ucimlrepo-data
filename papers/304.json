@@ -1,0 +1,11 @@
+{
+    "datasetID": 69,
+    "supportID": "26649007A9B47FF3B290FFF2BCF6C2A93ED238E4",
+    "rexaID": "4eff6dda32898a8bdc8268d2a790a96b93f2e262",
+    "author": "Thomas G. Dietterich",
+    "title": "An Experimental Comparison of Three Methods for Constructing Ensembles of Decision Trees: Bagging, Boosting, and Randomization",
+    "venue": "Machine Learning, 40",
+    "year": "2000",
+    "window": "the effect of classification noise, we added random class noise to nine domains (audiology, hypo, king-rook-vs-king-pawn (krkp), satimage, sick, <b>splice</b>  segment, vehicle, and waveform). These data sets were chosen because at least one pair of the ensemble methods gave statistically significantly different performance on these domains. We did not perform noise experiments with letter-recognition",
+    "mykey": 304
+}

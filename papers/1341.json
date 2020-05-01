@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "866FFDF4A75BB5A8C0DFE89C86FE1954D9E74C3E",
+    "rexaID": "945d8ba4c7eacfaed696aaf0bd72fd576efa78d5",
+    "author": "Aynur Akku and H. Altay Guvenir",
+    "title": "Weighting Features in k Nearest Neighbor Classification on Feature Projections",
+    "venue": "Department of Computer Engineering and Information Science Bilkent University",
+    "year": "",
+    "window": "significantly. This should be because all the features are equally relevant. On the cleveland, liver, <b>iris</b> and glass (except k = 1) datasets, the weights learned by the individual accuracies always performed significantly better than the others. The weight learning method based on the homogeneity performed better than the other on the",
+    "mykey": 1341
+}

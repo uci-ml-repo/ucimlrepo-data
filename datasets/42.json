@@ -1,0 +1,23 @@
+{
+    "ID": 42,
+    "Name": "Glass Identification",
+    "Abstract": "From USA Forensic Science Service; 6 types of glass; defined in terms of their oxide content (i.e. Na, Fe, K, etc)",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 214,
+    "NumAttributes": 10,
+    "DateDonated": "1987-09-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/glass/",
+    "URLReadme": "../machine-learning-databases/glass/glass.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Vina conducted a comparison test of her rule-based system, BEAGLE, the nearest-neighbor algorithm, and discriminant analysis.  BEAGLE is a product available through VRS Consulting, Inc.; 4676 Admiralty Way, Suite 206; Marina Del Ray, CA 90292 (213) 827-7890 and FAX: -3189. In determining whether the glass was a type of \"float\" glass or not, the following results were obtained (# incorrect answers):\r\n\r\nType of Sample  -- Beagle -- NN -- DA\r\nWindows that were float processed (87)  -- 10 -- 12 -- 21\r\nWindows that were not:            (76) -- 19 -- 16 -- 22\r\n\r\nThe study of classification of types of glass was motivated by criminological investigation.  At the scene of the crime, the glass left can be used as evidence...if it is correctly identified!",
+    "Source": "Creator: \r\n\r\nB. German\r\nCentral Research Establishment\r\nHome Office Forensic Science Service\r\nAldermaston, Reading, Berkshire RG7 4PN\r\n\r\nDonor: \r\n\r\nVina Spiehler, Ph.D., DABFT\r\nDiagnostic Products Corporation\r\n(213) 776-0180 (ext 3014)",
+    "Acknowledgements": "",
+    "Area": "Physical",
+    "RelevantPapers": "Ian W. Evett and Ernest J. Spiehler. Rule Induction in Forensic Science. Central Research Establishment. Home Office Forensic Science Service. Aldermaston, Reading, Berkshire RG7 4PN\r\nhttp://rexa.info/paper/25e418ecd621bb3d4c9d8056eb67f5675e29d9f6",
+    "AttributeInfo": "1. Id number: 1 to 214\r\n2. RI: refractive index\r\n3. Na: Sodium (unit measurement: weight percent in corresponding oxide, as are attributes 4-10)\r\n4. Mg: Magnesium\r\n5. Al: Aluminum\r\n6. Si: Silicon\r\n7. K: Potassium\r\n8. Ca: Calcium\r\n9. Ba: Barium\r\n10. Fe: Iron\r\n11. Type of glass: (class attribute)\r\n     -- 1 building_windows_float_processed\r\n     -- 2 building_windows_non_float_processed\r\n     -- 3 vehicle_windows_float_processed\r\n     -- 4 vehicle_windows_non_float_processed (none in this database)\r\n     -- 5 containers\r\n     -- 6 tableware\r\n     -- 7 headlamps",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 34008
+}

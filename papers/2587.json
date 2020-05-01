@@ -1,0 +1,11 @@
+{
+    "datasetID": 56,
+    "supportID": "FFB009681A2DF6A14F88336D04CB6758B090F8E4",
+    "rexaID": "93fcd9513832c5bf30d24120ab3bba1f9ec422b2",
+    "author": "Richard Maclin",
+    "title": "Boosting Classifiers Regionally",
+    "venue": "AAAI/IAAI",
+    "year": "1998",
+    "window": "as the number of hidden units in the component network. The results of these experiments are similar to those obtained using the nearest neighbor methods, and produce significant gains for two other data sets  <b>labor</b> and ionosphere). Together, these experiments indicate that the overall RegionBoost approach can produce significant gains for many (though not all) data sets. One question which might be",
+    "mykey": 2587
+}

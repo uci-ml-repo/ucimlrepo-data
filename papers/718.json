@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "51EEBC1145475FA3893496C4B13949DDBC37701F",
+    "rexaID": "df4390b4164d70e186a080009bf9b23fb367478c",
+    "author": "Michail Vlachos and Carlotta Domeniconi and Dimitrios Gunopulos and George Kollios and Nick Koudas",
+    "title": "Non-linear dimensionality reduction techniques for classification and visualization",
+    "venue": "KDD",
+    "year": "2002",
+    "window": "The average error rates for the smaller data sets (i.e., Iris, <b>Sonar</b>  Glass, Liver, and Lung) were based on leave-oneout cross-validation, and the error rates for Image and Vowel were based on ten two-fold-cross-validation, as summarized in Table",
+    "mykey": 718
+}

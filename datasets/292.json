@@ -1,0 +1,23 @@
+{
+    "ID": 292,
+    "Name": "Wholesale customers",
+    "Abstract": "The data set refers to clients of a wholesale distributor. It includes the annual spending in monetary units (m.u.) on diverse product categories",
+    "Types": "Multivariate",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Integer",
+    "NumInstances": 440,
+    "NumAttributes": 8,
+    "DateDonated": "2014-03-31",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00292/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Provide all relevant information about your data set.",
+    "Source": "Margarida G. M. S. Cardoso, margarida.cardoso@iscte.pt, ISCTE-IUL, Lisbon, Portugal",
+    "Acknowledgements": "The data set is originated from a larger database referred on:\r\n\r\nAbreu, N. (2011). Analise do perfil do cliente Recheio e desenvolvimento de um sistema promocional. Mestrado em Marketing, ISCTE-IUL, Lisbon\r\n",
+    "Area": "Business",
+    "RelevantPapers": "Cardoso, Margarida G.M.S. (2013). Logical discriminant models \u00e2\u20ac\u201c Chapter 8 in Quantitative Modeling in Marketing and Management Edited by Luiz Moutinho and Kun-Huang Huarng. World Scientific. p. 223-253. ISBN 978-9814407717\r\n\r\nJean-Patrick Baudry, Margarida Cardoso, Gilles Celeux, Maria Jos\u00c3\u00a9 Amorim, Ana Sousa Ferreira (2012). Enhancing the selection of a model-based clustering with external qualitative variables. RESEARCH REPORT N\u00c2\u00b0 8124, October 2012, Project-Team SELECT. INRIA Saclay - \u00c3\u017dle-de-France, Projet select, Universit\u00c3\u00a9 Paris-Sud 11\r\n",
+    "AttributeInfo": "1)\tFRESH: annual spending (m.u.) on fresh products (Continuous);\r\n2)\tMILK: annual spending (m.u.) on milk products (Continuous);\r\n3)\tGROCERY: annual spending (m.u.)on grocery products (Continuous);\r\n4)\tFROZEN: annual spending (m.u.)on frozen products (Continuous)\r\n5)\tDETERGENTS_PAPER: annual spending (m.u.) on detergents and paper products (Continuous) \r\n6)\tDELICATESSEN: annual spending (m.u.)on and delicatessen products (Continuous); \r\n7)\tCHANNEL: customers\u00e2\u20ac\u2122 Channel - Horeca (Hotel/Restaurant/Caf\u00c3\u00a9) or Retail channel (Nominal)\r\n8)\tREGION: customers\u00e2\u20ac\u2122 Region \u00e2\u20ac\u201c Lisnon, Oporto or Other (Nominal)\r\nDescriptive Statistics:\r\n\r\n\t(Minimum, Maximum, Mean, Std. Deviation)\r\nFRESH (\t3, 112151, 12000.30, 12647.329)\r\nMILK\t(55, 73498, 5796.27, 7380.377)\r\nGROCERY\t(3, 92780, 7951.28, 9503.163)\r\nFROZEN\t(25, 60869, 3071.93, 4854.673)\r\nDETERGENTS_PAPER (3, 40827, 2881.49, 4767.854)\r\nDELICATESSEN (3, 47943, 1524.87, 2820.106)\r\n\r\nREGION\tFrequency\r\nLisbon\t77\r\nOporto\t47\r\nOther Region\t316\r\nTotal\t440\r\n\r\nCHANNEL\tFrequency\r\nHoreca\t298\r\nRetail\t142\r\nTotal\t440\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

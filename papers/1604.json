@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "9C2A4F4C83FA132ED6DF0243C83B5FAB869E444E",
+    "rexaID": "0dccc15e45577745f11d643e8dab5db77827831a",
+    "author": "Ismail Taha and Joydeep Ghosh",
+    "title": "Symbolic Interpretation of Artificial Neural Networks",
+    "venue": "IEEE Trans. Knowl. Data Eng, 11",
+    "year": "1999",
+    "window": "that have been used as benchmarks for rule extraction approaches are the Monk [43], <b>Mushroom</b> [32] and the DNA promoter [47] data sets. All three of these data sets inputs are symbolic/discrete by nature. Since we want to test more general problems that may include continuous valued variables, Iris and Breast-Cancer were preferred",
+    "mykey": 1604
+}

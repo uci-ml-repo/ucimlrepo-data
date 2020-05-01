@@ -1,0 +1,23 @@
+{
+    "ID": 233,
+    "Name": "CNAE-9",
+    "Abstract": "This is a data set containing 1080 documents of free text business descriptions of Brazilian companies categorized into a\r\nsubset of 9 categories",
+    "Types": "Multivariate, Text",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 1080,
+    "NumAttributes": 857,
+    "DateDonated": "2012-08-03",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00233/",
+    "URLReadme": "../machine-learning-databases/00233/CNAE-9.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This is a data set containing 1080 documents of free text business descriptions of Brazilian companies categorized into a\r\nsubset of 9 categories cataloged in a table called National Classification of Economic Activities (Classifica\u00c3\u00a7\u00c3\u00a3o Nacional de\r\nAtividade Econ\u00c3\u00b4micas - CNAE). The original texts were pre-processed to obtain the current data set: initially, it was kept only\r\nletters and then it was removed prepositions of the texts. Next, the words were transformed to their canonical form. Finally,\r\neach document was represented as a vector, where the weight of each word is its frequency in the document. This data set is\r\nhighly sparse (99.22% of the matrix is filled with zeros).",
+    "Source": "Patrick Marques Ciarelli, pciarelli@lcad.inf.ufes.br, Department of Electrical Engineering, Federal University of Espirito Santo \r\nElias Oliveira, elias@lcad.inf.ufes.br, Department of Information Science, Federal University of Espirito Santo",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Business",
+    "RelevantPapers": "Patrick Marques Ciarelli, Elias Oliveira, 'Agglomeration and Elimination of Terms for Dimensionality Reduction',\r\nNinth International Conference on Intelligent Systems Design and Applications, pp.547-552, 2009\r\n\r\nPatrick Marques Ciarelli, Elias Oliveira, Evandro O. T. Salles, 'An Evolving System Based on Probabilistic Neural Network',\r\nBrazilian Symposium on Artificial Neural Network, 2010",
+    "AttributeInfo": "In the data set there are 857 attributes, 1 attributes with the class of instance and 856 with word frequency: \r\n1. category: range 1 - 9 (integer)\r\n2 - 857. word frequency: (integer)",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

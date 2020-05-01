@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "FC7416B90605524F15AA767A2BC06C9E87E8AAF7",
+    "rexaID": "4284c9cb6236847cd246f69cfb8e4209c107d18f",
+    "author": "Bianca Zadrozny and Charles Elkan",
+    "title": "Transforming classifier scores into accurate multiclass probability estimates",
+    "venue": "KDD",
+    "year": "2002",
+    "window": "= s): the number of examples with score s that belong to class c divided by the total number of examples 0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 <b>Adult</b> Dataset NB Score Empirical class membership probability 8941 790 610 450 480 532 477 620 672 2710 0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 The Insurance Company",
+    "mykey": 2562
+}

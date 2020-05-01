@@ -1,0 +1,11 @@
+{
+    "datasetID": 107,
+    "supportID": "CA755E6DE40ACE7FE9DA40FA67942E2E90865836",
+    "rexaID": "6046926fc134386ba1ce22047b0146525a5440b7",
+    "author": "Carlos J. Alonso Gonzalez and Juan J. Rodr and iguez Diez",
+    "title": "Time Series Classification by Boosting Interval Based Literals",
+    "venue": "Grupo de Sistemas Inteligentes Departamento de Informatica Universidad de Valladolid",
+    "year": "",
+    "window": "after this time. t 3 is in [n/3, 2n/3]. 6. Downward: y(t) = m+ rs - kx. Figure 3.b shows two examples of three of the classes. The data used was obtained from the UCI KDD Archive [4]. <b>Waveform</b>  This dataset was introduced by [7]. The purpouse is to distinguish between three classes, defined by the evaluation in 1, 2 . . . 21, of the following functions: x 1 (i) = uh 1 (i) + (1x 2 (i) = uh 1 (i) + (1x 3",
+    "mykey": 2035
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "8FC40C2531C8D5D088AE1A3FB26965D7B6945FD7",
+    "rexaID": "ae82a44ada49c66439b67eae7ff10392ff209df9",
+    "author": "Christopher J. Merz",
+    "title": "Using Correspondence Analysis to Combine Classifiers",
+    "venue": "Machine Learning, 36",
+    "year": "1999",
+    "window": "The resulting weighting schemes reversed this effect by counting a vote for one of the confused classes as a vote for the other, and vice versa. PV performs well on the <b>glass</b>  lymph and wave data sets where the errors of the learned models are measured (using the statistic) to be fairly uncorrelated. Here, SCANN performs similarly to PV, but S-BP and S-Bayes (except for wave) appear to be",
+    "mykey": 1414
+}

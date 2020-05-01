@@ -1,0 +1,23 @@
+{
+    "ID": 191,
+    "Name": "Opinosis Opinion &frasl; Review",
+    "Abstract": "This dataset contains sentences extracted from user reviews on a given topic. Example topics are \u00e2\u20ac\u0153performance of Toyota Camry\u00e2\u20ac\u009d and \u00e2\u20ac\u0153sound quality of ipod nano\u00e2\u20ac\u009d. ",
+    "Types": "Text",
+    "Task": "",
+    "AttributeTypes": "",
+    "NumInstances": 51,
+    "NumAttributes": 0,
+    "DateDonated": "2010-07-06",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/opinion/",
+    "URLReadme": "../machine-learning-databases/opinion/opinion.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset contains sentences extracted from user reviews on a given topic. Example topics are \u00e2\u20ac\u0153performance of Toyota Camry\u00e2\u20ac\u009d and \u00e2\u20ac\u0153sound quality of ipod nano\u00e2\u20ac\u009d, etc. In total there are 51 such topics  with each topic having approximately 100 sentences (on the average). The reviews were obtained from various sources - Tripadvisor (hotels), Edmunds.com (cars) and Amazon.com (various electronics). The dataset file also comes with gold standard summaries used for the Opinosis summarization paper (see relevant papers). ",
+    "Source": "Kavita Ganesan\r\nkganes2@illinois.edu\r\nhttp://kavita-ganesan.com/opinosis-opinion-dataset",
+    "Acknowledgements": "Kavita Ganesan, ChengXiang Zhai, Jiawei Han. Opinosis: A Graph Based Approach to Abstractive Summarization of Highly Redundant Opinions. In Proceedings of the 23rd International Conference on Computational Linguistics (COLING 2010). Beijing, China.",
+    "Area": "Computer",
+    "RelevantPapers": "Kavita Ganesan, ChengXiang Zhai, Jiawei Han. Opinosis: A Graph Based Approach to Abstractive Summarization of Highly Redundant Opinions. In Proceedings of the 23rd International Conference on Computational Linguistics (COLING 2010). Beijing, China.",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 0
+}

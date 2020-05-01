@@ -1,0 +1,11 @@
+{
+    "datasetID": 62,
+    "supportID": "6C73DC740EEBBF4A78556DD5F89FD4E3E29BBFC2",
+    "rexaID": "77b535b98a279e3b1ee9499bead3408bc8d58c08",
+    "author": "Glenn Fung and Sathyakama Sandilya and R. Bharat Rao",
+    "title": "Rule extraction from Linear Support Vector Machines",
+    "venue": "Computer-Aided Diagnosis & Therapy, Siemens Medical Solutions, Inc",
+    "year": "",
+    "window": "including a medical dataset on detection of <b>lung cancer</b> from medical images. The ability to convert SVM's and other \"black-box\" classifiers into a set of human-understandable rules, is critical not only for physician",
+    "mykey": 1044
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 12,
+    "supportID": "609CF16352322905E6716CA1B1F41E06DEC1DBAE",
+    "rexaID": "faf03ce4427609aa6db25e3d0e6479fb2ae153a7",
+    "author": "Zhi-Hua Zhou and Yuan Jiang and Shifu Chen",
+    "title": "Extracting symbolic rules from trained neural network ensembles",
+    "venue": "AI Commun, 16",
+    "year": "2003",
+    "window": "is tidied and the extraction process terminates. In summary, the flowchart of REFNE is depicted in Fig. 1. 4. Experiments 4.1. Summary In this section, we report the experiments on REFNE on six UCI data sets [4] including <b>balance</b> <b>scale</b>  congressional voting records, hepatitis, iris plant, statlog australian credit approval, and statlog german credit. Since we do not want to test the ability of REFNE in",
+    "mykey": 905
+}

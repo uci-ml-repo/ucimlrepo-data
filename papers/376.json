@@ -1,0 +1,11 @@
+{
+    "datasetID": 87,
+    "supportID": "2D2B0745D475E1A2D27129FBA3F201EF685877EB",
+    "rexaID": "10e99a623872cac01bf1cd18cc027b2559db0a86",
+    "author": "Christopher J. Merz and Michael J. Pazzani",
+    "title": "A Principal Components Approach to Combining Regression Estimates",
+    "venue": "Machine Learning, 36",
+    "year": "1999",
+    "window": "Attributes Numeric Source baseball 263 16 16 CMU bodyfat 252 14 14 CMU cpu 209 6 6 UCI dementia 118 26 26 UCI-MC hansch 111 13 0 QSAR housing 506 12 12 UCI imports 160 15 15 UCI <b>servo</b> 167 4 0 UCI data set from the UCI Medical Center. The imports data set had 41 examples with missing values which were not used due to limitations in one of the learning algorithms used. 6.2. Constituent Learners The set",
+    "mykey": 376
+}

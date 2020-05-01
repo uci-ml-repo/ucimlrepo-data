@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "ECED3D784E4F9A909B1AB737A9785000918155AE",
+    "rexaID": "ba594780aee46c6bcb4af5f3dbb56027735edecf",
+    "author": "Ayhan Demiriz and Kristin P. Bennett and Mark J. Embrechts",
+    "title": "Semi-Supervised Clustering Using Genetic Algorithms",
+    "venue": "Dept",
+    "year": "1999",
+    "window": "The transductive MSE+GINI method based on all available data showed no consistent improvements over the induc2 The (k, #, #) values applied for each dataset were bright (15, 0.01,0.99), <b>sonar</b> (7,0.1,1), heart (7,0.25,0.75), ionosphere (7, 0.01,0.99), house (7,0.1,0.9), housing (11,0.01, 0.99), prognosis (11,0.4,0.6), and pima (11,0.01,0.99). 13 tion",
+    "mykey": 2383
+}

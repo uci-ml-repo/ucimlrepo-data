@@ -1,0 +1,11 @@
+{
+    "datasetID": 25,
+    "supportID": "F74489A035B1264765FB8AAFC2F6BB3F446355B5",
+    "rexaID": "5d5f6b9e1802fc3aae824310b7486069318d5b91",
+    "author": "Matthew Brand",
+    "title": "An Entropic Estimator for Structure Discovery",
+    "venue": "NIPS",
+    "year": "1998",
+    "window": "To explore the practical utility of this framework, we will use entropically estimated HMMs as a window into the hidden structure of some human-generated time-series. <b>Bach</b> <b>Chorales</b>  We obtained a dataset of melodic lines from 100 of J.S. Bach's 371 surviving chorales from the UCI repository [Merz and Murphy, 1998], and transposed all into the key of C. We compared entropically and conventionally",
+    "mykey": 2503
+}

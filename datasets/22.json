@@ -1,0 +1,23 @@
+{
+    "ID": 22,
+    "Name": "Chess (King-Rook vs. King-Pawn)",
+    "Abstract": "King+Rook versus King+Pawn on a7 (usually abbreviated KRKPA7).",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 3196,
+    "NumAttributes": 36,
+    "DateDonated": "1989-08-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/chess/king-rook-vs-king-pawn/",
+    "URLReadme": "../machine-learning-databases/chess/king-rook-vs-king-pawn/kr-vs-kp.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset format is described below.  Note: the format of this database was modified on 2/26/90 to conform with the format of all the other databases in the UCI repository of machine learning databases.",
+    "Source": "Database originally generated and described by Alen Shapiro.\r\n\r\nDonor/Coder: \r\n\r\nRob Holte (holte@uottawa.bitnet).  \r\n\r\nThe database was supplied to Holte by Peter Clark of the Turing Institute in Glasgow (pete@turing.ac.uk).",
+    "Acknowledgements": "",
+    "Area": "Game",
+    "RelevantPapers": "Alen D. Shapiro (1983,1987), \"Structured Induction in Expert Systems\", Addison-Wesley.  This book is based on Shapiro's Ph.D. thesis (1983) at the University of Edinburgh entitled \"The Role of Structured Induction in Expert Systems\".\r\nhttp://rexa.info/paper/54c38eb801bac8f34635fe770f1ee66408abc41a\r\n\r\nStephen Muggleton (1987), \"Structuring Knowledge by Asking Questions\", pp.218-229 in \"Progress in Machine Learning\", edited by I. Bratko and Nada Lavrac, Sigma Press, Wilmslow, England  SK9 5BB.\r\nhttp://rexa.info/paper/b95261901ea3461f129c2102d50a0e82d85d9372\r\n\r\nRobert C. Holte, Liane Acker, and Bruce W. Porter (1989), \"Concept Learning and the Problem of Small Disjuncts\", Proceedings of IJCAI.  Also available as technical report AI89-106, Computer Sciences Department, University of Texas at Austin, Austin, Texas 78712.\r\nhttp://rexa.info/paper/73c7fa0b5e4bb04121c8164de85fd2bb4186c357",
+    "AttributeInfo": "Classes (2):  -- White-can-win (\"won\") and White-cannot-win (\"nowin\").\r\n\r\nI believe that White is deemed to be unable to win if the Black pawn can safely advance.\r\n\r\nAttributes: see Shapiro's book.",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 10848
+}

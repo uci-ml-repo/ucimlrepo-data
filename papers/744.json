@@ -1,0 +1,11 @@
+{
+    "datasetID": 150,
+    "supportID": "538E5168E724B47D2B8A6B2FD5CF528BB6EECEEB",
+    "rexaID": "70172e511a3bc27c7927119a3b2a3405fbad99e0",
+    "author": "Kai Ming Ting and Ian H. Witten",
+    "title": "Issues in Stacked Generalization",
+    "venue": "J. Artif. Intell. Res. (JAIR, 10",
+    "year": "1999",
+    "window": "networks for this purpose and found that they have a much slower learning rate than MLR. For example, MLR only took 2.9 seconds as compare to 4790 seconds for the neural network in the <b>nettalk</b> dataset; while both have the same error rate. Other possible candidates are the multinomial logit model (Jordan & Jacobs, 1994), which is a special case of generalized linear models (McCullagh & Nelder,",
+    "mykey": 744
+}

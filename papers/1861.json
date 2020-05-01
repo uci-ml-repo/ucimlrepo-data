@@ -1,0 +1,11 @@
+{
+    "datasetID": 31,
+    "supportID": "B635ADFAE0D08D00162C09C957931DED07495F20",
+    "rexaID": "c4ef47232a73d5e27b14e63096634eb70dcbddce",
+    "author": "Joao Gama and Ricardo Rocha and Pedro Medas",
+    "title": "Accurate decision trees for mining high-speed data streams",
+    "venue": "KDD",
+    "year": "2003",
+    "window": "surprising. They indicate that sub-optimal decisions could contribute to a bias reduction. Other Results on Real data We have done some experiments on real data. We have used the Forest <b>CoverType</b> dataset from the UCI KDD archive. The goal is to predict the forest cover type from cartographic variables. The problem is defined by 54 variables of di\u00aeerent types: continuous and categorical. The dataset",
+    "mykey": 1861
+}

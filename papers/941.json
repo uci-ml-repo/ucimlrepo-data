@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "64096AF17E6F1B54B5C4C2DA1ADA4CE2C0BAA972",
+    "rexaID": "b1f8720873793cfc73b06213300b3bdb1ad5e8ef",
+    "author": "Kristin P. Bennett and Erin J. Bredensteiner",
+    "title": "Geometry in Learning",
+    "venue": "Department of Mathematical Sciences Rensselaer Polytechnic Institute",
+    "year": "",
+    "window": "signals off a metal cylinder. The <b>Sonar</b> signal is transmitted at various angles with rises in frequency. A similar procedure is performed to obtain the rock attributes. The publicly available Sonar dataset represents 208 <b>mines</b> and <b>rocks</b> [12]. Sixty real-valued attributes between 0.0 and 1.0 are collected for each mine or rock. The value of the attribute represents the amount of energy within a",
+    "mykey": 941
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 56,
+    "supportID": "F9AD5ADDEFAE60D6C5E4AC7AEDFEDD6820D7428C",
+    "rexaID": "f820b10d6723504d343c9741f7333fbc3393fd05",
+    "author": "Lorne Mason and Jonathan Baxter and Peter L. Bartlett and Marcus Frean",
+    "title": "Boosting Algorithms as Gradient Descent",
+    "venue": "NIPS",
+    "year": "1999",
+    "window": "vote1 AdaBoost test error Exponential cost Normalized sigmoid cost Figure 3: AdaBoost test error, exponential cost and normalized sigmoid cost over 10000 rounds of AdaBoost for the <b>labor</b> and vote1 data sets. Both costs have been scaled in each case for easier comparison with test error. [6] H. Drucker and C. Cortes. Boosting decision trees. In Advances in Neural Information Processing Systems 8, pages",
+    "mykey": 2518
+}

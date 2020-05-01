@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "D9F0E1C7E240597992232840F7CB96CEEEFA1940",
+    "rexaID": "a6fa92d0caaa949b6ebd6531b2e6d4e7e0f03387",
+    "author": "David M J Tax and Robert P W Duin",
+    "title": "Support vector domain description",
+    "venue": "Pattern Recognition Letters, 20",
+    "year": "1999",
+    "window": "be understood by looking at the distribution of the data, where class 2 is between classes 1 and 3. Only the instability method is able to reject objects from the second class. In the <b>breast</b> <b>cancer</b> data set, the second class is clearly easier to distinguish than the \u00aerst class. Looking at the origin of the data, this means that by describing the benign class, the malignant class can be rejected quite",
+    "mykey": 2203
+}

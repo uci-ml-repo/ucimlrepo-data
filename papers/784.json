@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "5620F776DF74AA076EDC3E8AFEB60EDDFB37E139",
+    "rexaID": "cde93f878ecbecffbd0b885d62b8fcd32fcabdb5",
+    "author": "Ke Wang and Han Chong Goh",
+    "title": "Minimum Splits Based Discretization for Continuous Features",
+    "venue": "IJCAI (2)",
+    "year": "1997",
+    "window": "but never explored multi-way split of a continuous feature, making the simple structure disappear. Consider the following two decision trees built in one of the 10fold cross validation on <b>Iris</b> dataset. The first tree is produced by the multi-way split proposed in this paper, and the second by C4.5. Though both trees have the same size and same error rate on test data, the first tree classifies",
+    "mykey": 784
+}

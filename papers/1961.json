@@ -1,0 +1,11 @@
+{
+    "datasetID": 17,
+    "supportID": "C236AE947E41B2A044C181842DF6842A435DF558",
+    "rexaID": "53ac23f963b3607aae9580b356e6b236d2955314",
+    "author": "Wl/odzisl/aw Duch and Rafal/ Adamczak Email:duchraad@phys. uni. torun. pl",
+    "title": "Statistical methods for construction of neural networks",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "p i (x) - p r (x) around x for which the two distributions cross. The simplest network constructed from FDA solution gives classification error which is as good as the original FDA. For such datasets [12] as <b>Wisconsin</b> <b>breast</b> <b>cancer</b>  hepatitis, Cleveland heart disease or diabetes the network obtains better results already before the learning process starts, but for some datasets this is not the",
+    "mykey": 1961
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "0D1F16A20A2E7C102366784CCCFE8FFE8111FF7C",
+    "rexaID": "8e003bfae7c07cdeeb0ae5f251d545873364dd1e",
+    "author": "David R. Musicant and Alexander Feinberg",
+    "title": "Active Set Support Vector Regression",
+    "venue": "",
+    "year": "",
+    "window": "Census 30k, is a version of the US Census Bureau  <b>Adult</b>  dataset, which is publicly available from Silicon Graphics' website [39]. This \"Adult\" dataset contains nearly 300,000 data points with 11 numeric attributes, and is used for predicting income levels based",
+    "mykey": 137
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "9149F7825548668B0D549735ECBF9C476AC620D0",
+    "rexaID": "144fcc2dcfad39ba4047467d4ce38139bc284f01",
+    "author": "Daphne Koller and Mehran Sahami",
+    "title": "Toward Optimal Feature Selection",
+    "venue": "ICML",
+    "year": "1996",
+    "window": "include: the Corral data which was artificially constructed by John et al (1994) specifically for research in feature selection; the LED24, Vote, and <b>DNA</b> datasets from the UCI repository (Murphy & Aha 1995); and two datasets which are a subset of the Reuters document collection (Reuters 1995). These datasets are detailed in Table 1. We selected these",
+    "mykey": 1438
+}

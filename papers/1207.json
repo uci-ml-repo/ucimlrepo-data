@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "7A61FFC825663B262D914786DD062735BDE0B1DC",
+    "rexaID": "679efdb662f70091c573c74a40aadab38fc0d868",
+    "author": "S. Sathiya Keerthi and Chih-Jen Lin",
+    "title": "Asymptotic Behaviors of Support Vector Machines with Gaussian Kernel",
+    "venue": "Neural Computation, 15",
+    "year": "2003",
+    "window": "into (training set, test set) partitions. We consider only the first of those realizations. In addition, the problem <b>adult</b>  from the UCI adult\" data set (Blake and Merz 1998) and the problem web, both as compiled by Platt (1998), are also included. For each of these two datasets also, there are several realizations. For our study here, we only",
+    "mykey": 1207
+}

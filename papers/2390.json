@@ -1,0 +1,11 @@
+{
+    "datasetID": 90,
+    "supportID": "ED4A70511B5B2A2D714CC20F0382EEF09CE3EDDD",
+    "rexaID": "01cf09d5e240fbb8da88b4989dfbffece6153160",
+    "author": "Hendrik Blockeel and Luc De Raedt and Jan Ramon",
+    "title": "Top-Down Induction of Clustering Trees",
+    "venue": "ICML",
+    "year": "1998",
+    "window": "those obtained with the supervised learner Tilde. We see that TIC obtains high accuracies for these problems. The only clustering result we know of is for COBWEB, which obtained 100% on the <b>Soybean</b> data set. This difference is not significant. Tilde's ac72 73 74 75 76 77 78 79 80 81 15 20 25 30 35 40 45 50 55 accuracy (%) size validation set (%) accuracy of pruned tree accuracy of unpruned tree 15 20",
+    "mykey": 2390
+}

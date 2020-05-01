@@ -1,0 +1,23 @@
+{
+    "ID": 260,
+    "Name": "NYSK",
+    "Abstract": "NYSK (New York v. Strauss-Kahn) is a collection of English news articles about the case relating to allegations of sexual assault against the former IMF director Dominique Strauss-Kahn (May 2011).",
+    "Types": "Multivariate, Sequential, Text",
+    "Task": "Clustering",
+    "AttributeTypes": "",
+    "NumInstances": 10421,
+    "NumAttributes": 7,
+    "DateDonated": "2013-10-11",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00260/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Documents are first obtained via a Web search using AMIEI: an integrated platform for delivering enterprise intelligence, developed by AMI Software (http://www.amisw.com/en) with the following query: ``dsk'' OR ``strauss-kahn'' OR ``strauss-khan''.\r\n\r\nNYSK dataset was used to extract topic-sentiment correlation and evolution over time but may be used for other text mining tasks like topic extraction, sentiment analysis, etc.",
+    "Source": "- Aur\u00e9lien Lauf (alu@amisw.com)\n- Leila Khouas (lkh@amisw.com)\n- Mohamed Dermouche (mde@amisw.com)",
+    "Acknowledgements": "",
+    "Area": "Social",
+    "RelevantPapers": "(1) Mohamed Dermouche, Julien Velcin, Leila Khouas, and Sabine Loudcher. A Joint Model for Topic-Sentiment Evolution over Time. In Proceedings of The IEEE 14th International Conference on Data Mining (ICDM\u20192014), pages 773\u2013778, Shenzhen, China, 2014. IEEE Computer Society.\n\n(2) Mohamed Dermouche, Leila Khouas, Julien Velcin, and Sabine Loudcher. A Joint Model for Topic-Sentiment Modeling from Text. In Proceedings of The 30th ACM/SIGAPP Symposium On Applied Computing (SAC\u20192015), pages 819--824, Salamanca, Spain, 2015. ACM.",
+    "AttributeInfo": "Documents are then filtered and presented in XML format. All XML fields are self explanatory.",
+    "FormatType": "",
+    "NumHits": 9
+}

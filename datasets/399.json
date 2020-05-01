@@ -1,0 +1,23 @@
+{
+    "ID": 399,
+    "Name": "MEU-Mobile KSD",
+    "Abstract": "This dataset contains keystroke dynamics data collected on a touch mobile device (Nexus 7). The dataset contains 2856 records, 51 records per subject for 56 subjects. ",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 2856,
+    "NumAttributes": 71,
+    "DateDonated": "2016-05-14",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00399/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset is used in the evaluation of EER, FRR and FAR metrics using a new anomaly detector model (Med-Min-Diff). The typed text in the experiment is the password '.tie5Roanl'.",
+    "Source": "Ms. Noor Al-Obaidi, noor_mahmood_2012@hotmail.com, Middle East University, Faculty of Information Technology, Amman, Jordan. ",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "1. Master thesis from Middle East University in Jordan, May 2016 (A New Statistical Anomaly Detector Model for Keystroke Dynamics on Touch Mobile Devices)>\r\n2. Paper: 'Statistical Median-Based Classifier Model for Keystroke Dynamics on Mobile Devices', Sixth International Conference on Digital Information Processing and Communications (ICDIPC), April 2016.",
+    "AttributeInfo": "The measured features (attributes) are Hold (H), Up-Down (UD), Down-Down (DD), Pressure (P), Finger-Area (A), Averages of Hold (AH), Pressure (AP) and Finger Area (AFA). There are 71 features because each feature has a set of feature elements corresponding to the typed characters.\r\n  ",
+    "FormatType": "Matrix",
+    "NumHits": 1
+}

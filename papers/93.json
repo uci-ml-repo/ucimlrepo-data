@@ -1,0 +1,11 @@
+{
+    "datasetID": 7,
+    "supportID": "08A9B09FC745C708A203F866345105A8F76C7961",
+    "rexaID": "530fcdd0328ad3ead3dc608a82f85bff2fd5a792",
+    "author": "Alexander K. Seewald and Johann Petrak and Gerhard Widmer",
+    "title": "Hybrid Decision Tree Learners with Alternative Leaf Classifiers: An Empirical Study",
+    "venue": "FLAIRS Conference",
+    "year": "2001",
+    "window": "sizes of the trees generated on the complete training set. Table 2. Classification errors (%) and standard deviations for base learners: J48 with reduced error pruning, Linear, IB1 and NaiveBayes. Dataset J48-R Linear IB1 NaiveBayes <b>audiology</b> 25.44#1.87 20.93#0.98 21.90#0.56 27.79#0.65 autos 29.61#2.40 34.59#1.77 25.95#1.00 42.24#1.26 balance-scale 21.22#1.25 13.38#0.58 13.25#0.55 9.50#0.29",
+    "mykey": 93
+}

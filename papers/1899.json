@@ -1,0 +1,11 @@
+{
+    "datasetID": 58,
+    "supportID": "BAE08FE2873E0FA29D0D150865D45618DEA05FC8",
+    "rexaID": "a8063c7ad67d182a92934e802e1d2e1587a98fe6",
+    "author": "Christophe G. Giraud-Carrier and Tony Martinez",
+    "title": "AN INCREMENTAL LEARNING MODEL FOR COMMONSENSE REASONING",
+    "venue": "Department of Computer Science Brigham Young University",
+    "year": "",
+    "window": "1. If animal has four legs, then animal is a mammal 2. If animal has feathers, then animal is a bird 3. If animal lays eggs, is aquatic, and has fins, then animal is a fish <b>lenses</b> dataset: 1. If patient has low tear production rate, then patient is not fit for contact lenses voting and voting3 datasets: 1. If representative voted 'no' on the 'physician-fee-freeze' issue, then",
+    "mykey": 1899
+}

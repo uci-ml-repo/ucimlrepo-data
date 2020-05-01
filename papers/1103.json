@@ -1,0 +1,11 @@
+{
+    "datasetID": 127,
+    "supportID": "720855E1FEEDD53E2DFAC93970A2A8C55B0F2FB0",
+    "rexaID": "6c5ed6cbf453e8eaad5400424c931537c71a5e3e",
+    "author": "Ke Wang and Shiyu Zhou and Ada Wai-Chee Fu and Jeffrey Xu Yu",
+    "title": "Mining Changes of Classification by Correspondence Tracing",
+    "venue": "SDM",
+    "year": "2003",
+    "window": "German Credit Data from the UCI Repository of Machine Learning Databases [14], and <b>IPUMS</b> Census Data from [1]. These data sets were chosen because no special knowledge is required to understand the addressed applications. To verify if the proposed method finds the changes that are supposed to be found, we need to know such",
+    "mykey": 1103
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "6D5CA37282ECE273713460A3E981131BE44CDE55",
+    "rexaID": "55c411b7643dc75154d16ea7dfa732b70f750ed2",
+    "author": "Zhi-Hua Zhou and Yang Yu",
+    "title": "Ensembling Local Learners Through Multimodal Perturbation",
+    "venue": "",
+    "year": "",
+    "window": "Attribute Data set Size Categorical Continuous Class COEF <b>soybean</b> 562 0 35 19 0.85 autos 159 15 10 7 0.91 sonar 208 60 0 2 1.73 lymph 148 3 15 4 2.06 glass 214 9 0 7 3.40 anneal 898 6 32 6 3.94 heart-c 296 6 7 5 4.55",
+    "mykey": 1061
+}

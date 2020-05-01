@@ -1,0 +1,11 @@
+{
+    "datasetID": 111,
+    "supportID": "6FAA63F0D802B80633874DB98C5545682A31B37B",
+    "rexaID": "74d13cdcdfa5836ae8056a6c6ee47d129b6512f3",
+    "author": "Guszti Bartfai",
+    "title": "VICTORIA UNIVERSITY OF WELLINGTON Te Whare Wananga o te Upoko o te Ika a Maui",
+    "venue": "Department of Computer Science PO Box 600",
+    "year": "1996",
+    "window": "capabilities of hart networks In order to demonstrate that the hart networks are capable of developing class hierarchies, we trained and tested the networks on the <b>Zoo</b> machine learning benchmark data set (Merz and Murphy, 1996). This data set contains 101 instances of animals described with 18 attributes such as ``hair'', ``aquatic'', ``domestic'' and so on. It is relatively small, but is adequate",
+    "mykey": 1085
+}

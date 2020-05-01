@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "68E4CBD76EB78057876930BD7362D346BE6BFED4",
+    "rexaID": "cd11168bb19fd462bc59beefbe670bc4eb31e3eb",
+    "author": "Mark A. Hall",
+    "title": "Department of Computer Science Hamilton, NewZealand Correlation-based Feature Selection for Machine Learning",
+    "venue": "Doctor of Philosophy at The University of Waikato",
+    "year": "1999",
+    "window": "The following is a brief description of the datasets. <b>Mushroom</b> (mu) This dataset contains records drawn from The Audubon Society Field Guide to North American Mushrooms [Lin81]. The task is to distinguish edible from poisonous mushrooms on the basis",
+    "mykey": 998
+}

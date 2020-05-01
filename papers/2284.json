@@ -1,0 +1,11 @@
+{
+    "datasetID": 148,
+    "supportID": "E1E934CA215D4FCB6FE21834E5CA2008CE9028FE",
+    "rexaID": "0527f760f533e2a7a827710a924d6987bfc9a06e",
+    "author": "Stephen D. Bay",
+    "title": "Multivariate Discretization for Set Mining",
+    "venue": "Knowl. Inf. Syst, 3",
+    "year": "2001",
+    "window": "it is a satellite image). It contains multi-spectral values for 3 Theta 3 pixel neighborhood and the soil type (e.g. red soil, cotton crop, grey soil, etc.). -- <b>Shuttle</b>  This is a classification dataset that deals with the positioning of radiators in the Space Shuttle. -- UCI Admissions Data. This dataset represents all undergraduate student applications to UCI for the years 1993-1999. There are",
+    "mykey": 2284
+}

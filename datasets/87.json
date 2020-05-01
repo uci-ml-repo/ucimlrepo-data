@@ -1,0 +1,23 @@
+{
+    "ID": 87,
+    "Name": "Servo",
+    "Abstract": "Data was from a simulation of a servo system",
+    "Types": "Multivariate",
+    "Task": "Regression",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 167,
+    "NumAttributes": 4,
+    "DateDonated": "1993-05-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/servo/",
+    "URLReadme": "../machine-learning-databases/servo/servo.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Ross Quinlan:\r\n\r\nThis data was given to me by Karl Ulrich at MIT in 1986.  I didn't record his description at the time, but here's his subsequent (1992) recollection:\r\n \r\n\"I seem to remember that the data was from a simulation of a servo system involving a servo amplifier, a motor, a lead screw/nut, and a sliding carriage of some sort.  It may have been on of the translational axes of a robot on the 9th floor of the AI lab.  In any case, the output value is almost certainly a rise time, or the time required for the system to respond to a step change in a position set point.\"\r\n \r\n(Quinlan, ML'93)\r\n\r\n\"This is an interesting collection of data provided by Karl Ulrich.  It covers an extremely non-linear phenomenon - predicting the rise time of a servomechanism in terms of two (continuous) gain settings and two (discrete) choices of mechanical linkages.\"",
+    "Source": "Creator:\r\n\r\nKarl Ulrich (MIT)\r\n\r\nDonor: \r\n\r\nRoss Quinlan",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "Quinlan, J.R., \"Learning with continuous classes\", Proc. 5th Australian Joint Conference on AI (eds A. Adams and L. Sterling), Singapore: World Scientific, 1992\r\n http://rexa.info/paper/cf644408e07afa144ff6c6bca6588740b3d02f36\r\n\r\nQuinlan, J.R., \"Combining instance-based and model-based learning\", Proc. ML'93 (ed P.E. Utgoff), San Mateo: Morgan Kaufmann 1993\r\nhttp://rexa.info/paper/9eac95c36cbec1ef4954d3491df1ea0a1d09c6f0",
+    "AttributeInfo": "   1. motor: A,B,C,D,E\r\n   2. screw: A,B,C,D,E\r\n   3. pgain: 3,4,5,6\r\n   4. vgain: 1,2,3,4,5\r\n   5. class: 0.13 to 7.10",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 11921
+}

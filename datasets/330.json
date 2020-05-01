@@ -1,0 +1,23 @@
+{
+    "ID": 330,
+    "Name": "HIV-1 protease cleavage",
+    "Abstract": "The data contains lists of octamers (8 amino acids) and a flag (-1 or 1) depending on whether HIV-1 protease will cleave in the central position (between amino acids 4 and 5).",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 6590,
+    "NumAttributes": 1,
+    "DateDonated": "2015-04-25",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00330/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Past Usage:\n\n   (a) R\u00f6gnvaldsson, You and Garwicz (2015) 'State of the art prediction of HIV-1 protease \n       cleavage sites', Bioinformatics, vol 31 (8), pp. 1204-1210.\n       - Discusses the characteristics of the four data sets.\n       - It is shown that a linear SVM with standard orthogonal encoding is the best\n         predictor when tested across data sets. The AUC (Area Under the ROC Curve)\n         values are listed below:\n       \n              Test data  746         1625        Schilling   Impens\n   Train data\n   746                   -           0.982       0.870       0.833\n   1625                  0.981       -           0.855       0.811\n   Schilling             0.933       0.935       -           0.911\n   Impens                0.902       0.894       0.929       -\n\n   The 746 and 1625 data sets share many patterns.\n   \n   (b) Kontijevskis, Wikberg and Komorowski (2007) 'Computational Proteomics Analysis of HIV-1 Protease \n       Interactome'. Proteins: Structure, Function, and Bioinformatics, 68, 305\u00e2\u20ac\u201c312. \n       Introduced the 1625 data set and used rough set theory on it.\n       Note: the 1625 data set used by Kontijevskis et al. is not identical to the 1625 data\n       set here, there is one octamer that has a different label (same octamer as for the\n       746 data set).\n\n   (c) You, Garwicz and R\u00f6gnvaldsson (2005) 'Comprehensive Bioinformatic Analysis of the Specificity \n       of Human Immunodeficiency Virus Type 1 Protease'. Journal of Virology, 79, 12477\u00e2\u20ac\u201c12486. \n       Introduced the 746 data set and explored linear classifiers plus representations\n       based on amino acid properties.\n       Note: the 746 data set used by You et al. is not identical to the 746 data\n       set here, there is one octamer that has a different label (same octamer as for the\n       1625 data set).\n\nOther relevant information\n\n   The data sets have appeared in earlier publications (see references in R\u00f6gnvaldsson et al. 2015). \n   However, corrections have been made to them here.\n   \n   Details on references where data has been collected are provided for the 746 and the 1625 data set. \n   The origins of the Schilling data and the Impens data are described in the paper R\u00f6gnvaldsson et al., 2015.\n",
+    "Source": "Thorsteinn R\u00f6gnvaldsson, denni63@gmail.com, Halmstad University.\n",
+    "Acknowledgements": "It is appreciated if you can refer to the paper by R\u00f6gnvaldsson et al. (2015) if you use the data created for this paper. However, other references (also by other researchers) are provided there if you chose to only use a subpart of the data.",
+    "Area": "Life",
+    "RelevantPapers": "Thorsteinn R\u00f6gnvaldsson, Liwen You and Daniel Garwicz, 'State of the art prediction of HIV-1 protease cleavage sites' Bioinformatics (2015) 31 (8): 1204-1210. doi: 10.1093/bioinformatics/btu810, First published online: December 9, 2014",
+    "AttributeInfo": "Each attribute is a letter denoting an amino acid. G (Glycine, Gly); P (Proline, Pro); A (Alanine, Ala); V (Valine, Val); L (Leucine, Leu); I (Isoleucine, Ile); M (Methionine, Met); C (Cysteine, Cys); F (Phenylalanine, Phe); Y (Tyrosine, Tyr); W (Tryptophan, Trp); H (Histidine, His); K (Lysine, Lys); R (Arginine, Arg); Q (Glutamine, Gln); N (Asparagine, Asn); E (Glutamic Acid, Glu); D (Aspartic Acid, Asp); S (Serine, Ser); T (Threonine, Thr). The output denotes cleaved (+1) or not cleaved (-1).",
+    "FormatType": "",
+    "NumHits": 8
+}

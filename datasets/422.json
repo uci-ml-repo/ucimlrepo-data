@@ -1,0 +1,23 @@
+{
+    "ID": 422,
+    "Name": "Wireless Indoor Localization",
+    "Abstract": "Collected in indoor space by observing signal strengths of seven WiFi signals visible on a smartphone. The decision variable is one of the four rooms. ",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 2000,
+    "NumAttributes": 7,
+    "DateDonated": "2017-12-04",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00422/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Collected to perform experimentation on how wifi signal strengths can be used to determine one of the indoor locations.",
+    "Source": "Rajen Bhatt, rajen.bhatt@gmail.com",
+    "Acknowledgements": "1. Rajen Bhatt, 'Fuzzy-Rough Approaches for Pattern Classification: Hybrid measures, Mathematical analysis, Feature selection algorithms, Decision tree algorithms, Neural learning, and Applications', Amazon Books\r\n2. Jayant G Rohra, Boominathan Perumal, Swathi Jamjala Narayanan, Priya Thakur, and Rajen B Bhatt, 'User Localization in an Indoor Environment Using Fuzzy Hybrid of Particle Swarm Optimization & Gravitational Search Algorithm with Neural Networks', in Proceedings of Sixth International Conference on Soft Computing for Problem Solving,2017, pp. 286-295.",
+    "Area": "Computer",
+    "RelevantPapers": "Jayant G Rohra, Boominathan Perumal, Swathi Jamjala Narayanan, Priya Thakur, and Rajen B Bhatt, 'User Localization in an Indoor Environment Using Fuzzy Hybrid of Particle Swarm Optimization & Gravitational Search Algorithm with Neural Networks', in Proceedings of Sixth International Conference on Soft Computing for Problem Solving,2017, pp. 286-295.",
+    "AttributeInfo": "Each attribute is wifi signal strength observed on smartphone.",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

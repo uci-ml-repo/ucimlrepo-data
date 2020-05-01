@@ -1,0 +1,11 @@
+{
+    "datasetID": 54,
+    "supportID": "4C2F166E8384723CD8E5E872FFCF52859F95F6BB",
+    "rexaID": "480c0ae46486d7a7881f88224c5216ea0b7da839",
+    "author": "David Littau and Daniel Boley",
+    "title": "Using Low-Memory Representations to Cluster Very Large Data Sets",
+    "venue": "SDM",
+    "year": "2003",
+    "window": "to 0 centroids are a PDDP clustering of a low-memory representation using the centroid in C closest to a data item to approximate that data item. For the data examined, the results are better if the dataset <b>isolet</b> k1 reuters forest m 7997 2340 9494 581012 n 617 21839 19968 54 categories 26 20 66 7 # dense 0.68% 0.20% dense k s 5 5 5 5 k c 150 50 100 500 k z 5 5 5 1 k f 150 50 100 500 Table 3: Datasets",
+    "mykey": 672
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 51,
+    "supportID": "8D937890A8A59B7C87B1F9096F3F16EB27EA6873",
+    "rexaID": "f38cf28d327cab22e1f3c138ae648f6c6776a2d7",
+    "author": "Sergio A. Alvarez and Takeshi Kawato and Carolina Ruiz",
+    "title": "Mining over loosely coupled data sources using neural experts",
+    "venue": "Computer Science Dept. Boston College",
+    "year": "",
+    "window": "of mining over multiple data sources by applying a mixture of attribute experts ANN to the problem of detecting advertisments in images embedded in web documents, using the <b>Internet</b> <b>Advertisements</b> dataset from the UCI Machine Learning Repository [4]. We conclude with a discussion of our results and suggestions for future work. 2. ARTIFICIAL NEURAL NETWORKS Artificial neural networks (ANN) are models",
+    "mykey": 1397
+}

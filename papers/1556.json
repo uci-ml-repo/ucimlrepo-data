@@ -1,0 +1,11 @@
+{
+    "datasetID": 20,
+    "supportID": "9A4AB71FA8007EBC766C93E25181A097B2216D38",
+    "rexaID": "5193dfc0a9d39b5f86fe360d6beff81aa9b7390e",
+    "author": "Nikunj C. Oza and Stuart J. Russell",
+    "title": "Experimental comparisons of online and batch versions of bagging and boosting",
+    "venue": "KDD",
+    "year": "2001",
+    "window": "used in our experiments. For the Soybean and <b <b>Census</b> Income</b> datasets, we have given the sizes of the supplied training and test sets. For the remaining datasets, we have given the sizes of the training and test sets in our #ve-fold crossvalidation runs. Data Set",
+    "mykey": 1556
+}

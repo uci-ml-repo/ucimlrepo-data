@@ -1,0 +1,11 @@
+{
+    "datasetID": 107,
+    "supportID": "26AEA27D034C1DA2F37B2AD0DF34C786F73E1E32",
+    "rexaID": "1c251864a7292b2f635e211e0027653df4b382a2",
+    "author": "Dietrich Wettschereck and David W. Aha",
+    "title": "Weighting Features",
+    "venue": "ICCBR",
+    "year": "1995",
+    "window": "Feature Weights Computed by MI in the <b>Waveform</b> 19 Task Table 5. Average Accuracies on the Waveform Tasks Relative to k-NN Feature Weight Learning Algorithm Training Feedback Method Ignorant Method Dataset Size k-NN Relief-F k-NNV SM MI Waveform 100 77.0Sigma1.0 79.1 77.2 78.0 300 82.1Sigma0.9 82.4 81.6 82.6 Waveform+19 100 73.4Sigma1.0 78.4 76.7 78.6 300 81.3Sigma0.9 83.0 82.5 82.3 features to",
+    "mykey": 314
+}

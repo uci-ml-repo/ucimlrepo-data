@@ -1,0 +1,23 @@
+{
+    "ID": 217,
+    "Name": "Reuter_50_50",
+    "Abstract": "The dataset is used for authorship identification in online Writeprint which is a new research field of pattern recognition. ",
+    "Types": "Multivariate, Text, Domain-Theory",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 2500,
+    "NumAttributes": 10000,
+    "DateDonated": "2011-09-08",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00217/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset is the subset of RCV1. These corpus has already been used in author identification experiments. In the top 50 authors (with respect to total size of articles) were selected. 50 authors of texts labeled with at least one subtopic of the class CCAT(corporate/industrial) were selected.That way, it is attempted to minimize the topic factor in distinguishing among the texts. The training corpus consists of 2,500 texts (50 per author) and the test corpus includes other 2,500 texts (50 per author) non-overlapping with the training texts.",
+    "Source": "Dataset creator and donator: ZhiLiu, e-mail: liuzhi8673 '@' gmail.com, institution: National Engineering Research Center for E-Learning, Hubei Wuhan, China\r\n\r\n\r\n",
+    "Acknowledgements": "Please refer to the donator Zhi Liu from National Engineering Research Center For E-Learning Technology\u00ef\u00bc\u0152China.\r\n",
+    "Area": "Computer",
+    "RelevantPapers": "J. Houvardas, E. Stamatatos, \u00e2\u20ac\u0153N-gram Feature Selection for Authorship Identification,\u00e2\u20ac\u009d in Proc. of the 12th Int. Conf. on Artificial Intelligence: Methodology, Systems, Applications, vol. 4183, pp.77-86, (2006) September 12-15; Varna, Bulgaria.\t\r\nE. Stamatatos, \u00e2\u20ac\u0153Author Identification Using Imbalanced and Limited Training Texts,\u00e2\u20ac\u009d In Proc. of the 4th International Workshop on Text-based Information Retrieval, (2007) September 3-7; Regensburg, Germany.",
+    "AttributeInfo": "Attributes of the dataset are character n-grams(n=1-5)",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

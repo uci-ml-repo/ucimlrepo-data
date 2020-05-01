@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "4A7FADAA8DF9B482A723551E6611E531FB3ED8C1",
+    "rexaID": "932cec9f3183bf03e366c0b093984ca256a4c3e4",
+    "author": "D. I. S I and Francesco Masulli and Giorgio Valentini and D. I. S",
+    "title": "Universit#a di Genova",
+    "venue": "Dipartimento di Informatica e Scienze dell' Informazione",
+    "year": "2001",
+    "window": "machine, varying the number of hidden units between 5 to 50, yielding to 11 # 20 = 220 evaluations of I E ; I SE ; #R and # S both for ECOC monolithic and ECOC PND learning machines. On the UCI data sets <b>glass</b>  letter and 18 optdigits we have used only 2 different structures, using, respectively, 5 and 9, 120 and 140, 60 and 70 hidden units, yielding to 2 # 20 = 40 evaluations of the mutual",
+    "mykey": 655
+}

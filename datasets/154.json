@@ -1,0 +1,23 @@
+{
+    "ID": 154,
+    "Name": "Protein Data",
+    "Abstract": "Undocumented",
+    "Types": "",
+    "Task": "",
+    "AttributeTypes": "",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/undocumented/sigillito/",
+    "URLReadme": "../machine-learning-databases/undocumented/sigillito/secondary-structure.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "",
+    "Source": "",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 14016
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 86,
+    "Name": "Quadruped Mammals",
+    "Abstract": " The file animals.c is a data generator of structured instances representing quadruped animals",
+    "Types": "Multivariate, Data-Generator",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 0,
+    "NumAttributes": 72,
+    "DateDonated": "1992-08-25",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/quadrapeds/",
+    "URLReadme": "../machine-learning-databases/quadrapeds/animals.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The file animals.c is a data generator of structured instances representing quadruped animals as used by Gennari, Langley, and Fisher (1989) to evaluate the CLASSIT unsupervised learning algorithm. Instances have 8 components: neck, four legs, torso, head, and tail.  Each component is represented as a simplified/generalized cylinder (i.e., inspired by David Marr's work in \"Vision: A Computational Investigation Into the Human Representation  and Processing of Visual Information\", published by Freeman in 1982). Each cylinder is itself described by 9 attributes: location x 3, axis x 3, height, radius, and texture.  This code generates instances in one of four classes: dogs, cats, horses, and giraffes.  The program generates instances by selecting a class according to a distribution determined by function rand4().  Each class has a prototype; the prototype of the selected class is perturbed according to a distribution described in the code for the four classes (i.e., parameterized means with Guassian distributions are used to represent prototypes and perturbation distributions, where the means are used to distinguish the four classes).\r\n\r\nFrom John Gennari: (1990)\r\n\r\nThe only notes I have about it is that I don't use the data format it creates any more. To change this, modify \"printpart()\". Also, it uses a very rough approximation for a bell-shaped distribution. Currently, I use a much more sophisticated random number generator. To fix this, just replace \"bellrand()\" with a real bell shaped distribution.",
+    "Source": "Origin:\r\n\r\nGennari, J.~H., Langley, P, \\& Fisher, D. (1989). \r\nModels of incremental concept formation. {\\it Artificial Intelligence\\/}, {\\it 40\\/}, 11--61.\r\n\r\nDonor: \r\n\r\nJohn H. Gennari (gennari@camis.stanford.edu 8/1992)",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "",
+    "AttributeInfo": "     A. Eight components per instances/animal:\r\n        1. Head\r\n        2. Tail\r\n        3. 4 legs\r\n        4. torso\r\n        5. neck   \r\n     B. Nine attributes per component:\r\n        1. Location 1\r\n        2. Location 2\r\n\t3. Location 3\r\n\t4. Axis 1\r\n\t5. Axis 2\r\n\t6. Axis 3\r\n\t7. Height\r\n\t8. Radius\r\n\t9. Texture",
+    "FormatType": "",
+    "NumHits": 19
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 342,
+    "Name": "Mice Protein Expression",
+    "Abstract": "Expression levels of 77 proteins measured in the cerebral cortex of 8 classes of control and Down syndrome mice exposed to context fear conditioning, a task used to assess associative learning.",
+    "Types": "Multivariate",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 1080,
+    "NumAttributes": 82,
+    "DateDonated": "2015-08-04",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00342/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The data set consists of the expression levels of 77 proteins/protein modifications that produced detectable signals in the nuclear fraction of cortex. There are 38 control mice and 34 trisomic mice (Down syndrome), for a total of 72 mice. In the experiments, 15 measurements were registered of each protein per sample/mouse. Therefore, for control mice, there are 38x15, or 570 measurements, and for trisomic mice, there are 34x15, or 510 measurements. The dataset contains a total of 1080 measurements per protein. Each measurement can be considered as an independent sample/mouse.\r\n\r\nThe eight classes of mice are described based on features such as genotype, behavior and treatment. According to genotype, mice can be control or trisomic. According to behavior, some mice have been stimulated to learn (context-shock) and others have not (shock-context) and in order to assess the effect of the drug memantine in recovering the ability to learn in trisomic mice, some mice have been injected with the drug and others have not.\r\n\r\nClasses:\r\nc-CS-s: control mice, stimulated to learn, injected with saline (9 mice)\r\nc-CS-m: control mice, stimulated to learn, injected with memantine (10 mice)\r\nc-SC-s: control mice, not stimulated to learn, injected with saline (9 mice)\r\nc-SC-m: control mice, not stimulated to learn, injected with memantine (10 mice)\r\n\r\nt-CS-s: trisomy mice, stimulated to learn, injected with saline (7 mice)\r\nt-CS-m: trisomy mice, stimulated to learn, injected with memantine (9 mice)\r\nt-SC-s: trisomy mice, not stimulated to learn, injected with saline (9 mice)\r\nt-SC-m: trisomy mice, not stimulated to learn, injected with memantine (9 mice)\r\n\r\nThe aim is to identify subsets of proteins that are discriminant between the classes.\r\n",
+    "Source": "Clara Higuera Department of Software Engineering and Artificial Intelligence, Faculty of Informatics and the Department of Biochemistry and Molecular Biology, Faculty of Chemistry, University Complutense, Madrid, Spain.\r\nEmail: clarahiguera@ucm.es\r\n\r\nKatheleen J. Gardiner, creator and owner of the protein expression data, is currently with the Linda Crnic Institute for Down Syndrome, Department of Pediatrics, Department of Biochemistry and Molecular Genetics, Human Medical Genetics and Genomics, and Neuroscience Programs, University of Colorado, School of Medicine, Aurora, Colorado, USA.\r\nEmail: katheleen.gardiner@ucdenver.edu\r\n\r\nKrzysztof J. Cios is currently with the Department of Computer Science, Virginia Commonwealth University, Richmond, Virginia, USA, and IITiS Polish Academy of Sciences, Poland. \r\nEmail: kcios@vcu.edu\r\n",
+    "Acknowledgements": "Higuera C, Gardiner KJ, Cios KJ (2015) Self-Organizing Feature Maps Identify Proteins Critical to Learning in a Mouse Model of Down Syndrome. PLoS ONE 10(6): e0129126. doi:10.1371/ journal.pone.0129126 \r\n",
+    "Area": "Life",
+    "RelevantPapers": "The posted data were analyzed by:\r\nHiguera C, Gardiner KJ, Cios KJ (2015) Self-Organizing Feature Maps Identify Proteins Critical to Learning in a Mouse Model of Down Syndrome. PLoS ONE 10(6): e0129126. doi:10.1371/ journal.pone.0129126 \r\n\r\nThe data are a subset of the data analyzed by: \r\nAhmed MM, Dhanasekaran AR, Block A, Tong S, Costa ACS, Stasko M, et al. (2015) Protein Dynamics Associated with Failed and Rescued Learning in the Ts65Dn Mouse Model of Down Syndrome. PLoS ONE 10(3): e0119491. doi:10.1371/journal.pone.0119491\r\n\r\n",
+    "AttributeInfo": "1 Mouse ID \r\n2..78 Values of expression levels of 77 proteins; the names of proteins are followed by \u00e2\u20ac\u0153_n\u00e2\u20ac\u009d  indicating that they were measured in the nuclear fraction. For example: DYRK1A_n\r\n79 Genotype: control (c) or trisomy (t)\r\n80 Treatment type: memantine (m) or saline (s)\r\n81 Behavior: context-shock (CS) or shock-context (SC)\r\n82 Class: c-CS-s, c-CS-m, c-SC-s, c-SC-m,  t-CS-s, t-CS-m, t-SC-s, t-SC-m \r\n",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

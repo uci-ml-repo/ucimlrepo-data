@@ -1,0 +1,11 @@
+{
+    "datasetID": 69,
+    "supportID": "CD6FD34EA5A5C1F7388324FCCEC3B50EE74C6E1C",
+    "rexaID": "42ba5137ab9d88dc1eae5caac18cb6a1818ae700",
+    "author": "Rudy Setiono",
+    "title": "Extracting M-of-N Rules from Trained Neural Networks",
+    "venue": "School of Computing National University of Singapore",
+    "year": "",
+    "window": "used in the experiments are publicly available via anonymous ftp from ics.uci.edu [14]. These dataset are: 1. The <b>splice</b> junction dataset. The characteristics of the patterns in this dataset have been described in the previous section. The dataset that consists of 1006 patterns was used. 2. The 3",
+    "mykey": 2061
+}

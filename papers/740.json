@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "536B979DB33793D8525FBBB573D7E6B4FDCF4960",
+    "rexaID": "f51be2f205fbe38436ed150a6627139668eb002a",
+    "author": "Thierry Denoeux",
+    "title": "A neural network classifier based on Dempster-Shafer theory",
+    "venue": "IEEE Transactions on Systems, Man, and Cybernetics, Part A, 30",
+    "year": "2000",
+    "window": "analysis techniques [13]. As shown in Table I, our approach with at least three prototypes per class dominates the other techniques for this classification task. 2) Forensic <b>Glass</b> Data: This data set contains the description of 214 fragments of glass [17] originally collected for a study in the context of criminal investigation. Each fragment has a measured reflectivity index and chemical",
+    "mykey": 740
+}

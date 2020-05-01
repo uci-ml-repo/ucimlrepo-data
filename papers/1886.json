@@ -1,0 +1,11 @@
+{
+    "datasetID": 145,
+    "supportID": "B97D3EEB77C2511B8852477BF8D159193337CE84",
+    "rexaID": "e5d994d772cfe5ec4d0f3e6d669f0bc28180a3ae",
+    "author": "Elena Smirnova and Ida G. Sprinkhuizen-Kuyper and I. Nalbantis and b. ERIM and Universiteit Rotterdam",
+    "title": "Unanimous Voting using Support Vector Machines",
+    "venue": "IKAT, Universiteit Maastricht",
+    "year": "",
+    "window": "the hypothesis space H contains the target hyperplane, the hyperplane is consistent with the training data; i.e., it belongs to the version space [7, 11]. Thus, the unanimous-voting classification Data Set Parameters Cvssvm Avssvm Asvm I <b>Heart</b> <b>Statlog</b> P, E=2.0, C=1730 56.3% 100% 73.0% 0.42 Heart-Statlog RBF, G=0.2 , C=2182 40.7% 100% 73.7 % 0.24 Hepatitis P, E=1.4, C=11.7 80.0% 100% 80.0 % 0.72",
+    "mykey": 1886
+}

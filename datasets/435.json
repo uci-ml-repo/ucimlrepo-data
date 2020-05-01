@@ -1,0 +1,23 @@
+{
+    "ID": 435,
+    "Name": "BLE RSSI Dataset for Indoor localization and Navigation",
+    "Abstract": "This dataset contains RSSI readings gathered from an array of Bluetooth Low Energy (BLE) iBeacons in a real-world and operational indoor environment for localization and navigation purposes.",
+    "Types": "Multivariate, Sequential, Time-Series",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Integer",
+    "NumInstances": 6611,
+    "NumAttributes": 15,
+    "DateDonated": "2018-01-25",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00435/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset was created using the RSSI readings of an array of 13 ibeacons in the first floor of Waldo Library, Western Michigan University. Data was collected using iPhone 6S. The dataset contains two sub-datasets: a labeled dataset (1420 instances) and an unlabeled dataset (5191 instances). The recording was performed during the operational hours of the library. For the labeled dataset, the input data contains the location (label column), a timestamp, followed by RSSI readings of 13 iBeacons. RSSI measurements are negative values. Bigger RSSI values indicate closer proximity to a given iBeacon (e.g., RSSI of -65 represent a closer distance to a given iBeacon compared to RSSI of -85). For out-of-range iBeacons, the RSSI is indicated by -200. The locations related to RSSI readings are combined in one column consisting a letter for the column and a number for the row of the position. The attached figure depicts the layout of the iBeacons as well as the arrange of locations.   \r\n",
+    "Source": "Mehdi Mohammadi and Ala Al-Fuqaha, {mehdi.mohammadi, ala-alfuqaha}@wmich.edu\r\nDepartment of Computer Science\r\nWestern Michigan University\r\n",
+    "Acknowledgements": "@article{mohammadi2017semi, \r\nauthor={M. Mohammadi and A. Al-Fuqaha and M. Guizani and J. S. Oh}, \r\njournal={IEEE Internet of Things Journal}, \r\ntitle={{Semi-supervised Deep Reinforcement Learning in Support of IoT and Smart City Services}}, \r\nyear={2017}, \r\npages={1-12}, \r\npublisher={IEEE},\r\ndoi={10.1109/JIOT.2017.2712560}, \r\nISSN={2327-4662}, \r\n}\r\n",
+    "Area": "Computer",
+    "RelevantPapers": "M. Mohammadi and A. Al-Fuqaha, 'Enabling Cognitive Smart Cities Using Big Data and Machine Learning: Approaches and Challenges,' IEEE Communications Magazine, vol. 56, no. 2, 2018.",
+    "AttributeInfo": "location: The location of receiving RSSIs from ibeacons b3001 to b3013; symbolic values showing the column and row of the location on the map (e.g., A01 stands for column A, row 1).\r\n\r\nDate: Datetime in the format of \u00e2\u20ac\u02dcd-m-yyyy hh:mm:ss\u00e2\u20ac\u2122\r\n\r\nb3001 - b3013: RSSI readings corresponding to the iBeacons; numeric, integers only.\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

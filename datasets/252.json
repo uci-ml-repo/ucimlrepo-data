@@ -1,0 +1,23 @@
+{
+    "ID": 252,
+    "Name": "Climate Model Simulation Crashes",
+    "Abstract": "Given Latin hypercube samples of 18 climate model input parameter values, predict climate model simulation crashes and determine the parameter value combinations that cause the failures.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 540,
+    "NumAttributes": 18,
+    "DateDonated": "2013-06-18",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00252/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset contains records of simulation crashes encountered during climate model uncertainty quantification (UQ) ensembles. \r\n\r\nEnsemble members were constructed using a Latin hypercube method in LLNL's UQ Pipeline software system to sample the uncertainties of 18 model parameters within the Parallel Ocean Program (POP2) component of the Community Climate System Model (CCSM4). \r\n\r\nThree separate Latin hypercube ensembles were conducted, each containing 180 ensemble members. 46 out of the 540 simulations failed for numerical reasons at combinations of parameter values. \r\n\r\nThe goal is to use classification to predict simulation outcomes (fail or succeed) from input parameter values, and to use sensitivity analysis and feature selection to determine the causes of simulation crashes. \r\n\r\nFurther details about the data and methods are given in the publication 'Failure Analysis of Parameter-Induced Simulation Crashes in Climate Models,' Geoscientific Model Development (doi:10.5194/gmdd-6-585-2013).",
+    "Source": "D. Lucas (ddlucas .at. alum.mit.edu), Lawrence Livermore National Laboratory\r\nR. Klein (rklein .at. astron.berkeley.edu), Lawrence Livermore National Laboratory & U.C. Berkeley\r\nJ. Tannahill (tannahill1 .at. llnl.gov), Lawrence Livermore National Laboratory\r\nD. Ivanova (ivanova2 .at. llnl.gov), Lawrence Livermore National Laboratory\r\nS. Brandon (brandon1 .at. llnl.gov), Lawrence Livermore National Laboratory\r\nD. Domyancic (domyancic1 .at. llnl.gov), Lawrence Livermore National Laboratory\r\nY. Zhang (zhang24 .at. llnl.gov), Lawrence Livermore National Laboratory\r\n\r\nThis data was constructed using LLNL's UQ Pipeline, was created under the auspices of the US Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344, was funded by LLNL's Uncertainty Quantification Strategic Initiative Laboratory Directed Research and Development Project under tracking code 10-SI-013, and is released under UCRL number LLNL-MISC-633994.",
+    "Acknowledgements": "Please cite our final revised paper in Geoscientific Model Development.",
+    "Area": "Physical",
+    "RelevantPapers": "Lucas, D. D., Klein, R., Tannahill, J., Ivanova, D., Brandon, S., Domyancic, D., and Zhang, Y.: Failure analysis of parameter-induced simulation crashes in climate models, Geosci. Model Dev. Discuss., 6, 585-623, doi:10.5194/gmdd-6-585-2013, 2013.\r\n[http://www.geosci-model-dev-discuss.net/6/585/2013/gmdd-6-585-2013.html]",
+    "AttributeInfo": "The goal is to predict climate model simulation outcomes (column 21, fail or succeed) given scaled values of climate model input parameters (columns 3-20).\r\n\r\nColumn 1: Latin hypercube study ID (study 1 to study 3)\r\n\r\nColumn 2: simulation ID (run 1 to run 180)\r\n\r\nColumns 3-20: values of 18 climate model parameters scaled in the interval [0, 1]\r\n\r\nColumn 21: simulation outcome (0 = failure, 1 = success)",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

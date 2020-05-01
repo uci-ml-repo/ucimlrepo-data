@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "820E5427D5D8D1CA509AA08D4387187DABE4175E",
+    "rexaID": "dc4f2babc5ca4534b435280aec32f5816ddb53b0",
+    "author": "Stavros J. Perantonis and Vassilis Virvilis",
+    "title": "Input Feature Extraction for Multilayered Perceptrons Using Supervised Principal Component Analysis",
+    "venue": "Neural Processing Letters, 10",
+    "year": "1999",
+    "window": "[15]. It comprises 768 patterns taken from patients who may show signs of diabetes. Each sample is described by 8 attributes. 4. The  <b>sonar</b> Targets\" dataset [16]. The task is to distinguish between sonar returns from a metal cylinder and sonar returns from a cylindrically shaped rock. The set comprises 208 patterns with 60 features for each pattern. For",
+    "mykey": 1301
+}

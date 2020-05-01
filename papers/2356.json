@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "EC1555AAA52CBB081F4D6BDDD6029601A2F18584",
+    "rexaID": "c042581c25e66281bb5ce382f70738b0233e5f5a",
+    "author": "Zhi-Hua Zhou and Xu-Ying Liu",
+    "title": "Training Cost-Sensitive Neural Networks with Methods Addressing the Class Imbalance Problem",
+    "venue": "",
+    "year": "",
+    "window": "0.85. On euthyroid, threshold-moving is the best, under-sampling is the worst in the effective range, while the ensemble methods become poor when PCF(+) is bigger than 0.8. On the remaining nine data sets all the methods work well. On <b>heart</b> s the ensemble methods are slightly better than others. On heart the ensemble methods are apparently better than over-sampling, under-sampling, and",
+    "mykey": 2356
+}

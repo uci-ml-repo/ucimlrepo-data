@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "B820BC13DD22658FD3561632089CEE83D75232C0",
+    "rexaID": "32cb39d6ec7d1af5c8f8ad0fff8300527cf9f188",
+    "author": "Edgar Acuna and Alex Rojas",
+    "title": "Ensembles of classifiers based on Kernel density estimators",
+    "venue": "Department of Mathematics University of Puerto Rico",
+    "year": "2000",
+    "window": "has been developed to carry out all our tasks. The results are shown in the table 7. Table 6. Comparison of Bagging using classical and adaptive kernel classifiers Classical Kernel Adaptive Kernel Dataset Single Bagged Improv Single Bagged Improv <b>Iris</b> 4.00 3.33 16.75 4.67 4.00 14.34 Glass 44.97 40.52 9.90 35.20 33.25 5.54 Heart-C 22.09 20.05 9.23 23.60 19.80 16.10 Breast-W 4.34 4.10 5.53 4.88 4.53",
+    "mykey": 1874
+}

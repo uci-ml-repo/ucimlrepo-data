@@ -1,0 +1,11 @@
+{
+    "datasetID": 102,
+    "supportID": "D0FE18451EDCBDFEE85C34DEB930F22FB2196039",
+    "rexaID": "d4ea16b5ea06d216f7d2be28615fa9c66b98bbea",
+    "author": "George H. John and Ron Kohavi and Karl Pfleger",
+    "title": "Irrelevant Features and the Subset Selection Problem",
+    "venue": "ICML",
+    "year": "1994",
+    "window": "performance was on parity5+5 and CorrAL using stepwise backward elimination, which reduced the error to 0% from 50% and 18.8% respectively. Experiments were also run on the Iris, <b>Thyroid</b>  and Monk1* datasets. The results on these datasets were similar to those reported in this paper. We observed high variance in the 25-fold crossvalidation estimates of the error. Since our algorithms depend on",
+    "mykey": 2079
+}

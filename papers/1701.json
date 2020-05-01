@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "A69C85F6BF728B015E2FDA44CDBBA454FCFF30ED",
+    "rexaID": "271b9c67f2a11a31962a436a41aaa5ed148dda6e",
+    "author": "Lorne Mason and Peter L. Bartlett and Jonathan Baxter",
+    "title": "Direct Optimization of Margins Improves Generalization in Combined Classifiers",
+    "venue": "NIPS",
+    "year": "1998",
+    "window": "the light curveisDOOMwith` selected by cross-validation. The test errors for both algorithms are marked on the vertical axis at margin 0. can be seen in Figure 3 (Credit Application and <b>Sonar</b> data sets), the generalization performance of the combined classifier produced by DOOM can be as good as or better than that of the classifier produced by AdaBoost, despite having dramatically worse minimum",
+    "mykey": 1701
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 7,
+    "supportID": "1261A790F06DD7E04604E3202DDBFA94A37AC98F",
+    "rexaID": "488b32dd59d0732ad7657f9a34f40f2aa78551cf",
+    "author": "Bernhard Pfahringer and Ian H. Witten and Philip Chan",
+    "title": "Improving Bagging Performance by Increasing Decision Tree Diversity",
+    "venue": "Austrian Research Institute for AI",
+    "year": "",
+    "window": "procedure---either five five-fold cross-validations, or the use of a prespecified test set. D R A F T October 14, 1997, 7:30pm D R A F T IMPROVING BAGGING 11 Table 1. Characteristics of the used datasets. Dataset #Ex #C #Cat #Num Test <b>Audiology</b> 226 24 69 0 5 Theta 5 cv Breast 699 2 0 9 5 Theta 5 cv Colic 368 2 14 8 5 Theta 5 cv Credit 690 2 9 6 5 Theta 5 cv Diabetes 768 2 0 8 5 Theta 5 cv DNA",
+    "mykey": 175
+}

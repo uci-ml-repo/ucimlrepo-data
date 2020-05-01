@@ -1,0 +1,11 @@
+{
+    "datasetID": 69,
+    "supportID": "FB6122710CE0C4FEA48E901E59E2E992E155079B",
+    "rexaID": "c334718c7e09d2671197a8c9526018de1d816903",
+    "author": "Adam J. Grove and Dale Schuurmans",
+    "title": "Boosting in the Limit: Maximizing the Margin of Learned Ensembles",
+    "venue": "AAAI/IAAI",
+    "year": "1998",
+    "window": "that this depends crucially on the base learner always being able to find a sufficiently good hypothesis if one exists; see Section 5 for further discussion of this issue. \u00c6 However, for some large data sets, chess and <b>splice</b>  we inverted the train/test proportions. FindAttrTest Adaboost LP-Adaboost DualLPboost Data set error% win% error% margin error% win% margin error% win% margin Audiology 52.30",
+    "mykey": 2545
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "48E3C24E1A609BE8ECC7908EC173EDC1665F4720",
+    "rexaID": "08bad2c42799dc0f04d6729f069239fba413cb8f",
+    "author": "Jan C. Bioch and D. Meer and Rob Potharst",
+    "title": "Bivariate Decision Trees",
+    "venue": "PKDD",
+    "year": "1997",
+    "window": "with the standard error. From these table we can conclude 10 name cases attr classes glass 214 9 6 <b>diabetes</b> pima) 768 8 2 breast cancer 699 9 2 heart 270 13 2 wave 300 21 3 Table 1: Summary of the Datasets method glass diabetes cancer heart wave BIT1 65.3Sigma1:1 74.3Sigma0:7 95.4Sigma0:3 78.5Sigma0:3 76.1Sigma1:3 6.2Sigma2:1 5.2Sigma2:5 2.8Sigma0:2 4.1Sigma0:5 5.0Sigma1:6 BIT2",
+    "mykey": 632
+}

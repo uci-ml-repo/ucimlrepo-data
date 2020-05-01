@@ -1,0 +1,11 @@
+{
+    "datasetID": 108,
+    "supportID": "7B11AB79F580C58076646136467AAFCBC998E454",
+    "rexaID": "ce55aa21eaf8e5fc2b67e9ef0b031b5c32af6b41",
+    "author": "Eibe Frank and Mark Hall and Bernhard Pfahringer",
+    "title": "Locally Weighted Naive Bayes",
+    "venue": "UAI",
+    "year": "2003",
+    "window": "3772 6.0 23 6 2 sonar 208 0.0 60 0 2 soybean 683 9.8 0 35 19 splice 3190 0.0 0 61 3 vehicle 846 0.0 18 0 4 vote 435 5.6 0 16 2 vowel 990 0.0 10 3 11 <b>waveform</b> 5000 0.0 40 0 3 zoo 101 0.0 1 15 7 19 datasets for k = 5 and k = 10 respectively. When distance weighting is used with k-nearest neighbours, our method is significantly more accurate on 13 and 17 datasets for k = 5 and k = 10 respectively.",
+    "mykey": 1213
+}

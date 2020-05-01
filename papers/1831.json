@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "B1E527F19DDC0343FC7F3A76D97025BFAB15D4F4",
+    "rexaID": "395f41d678ee7dfc42742e514a39927f80c4c538",
+    "author": "Ross J. Micheals and Patrick Grother and P. Jonathon Phillips",
+    "title": "The NIST HumanID Evaluation Framework",
+    "venue": "AVBPA",
+    "year": "2003",
+    "window": "Jonathon's signature therefore contains five sigmembers: one for the <b>iris</b> scan, three for each facial image, and one for the gait video. For the first sigmember, the iris scan, there is a single dataset with a single file that contains the iris data. Three sigmembers, for the facial imagery, each have a single dataset, each with a single file that each contain a facial image. The fifth sigmember,",
+    "mykey": 1831
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "2D2B0745D475E1A2D27129FBA3F201EF685877EB",
+    "rexaID": "10e99a623872cac01bf1cd18cc027b2559db0a86",
+    "author": "Christopher J. Merz and Michael J. Pazzani",
+    "title": "A Principal Components Approach to Combining Regression Estimates",
+    "venue": "Machine Learning, 36",
+    "year": "1999",
+    "window": "No method in the first block does particularly well for the bodyfat or <b>housing</b> data sets indicating that a moderate amount of regularization is required there. Examining the more advanced methods for handling multicollinearity in the second block of rows reveals that PCR*, EG, and CR",
+    "mykey": 375
+}

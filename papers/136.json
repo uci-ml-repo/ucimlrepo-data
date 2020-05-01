@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "0C543EE2403E5E986309215F48B47EF69BF46806",
+    "rexaID": "abf0c261ab7aa462cd5cbc290cb7963cdf4f9ee8",
+    "author": "Miguel Moreira and Alain Hertz and Eddy Mayoraz",
+    "title": "Data binarization by discriminant elimination",
+    "venue": "Proceedings of the ICML-99 Workshop: From Machine Learning to",
+    "year": "",
+    "window": "that Ideal is eliminative, while SG is constructive: SG is executed until consistency is attained, while in Ideal consistency is never lost, if verified initially. (This may not be the case for datasets with missing values, e.g. <b>soybean</b> ) The other, very important aspect is that Ideal is heavily grounded on the original attributes. Concerning the comparison between Ideal, SG, and decision trees,",
+    "mykey": 136
+}

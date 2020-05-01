@@ -1,0 +1,11 @@
+{
+    "datasetID": 33,
+    "supportID": "7E0D93E77081654DA2B299AD219591639C52809F",
+    "rexaID": "899bdb470e48c308144216cc22048c88816ee035",
+    "author": "Rafael S. Parpinelli and Heitor S. Lopes and Alex Alves Freitas",
+    "title": "An Ant Colony Based System for Data Mining: Applications to Medical Data",
+    "venue": "CEFET-PR, CPGEI Av. Sete de Setembro, 3165",
+    "year": "",
+    "window": "AntClass 88.75% \u00b1 6.73 2.70 \u00b1 0.46 7.50 \u00b1 2.01 C4.5 85.96% \u00b1 1.07 4.4 \u00b1 0.93 8.5 \u00b1 3.04 <b>Dermatology</b> Data Set AntClass 84.21% \u00b1 6.34 6.00 \u00b1 0.00 79.00 \u00b1 3.46 C4.5 89.05% \u00b1 0.62 23.2 \u00b1 1.99 91.7 \u00b1 10.64 Furthermore, Table 3 compares AntMiner with an evolutionary algorithm for rule discovery called ESIA -",
+    "mykey": 1257
+}

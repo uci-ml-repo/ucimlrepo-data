@@ -1,0 +1,11 @@
+{
+    "datasetID": 70,
+    "supportID": "D0A398F35E1316D1CB00D8F0A940902C4E20CD96",
+    "rexaID": "16ecc3d56b302443c748705dd289fcdcb7f2bba0",
+    "author": "Ron Kohavi and Dan Sommerfield",
+    "title": "To Appear in KDD-98 Targeting Business Users with Decision Table Classifiers",
+    "venue": "Data Mining and Visualization Silicon Graphics, Inc",
+    "year": "",
+    "window": "available, mostly natural but also a few artificial ones (m-of-n and the <b>monk</b> problems). The artificial datasets were tested on the given training and test sets. The natural datasets were evaluated using 10fold cross-validation if the file size was less than 3,000 records (to ensure a small standard deviation",
+    "mykey": 2071
+}

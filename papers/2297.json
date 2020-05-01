@@ -1,0 +1,11 @@
+{
+    "datasetID": 39,
+    "supportID": "E354BB66D8D27FA87897536EDBD475A9E1D81A61",
+    "rexaID": "692880d7b3356df64bfa0f06a683f89e4ce6955b",
+    "author": "Vassilis Athitsos and Stan Sclaroff",
+    "title": "Boosting Nearest Neighbor Classifiers for Multiclass Recognition",
+    "venue": "Boston University Computer Science Tech. Report No, 2004-006",
+    "year": "2004",
+    "window": "(dermatology, soybean, thyroid, audiology) because they have missing attributes, which our current formulation cannot handle. One dataset  <b>ecoli</b>  contains a nominal attribute, which our current implementation cannot handle in practice; this Table 3. For each dataset, we count how many variations of AdaBoost.MO gave lower (<), equal",
+    "mykey": 2297
+}

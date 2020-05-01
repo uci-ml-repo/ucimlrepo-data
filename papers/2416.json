@@ -1,0 +1,11 @@
+{
+    "datasetID": 31,
+    "supportID": "EF6F7ECED228AA8FD8AFF9BDA1EB27C8DB7F5E77",
+    "rexaID": "ac35cdc4f306058543fb3fbf817fc84d85f89288",
+    "author": "Johannes Furnkranz",
+    "title": "Round Robin Rule Learning",
+    "venue": "Austrian Research Institute for Artificial Intelligence",
+    "year": "",
+    "window": "6) Ripper. The first five lines are total run-times, i.e., training and test time, while the cross-validated results report training time only. We failed to measure the run-times for the <b>covertype</b> data set, where the situation was complicated because of the large test set, which had to be split into several pieces for the Ripper-based algorithms. The last line shows the average of the 17",
+    "mykey": 2416
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 78,
+    "Name": "Page Blocks Classification",
+    "Abstract": "The problem consists of classifying all the blocks of the page layout of a document that has been detected by a segmentation process.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 5473,
+    "NumAttributes": 10,
+    "DateDonated": "1995-07-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/page-blocks/",
+    "URLReadme": "../machine-learning-databases/page-blocks/page-blocks.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The 5473 examples comes from 54 distinct documents. Each observation concerns one block. All attributes are numeric. Data are in a format readable by C4.5.",
+    "Source": "Original Owner:\r\n\r\nDonato Malerba\r\nDipartimento di Informatica\r\nUniversity of Bari\r\nvia Orabona 4\r\n70126 Bari - Italy\r\nphone: +39 - 80 - 5443269\r\nfax: +39 - 80 - 5443196\r\nmalerbad@vm.csata.it\r\n\r\nDonor: \r\n\r\nDonato Malerba",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "Malerba, D., Esposito, F., and Semeraro, G. \"A Further Comparison of Simplification Methods for Decision-Tree Induction.\" In D. Fisher and H. Lenz (Eds.), \"Learning  from Data: Artificial Intelligence and Statistics V\", Lecture Notes in Statistics, Springer Verlag, Berlin, 1995.\r\nhttp://rexa.info/paper/f33d7b5fb1093839e17943ac944c74bdd79a91a4\r\n\r\nEsposito F., Malerba D., & Semeraro G. Multistrategy Learning for Document Recognition. Applied Artificial Intelligence, 8, pp. 33-84, 1994\r\nhttp://rexa.info/paper/b0720de1fb5b2586a298d305caa788c78a1d6160\r\n",
+    "AttributeInfo": "   height:   integer.         | Height of the block.\r\n   lenght:   integer.     | Length of the block. \r\n   area:     integer.    | Area of the block (height * lenght);\r\n   eccen:    continuous.  | Eccentricity of the block (lenght / height);\r\n   p_black:  continuous.  | Percentage of black pixels within the block (blackpix / area);\r\n   p_and:    continuous.        | Percentage of black pixels after the application of the Run Length Smoothing Algorithm (RLSA) (blackand / area);\r\n   mean_tr:  continuous.      | Mean number of white-black transitions (blackpix / wb_trans);\r\n   blackpix: integer.    | Total number of black pixels in the original bitmap of the block.\r\n   blackand: integer.        | Total number of black pixels in the bitmap of the block after the RLSA.\r\n   wb_trans: integer.          | Number of white-black transitions in the original bitmap of the block.",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 8155
+}

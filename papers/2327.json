@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "E7E3145D583225BA96399629B07FACB4434822EE",
+    "rexaID": "ba94d46c3f1c8a8ccb1dc3fcbeb6afdd963d3f87",
+    "author": "Xiaoli Z. Fern and Carla Brodley",
+    "title": "Solving cluster ensemble problems by bipartite graph partitioning",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "a fair comparison. 7. Experimental Results The goal of the experiments is to evaluate the three graph formulations - IBGF, CBGF and HBGF - given different cluster ensembles. Table 1. Summary of the data sets data set eos <b>glass</b> hrct isolet6 modis #inst. 2398 214 1545 1440 4975 #class 8 6 8 6 10 org. dim. 20 9 183 617 112 rp dim. 5 5 10 10 6 pca dim. --- --- 30 60 6 7.1. Data Sets and Parameter Settings",
+    "mykey": 2327
+}

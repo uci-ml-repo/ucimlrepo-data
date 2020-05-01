@@ -1,0 +1,11 @@
+{
+    "datasetID": 149,
+    "supportID": "68D6AA6CDDB4F2312DE07372E3ADFE1A2C8EB09F",
+    "rexaID": "66119cd7be7811baab2a4b05715b5eb2f5c358b1",
+    "author": "Robi Polikar and L. Upda and S. S. Upda and Vasant Honavar",
+    "title": "Learn++: an incremental learning algorithm for supervised neural networks",
+    "venue": "IEEE Transactions on Systems, Man, and Cybernetics, Part C, 31",
+    "year": "2001",
+    "window": "combinations were tried. An MLP with 50 hidden layer nodes and a 100 times smaller error goal of 0.001 was able to match (and slightly exceed) Learn++ performance, by classifying 95% of the TEST dataset. B. <b>Vehicle</b> Silhouette Database Also obtained from the UCI depository, the vehicle silhouette database consisted of 18 features from which the type of a vehicle is determined. The database consisted",
+    "mykey": 985
+}

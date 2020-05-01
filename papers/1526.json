@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "97FC8CAD79557A06EBD7B79951BFEDC4855EC5B4",
+    "rexaID": "74b68cad54c62b62b7ad64911291e2e0b0620dd8",
+    "author": "Bart Hamers and J. A. K Suykens",
+    "title": "Coupled Transductive Ensemble Learning of Kernel Models",
+    "venue": "Bart De Moor",
+    "year": "2003",
+    "window": "donated by Quinlan and is one of the Credit Approval Databases which were used in the <b>Statlog</b> project. There 690 observations in this data set with six numerical and eight attributes. The optimal hyperparameters for the Gaussian RBF kernel are \u00a1 \u00b0, \u00be 2 \u00a2 = (9.03e2, 12.15) . All the ensembles were based on 10 submodels. Similar to all the",
+    "mykey": 1526
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "AFD8D1FA52EF0B5B3015FB2180C1E867F82C195E",
+    "rexaID": "b9b24d88e45ac7034e22363aac1347ca65caffc6",
+    "author": "I\u00f1aki Inza and Pedro Larraaga and Ramon Etxeberria and Basilio Sierra",
+    "title": "Feature Subset Selection by Bayesian networks based optimization",
+    "venue": "Dept. of Computer Science and Artificial Intelligence. University of the Basque Country",
+    "year": "",
+    "window": "come from the UCI repository [66]. Image dataset comes from the <b>Statlog</b> project [83]. LED24 (Breiman et al. [15]) is a well known artificial dataset with 7 equally relevant and 17 irrelevant binary features. We designed another artificial domain,",
+    "mykey": 1810
+}

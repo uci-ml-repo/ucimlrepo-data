@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "0D1F16A20A2E7C102366784CCCFE8FFE8111FF7C",
+    "rexaID": "8e003bfae7c07cdeeb0ae5f251d545873364dd1e",
+    "author": "David R. Musicant and Alexander Feinberg",
+    "title": "Active Set Support Vector Regression",
+    "venue": "",
+    "year": "",
+    "window": "were used for the first round of experiments. The first dataset, Boston <b>Housing</b>  is a fairly standard dataset used for testing regression problems. It contains 506 data points with 12 numeric attributes, and one binary categorical attribute. The goal is to",
+    "mykey": 139
+}

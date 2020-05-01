@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "9C2A4F4C83FA132ED6DF0243C83B5FAB869E444E",
+    "rexaID": "0dccc15e45577745f11d643e8dab5db77827831a",
+    "author": "Ismail Taha and Joydeep Ghosh",
+    "title": "Symbolic Interpretation of Artificial Neural Networks",
+    "venue": "IEEE Trans. Knowl. Data Eng, 11",
+    "year": "1999",
+    "window": "and universal approach. A rule evaluation technique that orders extracted rules based on three performance measures is then proposed. The three techniques are applied to the <b>iris</b> and breast cancer data sets. The extracted rules are evaluated qualitatively and quantitatively, and compared with those obtained by other approaches. Index Terms: rule extraction, hybrid systems, knowledge refinement, neural",
+    "mykey": 1602
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 20,
+    "supportID": "EB886C3277758C81CA99A2F5804332013CE1377C",
+    "rexaID": "7bea464dce753e6523458d22de98a96004c1aac8",
+    "author": "James Bailey and Thomas Manoukian and Kotagiri Ramamohanarao",
+    "title": "Fast Algorithms for Mining Emerging Patterns",
+    "venue": "PKDD",
+    "year": "2002",
+    "window": "70 75 80 85 90 95 100 4 5 6 7 8 9 10 Accuracy Threshold <b>census</b> (Ratio-Tree) threshold complete 0 50 100 150 200 4 5 6 7 8 9 10 User Time (sec) Threshold census (Ratio-Tree) threshold complete Dataset pt=4 pt=5 pt=6 pt=7 pt=8 pt=9 pt=10 original mushroom 6.03 6.11 6.28 6.48 6.82 7.38 8.19 138.45 census 16.23 17.46 20.78 27.75 40.61 61.71 91.75 1028.00 ionosphere 1.37 1.43 1.45 1.56 1.67 1.83 1.99",
+    "mykey": 2341
+}

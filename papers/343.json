@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "29E52B3F5C3A27BD4C4A1381A4818A677678CE7A",
+    "rexaID": "761a4165c301101283f2d272e60d2064bfdfd5f8",
+    "author": "Farhad Hussain and Huan Liu and Einoshin Suzuki and Hongjun Lu",
+    "title": "Exception Rule Mining with a Relative Interestingness Measure",
+    "venue": "PAKDD",
+    "year": "2000",
+    "window": "Noise Strong exception Strong exception Fig. 1. Rules in the data 5 Experiments In this section we explain our interesting rules obtained from Japanese credit data and <b>mushroom</b> data [7]. The credit data set has 10 attributes and 125 instances with a binary class. The two types of classes define when a credit is given to a particular person depending on other attribute values. Based on our approach we",
+    "mykey": 343
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "37AFAF3ED198D94CD20884E8C79C3E3004FEC840",
+    "rexaID": "1c7b9b0abcac674ef129893e65f67ae6458161fb",
+    "author": "Takashi Matsuda and Hiroshi Motoda and Tetsuya Yoshida and Takashi Washio",
+    "title": "Mining Patterns from Structured Data by Beam-Wise Graph-Based Induction",
+    "venue": "Discovery Science",
+    "year": "2002",
+    "window": "canonical labeling to enumerate identical patterns accurately. This new algorithm is implemented and now called Beam-wise GBI, B-GBI for short. Second, we report on an experiment using the <b>promoter</b> dataset (a small <b>DNA</b> dataset) from UCI repository and show the improvements work as intended. Effect of beam width on the number of discovered patterns and predictive accuracy were evaluated. The best",
+    "mykey": 475
+}

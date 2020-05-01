@@ -1,0 +1,23 @@
+{
+    "ID": 158,
+    "Name": "Poker Hand",
+    "Abstract": "Purpose is to predict poker hands",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 1025010,
+    "NumAttributes": 11,
+    "DateDonated": "2007-01-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/poker/",
+    "URLReadme": "../machine-learning-databases/poker/poker-hand.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Each record is an example of a hand consisting of five playing cards drawn from a standard deck of 52. Each card is described using two attributes (suit and rank), for a total of 10 predictive attributes. There is one Class attribute that describes the \"Poker Hand\". The order of cards is important, which is why there are 480 possible Royal Flush hands as compared to 4 (one for each suit - explained in ftp://ftp.ics.uci.edu/pub/machine-learning-databases/poker/poker-hand.names).",
+    "Source": "Creators:\r\n\r\nRobert Cattral (cattral@gmail.com)\r\n\r\nFranz Oppacher (oppacher@scs.carleton.ca)\r\nCarleton University, Department of Computer Science\r\nIntelligent Systems Research Unit\r\n1125 Colonel By Drive, Ottawa, Ontario, Canada, K1S5B6",
+    "Acknowledgements": "",
+    "Area": "Game",
+    "RelevantPapers": "R. Cattral, F. Oppacher, D. Deugo. Evolutionary Data Mining with Automatic Rule Generalization. Recent Advances in Computers, Computing and Communications, pp.296-300, WSEAS Press, 2002.\r\nNote: This was a slightly different dataset that had more classes, and was considerably more difficult.",
+    "AttributeInfo": "1) S1 \"Suit of card #1\"\r\n    Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}\r\n\r\n2) C1 \"Rank of card #1\"\r\n    Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)\r\n\r\n3) S2 \"Suit of card #2\"\r\n    Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}\r\n\r\n4) C2 \"Rank of card #2\"\r\n    Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)\r\n\r\n5) S3 \"Suit of card #3\"\r\n    Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}\r\n\r\n6) C3 \"Rank of card #3\"\r\n    Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)\r\n\r\n7) S4 \"Suit of card #4\"\r\n    Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}\r\n\r\n8) C4 \"Rank of card #4\"\r\n    Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)\r\n\r\n9) S5 \"Suit of card #5\"\r\n    Ordinal (1-4) representing {Hearts, Spades, Diamonds, Clubs}\r\n\r\n10) C5 \"Rank of card 5\"\r\n    Numerical (1-13) representing (Ace, 2, 3, ... , Queen, King)\r\n\r\n11) CLASS \"Poker Hand\"\r\n    Ordinal (0-9)\r\n\r\n    0: Nothing in hand; not a recognized poker hand \r\n    1: One pair; one pair of equal ranks within five cards\r\n    2: Two pairs; two pairs of equal ranks within five cards\r\n    3: Three of a kind; three equal ranks within five cards\r\n    4: Straight; five cards, sequentially ranked with no gaps\r\n    5: Flush; five cards with the same suit\r\n    6: Full house; pair + different rank three of a kind\r\n    7: Four of a kind; four equal ranks within five cards\r\n    8: Straight flush; straight + flush\r\n    9: Royal flush; {Ace, King, Queen, Jack, Ten} + flush\r\n",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 38
+}

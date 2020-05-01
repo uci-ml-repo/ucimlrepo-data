@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "C2EE689A27EF525B05E11475D3DD937C4F3A910E",
+    "rexaID": "283e535d8f512eedabbd803c72a86b891eed8474",
+    "author": "Chun-Nan Hsu and Hilmar Schuschel and Ya-Ting Yang",
+    "title": "The ANNIGMA-Wrapper Approach to Neural Nets Feature Selection for Knowledge Discovery and Data Mining",
+    "venue": "Institute of Information Science",
+    "year": "1999",
+    "window": "instances of 59 features. The domain of the features are one of fA,G,T,Cg (DNA nucleotides). We set their value to f1,2,3,4g respectively. 53 instances are positive and 53 are negative. <b>Sonar</b> This dataset contains 208 patterns. 111 patterns were obtained by bouncing sonar signals off a metal at various angles and under various conditions. 97 patterns were obtained from rocks under similar conditions.",
+    "mykey": 1975
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "4357E3C12134AD70F70300666459DD3D97DE399A",
+    "rexaID": "319529c0338699404ff7d7f9d7e5c900e5294959",
+    "author": "Art B. Owen",
+    "title": "Tubular neighbors for regression and classification",
+    "venue": "Stanford University",
+    "year": "1999",
+    "window": "neighbors and slightly worse (three more errors) than global logistic regression. Cross-validation did not identify the best performing method on the test cases. This diabetes data is one of the data sets in the <b>statlog</b> study (Michie et al. 1995). In the statlog study, the best method was global logistic regression, for which they report an accuracy of 77:73%. This differs from the logistic",
+    "mykey": 586
+}

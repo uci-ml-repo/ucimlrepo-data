@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "AFB87B9DA94FE907CFC4109DEBE5D7157B996EEF",
+    "rexaID": "81ad8e5b8306aee758f09fd5c1caa8a23c63c2d6",
+    "author": "Ping Zhong and Masao Fukushima",
+    "title": "A Regularized Nonsmooth Newton Method for Multi-class Support Vector Machines",
+    "venue": "",
+    "year": "2005",
+    "window": "the starting point of the next (k + 1)th iteration. The parameters \u00ba 1 and \u00ba 2 in (3) are both set 0.01. In Algorithm 3.1, we replaced the standard Armijo-rule in (S.3) by 10 Table 1: Six benchmark datasets from UCI name iris <b>wine</b> glass vowel vehicle segment #pts 150 178 214 528 846 2310 {fiats|flats} 4 13 9 10 18 19 #cls 3 3 6 11 4 7 #pts: the number of training data; {fiats|flats}: the number of",
+    "mykey": 1809
+}

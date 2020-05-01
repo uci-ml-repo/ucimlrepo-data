@@ -1,0 +1,23 @@
+{
+    "ID": 394,
+    "Name": "PM2.5 Data of Five Chinese Cities",
+    "Abstract": "This hourly data set contains the PM2.5 data in Beijing, Shanghai, Guangzhou, Chengdu and Shenyang. Meanwhile, meteorological data for each city are also included.",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Regression",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 52854,
+    "NumAttributes": 86,
+    "DateDonated": "2017-07-18",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00394/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The time period is between Jan 1st, 2010 to Dec 31st, 2015. Missing data are denoted as NA.\r\n\r\n",
+    "Source": "Song Xi Chen, csx@gsm.pku.edu.cn, Guanghua School of Management, Center for Statistical Science, Peking University.",
+    "Acknowledgements": "Liang, X., S. Li, S. Zhang, H. Huang, and S. X. Chen (2016), PM2.5 data reliability, consistency, and air quality assessment in five Chinese cities, J. Geophys. Res. Atmos., 121, 10220\u00e2\u20ac\u201c10236, doi:10.1002/2016JD024877.",
+    "Area": "Physical",
+    "RelevantPapers": "Liang, X., S. Li, S. Zhang, H. Huang, and S. X. Chen (2016), PM2.5 data reliability, consistency, and air quality assessment in five Chinese cities, J. Geophys. Res. Atmos., 121, 10220\u00e2\u20ac\u201c10236, doi:10.1002/2016JD024877.",
+    "AttributeInfo": "No: row number \r\nyear: year of data in this row \r\nmonth: month of data in this row \r\nday: day of data in this row \r\nhour: hour of data in this row \r\nseason: season of data in this row\r\nPM: PM2.5 concentration (ug/m^3) \r\nDEWP: Dew Point (Celsius Degree)\r\nTEMP: Temperature (Celsius Degree)\r\nHUMI: Humidity (%)\r\nPRES: Pressure (hPa) \r\ncbwd: Combined wind direction \r\nIws: Cumulated wind speed (m/s) \r\nprecipitation: hourly precipitation (mm)\r\nIprec: Cumulated precipitation (mm)",
+    "FormatType": "Matrix",
+    "NumHits": 1
+}

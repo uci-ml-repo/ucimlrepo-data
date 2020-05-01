@@ -1,0 +1,23 @@
+{
+    "ID": 450,
+    "Name": "Sports articles for objectivity analysis",
+    "Abstract": "1000 sports articles were labeled using Amazon Mechanical Turk as objective or subjective. The raw texts, extracted features, and the URLs from which the articles were retrieved are provided.",
+    "Types": "Multivariate, Text",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 1000,
+    "NumAttributes": 59,
+    "DateDonated": "2018-04-09",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00450/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Some of the features are retrieved using the Stanford POS tagger and the tags are as defined in Penn Treebank Project:  https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html",
+    "Source": "Yara Rizk, American University of Beirut (yar01@aub.edu.lb)\r\nMariette Awad, American University of Beirut (mariette.awad@aub.edu.lb)",
+    "Acknowledgements": "Nadine Hajj, Yara Rizk, and Mariette Awad, 'A Subjectivity Classification Framework for Sports Articles using Cortical Algorithms for Feature Selection,' Springer Neural Computing and Applications, 2018. ",
+    "Area": "Social",
+    "RelevantPapers": "Nadine Hajj, Yara Rizk, and Mariette Awad, 'A Subjectivity Classification Framework for Sports Articles using Cortical Algorithms for Feature Selection,' Springer Neural Computing and Applications, 2018. \r\nYara Rizk, and Mariette Awad, 'Syntactic Genetic Algorithm for a Subjectivity Analysis of Sports Articles,' International Conference on Cybernetic Intelligent Systems, Limerick, Ireland, 2012.",
+    "AttributeInfo": "TextID\ttext file name\r\nURL\tlink to article\r\nLabel\tobjective vs. subjective\r\ntotalWordsCount\ttotal number of words in the article\r\nsemanticobjscore\tFrequency of words with an objective SENTIWORDNET score\r\nsemanticsubjscore\tFrequency of words with a subjective SENTIWORDNET score\r\nCC\tFrequency of coordinating conjunctions\r\nCD\tFrequency of numerals and cardinals\r\nDT\tFrequency of determiners\r\nEX\tFrequency of existential there\r\nFW\tFrequency of foreign words\r\nINs\tFrequency of subordinating preposition or conjunction\r\nJJ\tFrequency of ordinal adjectives or numerals\r\nJJR\tFrequency of comparative adjectives\r\nJJS\tFrequency of superlative adjectives\r\nLS\tFrequency of list item markers\r\nMD\tFrequency of modal auxiliaries\r\nNN\tFrequency of singular common nouns\r\nNNP\tFrequency of singular proper nouns\r\nNNPS\tFrequency of plural proper nouns\r\nNNS\tFrequency of plural common nouns\r\nPDT\tFrequency of pre-determiners\r\nPOS\tFrequency of genitive markers\r\nPRP\tFrequency of personal pronouns\r\nPRP$\tFrequency of possessive pronouns\r\nRB\tFrequency of adverbs\r\nRBR\tFrequency of comparative adverbs\r\nRBS\tFrequency of superlative adverbs\r\nRP\tFrequency of particles\r\nSYM\tFrequency of symbols\r\nTOs\tFrequency of 'to' as preposition or infinitive marker\r\nUH\tFrequency of interjections\r\nVB\tFrequency of base form verbs\r\nVBD\tFrequency of past tense verbs\r\nVBG\tFrequency of present participle or gerund verbs\r\nVBN\tFrequency of past participle verbs\r\nVBP\tFrequency of present tense verbs with plural 3rd person subjects\r\nVBZ\tFrequency of present tense verbs with singular 3rd person subjects\r\nWDT\tFrequency of WH-determiners\r\nWP\tFrequency of WH-pronouns\r\nWP$\tFrequency of possessive WH-pronouns\r\nWRB\tFrequency of WH-adverbs\r\nbaseform\tFrequency of infinitive verbs (base form verbs preceded by \u00e2\u20ac\u0153to\u00e2\u20ac\u009d)\r\nQuotes\tFrequency of quotation pairs in the entire article\r\nquestionmarks\tFrequency of questions marks in the entire article\r\nexclamationmarks\tFrequency of exclamation marks in the entire article\r\nfullstops\tFrequency of full stops\r\ncommas\tFrequency of commas\r\nsemicolon\tFrequency of semicolons\r\ncolon\tFrequency of colons\r\nellipsis\tFrequency of ellipsis\r\npronouns1st\tFrequency of first person pronouns (personal and possessive)\r\npronouns2nd\tFrequency of second person pronouns (personal and possessive)\r\npronouns3rd\tFrequency of third person pronouns (personal and possessive)\r\ncompsupadjadv\tFrequency of comparative and superlative adjectives and adverbs\r\npast\tFrequency of past tense verbs with 1st and 2nd person pronouns\r\nimperative\tFrequency of imperative verbs\r\npresent3rd\tFrequency of present tense verbs with 3rd person pronouns\r\npresent1st2nd\tFrequency of present tense verbs with 1st and 2nd person pronouns\r\nsentence1st\tFirst sentence class\r\nsentencelast\tLast sentence class\r\ntxtcomplexity\tText complexity score",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

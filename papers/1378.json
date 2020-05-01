@@ -1,0 +1,11 @@
+{
+    "datasetID": 57,
+    "supportID": "897B1AA01208B2103F4CD858628A0BFBD8221927",
+    "rexaID": "bad113cebe2984b00706b843e7540f280cfb59e1",
+    "author": "Ramon Sangesa and Ulises Cortes",
+    "title": "Possibilistic Conditional Dependency, Similarity and Information Measures: an application to causal network recovery",
+    "venue": "Departament de Llenguatges i Sistemes Informtics Departament de Llenguatges i Sistemes Informtics Technical University of Catalonia Technical University of Catalonia",
+    "year": "",
+    "window": "from the UCI Machine Learning Database Repository [16]: ALARM [2], and LED [11]. It has also been applied to data coming from a real sensor measurements of a Wastewater Treatment Plant [22]. The <b>LED dataset</b> represents a faulty LED device where a certain button (a variable with eight values indicating which display to set on) should set a led device ON. Some of the devices react incorrectly to this",
+    "mykey": 1378
+}

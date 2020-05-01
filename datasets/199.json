@@ -1,0 +1,23 @@
+{
+    "ID": 199,
+    "Name": "MiniBooNE particle identification",
+    "Abstract": "This dataset is taken from the MiniBooNE experiment and is used to distinguish electron neutrinos (signal) from muon neutrinos (background).",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 130065,
+    "NumAttributes": 50,
+    "DateDonated": "2010-12-13",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00199/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The submitted file is set up as follows. In the first line is the the number of signal events followed by the number of background events. The signal events come first, followed by the background events. Each line, after the first line has the 50 particle ID variables for one event.",
+    "Source": "Byron Roe (byronroe@umich.edu)\r\nDepartment of Physics University of Michigan\r\nAnn Arbor, MI  48109",
+    "Acknowledgements": "",
+    "Area": "Physical",
+    "RelevantPapers": "B. Roe et al., 'Boosted Decision Trees, an Alternative to Artificial Neural Networks' <http://arxiv.org/abs/physics/0408124>,\r\narXiv:physics/0408124, Nucl. Instrum. Meth. A543, 577 (2005).",
+    "AttributeInfo": "50 particle ID variables (real) for each event.",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

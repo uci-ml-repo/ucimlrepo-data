@@ -1,0 +1,23 @@
+{
+    "ID": 268,
+    "Name": "USPTO Algorithm Challenge, run by NASA-Harvard Tournament Lab and TopCoder    Problem: Pat",
+    "Abstract": "Data used for USPTO Algorithm Competition. Contains drawing pages from US patents with manually labeled figure and part labels.",
+    "Types": "Domain-Theory",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 306,
+    "NumAttributes": 5,
+    "DateDonated": "2013-10-13",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00268/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "USPTO Algorithm Challenge, run by NASA-Harvard Tournament Lab and TopCoder\r\n   Problem: Patent Labeling",
+    "Source": "-- Creator: TopCoder, Inc.\n-- Released under Apache License, Version 2.0\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
+    "Acknowledgements": "Christoph Riedl, Richard Zanibbi, Marti A. Hearst, Siyu Zhu, Michael Minetti, Jason Crusan, Ivan Metelsky, and Karim R. Lakhani, 'Detecting Figures and Part Labels in Patents: A Competition-Based Development of Image Processing Algorithms,' International Journal on Document Analysis and Recognition, 1-18, DOI 10.1007/s10032-016-0260-8",
+    "Area": "Other",
+    "RelevantPapers": "Christoph Riedl, Richard Zanibbi, Marti A. Hearst, Siyu Zhu, Michael Minetti, Jason Crusan, Ivan Metelsky, and Karim R. Lakhani, 'Detecting Figures and Part Labels in Patents: A\nCompetition-Based Development of Image Processing Algorithms', working paper, http://arxiv.org/abs/1410.6751.",
+    "AttributeInfo": "Dataset Information:\r\n    -- This folder contains 4 groups of USPTO patent images including ground truth information. \r\n\t-- The 4 groups are 'train1', 'train2', 'test', 'evaluation'. \r\n\t-- 'train1', 'test', 'evaluation' contains data in the original 'USPTO Algorithm Challenge' for training, testing and final evaluation, respectively.\r\n\t-- 'train2' contains additional data which was used in the 'USPTO Algorithm Followup Challenge.'  \r\n\t   Notice that 'train2' includes some cover page images of patent document which is not included in other groups.\r\n\r\n    -- In each group, there are two folders contain original images and corresponding ground truth informations. \r\n\t-- The original images are in 'jpeg' format.\r\n\t-- There are two types of ground truth: figure label ground truth and part label ground truth.\r\n\t-- The ground truth files are text files with '.ans' extension. \r\n\r\n    -- The structure of the ground truth files are described as below:\r\n\t-- The first line is one number indicating how many instances exist in corresponding image\r\n\t-- The following lines are polygon coordinates and corresponding label contents, each line corresponds to a figure label or part label, in the form 'N x1 y1 x2 y2 \u00e2\u20ac\u00a6 xN yN x1 y1 content'. \r\n\t-- In each of those lines, the first number N indicates how many polygon vertices are recorded in current instance. \r\n\t-- The following numbers are x, y coordinates of those vertices.\r\n\t-- The final word in each line is the content of figure label or part label. <Notice for figure labels, the word 'Figure', 'Fig' etc. are omitted>\r\n\t-- Each number or word is separated by a white space.\r\n\t-- For group 'train2', there are only part label ground truth available.\r\n\t-- We also release the source code of the top 5 winning solution. See additional archive file.\r\n",
+    "FormatType": "",
+    "NumHits": 8
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "ABA0E12B6B3C3EF0B88DD575BBEF633AC2B35358",
+    "rexaID": "4c8e8cf6857f1f1bc9b43679d241b096513ee6f2",
+    "author": "Ron Kohavi and Barry G. Becker and Dan Sommerfield",
+    "title": "Improving Simple Bayes",
+    "venue": "Data Mining and Visualization Group Silicon Graphics, Inc",
+    "year": "",
+    "window": "especially larger ones, such as segment, mushroom, letter, and <b>adult</b> for a total of 37. The specific datasets are shown below in Table 2. Our main concern with estimating accuracy is that the estimate should be precise. Therefore, we ran different inducers on these datasets in two forms. If the dataset was",
+    "mykey": 1761
+}

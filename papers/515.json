@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "3E2A354E0823F33D8DCB3667E28624F9793079BB",
+    "rexaID": "dd4500e327a5f555d2f594711dc50b0f9faccd30",
+    "author": "Gavin Brown",
+    "title": "Diversity in Neural Network Ensembles",
+    "venue": "The University of Birmingham",
+    "year": "2004",
+    "window": "2 we use a sigmoid output activation function. The ensemble is combined by a uniformly weighted linear combination. Dataset 1: Boston <b>Housing</b> This regression dataset concerns housing values in suburbs of Boston, the problem is to predict the median house price given a number of demographic features. There are 506",
+    "mykey": 515
+}

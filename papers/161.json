@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "10C783A9F89DFD1FF2EE57E922D9D199970677A5",
+    "rexaID": "03e3fbdc694fa4f16c10fbc88658f4e6e2e462e8",
+    "author": "Sotiris B. Kotsiantis and Panayiotis E. Pintelas",
+    "title": "Logitboost of Simple Bayesian Classifier",
+    "venue": "Informatica",
+    "year": "2005",
+    "window": "were hand selected so as to come from real-world problems and to vary in characteristics. Thus, we have used data sets from the domains of: pattern recognition  <b>iris</b>  zoo), image recognition (ionosphere, sonar), medical diagnosis (breast-cancer, breast-w, colic, diabetes, heart-c, heart-h, heart-statlog, hepatitis,",
+    "mykey": 161
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "E2619AFE6613169FF56B36A0E618235D6BAFB31D",
+    "rexaID": "b525865598a98b326df461e4d9d2647543347eb4",
+    "author": "Jianbin Tan and David L. Dowe",
+    "title": "MML Inference of Oblique Decision Trees",
+    "venue": "Australian Conference on Artificial Intelligence",
+    "year": "2004",
+    "window": "and medical data, such as Bupa, Breast Cancer, Wisconsin, Lung Cancer, and Cleveland. The nine UCI Repository [1] data-sets used are these five, Balance, Credit, Sonar and <b>Wine</b>  For each of the nine data sets, 100 independent tests were done by randomly sampling 90% of the data as training data and testing on the remaining 10%. 4 Discussion We compare the MML oblique tree scheme to C4.5 and C5. The",
+    "mykey": 2289
+}

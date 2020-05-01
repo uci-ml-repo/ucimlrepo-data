@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "42D776BDD251CFF564FF8C3D1B08882FBD05E261",
+    "rexaID": "5eeec5743b3bcc32f80f4f6ee849c0a777f73480",
+    "author": "Ljupco Todorovski and Saso Dzeroski",
+    "title": "Experiments in Meta-level Learning with ILP",
+    "venue": "PKDD",
+    "year": "1999",
+    "window": "used in the experiments are public domain and the experiments can be repeated. This was not the case with the <b>StatLog</b> dataset repository where more then half of the datasets used are not publicly available. Another improvement is the use of a unified methodology for measuring the error rate of different classification",
+    "mykey": 571
+}

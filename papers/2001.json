@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "C775D79C7480F5722D708608369EBD8DFB9CF55E",
+    "rexaID": "5866e91743366edf42eae4a1e4a3266e8839cea9",
+    "author": "Stefan Aeberhard and O. de Vel and Danny Coomans",
+    "title": "New Fast Algorithms for Variable Selection based on Classifier Performance",
+    "venue": "James Cook University",
+    "year": "",
+    "window": "taken to add or eliminate half of the variables. complexities from O(d 4 ) to O(d 3 ). The time complexities of the optimal algorithms for QDA and LDA based variable selection are O(N p d 2 ). Two data sets were used. The first, the <b>wine</b> data [11], is 13 dimensional with three classes and 59, 71 and 48 objects per class. The classes correspond to three different cultivars and the 13 variables measure",
+    "mykey": 2001
+}

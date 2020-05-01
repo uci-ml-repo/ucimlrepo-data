@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "A6AEF373C1542D18063EA15E5F0881E83C98005D",
+    "rexaID": "fc0a66d3a7336b6eabad919a7389c68cc37f2564",
+    "author": "Ayhan Demiriz and Kristin P. Bennett and John Shawe and I. Nouretdinov V.",
+    "title": "Linear Programming Boosting via Column Generation",
+    "venue": "Dept. of Decision Sciences and Eng. Systems, Rensselaer Polytechnic Institute",
+    "year": "",
+    "window": "of the final set of weak hypotheses. This is just a very simple method of boosting multiclass problems. Further investigation of LP multiclass approaches is needed. We ran experiments on larger datasets: Forest, <b>Adult</b>  USPS, and Optdigits from UCI[14]. Forest is a 54-dimension dataset with seven possible classes. The data are divided into 11340 training, 3780 validation, and 565892 testing",
+    "mykey": 1704
+}

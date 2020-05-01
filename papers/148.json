@@ -1,0 +1,11 @@
+{
+    "datasetID": 80,
+    "supportID": "0F5F56C26AD2F3C07049B88FF74ED4C5FA7B2C12",
+    "rexaID": "b60b36ac9d879270bfd990b761897f1f168612b7",
+    "author": "Claudio Gentile",
+    "title": "A New Approximate Maximal Margin Classification Algorithm",
+    "venue": "NIPS",
+    "year": "2000",
+    "window": "The 214 Approximate Maximal Margin Classification real-world datasets are well-known <b>Optical</b> Character <b>Recognition</b> (OCR) benchmarks. On these datasets we followed the experimental setting described by Cortes and Vapnik (1995), Freund and Schapire (1999), Li and Long",
+    "mykey": 148
+}

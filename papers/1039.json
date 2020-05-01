@@ -1,0 +1,11 @@
+{
+    "datasetID": 9,
+    "supportID": "6C4D5C33421F2CD1BB4CAC947EC6D58FE27AAC10",
+    "rexaID": "0cedee7ef9325127fb946dcdddf8795644e28335",
+    "author": "Jinyan Li and Kotagiri Ramamohanarao and Guozhu Dong",
+    "title": "Combining the Strength of Pattern Frequency and Distance for Classification",
+    "venue": "PAKDD",
+    "year": "2001",
+    "window": "The accuracy gaps can reach up to 14.93% (in sonar), half of them are around 6.5%. -- Our method is not always better than C5.0. We lose on four data sets, particularly on <b>auto</b>  -- On average over the 30 data sets, our accuracy is 2.18% higher than C5.0, and 7.27% higher than 3-NN. Table 2. Accuracy comparison among our algorithm, C5.0, and k-NN.",
+    "mykey": 1039
+}

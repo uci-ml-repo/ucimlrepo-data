@@ -1,0 +1,11 @@
+{
+    "datasetID": 70,
+    "supportID": "68E4CBD76EB78057876930BD7362D346BE6BFED4",
+    "rexaID": "cd11168bb19fd462bc59beefbe670bc4eb31e3eb",
+    "author": "Mark A. Hall",
+    "title": "Department of Computer Science Hamilton, NewZealand Correlation-based Feature Selection for Machine Learning",
+    "venue": "Doctor of Philosophy at The University of Waikato",
+    "year": "1999",
+    "window": "a one-third/two-thirds split on credit and one-eighth of the instances were used for training on mushroom (the largest 80 dataset). In the case of the <b>Monk</b> s problems, testing is performed on the full dataset (as was done originally by Thrun et al. [TBB + 91]). Various different train and test set sizes are used with the",
+    "mykey": 997
+}

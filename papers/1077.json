@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "6F376C47D091989CDECCD7B8CB7971A38783AAD9",
+    "rexaID": "084aa2a0b1ffd67537222e2c439d2fadce6090ca",
+    "author": "Petri Kontkanen and Petri Myllym and Tomi Silander and Henry Tirri and Peter Gr",
+    "title": "On predictive distributions and Bayesian networks",
+    "venue": "Department of Computer Science, Stanford University",
+    "year": "2000",
+    "window": "used show very similar behavior. As an illustrative example, in Figure 4 the average log-scores obtained are plotted in the Hepatitis and <b>Glass</b> dataset cases. Again, the EVU and EVJ approaches are quite robust in the sense that they predict quite well even with small training sets. This shows that the data sets used here are quite redundant, and",
+    "mykey": 1077
+}

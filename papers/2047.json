@@ -1,0 +1,11 @@
+{
+    "datasetID": 79,
+    "supportID": "CC4DCDEC5D2F04B5919B0DAFB383C1C51DD55B30",
+    "rexaID": "87afa910f706df9e28bfa697d6d2eea7c0cb53ef",
+    "author": "Ilya Blayvas and Ron Kimmel",
+    "title": "Efficient Classification via Multiresolution Training Set Approximation",
+    "venue": "CS Dept. Technion",
+    "year": "",
+    "window": "\u00b7 D). 3 Experimental Results The proposed method was implemented in VC++ 6.0 and run on `IBM PC 300 PL' with 600MHZ Pentium III processor and 256MB RAM. It was tested on the <b>Pima</b> <b>Indians</b> <b>Diabetes</b> dataset [10], and a large artificial dataset generated with the DatGen program [11]. The results were compared to the Smooth SVM [12] and Sparse Grids [3]. Figure 7: Partition of 2D feature space for a",
+    "mykey": 2047
+}

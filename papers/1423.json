@@ -1,0 +1,11 @@
+{
+    "datasetID": 90,
+    "supportID": "8FEA143FF02CA3A980D9BEB475E94C762B6E28AB",
+    "rexaID": "349644828ad3c8da8e1a15eee5aec0d704db34a1",
+    "author": "Kamal Ali and Michael J. Pazzani",
+    "title": "Error Reduction through Learning Multiple Descriptions",
+    "venue": "Machine Learning, 24",
+    "year": "1996",
+    "window": "to test learned models on noise-free examples (including noisy variants of the KRK and LED domains) but for the natural domains we tested on possibly noisy examples. The large variant of the <b>Soybean</b> data set was used and the 5-class variant of the Heart data set was used. 5.1. Does using multiple rule sets lead to lower error? In this section we present results of an experiment designed to answer the",
+    "mykey": 1423
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "3909C2E60D19614E99F3FE05D45FDDAC5F4970E4",
+    "rexaID": "e347b029b8cda44f5008c70b3d68e38ae9f23e95",
+    "author": "Huan Liu and Hongjun Lu and Ling Feng and Farhad Hussain",
+    "title": "Efficient Search of Reliable Exceptions",
+    "venue": "PAKDD",
+    "year": "1999",
+    "window": "[8], and indeed find out some interesting exception patterns. From the <b>mushroom</b> data set, we can achieve more reliable exceptions, compared to the results from [16]. The remainder of the paper is organized as follows: section 2 gives a detailed description of the proposed approach.",
+    "mykey": 484
+}

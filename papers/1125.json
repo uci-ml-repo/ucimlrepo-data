@@ -1,0 +1,11 @@
+{
+    "datasetID": 15,
+    "supportID": "73AA4BA03F087EBAE0F88AC0AF397F54CA5C6120",
+    "rexaID": "c2525357aa81ca73fb410a5013d47e3c6931342b",
+    "author": "Rudy Setiono and Huan Liu",
+    "title": "NeuroLinear: From neural networks to oblique decision rules",
+    "venue": "Neurocomputing, 17",
+    "year": "1997",
+    "window": "A. Detailed analysis 1: The University of <b>Wisconsin</b> <b>Breast</b> <b>Cancer</b> Dataset. This data set has been used as the test data for several studies on pattern classification methods using linear programming techniques [1, 13] and statistical techniques [23]. Each pattern is",
+    "mykey": 1125
+}

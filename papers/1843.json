@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "B360A43EFFEC793BB362B2A8111F4572A930D8DB",
+    "rexaID": "f006e50cdba5e00538e2b48452e1d0bab8ed02b9",
+    "author": "Mukund Deshpande and George Karypis",
+    "title": "Evaluation of Techniques for Classifying Biological Sequences",
+    "venue": "PAKDD",
+    "year": "2002",
+    "window": "to the alphabet, which is assumed to be present at the beginning of each sequences [DEKG98]. Equation 3 contains these extra states. Figure 1 illustrates an example of sequence classification on a dataset of <b>DNA</b> sequences. Figure 1(a) shows the training sequences with their respective class labels, these sequences are first split into two parts for computing the TPM associated with each class label.",
+    "mykey": 1843
+}

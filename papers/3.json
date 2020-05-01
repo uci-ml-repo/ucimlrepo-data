@@ -1,0 +1,11 @@
+{
+    "datasetID": 143,
+    "supportID": "007BBC1796239FF0E9C3507E864AA0E12F41F79A",
+    "rexaID": "82cbfc464ed8d2bd0b91ffd1132022df16b7334d",
+    "author": "Wl/odzisl/aw Duch and Karol Grudzi nski and Grzegorz Stawski",
+    "title": "SYMBOLIC FEATURES IN NEURAL NETWORKS",
+    "venue": "Department of Computer Methods, Nicolaus Copernicus University",
+    "year": "",
+    "window": "significantly better and they show similar trend, comparable to the other two classifiers, therefore they are not reported here. All data was taken from the UCI repository [8]. The <b>Australian Credit</b> dataset has 690 cases, each with 6 continuous and 8 symbolic values. There are 2 classes (majority rate is 55.5%), no missing values. 10-fold cross-validation test were run therefore the variance could be",
+    "mykey": 3
+}

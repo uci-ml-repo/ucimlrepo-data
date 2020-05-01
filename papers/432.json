@@ -1,0 +1,11 @@
+{
+    "datasetID": 46,
+    "supportID": "333DDF13DA5B127679CD0E2A1CC5556E9B6EA3F5",
+    "rexaID": "954de642cab661d060a2dbc68d3023ba3a9763e1",
+    "author": "Federico Divina and Elena Marchiori",
+    "title": "Handling Continuous Attributes in an Evolutionary Inductive Learner",
+    "venue": "Department of Computer Science Vrije Universiteit",
+    "year": "",
+    "window": "in most of the cases, with simplicity (that is, the number of clauses of the output program) that is second best after ECL-GSD. ECL-LSDf produces best results on the Echocardiogram and <b>Hepatitis</b> dataset, ECL-GSD on Glass2, but the results are only slightly better than those of ECL-LSDc. The unsupervised variant ECL-LUD produces satisfactory approximate solutions, yet of quality inferior to that of",
+    "mykey": 432
+}

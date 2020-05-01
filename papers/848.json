@@ -1,0 +1,11 @@
+{
+    "datasetID": 20,
+    "supportID": "5BA3AA18D3DA933C6CA297903FE7914FE7D041CE",
+    "rexaID": "57df1fe4db314b15e12a8036d1c677dd1b9633af",
+    "author": "Aristides Gionis and Heikki Mannila and Panayiotis Tsaparas",
+    "title": "Clustering Aggregation",
+    "venue": "ICDE",
+    "year": "2005",
+    "window": "by 22 categorical attributes, such as shape, color, odor, etc. There is a class label describing if a mushroom is poisonous or edible, and there are 2,480 missing values in total. Finally, the third dataset, <b>census</b>  has been extracted from the census bureau database, and it contains demographic information on 32,561 people in the US. There are 8 categorical attributes (such as education, occupation,",
+    "mykey": 848
+}

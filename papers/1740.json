@@ -1,0 +1,11 @@
+{
+    "datasetID": 87,
+    "supportID": "A98B150AF00D3C2E6EB4DB595206448BF8975A80",
+    "rexaID": "3ef07572a3c1cda9a7f2e4243ad683964cf7a084",
+    "author": "H. Altay Guvenir and Ilhan Uysal",
+    "title": "Regression on feature projections",
+    "venue": "a Department of Computer Engineering, Bilkent University",
+    "year": "1999",
+    "window": "q i 2 ^ t q i jj 13 In order to compare the RFP algorithm with KNN and Rules learning algorithms, we used abalone, auto-mpg, buying, country, cpu, electric, \u00afare, housing, read and <b>servo</b> real world datasets for function approximation (available at http://funapp.cs.bilkent.edu.tr [11]). The information about the number of instances, number and type of features and presence of missing values are",
+    "mykey": 1740
+}

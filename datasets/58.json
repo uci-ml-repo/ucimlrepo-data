@@ -1,0 +1,23 @@
+{
+    "ID": 58,
+    "Name": "Lenses",
+    "Abstract": "Database for fitting contact lenses",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 24,
+    "NumAttributes": 4,
+    "DateDonated": "1990-08-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/lenses/",
+    "URLReadme": "../machine-learning-databases/lenses/lenses.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The examples are complete and noise free. The examples highly simplified the problem. The attributes do not fully describe all the factors affecting the decision as to which type, if any, to fit.\r\n\r\n Notes:  \r\n\r\n--This database is complete (all possible combinations of attribute-value pairs are represented).\r\n\r\n--Each instance is complete and correct.\r\n\r\n--9 rules cover the training set.",
+    "Source": "Original Source:\r\n\r\nCendrowska, J. \"PRISM: An algorithm for inducing modular rules\", International Journal of Man-Machine Studies, 1987, 27, 349-370\r\n\r\nDonor: \r\n\r\nBenoit Julien (Julien@ce.cmu.edu)",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "Witten, I. H. & MacDonald, B. A. (1988). Using concept learning for knowledge acquisition. International Journal of Man-Machine Studies, 27, (pp. 349-370).\r\nhttp://rexa.info/paper/8d6d14ab2b51d29949189c356a26cb6613a24103\r\n",
+    "AttributeInfo": "    -- 3 Classes\r\n     1 : the patient should be fitted with hard contact lenses,\r\n     2 : the patient should be fitted with soft contact lenses,\r\n     3 : the patient should not be fitted with contact lenses.\r\n\r\n    1. age of the patient: (1) young, (2) pre-presbyopic, (3) presbyopic\r\n    2. spectacle prescription:  (1) myope, (2) hypermetrope\r\n    3. astigmatic:     (1) no, (2) yes\r\n    4. tear production rate:  (1) reduced, (2) normal",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 11945
+}

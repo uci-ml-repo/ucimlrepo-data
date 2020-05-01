@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "511C102F54FF40CC57450EF0AA424A468447F7B0",
+    "rexaID": "1b7ec8555d756f0b0f3899a066abb09329234c5b",
+    "author": "Christopher K I Williams and Carl Edward Rasmussen and Anton Schwaighofer and Volker Tresp",
+    "title": "Observations on the Nystrom Method for Gaussian Process Prediction",
+    "venue": "Division of Informatics Gatsby Computational Neuroscience Unit University of Edinburgh University College London",
+    "year": "2002",
+    "window": "the drop at index 100 for the Nystrom case, due to the rank-100 approximation. The horizontial line in the dashed plot is at log e # 2 # . The Nystrom method was originally tested on the UCI <b>abalone</b> data set using # 2 # = 0:05. Analysis shows that for the kernel parameters used, 112 eigenvalues in K were larger than # 2 # . This is in good agreement with the experimental results that values of m of 250",
+    "mykey": 715
+}

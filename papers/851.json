@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "5BBD858C7382665CC8CC4039236FC5F6C7C582B8",
+    "rexaID": "220290933c845bcae1348931e08740d3e16b5360",
+    "author": "David Hershberger and Hillol Kargupta",
+    "title": "Distributed Multivariate Regression Using Wavelet-Based Collective Data Mining",
+    "venue": "J. Parallel Distrib. Comput, 61",
+    "year": "2001",
+    "window": "Application of this method to Linear Discriminant Analysis, which is related to parametric multivariate regression, produced classification results on the <b>Iris</b> data set that are comparable to those obtained with centralized data analysis. Key Words: data mining, distributed data mining, collective data mining, knowledge discovery, wavelets, regression 1.",
+    "mykey": 851
+}

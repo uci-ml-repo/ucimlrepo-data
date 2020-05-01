@@ -1,0 +1,11 @@
+{
+    "datasetID": 17,
+    "supportID": "D31BEE63C05B00FE2C2ACB117FA3EA55BAC72971",
+    "rexaID": "81a75649d5acc1cc428ca756dac221bac3c8fe01",
+    "author": "Geoffrey I. Webb",
+    "title": "OPUS: An Efficient Admissible Algorithm for Unordered Search",
+    "venue": "J. Artif. Intell. Res. (JAIR, 3",
+    "year": "1995",
+    "window": "Tic Tac Toe) disabling other pruning had little or no e\u00aeect under best-first or depth-first search. The largest e\u00aeects are 2.5 fold increases for the Soybean Large and <b>Wisconsin</b> <b>Breast</b> <b>Cancer</b> data sets under best-first search and for the Audiology, Soybean Large and Wisconsin Breast Cancer data sets under depth-first search. From these results it is apparent that while there are some data sets",
+    "mykey": 2101
+}

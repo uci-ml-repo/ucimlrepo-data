@@ -1,0 +1,11 @@
+{
+    "datasetID": 59,
+    "supportID": "427E9BA53A8FCD4543DC3C2E83595A1E72F1B8EB",
+    "rexaID": "ba8302e5db2921603c34aee0c738b103d1948f5f",
+    "author": "Jaakko Peltonen and Arto Klami and Samuel Kaski",
+    "title": "Learning Metrics for Information Visualization",
+    "venue": "Neural Networks Research Centre Helsinki University of Technology",
+    "year": "",
+    "window": "(Table 3). Computing accurate global distances with the graph search (column 'Graph' in Table 3) further improved performance significantly on the Landsat and <b>Letter recognition</b> data sets. On the two other sets the difference between the Sammon-L variants was not significant. The difference between Sammon-L with the graph approximation and Sammon-E is illustrated in Figure 2 on",
+    "mykey": 565
+}

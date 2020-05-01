@@ -1,0 +1,23 @@
+{
+    "ID": 250,
+    "Name": "Wearable Computing: Classification of Body Postures and Movements (PUC-Rio)",
+    "Abstract": "A dataset with 5 classes (sitting-down, standing-up, standing, walking, and sitting) collected on 8 hours of activities of 4 healthy subjects. We also established a baseline performance index.",
+    "Types": "Sequential",
+    "Task": "Classification",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 165632,
+    "NumAttributes": 18,
+    "DateDonated": "2013-04-09",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00250/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "IMPORTANT: we have lower performance on 'leave-one-subject-out' tests. The performance baseline index we established is for 10-fold cross-validation tests. Therefore, there's much more space for optimization in subject independent tests. If you need more information, please send us an e-mail.\r\n\r\nLicensing: You are free to use this dataset for any purpose. This dataset is licensed under the Creative Commons license (CC BY-SA). The CC BY-SA license means you can remix, tweak, and build upon this work even for commercial purposes, as long as you credit the authors of the original work and you license your new creations under the identical terms we are licensing to you. This license is often compared to 'copyleft' free and open source software licenses. All new works based on this dataset will carry the same license, so any derivatives will also allow commercial use.",
+    "Source": "Pontifical Catholic University of Rio de Janeiro (PUC-Rio)\r\nResearch Group: Groupware@LES\r\nContact: wugulino@inf.puc-rio.br\r\nhttp://groupware.les.inf.puc-rio.br/har",
+    "Acknowledgements": "If you use this dataset, please cite the paper above (Wearable Computing: Accelerometers' Data Classification of Body Postures and Movements). We can also provide more information if you need, just drop us a line (wugulino 'at' inf 'dot' puc-rio 'dot' br).",
+    "Area": "Computer",
+    "RelevantPapers": "Ugulino, W.; Cardador, D.; Vega, K.; Velloso, E.; Milidiu, R.; Fuks, H. Wearable Computing: Accelerometers' Data Classification of Body Postures and Movements. Proceedings of 21st Brazilian Symposium on Artificial Intelligence. Advances in Artificial Intelligence - SBIA 2012. In: Lecture Notes in Computer Science. , pp. 52-61. Curitiba, PR: Springer Berlin / Heidelberg, 2012. ISBN 978-3-642-34458-9. DOI: 10.1007/978-3-642-34459-6_6. \r\nAvailable at: http://groupware.les.inf.puc-rio.br/work.jsf?p1=10335\r\n",
+    "AttributeInfo": "Detailed information in: http://groupware.les.inf.puc-rio.br/work.jsf?p1=10335\r\nuser (text)\r\ngender (text) \r\nage (integer)\r\nhow_tall_in_meters (real) \r\nweight\t(int) \r\nbody_mass_index\t(real)\r\nx1 (type int, contains the read value of the axis 'x' of the 1st accelerometer, mounted on waist)\r\ny1 (type int, contains the read value of the axis 'y' of the 1st accelerometer, mounted on waist)\r\nz1 (type int, contains the read value of the axis 'z' of the 1st accelerometer, mounted on waist)\r\nx2 (type int, contains the read value of the axis 'x' of the 2nd accelerometer, mounted on the left thigh)\t\r\ny2 (type int, contains the read value of the axis 'y' of the 2nd accelerometer, mounted on the left thigh)\t\t\r\nz2 (type int, contains the read value of the axis 'z' of the 2nd accelerometer, mounted on the left thigh)\t\r\nx3 (type int, contains the read value of the axis 'x' of the 3rd accelerometer, mounted on the right ankle)\t\r\ny3 (type int, contains the read value of the axis 'y' of the 3rd accelerometer, mounted on the right ankle)\t\t\r\nz3 (type int, contains the read value of the axis 'z' of the 3rd accelerometer, mounted on the right ankle)\t\r\nx4 (type int, contains the read value of the axis 'x' of the 4th accelerometer, mounted on the right upper-arm)\t\t\r\ny4 (type int, contains the read value of the axis 'y' of the 4th accelerometer, mounted on the right upper-arm)\t\t\t\r\nz4 (type int, contains the read value of the axis 'z' of the 4th accelerometer, mounted on the right upper-arm)\t\t",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

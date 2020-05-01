@@ -1,0 +1,23 @@
+{
+    "ID": 192,
+    "Name": "Breast Tissue",
+    "Abstract": "Dataset with electrical impedance measurements of freshly excised tissue samples from the breast.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 106,
+    "NumAttributes": 10,
+    "DateDonated": "2010-05-10",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00192/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Impedance measurements were made at the frequencies: 15.625, 31.25, 62.5, 125, 250, 500, 1000 KHz\r\nImpedance measurements of freshly excised breast tissue were made at the follwoing frequencies: 15.625, 31.25, 62.5, 125, 250, 500, 1000 KHz. These measurements plotted in the (real, -imaginary) plane constitute the impedance spectrum from where the breast tissue features are computed.\r\nThe dataset can be used for predicting the classification of either the original 6 classes or of 4 classes by merging together the fibro-adenoma, mastopathy and glandular classes whose discrimination is not important (they cannot be accurately discriminated anyway).",
+    "Source": "JP Marques de S\u00e1, INEB-Instituto de Engenharia Biom\u00e9dica, Porto, Portugal; e-mail: jpmdesa@gmail.com\r\nJ Jossinet, inserm, Lyon, France",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "Jossinet J (1996) Variability of impedivity in normal and pathological breast tissue. Med. & Biol. Eng. & Comput, 34: 346-350.\r\nSilva JE, Marques de S\u00e1 JP, Jossinet J (2000) Classification of Breast Tissue by Electrical Impedance Spectroscopy. Med & Bio Eng & Computing, 38:26-30.",
+    "AttributeInfo": "I0\tImpedivity (ohm) at zero frequency\r\nPA500\tphase angle at 500 KHz\r\nHFS\thigh-frequency slope of phase angle\r\nDA\timpedance distance between spectral ends\r\nAREA\tarea under spectrum\r\nA/DA\tarea normalized by DA\r\nMAX IP\tmaximum of the spectrum\r\nDR\tdistance between I0 and real part of the maximum frequency point\r\nP\tlength of the spectral curve\r\nClass   car(carcinoma), fad (fibro-adenoma), mas (mastopathy), gla (glandular), con (connective), adi (adipose). The ",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

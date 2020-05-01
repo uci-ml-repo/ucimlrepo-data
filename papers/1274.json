@@ -1,0 +1,11 @@
+{
+    "datasetID": 63,
+    "supportID": "7EB67AAE1F9029214030F896B40B57361D9CE71E",
+    "rexaID": "7125dc87ceddf952f1840074b40ac0526dcc03dc",
+    "author": "Marcus Hutter and Marco Zaffalon",
+    "title": "Distribution of Mutual Information from Complete and Incomplete Data",
+    "venue": "CoRR, csLG/0403025",
+    "year": "2004",
+    "window": "on a number of di\u00aeerent domains. For example, Shuttle-small reports Distribution of Mutual Information 19 data on diagnosing failures of the space shuttle; <b>Lymphography</b> and Hypothyroid are medical data sets; Spam is a body of e-mails that can be spam or non-spam; etc. Name #feat. #inst. mode freq. Australian 36 690 0.555 Chess 36 3196 0.520 Crx 15 653 0.547 German-org 17 1000 0.700 Hypothyroid 23 2238",
+    "mykey": 1274
+}

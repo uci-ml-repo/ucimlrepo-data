@@ -1,0 +1,23 @@
+{
+    "ID": 218,
+    "Name": "Farm Ads",
+    "Abstract": "This data was collected from text ads found on twelve websites that deal with various farm animal related topics.  The binary labels are based on whether or not the content owner approves of the ad.",
+    "Types": "Text",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 4143,
+    "NumAttributes": 54877,
+    "DateDonated": "2011-10-18",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00218/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This data was collected from text ads found on twelve websites that deal with various farm animal related topics.  Information from the ad creative and the ad landing page is included.  The binary labels are based on whether or not the content owner approves of the ad.\r\n\r\nFor each ad, we include the words on the ad creative and the words from the landing page.  Each word from the creative is given a prefix\r\nof 'ad-'.  Title and header HTML markups are noted in a similar way in the text of the landing page.  We have already performed stemming and\r\nstop word removal.  Each ad is on a single line.  The first word in the line is the label of the instance.  It is 1 for accepted ads and -1 for rejected ads.\r\n\r\nWe have also included a straightforward bag-of-words representation of our data.  We use the SVMlight sparse vector format.  The first value\r\nis the label followed by every nonzero attribute.  Each of these attributes is encoded as index:value.  This is the representation used for the relevant paper cited below.",
+    "Source": "Chris Mesterharm and Michael J. Pazzani\r\nRutgers, The State University of New Jersey\r\nmesterha@cs.rutgers.edu ",
+    "Acknowledgements": "",
+    "Area": "Business",
+    "RelevantPapers": "Active Learning using On-line Algorithms. Chris Mesterharm, Michael J. Pazzani. In KDD 2011.",
+    "AttributeInfo": "Text words in file farm-ads.  SVMlight format sparse vectors in file farm-ads-vect.",
+    "FormatType": "",
+    "NumHits": 9
+}

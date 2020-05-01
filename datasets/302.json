@@ -1,0 +1,23 @@
+{
+    "ID": 302,
+    "Name": "Gesture Phase Segmentation",
+    "Abstract": "The dataset is composed by features extracted from 7 videos with people gesticulating, aiming at studying Gesture Phase Segmentation. It contains 50 attributes divided into two files for each video.",
+    "Types": "Multivariate, Sequential, Time-Series",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 9900,
+    "NumAttributes": 50,
+    "DateDonated": "2014-06-18",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00302/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset is composed by features extracted from 7 videos with people gesticulating, aiming at studying Gesture Phase Segmentation.\r\nEach video is represented by two files: a raw file, which contains the position of hands, wrists, head and spine of the user in each frame; and a processed file, which contains velocity and acceleration of hands and wrists. See the data set description for more information on the dataset.",
+    "Source": "Creators: \r\n     Renata Cristina Barros Madeo (Madeo, R. C. B.)\r\n     Priscilla Koch Wagner (Wagner, P. K.)\t\t\r\n     Sarajane Marques Peres (Peres, S. M.)\r\n     {renata.si, priscilla.wagner, sarajane} at usp.br\r\n     http://each.uspnet.usp.br/sarajane/\r\n\r\nDonor: \r\n     University of Sao Paulo - Brazil",
+    "Acknowledgements": "Please refer to the Machine Learning Repository's citation policy.\r\nAdditionally, the authors require a citation to one or more publications from those cited as relevant papers.",
+    "Area": "Other",
+    "RelevantPapers": "   1.  Madeo, R. C. B. ; Lima, C. A. M. ; PERES, S. M. . Gesture Unit Segmentation using Support Vector Machines: Segmenting \r\n       Gestures from Rest Positions. In: Symposium on Applied Computing (SAC), 2013, Coimbra. Proceedings of the 28th Annual \r\n       ACM Symposium on Applied Computing (SAC), 2013. p. 46-52.\r\n       * In this paper, the videos A1 and A2 were studied.\r\n\r\n   2.  Wagner, P. K. ; PERES, S. M. ; Madeo, R. C. B. ; Lima, C. A. M. ; Freitas, F. A. . Gesture Unit Segmentation Using \r\n       Spatial-Temporal Information and Machine Learning. In: 27th Florida Artificial Intelligence Research Society Conference \r\n       (FLAIRS), 2014, Pensacola Beach. Proceedings of the 27th Florida Artificial Intelligence Research Society Conference \r\n       (FLAIRS). Palo Alto : The AAAI Press, 2014. p. 101-106.\r\n       * In this paper, the videos A1, A2, A3, B1, B3, C1 and C3 were studied.\r\n\r\n   3.  Madeo, R. C. B.. Support Vector Machines and Gesture Analysis: incorporating temporal aspects  (in Portuguese). Master \r\n       Thesis - Universidade de Sao Paulo, Sao Paulo Researcher Foundation. 2013.\r\n       * In this document, the videos named B1 and B3 in the document correspond to videos C1 and C3 in this dataset. Only \r\n       five videos were explored in this document: A1, A2, A3, C1 and C3.\r\n\r\n   4.  Wagner, P. K. ; Madeo, R. C. B. ; PERES, S. M. ; Lima, C. A. M. . Segmenta\u00c3\u00a7ao de Unidades Gestuais com Multilayer \r\n       Perceptrons (in Portuguese). In: Encontro Nacional de Inteligencia Artificial e Computacional (ENIAC), 2013, Fortaleza. \r\n       Anais do X Encontro Nacional de Inteligencia Artificial e Computacional (ENIAC), 2013.\r\n       * In this paper, the videos A1, A2 and A3 were studied.",
+    "AttributeInfo": "Raw files: 18 numeric attributes (double), a timestamp and a class attribute (nominal).\r\nProcessed files: 32 numeric attributes (double) and a class attribute (nominal).\r\nA feature vector with up to 50 numeric attributes can be generated with the two files mentioned above.",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 146,
+    "supportID": "40863506086353FC045BBDDF0B6A6FA344C0518B",
+    "rexaID": "7286601416a1cec780621a415323a2bc6c958e11",
+    "author": "Vikas Sindhwani and P. Bhattacharya and Subrata Rakshit",
+    "title": "Information Theoretic Feature Crediting in Multiclass Support Vector Machines",
+    "venue": "",
+    "year": "",
+    "window": "is a 6-class and 36-feature dataset containing <b>Landsat</b> <b>satellite</b> data. We tested SVM-Infoprop for non-linear SVMs with these datasets. Support Vector Machines with polynomial kernels of degree 2 were trained with 564 examples and",
+    "mykey": 530
+}

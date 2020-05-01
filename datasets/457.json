@@ -1,0 +1,23 @@
+{
+    "ID": 457,
+    "Name": "EEG Steady-State Visual Evoked Potential Signals",
+    "Abstract": "This database consists on 30 subjects performing Brain Computer Interface for Steady State Visual Evoked Potentials (BCI-SSVEP). ",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Classification, Regression",
+    "AttributeTypes": "Integer",
+    "NumInstances": 9200,
+    "NumAttributes": 16,
+    "DateDonated": "2018-07-13",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00457/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The tests are explained in more detail in the articles attached to the databases. The tests are visual experiments, so the signal you may be more interested in are the electrodes O1 and O2 (Columns I and J) according to the extensive literature review and international standards. Each subject performed different tests which are provided in .csv format as follows: suppose you have a .csv which name is A001SB1_1 This means the data corresponds to group A (only Group A is provided at present), subject 001, Test SB1 (Five Box Visual Test), and first experiment (_1, there could be a repetition of the experiment which will be _2, _3, etc). The different tests are as follows: SB1 - Five Box Visual Test 1, SB2 - Five Box Visual Test 2, SB3 - Five Box Visual Test 3 (There are three different Five Box tests, these are not repetitions of the same test), SV1 - Visual Image Search, SM1 - Motor Images (Hand Shake Experiment). Since these experiments are visual tests, you may be interested in the electrodes O1 and O2. A file named Signal Database.xlsx is provided with a list of every experiment carried out and the subjects for each experiment. The real name of each subject are not provided due to confidentiality issues.",
+    "Source": "This database was obtained by performing the experiments using a commercial device for 30 subjects in order to partially fulfill the requirements for the Ph.D. candidate in Computer Science: Fernandez-Fraga S.M. and was supervised by Dr. M. A. Aceves-Fernandez, Ph.D. from the Autonomous University of Queretaro, Mexico (UAQ). The experiments were carried out complying with the highest ethical standards both locally (Bioethical standards provided by our University) and internationally (documents provided by the World Health Organization) and supervised by an expert physician at all time.",
+    "Acknowledgements": "Please if you use the database for any purpose, include one (or more) of the provided references and acknowledge the corresponding author (Aceves-Fernandez).\r\n",
+    "Area": "Life",
+    "RelevantPapers": "Please e-mail to marco.aceves@gmail.com for the full article and/or information on where to fetch the paper(s).\r\n*Fernandez-Fraga, S. M., Aceves-Fernandez, M. A., Pedraza-Ortega, J. C. (2018). Feature Extraction of EEG Signal upon BCI Systems Based on Steady-State Visual Evoked Potentials Using the Ant Colony Optimization Algorithm. Discrete Dynamics in Nature and Society, 2018.\r\n*S. M. Fernandez-Fraga, M. A. Aceves-Fernande, J. C. Pedraza-Ortega & J. M. Ramos-Arregu\u00c3\u00adn (2018). Screen Task Experiments for EEG Signals Based on SSVEP Brain Computer Interface. International Journal of Advanced Research, 2018.",
+    "AttributeInfo": "There are 16 attributes, of which the last 14 are the signals coming from the electrodes. They are named according to international standards (see the references). The first two are the time-domain and a signal called interpolated which is normally 0.",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

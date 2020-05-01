@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "70B9E2342E20FF3E8C2CC22B827068AD29688A51",
+    "rexaID": "d328ae33fb50756832a1c6cd703f7176c361923f",
+    "author": "Peter Sykacek and Stephen J. Roberts",
+    "title": "Adaptive Classification by Variational Kalman Filtering",
+    "venue": "NIPS",
+    "year": "2002",
+    "window": "Table 2: Generalization accuracies obtained for classification of single trial EEG show that the variational Kalman filter significantly improves the results in three out of four cases. <b>diabetes</b> data set from [17] 3 . Table 1 compares the generalization accuracies (in fractions) obtained with the variational Kalman filter with generalization accuracies obtained with sequential variational inference.",
+    "mykey": 1093
+}

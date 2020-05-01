@@ -1,0 +1,23 @@
+{
+    "ID": 265,
+    "Name": "Physicochemical Properties of Protein Tertiary Structure",
+    "Abstract": "This is a data set of Physicochemical Properties of Protein Tertiary Structure. The data set is taken from CASP 5-9. There are 45730 decoys and size varying from 0 to 21 armstrong.",
+    "Types": "Multivariate",
+    "Task": "Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 45730,
+    "NumAttributes": 9,
+    "DateDonated": "2013-03-31",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00265/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Provide all relevant information about your data set.",
+    "Source": "Prashant Singh Rana, psrana@gmail.com, ABV - Indian Institute of Information Technology & Management, Gwalior, MP, India.",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "",
+    "AttributeInfo": "RMSD-Size of the residue.\r\nF1 - Total surface area.\r\nF2 - Non polar exposed area.\r\nF3 - Fractional area of exposed non polar residue.\r\nF4 - Fractional area of exposed non polar part of residue.\r\nF5 - Molecular mass weighted exposed area.\r\nF6 - Average deviation from standard exposed area of residue.\r\nF7 - Euclidian distance.\r\nF8 - Secondary structure penalty.\r\nF9 - Spacial Distribution constraints (N,K Value).",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 7,
+    "Name": "Audiology (Original)",
+    "Abstract": "Nominal audiology dataset from Baylor",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 226,
+    "NumAttributes": 0,
+    "DateDonated": "1987-12-03",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/audiology/",
+    "URLReadme": "../machine-learning-databases/audiology/audiology.data",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This database does NOT use a standard set of attributes per instance.\r\n\r\nContact Ray Bareiss (rbareiss@uunet.uucp ?) for more information.\r\n\r\nDomain expert: Professor Craig Wier of the University of Texas, Austin.\r\n\r\n",
+    "Source": "Original Owner: \r\n\r\nProfessor Jergen at Baylor College of Medicine\r\n\r\nDonor: \r\n\r\nBruce Porter (porter@fall.cs.utexas.EDU)\r\n",
+    "Acknowledgements": "WARNING: This database should be credited to the original owner whenever used for any publication whatsoever.",
+    "Area": "Life",
+    "RelevantPapers": "Bareiss, E. Ray, & Porter, Bruce (1987).  Protos: An Exemplar-Based Learning Apprentice.  In the Proceedings of the 4th International Workshop on Machine Learning, 12-23, Irvine, CA: Morgan Kaufmann.\r\nhttp://rexa.info/paper/1fb045668480ef3d72fef59f5f86bcb23a2ceffa",
+    "AttributeInfo": "(all attributes are nominally valued)\r\n   1. case identifier.\r\n   2. classification (24 classes)\r\n   3. List of case features\r\n      -- format: form f(v) should be read as \"feature f has value v\"",
+    "FormatType": "",
+    "NumHits": 10081
+}

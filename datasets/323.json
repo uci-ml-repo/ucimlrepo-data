@@ -1,0 +1,23 @@
+{
+    "ID": 323,
+    "Name": "microblogPCU",
+    "Abstract": "MicroblogPCU data is crawled from sina weibo microblog[http://weibo.com/]. This data can be used to study machine learning methods  as well as do some social network research. ",
+    "Types": "Multivariate, Univariate, Sequential, Text",
+    "Task": "Classification, Causal-Discovery",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 221579,
+    "NumAttributes": 20,
+    "DateDonated": "2015-03-17",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00323/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Our dataset is used by us to explore spammers in microblog and you can access our demo system at \nhttp://sd.skyclass.net/Spammer/dia.jsp\n\nPlease add :8080 after the domain name as port. The repository webpage fails to parse the weblink when it's added in the source. (under inspection)",
+    "Source": "Jun Liu(liukeen '@' mail.xjtu.cn), Hao Chen(lechenhao '@' gmail.com) , Mengting Zhan, Jianhong Mi,Yanzhang Lv \nMOEKLINNS Lab, Department of Computer Science ,Xi'an Jiaotong University, China\n",
+    "Acknowledgements": "Thanks to MOEKLINNS Lab[http://labs.xjtudlc.com/labs/zscl.html] especially Spammer Detection Group for opening its data ",
+    "Area": "Computer",
+    "RelevantPapers": "",
+    "AttributeInfo": "weibo_user.csv has the following attributes:\n-user_id: account ID in sina weibo;\n-user_name: account nickname\u00ef\u00bc\u203a\n-gender:account registration gender including male\u00ef\u00bc\u0152 female and other\u00ef\u00bc\u203a\n-class:account level given by sina weibo;\n-message:account registration location or other personal information;\n-post_num: the number of posts of this account up to now;\n-follower_num: the number of followers of this account;\n-followee_num: the number of followee of this account;\n-follow ratio: followee_num/follower_num;\n-is_spammer: manually annotated label, 1 means spammer and -1 means non-spammer;\nuser_post.csv has the following attributes:\n-post_id:user post ID given by sina weibo;\n-post_time:the time when a post is posted;\n-poster_id: the user ID who posted this post;\n-repost_num:the number of retweet by others;\n-commnet_num: the number of comment by others;\nfollowe-followee.csv has the following attributes:\n-follower: the nickname of follower;\n-follower_id: the user ID of follower;\n-followee: the nickname of followee;\n-followee_id: the user ID of followee;\npost.csv is almost the as user_post.csv and the post in it are retrievalled by a certain key word related to a topic;\n\n-content: the post text(mostly in Chinese, please set your Microsoft Office to make it readable)",
+    "FormatType": "",
+    "NumHits": 9
+}

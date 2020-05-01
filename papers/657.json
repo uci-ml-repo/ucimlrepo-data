@@ -1,0 +1,11 @@
+{
+    "datasetID": 103,
+    "supportID": "4B2F13FA93C33F07A6EA8C7B311E6E7672D56605",
+    "rexaID": "d8d6151f296628418779cbc9a42cdba8ee766415",
+    "author": "Daan Fierens and Jan Ramon and Hendrik Blockeel and Maurice Bruynooghe",
+    "title": "A Comparison of Approaches for Learning Probability Trees",
+    "venue": "Department of Computer Science",
+    "year": "",
+    "window": "16 yeast 1484 10 45 N NbClasses NbTests biodegradability 328 2 47 carcinogenesis 330 2 305 diterpenes 1504 23 210 hiv 41768 2 49 mutagenesis 230 2 139 <b>trains</b> 25000 2 73 3.1 Experiments on Benchmark Datasets: Setup and Results 3.1.1 Experimental Setup Table 2 gives an overview of the datasets used. All non-relational datasets are from the UCI-repository [10], except asm [8]. All relational datasets are",
+    "mykey": 657
+}

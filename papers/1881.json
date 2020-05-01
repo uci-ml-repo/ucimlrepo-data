@@ -1,0 +1,11 @@
+{
+    "datasetID": 107,
+    "supportID": "B92890DDD4FD7A4F00DB1BF12E61403C0AEDFC3B",
+    "rexaID": "77fb0a2e40e1c957295bfa6bffb09ffc1d1bebc7",
+    "author": "Giorgio Valentini",
+    "title": "An experimental bias--variance analysis of SVM ensembles based on resampling techniques",
+    "venue": "",
+    "year": "",
+    "window": "each region is delimited by one or more of four simple polynomial and trigonometric functions 2 . The synthetic data set <b>Waveform</b> is generated from a combination of 2 of 3 \"base\" waves; we reduced the original three classes of Waveform to two, deleting all samples pertaining to class 0. The other data sets are all",
+    "mykey": 1881
+}

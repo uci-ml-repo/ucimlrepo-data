@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "2BF600B43C073DC5CAB44DE66CBE5592909F6DD6",
+    "rexaID": "e3cb1b3c129bc2be18036ad91073724543894185",
+    "author": "Luc Hoegaerts and J. A. K Suykens and J. Vandewalle and Bart De Moor",
+    "title": "Subset Based Least Squares Subspace Regression in RKHS",
+    "venue": "Katholieke Universiteit Leuven Department of Electrical Engineering, ESAT-SCD-SISTA",
+    "year": "",
+    "window": "the methods relative to the standard deviations. Apart from this nondi#erence, we must remark that the mean of the KPCA based model is approximately equal to the mean of the KPLS1 model. The <b>Abalone</b> data set is another benchmark from the same UCI repository [33], consisting of 4177 cases, having p = 7 input variables. The aim is to predict the age of abalone fish from physical measurements. We picked at",
+    "mykey": 365
+}

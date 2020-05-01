@@ -1,0 +1,11 @@
+{
+    "datasetID": 152,
+    "supportID": "7B4103AA3422194A8AF1D91A8A7690A2EF04FE2A",
+    "rexaID": "44c3304f0bae0a9da4798db6e28bda955a80d576",
+    "author": "Matthew Brand",
+    "title": "Pattern discovery via entropy minimization",
+    "venue": "MERL -- A MITSUBISHI ELECTRIC RESEARCH LABORATORY",
+    "year": "1998",
+    "window": "DA circumvents this local optimum and finds a model which generalizes even better. 9.2 Radial basis function networks (RBFNs) Vowel classification: We obtained the British English <b>vowel recognition</b> dataset from the CMU Neural-Bench Archive. Each example of a vowel is characterized by LPC coefficients from two time-frames. This dataset has been treated several times using perceptrons, neural networks,",
+    "mykey": 1216
+}

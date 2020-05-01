@@ -1,0 +1,11 @@
+{
+    "datasetID": 56,
+    "supportID": "D60BC4C8DFB454CFB52C4B739F5CC36B6C22A0CF",
+    "rexaID": "fac79a1ce7fa29979fe50466d471cdac753f26d5",
+    "author": "Ida G. Sprinkhuizen-Kuyper and Elena Smirnova and I. Nalbantis",
+    "title": "Reliability yields Information Gain",
+    "venue": "IKAT, Universiteit Maastricht",
+    "year": "",
+    "window": "(the case of polynomial kernel) of which the information gain is 0.72 (we even obtained perfect information!) and the <b>labor</b> dataset (the case of polynomial kernel) of which the information gain is 0.42. 8. Conclusion For practical application of machine learning algorithms knowledge about the reliability of individual instances",
+    "mykey": 2149
+}

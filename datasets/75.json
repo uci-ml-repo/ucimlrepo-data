@@ -1,0 +1,23 @@
+{
+    "ID": 75,
+    "Name": "Musk (Version 2)",
+    "Abstract": "The goal is to learn to predict whether new molecules will be musks or non-musks",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 6598,
+    "NumAttributes": 168,
+    "DateDonated": "1994-09-12",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/musk/",
+    "URLReadme": "../machine-learning-databases/musk/clean2.info",
+    "HighestAccuracy": 91,
+    "RelevantInfo": "This dataset describes a set of 102 molecules of which 39 are judged by human experts to be musks and the remaining 63 molecules are judged to be non-musks.  The goal is to learn to predict whether new molecules will be musks or non-musks.  However, the 166 features that describe these molecules depend upon the exact shape, or conformation, of the molecule.  Because bonds can rotate, a single molecule can adopt many different shapes.  To generate this data set, all the low-energy conformations of the molecules were generated to produce 6,598 conformations.  Then, a feature vector was extracted that describes each conformation. \r\n\r\nThis many-to-one relationship between feature vectors and molecules is called the \"multiple instance problem\".  When learning a classifier for this data, the classifier should classify a molecule as \"musk\" if ANY of its conformations is classified as a musk.  A molecule should be classified as \"non-musk\" if NONE of its conformations is classified as a musk.",
+    "Source": "Creators:  \r\n\r\nAI Group at Arris Pharmaceutical Corporation\r\ncontact:  David Chapman or Ajay Jain\r\nArris Pharmaceutical Corporation\r\n385 Oyster Point Blvd.\r\nSouth San Francisco, CA 94080\r\n415-737-8600\r\nzvona@arris.com, jain@arris.com\r\n\r\nDonor:     \r\n\r\nTom Dietterich\r\nDepartment of Computer Science\r\nOregon State University\r\nCorvallis, OR 97331\r\n503-737-5559\r\ntgd@cs.orst.edu",
+    "Acknowledgements": "",
+    "Area": "Physical",
+    "RelevantPapers": "Dietterich, T. G., Jain, A., Lathrop, R., Lozano-Perez, T. (1994). A comparison of dynamic reposing and tangent distance for drug activity prediction.  Advances in Neural Information Processing Systems, 6.  San Mateo, CA: Morgan Kaufmann.  216--223.\r\nhttp://rexa.info/paper/88e450c2c458d9ae8eaa9b556d2831b9801c1bfe\r\n\r\nJain, A. N., Dietterich, T. G., Lathrop, R. H., Chapman, D., Critchlow, R. E., Bauer, B. E., Webster, T. A., Lozano-Perez, T.  Compass: A shape-based machine learning tool for drug design.  Computer-Aided Molecular Design. \r\nhttp://rexa.info/paper/b6bbc5cefb7152095b94bf0f1d4dc2c0616b96fd\r\n\r\nDietterich, T. G., Lathrop, R. H., Lozano-Perez, T. Solving the multiple-instance problem with axis-parallel rectangles.  Artificial Intelligence.\r\nhttp://rexa.info/paper/a0753191808f5c6345777b4ffef7cd74e210bfef",
+    "AttributeInfo": "   molecule_name:       Symbolic name of each molecule.  Musks have names such as MUSK-188.  Non-musks have names such as NON-MUSK-jp13.\r\n   conformation_name:   Symbolic name of each conformation.  These have the format MOL_ISO+CONF, where MOL is the molecule number, ISO is the stereoisomer number (usually 1), and CONF is the conformation number. \r\n   f1 through f162:     These are \"distance features\" along rays (see paper cited above).  The distances are measured in hundredths of Angstroms.  The distances may be negative or positive, since they are actually measured relative to an origin placed along each ray.  The origin was defined by a \"consensus musk\" surface that is no longer used.  Hence, any experiments with the data should treat these feature values as lying on an arbitrary continuous scale.  In particular, the algorithm should not make any use of the zero point or the sign of each feature value. \r\n   f163:                This is the distance of the oxygen atom in the molecule to a designated point in 3-space. This is also called OXY-DIS.\r\n   f164:                OXY-X: X-displacement from the designated point.\r\n   f165:                OXY-Y: Y-displacement from the designated point.\r\n   f166:                OXY-Z: Z-displacement from the designated point. \r\n   class:               0 => non-musk, 1 => musk\r\n\r\n   Please note that the molecule_name and conformation_name attributes should not be used to predict the class.",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 7210
+}

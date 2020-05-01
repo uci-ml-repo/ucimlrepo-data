@@ -1,0 +1,11 @@
+{
+    "datasetID": 76,
+    "supportID": "9420108AB1160C43755C76C0AE57C71F2162F004",
+    "rexaID": "4a338bab101f6721ea5dc4d76de5456721fbf0a3",
+    "author": "Marina Meila and Michael I. Jordan",
+    "title": "Learning with Mixtures of Trees",
+    "venue": "Journal of Machine Learning Research, 1",
+    "year": "2000",
+    "window": "the MT has m = 12, and the MF has m = 30. (b) On the <b>NURSERY</b> data set; the MT has m = 30, the MF has m = 70. TANB and NB are the tree augmented naive Bayes and the naive Bayes classifiers respectively. The plots show the average and standard deviation test set error",
+    "mykey": 1480
+}

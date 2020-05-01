@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "6BB2FF3EE833CE07D3C6B60D064A22F6811244D7",
+    "rexaID": "bf8052c51e6338fa2ab5479c08d657a06e4dbd4a",
+    "author": "Eibe Frank and Mark Hall",
+    "title": "Visualizing Class Probability Estimators",
+    "venue": "PKDD",
+    "year": "2003",
+    "window": "<= 1.7 <b>iris</b> virginica (46.0/1.0) } 1.7 Iris-versicolor (48.0/1.0) <= 4.9 petalwidth } 4.9 Iris-virginica (3.0) <= 1.5 Iris-versicolor (3.0/1.0) } 1.5 Fig. 5. The decision tree for the two-class iris dataset. (a) (b) (c) Fig. 6. Visualizing the decision tree for the two-class iris data using (a) petallength and petalwidth, (b) petallength and sepallength, and (c) sepallength and sepalwidth (with the",
+    "mykey": 1027
+}

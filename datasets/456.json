@@ -1,0 +1,23 @@
+{
+    "ID": 456,
+    "Name": "Multimodal Damage Identification for Humanitarian Computing",
+    "Abstract": "5879 captioned images (image and text) from social media related to damage during natural disasters/wars, and belong to 6 classes: Fires, Floods, Natural landscape, Infrastructural, Human, Non-damage.",
+    "Types": "Multivariate, Text",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 5879,
+    "NumAttributes": 0,
+    "DateDonated": "2018-06-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00456/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Samples were retrieved from social media posts including Instagram and Twitter. ",
+    "Source": "Hussein Mouzannar, American University of Beirut (hmm46@aub.edu.lb)\r\nYara Rizk, American University of Beirut (yar01@aub.edu.lb)\r\nMariette Awad, American University of Beirut (mariette.awad@aub.edu.lb)",
+    "Acknowledgements": "Hussein Mouzannar, Yara Rizk, and Mariette Awad, 'Damage Identification in\r\nSocial Media Posts using Multimodal Deep Learning,' The 15th International\r\nConference on Information Systems for Crisis Response and Management\r\n(ISCRAM), Rochester, USA, May 20-23, 2018, pp. 529-543.",
+    "Area": "Social",
+    "RelevantPapers": "Hussein Mouzannar, Yara Rizk, and Mariette Awad, 'Damage Identification in\r\nSocial Media Posts using Multimodal Deep Learning,' The 15th International\r\nConference on Information Systems for Crisis Response and Management\r\n(ISCRAM), Rochester, USA, May 20-23, 2018, pp. 529-543.\r\nHadi S. Jomaa, Yara Rizk, and Mariette Awad, 'Semantic and Visual Cues\r\nfor Humanitarian Computing of Natural Disaster Damage Images,' The 12th\r\nInternational Conference on Signal Image Technology & Internet Systems (SITIS),\r\nNaples, Italy, Nov. 28-Dec. 1 2016.",
+    "AttributeInfo": "640x640 RGB images and raw text",
+    "FormatType": "",
+    "NumHits": 0
+}

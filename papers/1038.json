@@ -1,0 +1,11 @@
+{
+    "datasetID": 146,
+    "supportID": "6C21FE03EFF8D65B8E0A4050AA13B513EB3A752F",
+    "rexaID": "7de1dca96d7e6789dadc875a7f1b070f9d65fff5",
+    "author": "Grigorios Tsoumakas and Ioannis P. Vlahavas",
+    "title": "Fuzzy Meta-Learning: Preliminary Results",
+    "venue": "Greek Secretariat for Research and Technology",
+    "year": "",
+    "window": "that have large number of classes. These were the  <b>Satellite</b>  and `Segment' data sets again from the Machine Learning Repository. The setup of the experiments was the same as in the case of testing the meta-fuzzy scheme. Table 2 presents the results. Table 2: Results with the",
+    "mykey": 1038
+}

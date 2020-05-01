@@ -1,0 +1,11 @@
+{
+    "datasetID": 148,
+    "supportID": "84A9EB9AA681B0EEF24C996849ABD592187A42A6",
+    "rexaID": "4dac55f2daa66b00a555405664b6f275370782ac",
+    "author": "Haixun Wang and Carlo Zaniolo",
+    "title": "CMP: A Fast Decision Tree Classifier Using Multivariate Predictions",
+    "venue": "ICDE",
+    "year": "2000",
+    "window": "might fall. Figure 2 shows a hypothetical gini curve, and three alive intervals (shaded areas in the figure). Our experiments of the estimation method are summarized in Table 1. The first four small datasets (Letter, Satimage, Segment and <b>Shuttle</b>  in the table are from the STATLOG project[6], and the two large datasets (Function 2 and Function 7) are synthetic datasets described in [5]. In these test",
+    "mykey": 1329
+}

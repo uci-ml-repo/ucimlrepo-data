@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "D38C96C89194F0B3FCA53E8C9C89AAC0D5F0FDAC",
+    "rexaID": "ff82c050c05e8845f7a81bb4e723cf41fbd2efec",
+    "author": "Saher Esmeir and Shaul Markovitch",
+    "title": "Lookahead-based algorithms for anytime induction of decision trees",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "LSID3 produces classifiers of higher accuracy than C4.5. For the more difficult concepts, the advantage of LSID3 is substantial. However, for some datasets, such as <b>Breast</b> <b>Cancer</b> and Monks-3, C4.5 produces trees that are both smaller and more accurate. These results confirm our expectations: the problems addressed by LSID3 and C4.5 are di\u00aeerent. While",
+    "mykey": 2113
+}

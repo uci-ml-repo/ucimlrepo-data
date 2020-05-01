@@ -1,0 +1,11 @@
+{
+    "datasetID": 79,
+    "supportID": "0AF9BBB399027FD905DBF49D122F9DB486CE2434",
+    "rexaID": "96246754b7958de8a635165e8b145c264240cd3d",
+    "author": "Huan Liu and Rudy Setiono",
+    "title": "Feature Transformation and Multivariate Decision Tree Induction",
+    "venue": "Discovery Science",
+    "year": "1998",
+    "window": "those of OC1's, in which two of the OC1's trees are smaller. In 9 cases, trees by BMDT are significantly different from those of CART's, in which only one of CART's trees is smaller. An example: The dataset is <b>Pima</b> <b>diabetes</b>  In Table 3, it is seen that C4.5 creates a UDT with average tree size of 122.4 nodes, BMDT builds an MDT with average tree size of 3 nodes. That means the MDT has one root and two",
+    "mykey": 122
+}

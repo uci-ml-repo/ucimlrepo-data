@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "DEA2FFAF3A1031738792A5567EE13717406348EF",
+    "rexaID": "fc0a66d3a7336b6eabad919a7389c68cc37f2564",
+    "author": "Ayhan Demiriz and Kristin P. Bennett and John Shawe and I. Nouretdinov V.",
+    "title": "Linear Programming Boosting via Column Generation",
+    "venue": "Dept. of Decision Sciences and Eng. Systems, Rensselaer Polytechnic Institute",
+    "year": "",
+    "window": "data repository [10]. For the C4.5 experiments we performed both traditional and confidence7.1 Boosting Decision Tree Stumps We used decision tree stumps as a base learner on the following six datasets: Cancer (9,699), Diagnostic (30,569), <b>Heart</b> (13,297), Ionosphere (34,351), Musk (166,476), and Sonar (60,208). The number of features 11 and number of points in each dataset are shown,",
+    "mykey": 2231
+}

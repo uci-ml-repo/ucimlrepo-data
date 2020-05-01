@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "2B92384C002B697B9645D8E3FCA47F906B407675",
+    "rexaID": "b569ce235d64605aedc2e0bddb7006bd30fcad9f",
+    "author": "Fran ois Poulet",
+    "title": "Cooperation between automatic algorithms, interactive algorithms and visualization tools for Visual Data Mining",
+    "venue": "ESIEA Recherche",
+    "year": "",
+    "window": "hyperplane and the accuracy of the algorithm. We visualize the intersection of this hyperplane with the 2D scatter plot matrices, i.e. a line in each matrix (as shown in Figure 7 with the <b>diabetes</b> data set, from the UCI repository). As we can see on figure 7, the resulting lines do not necessarily separate the two classes, the hyperplane does separate the data (the accuracy of the incremental SVM is",
+    "mykey": 360
+}

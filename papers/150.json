@@ -1,0 +1,11 @@
+{
+    "datasetID": 20,
+    "supportID": "1039FE5FA3BEA62639A190437F84DA4FF4AA8235",
+    "rexaID": "ba8db8dddfba95ce7d20f5376a39c4ff6ed38d0c",
+    "author": "Dennis P. Groth and Edward L. Robertson",
+    "title": "An Entropy-based Approach to Visualizing Database Structure",
+    "venue": "VDB",
+    "year": "2002",
+    "window": "The data we use in our visualization is drawn from a variety of sources, including the U.S. <b>Census</b> [1], the U.C.I. Machine Learning Repository [2], and the Wisconsin Benchmark [7]. The specific dataset we used for the Census was the 1990 Indiana Public Use Microdata Sample (PUMS), which has 125 attributes. Our first application is the visualization of frequency distributions. An obvious technique",
+    "mykey": 150
+}

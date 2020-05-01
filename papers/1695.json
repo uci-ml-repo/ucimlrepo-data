@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "A638CBF63DD28B9E5B2D1F003CBBA209D7BF5AF9",
+    "rexaID": "a702c0617d7187cfc988819d79f0eb2a42ba3f19",
+    "author": "Thomas Serafini and G. Zanghirati and Del Zanna and T. Serafini and Gaetano Zanghirati and Luca Zanni",
+    "title": "DIPARTIMENTO DI MATEMATICA",
+    "venue": "Gradient Projection Methods for",
+    "year": "2003",
+    "window": "the MNIST database of handwritten digits [24] and the UCI <b>Adult</b> data set [27]. These experiments are carried out on a Compaq XP1000 workstation at 667MHz with 1GB of RAM, with standard C codes. All the considered methods compute the projection on the special feasible",
+    "mykey": 1695
+}

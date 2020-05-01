@@ -1,0 +1,11 @@
+{
+    "datasetID": 16,
+    "supportID": "F6826B292F64EEF274597AF1E91EB63718AFD582",
+    "rexaID": "4ce4c96181e2836dd80a71c2efebc7fb030c55d8",
+    "author": "Baback Moghaddam and Gregory Shakhnarovich",
+    "title": "Boosted Dyadic Kernel Discriminants",
+    "venue": "NIPS",
+    "year": "2002",
+    "window": "the number of support vectors for the SVM, and #k.ev. the number of kernel evaluations required by a boosted hypercuts classifier. Means and standard deviations in 30 trials are reported for each data set. WBC,WPBC,WDBC are <b>Wisconsin</b> <b>Breast</b> <b>Cancer</b>  Prognosis and Diagnosis data sets, respectively. In each experiment, the data set was randomly partitioned into training, validation and test sets of",
+    "mykey": 2486
+}

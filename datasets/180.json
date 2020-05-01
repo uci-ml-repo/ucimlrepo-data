@@ -1,0 +1,23 @@
+{
+    "ID": 180,
+    "Name": "Plants",
+    "Abstract": "Data has been extracted from the USDA plants database. It contains all plants (species and genera) in the database and the states of USA and Canada where they occur.",
+    "Types": "Multivariate",
+    "Task": "Clustering",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 22632,
+    "NumAttributes": 70,
+    "DateDonated": "2008-12-31",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/plants/",
+    "URLReadme": "../machine-learning-databases/plants/plants.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The data is in the transactional form. It contains the Latin names (species or genus) and state abbreviations. ",
+    "Source": "Original source: \r\nUSDA plants database: http://plants.usda.gov/index.html \r\n\r\nExtracted and encoded by W. H\u00e4m\u00e4l\u00e4inen, Department of Computer Science, University of Helsinki, Finland. whamalai@cs.helsinki.fi ",
+    "Acknowledgements": "Even if the data is processed, it is good to give a reference to the original source:\r\nUSDA, NRCS. 2008. The PLANTS Database (http://plants.usda.gov, 31 December 2008). National Plant Data Center, Baton Rouge, LA 70874-4490 USA.",
+    "Area": "Life",
+    "RelevantPapers": "H\u00e4m\u00e4l\u00e4inen, W. and Nyk\u00e4nen, M.: Efficient discovery of statistically significant association rules. Proceedings of the 8th IEEE International Conference on Data Mining (ICDM 2008), pp. 203-212. IEEE Computer Society 2008.\r\n",
+    "AttributeInfo": "Each row contains a Latin name (species or genus) and a list of state abbreviations. ",
+    "FormatType": "Non-Matrix",
+    "NumHits": 9
+}

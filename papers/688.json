@@ -1,0 +1,11 @@
+{
+    "datasetID": 60,
+    "supportID": "4DB568F72E4E2CA69BF9F228F5D9B537E75BEFD6",
+    "rexaID": "412e0644abd8fccf9fb195db3ed361c2ffd3695c",
+    "author": "Xavier Llor and David E. Goldberg and Ivan Traus and Ester Bernad i Mansilla",
+    "title": "Accuracy, Parsimony, and Generality in Evolutionary Learning Systems via Multiobjective Selection",
+    "venue": "IWLCS",
+    "year": "2002",
+    "window": "were obtained from the UCI repository (Merz & Murphy, 1998). We chose seven data sets: Bupa <b>Liver</b> Disorders (bpa), Wisconsin Breast Cancer (bre), Glass (gls), Ionosphere (ion), Iris (irs), Primary Tumor (prt), and Sonar (son). These data sets contain categorical and numeric",
+    "mykey": 688
+}

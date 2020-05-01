@@ -1,0 +1,11 @@
+{
+    "datasetID": 39,
+    "supportID": "B360A43EFFEC793BB362B2A8111F4572A930D8DB",
+    "rexaID": "f006e50cdba5e00538e2b48452e1d0bab8ed02b9",
+    "author": "Mukund Deshpande and George Karypis",
+    "title": "Evaluation of Techniques for Classifying Biological Sequences",
+    "venue": "PAKDD",
+    "year": "2002",
+    "window": "contains sequences from the genome of prokaryote organism Escherichia <b>coli</b>  <b>ecoli</b>  [NTPP01]. To build this dataset the e-coli genome was first split into two sets of sequences, one containing sequences making up the coding region whereas other containing sequences making up the non-coding region. Next a fixed",
+    "mykey": 1842
+}

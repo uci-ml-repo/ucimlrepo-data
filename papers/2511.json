@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "F89D7DEED7C5DAEEF7C41729526FF177F0AEAACF",
+    "rexaID": "1d416aa15df505a2052d91f04ce93d8e3f2bfa7e",
+    "author": "Bianca Zadrozny",
+    "title": "Learning and evaluating classifiers under sample selection bias",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "3.5. Experimental results To verify the effects of sample selection bias experimentally, we apply Naive Bayes, logistic regression, C4.5 and SVMLight (soft margin) (Joachims, 2000b) to the <b>Adult</b> dataset, available from the UCI Machine Learning repository (Blake & Merz, 1998). We assume that the original dataset is not biased and artificially simulate biasedness by generating a value for s for each",
+    "mykey": 2511
+}

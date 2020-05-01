@@ -1,0 +1,23 @@
+{
+    "ID": 193,
+    "Name": "Cardiotocography",
+    "Abstract": "The dataset consists of measurements of fetal heart rate (FHR) and uterine contraction (UC) features on cardiotocograms classified by expert obstetricians.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 2126,
+    "NumAttributes": 23,
+    "DateDonated": "2010-09-07",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00193/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "2126 fetal cardiotocograms (CTGs) were automatically processed and the respective diagnostic features measured. The CTGs were also classified by three expert obstetricians and a consensus classification label assigned to each of them. Classification was both with respect to a morphologic pattern (A, B, C. ...) and to a fetal state (N, S, P). Therefore the dataset can be used either for 10-class or 3-class experiments.",
+    "Source": "Marques de S\u00c3\u00a1, J.P., jpmdesa@gmail.com, Biomedical Engineering Institute, Porto, Portugal.\r\nBernardes, J., joaobern@med.up.pt, Faculty of Medicine, University of Porto, Portugal.\r\nAyres de Campos, D., sisporto@med.up.pt, Faculty of Medicine, University of Porto, Portugal.",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "Ayres de Campos et al. (2000) SisPorto 2.0 A Program for Automated Analysis of Cardiotocograms. J Matern Fetal Med 5:311-318\r\n",
+    "AttributeInfo": "LB - FHR baseline (beats per minute)\r\nAC - # of accelerations per second\r\nFM - # of fetal movements per second\r\nUC - # of uterine contractions per second\r\nDL - # of light decelerations per second\r\nDS - # of severe decelerations per second\r\nDP - # of prolongued decelerations per second\r\nASTV - percentage of time with abnormal short term variability\r\nMSTV - mean value of short term variability\r\nALTV - percentage of time with abnormal long term variability\r\nMLTV - mean value of long term variability\r\nWidth - width of FHR histogram\r\nMin - minimum of FHR histogram\r\nMax - Maximum of FHR histogram\r\nNmax - # of histogram peaks\r\nNzeros - # of histogram zeros\r\nMode - histogram mode\r\nMean - histogram mean\r\nMedian - histogram median\r\nVariance - histogram variance\r\nTendency - histogram tendency\r\nCLASS - FHR pattern class code (1 to 10) \r\nNSP - fetal state class code (N=normal; S=suspect; P=pathologic)",
+    "FormatType": "Matrix",
+    "NumHits": 10
+}

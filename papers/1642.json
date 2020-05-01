@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "9F99E6F0A06D692FFF731EA175DAE71AEB4C2047",
+    "rexaID": "6c5be33e1f8da0388cb66c628ccad3a0b00eab57",
+    "author": "Guido Lindner and Rudi Studer",
+    "title": "AST: Support for Algorithm Selection with a CBR Approach",
+    "venue": "PKDD",
+    "year": "1999",
+    "window": "the MLT project with its Consultant system [Consortium, 1993] as well as the <b>Statlog</b> project [Michie et al., 1994]), aiming at comparing the performance of a fixed set of algorithms on several data sets. In the Statlog project 23 algorithms were evaluated on 21 data sets. A similar perspective on model selection can be found in [Kohavi et al., 1997], where these ideas form the background",
+    "mykey": 1642
+}

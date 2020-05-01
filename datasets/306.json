@@ -1,0 +1,23 @@
+{
+    "ID": 306,
+    "Name": "Newspaper and magazine images segmentation dataset",
+    "Abstract": "Dataset is well suited for segmentation tasks. It contains 101 scanned pages from different newspapers and magazines in Russian with ground truth pixel-based masks.",
+    "Types": "",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 101,
+    "NumAttributes": 0,
+    "DateDonated": "2014-07-15",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00306/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset was collected for training and validation of machine learning algorithm for classification regions of documents on text, picture and background areas. It contains 101 scanned images of various newspapers and magazines in Russian. Most of the images have resolution 300 dpi and size A4, about 2400x3500 pixels. For all images ground truth pixel-based masks were manually created. The ground truth masks named like original images with postfix _m\u009d. There are three classes: text area, picture area, background. Pixels on the mask with color 255, 0, 0 (rgb, red color) correspond to picture area, pixels with color 0, 0, 255 (rgb, blue color) correspond to text area, all other pixels correspond to background. Images with background of different colors are in the dataset.\n ",
+    "Source": "Creators: Aleksey Vilkin and Ilia Safonov, NRNU MEPhI, Moscow, Russia, Date: 2012",
+    "Acknowledgements": "A. M. Vilkin, I. V. Safonov, M. A. Egorova. Algorithm for segmentation of documents based on texture features // Pattern Recognition and Image Analysis March 2013, Volume 23, Issue 1, pp 153-159\n ",
+    "Area": "Computer",
+    "RelevantPapers": "A. M. Vilkin, I. V. Safonov, M. A. Egorova. Algorithm for segmentation of documents based on texture features // Pattern Recognition and Image Analysis March 2013, Volume 23, Issue 1, pp 153-159\n ",
+    "AttributeInfo": " There are three classes: text area, picture area, background. Pixels on the mask with color 255, 0, 0 (rgb, red color) correspond to picture area, pixels with color 0, 0, 255 (rgb, blue color) correspond to text area, all other pixels correspond to background.",
+    "FormatType": "",
+    "NumHits": 8
+}

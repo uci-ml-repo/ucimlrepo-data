@@ -1,0 +1,11 @@
+{
+    "datasetID": 89,
+    "supportID": "73B3C26D28FDF5E38DE5BE59E07A9BF12BFDD4C1",
+    "rexaID": "377a3c79c5b7a108aa16ed38407c81d035a0740d",
+    "author": "Nir Friedman and Daphne Koller",
+    "title": "Being Bayesian about Network Structure",
+    "venue": "UAI",
+    "year": "2000",
+    "window": "Edges Figure 2: Comparison of posterior probabilities using true posterior over orderings ( # -axis) versus ordering-MCMC ( -axis). The figures show Markov features and Edge features in the <b>Flare</b> dataset with 100 samples. ordering obtained by flipping # ! and # - . Now, consider the terms in Eq. (6); those terms corresponding to nodes ### in the ordering # that precede # ! or succeed # - do not",
+    "mykey": 1129
+}

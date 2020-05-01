@@ -1,0 +1,11 @@
+{
+    "datasetID": 101,
+    "supportID": "19030C6CE6520E243F630D6BDC186F18B7007D5F",
+    "rexaID": "0b84bc02dcedbeae5f76f03a2226874e828db0ea",
+    "author": "Alexey Tsymbal and Seppo Puuronen and Vagan Y. Terziyan",
+    "title": "Arbiter Meta-Learning with Dynamic Selection of Classifiers and Its Experimental Investigation",
+    "venue": "ADBIS",
+    "year": "1999",
+    "window": "from the UCI machine learning repository: three MONK's problem datasets donated by Sebastian Thrun and the <b>Tic-Tac-Toe</b> Endgame dataset donated by David W. Aha [8]. The MONK's problems are a collection of three artificial binary classification problems over the same",
+    "mykey": 224
+}

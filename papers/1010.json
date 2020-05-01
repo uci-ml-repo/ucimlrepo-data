@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "699120D8BA13272EB88DD13FCC90648210EBFE77",
+    "rexaID": "45391c9343dc03f6033eba55364366eddbb693db",
+    "author": "Predrag Radivojac and Zoran Obradovic and A. Keith Dunker and Slobodan Vucetic",
+    "title": "Feature Selection Filters Based on the Permutation Test",
+    "venue": "ECML",
+    "year": "2004",
+    "window": "summarized in Table 1. The first nine were downloaded from the UCI repository [38], with dataset <b>HOUSING</b> converted into a binary classification problem according to the mean value of the target. Datasets MAMMOGRAPHY and OIL were constructed in [39] and [40], respectively, and provided to us by",
+    "mykey": 1010
+}

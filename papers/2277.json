@@ -1,0 +1,11 @@
+{
+    "datasetID": 102,
+    "supportID": "E123F7ECDCC0530A881F571AE5E216FCFD624761",
+    "rexaID": "5cd87b7f1c57053feab46f876a961a66aba2df8b",
+    "author": "Michael L. Raymer and William F. Punch and Erik D. Goodman and Leslie A. Kuhn and Anil K. Jain",
+    "title": "Brief Papers",
+    "venue": "",
+    "year": "",
+    "window": "only 49.7%, approximately equivalent to random class assignment. C. Discussion The integrated feature extraction and classification approach described has proved effective on these three disparate data sets. For the <b>thyroid</b> data, the GA--knn was more effective than all but two of the approaches, but required only three of the features to make the classification. The GA--knn obtained a classification",
+    "mykey": 2277
+}

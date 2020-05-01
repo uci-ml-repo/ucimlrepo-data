@@ -1,0 +1,23 @@
+{
+    "ID": 119,
+    "Name": "Corel Image Features",
+    "Abstract": "This dataset contains image features extracted from a Corel image collection. Four sets of features are available based on the color histogram, color histogram layout, color moments, and co-occurence",
+    "Types": "Multivariate",
+    "Task": "",
+    "AttributeTypes": "Real",
+    "NumInstances": 68040,
+    "NumAttributes": 89,
+    "DateDonated": "1999-07-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/CorelFeatures-mld/",
+    "URLReadme": "../machine-learning-databases/CorelFeatures-mld/CorelFeatures.data.html",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The original image collection was obtained from Corel at http://corel.digitalriver.com/. There are 68,040 photo images from various categories.\r\n\r\nEach set of features is stored in a separate file. For each file, a line corresponds to a single image. The first value in a line is is the image ID and the subsequent values are the feature vector (e.g. color histogram, etc.) of the image. The same image has the same ID in all files but the image ID is not the same as the image filename. ",
+    "Source": "Original Owner:\r\n\r\nMichael Ortega-Binderberger\r\nInformation and Computer Science\r\nUniversity of California at Irvine\r\nIrvine, CA 92697-3425\r\nUSA\r\nmiki@ics.uci.edu\r\n\r\nDonor:\r\n\r\nKriengkrai Porkaew and Sharad Mehrotra\r\nInformation and Computer Science\r\nUniversity of California at Irvine\r\nIrvine, CA 92697-3425\r\nUSA \r\nnid@ics.uci.edu,sharad@ics.uci.edu\r\n\r\n",
+    "Acknowledgements": "This data may be used for non-commercial purposes only. ",
+    "Area": "Other",
+    "RelevantPapers": "Michael Ortega, Yong Rui, Kaushik Chakrabarti, Kriengkrai Porkaew, Sharad Mehrotra, and Thomas S. Huang, Supporting Ranked Boolean Similarity Queries in MARS, IEEE Transaction on Knowledge and Data Engineering, Vol. 10, No. 6, Pages 905-925, December 1998. \r\nhttp://rexa.info/paper/dcbd30bd8edc4910838040588674f4454f25dd5b\r\n\r\nKaushik Chakrabarti, and Sharad Mehrotra, The Hybrid Tree: An Index Structure for High Dimensional Feature Spaces, 1999 IEEE International Conference on Data Engineering (ICDE), Pages 440-447, February, 1999. \r\nhttp://rexa.info/paper/0bbc5a892dff7a28c1c1d3fc1852d510854cb532\r\n\r\nKriengkrai Porkaew, Kaushik Chakrabarti, and Sharad Mehrotra, Query Refinement for Multimedia Retrieval and its Evaluation Techniques in MARS, 1999 ACM International Multimedia Conference, Orlando, Florida, Oct 30 - Nov 4, 1999. \r\nhttp://rexa.info/paper/4ed4365f20416936fd8116de18814d0af5285b04\r\n\r\nKaushik Chakrabarti, Kriengkrai Porkaew, and Sharad Mehrotra, Efficient Query Refinement in Multimedia Databases, ICDE, 2000\r\nhttp://rexa.info/paper/7f743ce18ea849fcee0b8bac2aafc24748773ed4",
+    "AttributeInfo": "From each image four sets of features were extracted: \r\n\r\n- Color Histogram \r\n- Color Histogram Layout \r\n- Color Moments \r\n- Co-occurrence Texture \r\n\r\nColor Histogram: 32 dimensions (8 x 4 = H x S)\r\n- HSV color space is divided into 32 subspaces (32 colors : 8 ranges of H and 4 ranges of S). \r\n- the value in each dimension in a ColorHistogram of an image is the density of each color in the entire image. \r\n- Histogram intersection (overlap area between ColorHistograms of two images) can be used to measure the similarity between two images. \r\n\r\nColor Histogram Layout: 32 dimensions (4 x 2 x 4 = H x S x sub-images)\r\n- each image is divided into 4 sub-images (one horizontal split and one vertical split). \r\n- 4x2 Color Histogram for each sub-image is computed. \r\n- Histogram Intersection can be used to measure the similarity between two images. \r\n\r\nColor Moments: 9 dimensions (3 x 3)\r\n- the 9 values are: (one for each of H,S, and V in HSV color space) \r\n  -- mean, \r\n  -- standard deviation, and \r\n  -- skewness. \r\n- Euclidean distance between Color Moments of two images can be used to represent the dis-similarity (distance) between two images. \r\n\r\nCo-occurrence Texture: 16 dimensions (4 x 4)\r\n- images are converted to 16 gray-scale images. \r\n- co-ocurrence in 4 directions is computed (horizontal, vertical, and two diagonal directions). the 16 values are: (one for each direction). \r\n  -- Second Angular Moment, \r\n  -- Contrast, \r\nI  -- nverse Difference Moment, and \r\n  -- Entropy. \r\n-Euclidean distance between ColorMoments of two images can be used to measure the dis-similarity (distance) between two images. \r\n",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 9957
+}

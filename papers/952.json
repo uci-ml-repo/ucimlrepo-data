@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "662A54E93FB90C038071BCAD2CAF74BE013C99E2",
+    "rexaID": "b921d6a9c3c9b7cd79c2e3c070080f7c6770ac28",
+    "author": "S. Sathiya Keerthi",
+    "title": "Improvements to SMO Algorithm for SVM Regression",
+    "venue": "Author for Correspondence: Prof",
+    "year": "",
+    "window": "samples were chosen randomly. The performance of the four algorithms for the polynomial kernel k(x i ; x j ) = (1 + x i Delta x j ) p where p was chosen to be 3, is shown in Fig. 1. The second dataset is the Boston <b>housing</b> dataset which is a standard benchmark for testing regression algorithms. This dataset is available at UCI Repository [1]. The dimension of the input is 13. We used the training",
+    "mykey": 952
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 69,
+    "supportID": "35CC6C6ADCE760B30A9044481C187EB38155C56E",
+    "rexaID": "4f29b49d0d83edf9e0a21d102467df5ffdf64fcb",
+    "author": "Jinyan Li and Limsoon Wong",
+    "title": "Using Rules to Analyse Bio-medical Data: A Comparison between C4.5 and PCL",
+    "venue": "WAIM",
+    "year": "2003",
+    "window": "(hypothyroid); and Boosting won the best accuracy on 4 data sets (i.e., hepatitis, lymph, sick and <b>splice</b> . -- Comparing between PCL and C4.5, PCL won on 8 data sets, while C4.5 won on the rest 2 data sets. -- Comparing between PCL and Bagging, PCL won on 6 data",
+    "mykey": 462
+}

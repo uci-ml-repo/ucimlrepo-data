@@ -1,0 +1,11 @@
+{
+    "datasetID": 90,
+    "supportID": "04AEEC0F75282321D73274BB42BD6C2FEAB629D3",
+    "rexaID": "43019420b94637b63ac4fc3f94f64abd11b64f0a",
+    "author": "Perry Moerland",
+    "title": "Mixtures of latent variable models for density estimation and classification",
+    "venue": "E S E A R C H R E P R O R T I D I A P D a l l e M o l l e I n s t i t u t e f o r Pe r cep t ua l A r t i f i c i a l Intelligence ",
+    "year": "",
+    "window": "was used by imposing a small threshold of 0.01 upon the values of R j for Mfas and upon the variance parameters for a diagonal Gmm; this was done for the dermatology, NIST, optical, and <b>soybean</b> data sets. 7.2 Experiments: Real-World Data The results of the experiments with Bayes classifiers are listed in Table 6, where the best method and the ones that are not significantly worse (90% on the 5x2cv",
+    "mykey": 33
+}

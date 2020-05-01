@@ -1,0 +1,11 @@
+{
+    "datasetID": 89,
+    "supportID": "2CAB3FE00DD3909AA45E149A1DB413A366D644E6",
+    "rexaID": "b7aae67d343da47c2531e6094277dc3cab591888",
+    "author": "Christophe G. Giraud-Carrier and Tony R. Martinez",
+    "title": "An Integrated Framework for Learning and Reasoning",
+    "venue": "J. Artif. Intell. Res. (JAIR, 3",
+    "year": "1995",
+    "window": "by Lifschitz (1988) and the UCI repository (Murphy & Aha, 1992) contains many useful training sets for inductive learning. This section reports results obtained with <b>FLARE</b> on several of these datasets. Results on a number of other uses of the framework, including two expert systems, are also presented. Finally, some of the limitations of the system are described. One artifact of the",
+    "mykey": 373
+}

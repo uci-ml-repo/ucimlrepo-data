@@ -1,0 +1,11 @@
+{
+    "datasetID": 102,
+    "supportID": "7ED4072F684D093EB37B81289D1ABAE9A88DF733",
+    "rexaID": "3c13fe240b68a2a06ebdefdd6e51e0d5e34f66e6",
+    "author": "Wl/odzisl/aw Duch and Rafal Adamczak and Krzysztof Grabczewski",
+    "title": "Extraction of crisp logical rules from medical datasets",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "generated 24 rules, but these rules used more features and were not so accurate (98% on the test set) as MLP2LN rules. TABLE I Classification results for various classifiers applied to the <b>thyroid</b> dataset. Method Training set accuracy % Test set accuracy % BP+conjugate gradient 94.6 93.8 Best Backpropagation 99.1 97.6 RPROP 99.6 98.0 Quickprop 99.6 98.3 BP+ genetic optimization 99.4 98.4 Local",
+    "mykey": 1275
+}

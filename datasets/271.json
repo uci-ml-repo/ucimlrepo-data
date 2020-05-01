@@ -1,0 +1,23 @@
+{
+    "ID": 271,
+    "Name": "Activities of Daily Living (ADLs) Recognition Using Binary Sensors",
+    "Abstract": "This dataset comprises information regarding the ADLs performed by two users on a daily basis in their \r\nown homes.  ",
+    "Types": "Multivariate, Sequential, Time-Series",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "",
+    "NumInstances": 2747,
+    "NumAttributes": 0,
+    "DateDonated": "2013-10-28",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00271/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset comprises information regarding the ADLs performed by two users on a daily basis in their \r\nown homes. This dataset is composed by two instances of data, each one corresponding to a different \r\nuser and summing up to 35 days of fully labelled data. Each instance of the dataset is described by \r\nthree text files, namely: description, sensors events (features), activities of the daily living (labels). \r\nSensor events were recorded using a wireless sensor network and data were labelled manually.",
+    "Source": "Francisco Javier Ord\u00c3\u00b3\u00c3\u00b1ez, Carlos III University of Madrid, fordonez@inf.uc3m.es",
+    "Acknowledgements": "Ord\u00c3\u00b3\u00c3\u00b1ez, F.J.; de Toledo, P.; Sanchis, A. Activity Recognition Using Hybrid Generative/Discriminative Models on Home Environments Using Binary Sensors. Sensors 2013, 13, 5460-5477.",
+    "Area": "Computer",
+    "RelevantPapers": "",
+    "AttributeInfo": "The features are the sensor events captured for the corresponding Wireless Sensor Network.",
+    "FormatType": "",
+    "NumHits": 8
+}

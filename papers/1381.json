@@ -1,0 +1,11 @@
+{
+    "datasetID": 154,
+    "supportID": "89EB57295BF213AE44C2AB4E88C69F8F3958D6E1",
+    "rexaID": "e949e51c587c01cc64b362cb4fedfaa7dcf5dd68",
+    "author": "Michihiro Kuramochi and George Karypis",
+    "title": "Finding Frequent Patterns in a Large Sparse Graph",
+    "venue": "SDM",
+    "year": "2004",
+    "window": "\"5\". Finally, because some of the vertices in the resulting graph had a very high degree (i.e., authorities and hubs), we kept only the vertices whose degree was less or equal to 15. The Contact Map dataset is made of 170 proteins from the <b>Protein</b> Data Bank [5] with pairwise sequence identity lower than 25%. The vertices in these graphs correspond to the different amino acids and the edges connect two",
+    "mykey": 1381
+}

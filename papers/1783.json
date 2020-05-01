@@ -1,0 +1,11 @@
+{
+    "datasetID": 125,
+    "supportID": "AEBFCD088646B6ED3D0E4896C24086B57967E6A9",
+    "rexaID": "c58fd4c0c5b8fefc00686150d5af26f6966807ef",
+    "author": "Stephen D. Bay and Dennis F. Kibler and Michael J. Pazzani and Padhraic Smyth",
+    "title": "The UCI KDD Archive of Large Data Sets for Data Mining Research and Experimentation",
+    "venue": "SIGKDD Explorations, 2",
+    "year": "2000",
+    "window": "currently in the archive. Classification: predict the value of a categorical target variable. For example, the <b>Insurance</b> <b>Benchmark</b> data set was used to predict which customers were interested in buying an insurance policy based on product usage data and demographic information. Regression: predict the value of a continuous target",
+    "mykey": 1783
+}

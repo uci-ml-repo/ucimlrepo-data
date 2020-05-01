@@ -1,0 +1,11 @@
+{
+    "datasetID": 90,
+    "supportID": "9CA9342B849271C2DD4DBCA4D00EF029972A7388",
+    "rexaID": "b2c60bdf066b03909792bd5d64891f3607b948c8",
+    "author": "Rich Caruana and Alexandru Niculescu-Mizil and Geoff Crew and Alex Ksikes",
+    "title": "Ensemble selection from libraries of models",
+    "venue": "ICML",
+    "year": "2004",
+    "window": "1-13 as class 0 and letters 14-26 as class 1, yielding a di\u00c6cult, but balanced, problem. HYPER SPECT was converted to binary by treating the large confusable class <b>Soybean</b> Mintil as class 1. These data sets were selected because they are large enough to allow moderate size train and validation sets, and still have data left for large final test sets. For our experiments, we used training sets of 5000",
+    "mykey": 1613
+}

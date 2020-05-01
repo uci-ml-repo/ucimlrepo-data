@@ -1,0 +1,11 @@
+{
+    "datasetID": 90,
+    "supportID": "F2729FEB3087B04F7B27E8924E6F64F3C45EABB0",
+    "rexaID": "b0009a0081cc5fbfbae758def55cfd5b3256623b",
+    "author": "",
+    "title": "Prototype Selection for Composite Nearest Neighbor Classifiers",
+    "venue": "Department of Computer Science University of Massachusetts",
+    "year": "1997",
+    "window": "and test accuracy. : : : : : : : : : : : : : : : : 77 3.10 Taxonomy of instances. : : : : : : : : : : : : : : : : : : : : : : : : : : : 79 3.11 Examples of instances in the taxonomy from the <b>Soybean</b> data set. : : : : : : 80 3.12 Average number of instances of each type in the taxonomy. : : : : : : : : : 81 3.13 Classification accuracy of the Prototype Sampling (PS) algorithm versus a variant of the",
+    "mykey": 2455
+}

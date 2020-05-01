@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "3296733E38810A4F714914BA7D59AAFBEBFEF473",
+    "rexaID": "716db199e5f006b8b564ef192177f08d5edefe9b",
+    "author": "K. A. J Doherty and Rolf Adams and Neil Davey",
+    "title": "Unsupervised Learning with Normalised Data and Non-Euclidean Norms",
+    "venue": "University of Hertfordshire",
+    "year": "",
+    "window": "considered were the Ionosphere, Image Segmentation (training data), Wisconsin Diagnostic Breast Cancer (WDBC) and <b>Wine</b> data sets. These data sets were selected to show our approach on data with a range of classes, dimensionality and data distributions. The basic characteristics of each data set are shown in table 2. Tab l e",
+    "mykey": 428
+}

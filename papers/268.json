@@ -1,0 +1,11 @@
+{
+    "datasetID": 98,
+    "supportID": "21D3B6831256AD31183159806931A1ECE15FBB46",
+    "rexaID": "0fe919006360334c17c021088209b2a45eadb84d",
+    "author": "Wl odzisl/aw Duch and Karol Grudzinski",
+    "title": "Search and global minimization in similarity-based methods",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "significant improvements of results obtained with reduced feature set or with weighted features are obtained. Other tests that we have performed indicate that for more than half of the <b>Statlog</b> datasets [1] feature selection and weighting makes k-NN results better than that of any other classifiers used in this project. The same feature selection and weighting methods may be used to improve",
+    "mykey": 268
+}

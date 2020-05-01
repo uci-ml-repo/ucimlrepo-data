@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "BD4276E3CCDC388CB2A92FC51A140BB8D278978A",
+    "rexaID": "ac8fe867e1d16d4d09f9bd759ba46699055c7ca6",
+    "author": "Yk Huhtala and Juha K\u00e4rkk\u00e4inen and Pasi Porkka and Hannu Toivonen",
+    "title": "Efficient Discovery of Functional and Approximate Dependencies Using Partitions",
+    "venue": "ICDE",
+    "year": "1998",
+    "window": "and their descriptions are available on the UCI Machine Learning Repository [13]. The number of rows, columns, and minimal dependencies found (N ) in each database are shown in Table 1. The datasets labeled \"Wisconsin <b>breast</b> <b>cancer</b> Theta n\" are concatenations of n copies of the Wisconsin breast cancer data. The set of dependencies is the same in all of them. To avoid duplicate rows, all",
+    "mykey": 1912
+}

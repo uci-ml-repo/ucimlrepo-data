@@ -1,0 +1,11 @@
+{
+    "datasetID": 90,
+    "supportID": "25A993AF0FF666BB2BE338D3882C12ECEFD969F8",
+    "rexaID": "8fe250a2bb9e7ca099dfd176a16a08f24bb95939",
+    "author": "Manoranjan Dash and Huan Liu",
+    "title": "Hybrid Search of Feature Subsets",
+    "venue": "PRICAI",
+    "year": "1998",
+    "window": "having a large N and a small M values such as Lung Cancer, Promoters, <b>Soybean</b>  Splice datasets ABB takes very long time (a number of hours) to terminate. For datasets having large N value and substantially big M value such as Splice dataset FocusM takes many hours to terminate. The",
+    "mykey": 299
+}

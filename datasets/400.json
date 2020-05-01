@@ -1,0 +1,23 @@
+{
+    "ID": 400,
+    "Name": "Crowdsourced Mapping",
+    "Abstract": "Crowdsourced data from OpenStreetMap is used to automate the classification of satellite images into different land cover classes (impervious, farm, forest, grass, orchard, water). ",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 10546,
+    "NumAttributes": 29,
+    "DateDonated": "2016-05-25",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00400/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset was derived from geospatial data from two sources: 1) Landsat time-series satellite imagery from the years 2014-2015, and 2) crowdsourced georeferenced polygons with land cover labels obtained from OpenStreetMap. The crowdsourced polygons cover only a small part of the image area, and are used used to extract training data from the image for classifying the rest of the image. The main challenge with the dataset is that both the imagery and the crowdsourced data contain noise (due to cloud cover in the images and innaccurate labeling/digitizing of polygons). \r\n\r\nFiles in zip folder\r\n-The 'training.csv' file contains the training data for classification. Do not use this file to evaluate classification accuracy because it contains noise (many class labeling errors).\r\n-The 'testing.csv' file contains testing data to evaluate the classification accuracy. This file does not contain any class labeling errors.\r\n",
+    "Source": "Brian Johnson \r\njohnson '@' iges.or.jp \r\nInstitute for Global Environmental Strategies, Japan",
+    "Acknowledgements": "Please cite: Johnson, B. A., & Iizuka, K. (2016). Integrating OpenStreetMap crowdsourced data and Landsat time-series imagery for rapid land use/land cover (LULC) mapping: Case study of the Laguna de Bay area of the Philippines. Applied Geography, 67, 140-149.",
+    "Area": "Physical",
+    "RelevantPapers": "Johnson, B. A., & Iizuka, K. (2016). Integrating OpenStreetMap crowdsourced data and Landsat time-series imagery for rapid land use/land cover (LULC) mapping: Case study of the Laguna de Bay area of the Philippines. Applied Geography, 67, 140-149.",
+    "AttributeInfo": "class: The land cover class (impervious, farm, forest, grass, orchard, water) [note: this is the target variable to classify].\r\nmax_ndvi: the maximum NDVI (normalized difference vegetation index) value derived from the time-series of satellite images.\r\n20150720_N - 20140101_N : NDVI values extracted from satellite images acquired between January 2014 and July 2015, in reverse chronological order (dates given in the format yyyymmdd).\r\n",
+    "FormatType": "",
+    "NumHits": 1
+}

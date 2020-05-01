@@ -1,0 +1,23 @@
+{
+    "ID": 388,
+    "Name": "Epileptic Seizure Recognition",
+    "Abstract": "This dataset is a pre-processed and re-structured/reshaped version of a very commonly used dataset featuring epileptic seizure detection. ",
+    "Types": "Multivariate, Time-Series",
+    "Task": "Classification, Clustering",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 11500,
+    "NumAttributes": 179,
+    "DateDonated": "2017-05-24",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00388/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Please find the original data at 'http://epileptologie-bonn.de/cms/front_content.php?idcat=193&lang=3&changelang=3'\r\n",
+    "Source": "Qiuyi Wu\r\nSchool of Mathematical Sciences\r\nRochester Institute of Technology\r\nemail: qw9477'@'rit.edu\r\n\r\nErnest Fokoue\r\nSchool of Mathematical Sciences\r\nRochester Institute of Technology\r\nemail: epfeqa'@'rit.edu\r\nPhone: 585 739 6893",
+    "Acknowledgements": "Andrzejak RG, Lehnertz K, Rieke C, Mormann F, David P, Elger CE (2001) Indications of nonlinear deterministic and finite dimensional structures in time series of brain electrical activity: Dependence on recording region and brain state, Phys. Rev. E, 64, 061907",
+    "Area": "Life",
+    "RelevantPapers": "Andrzejak RG, Lehnertz K, Rieke C, Mormann F, David P, Elger CE (2001) Indications of nonlinear deterministic and finite dimensional structures in time series of brain electrical activity: Dependence on recording region and brain state, Phys. Rev. E, 64, 061907",
+    "AttributeInfo": "The original dataset from the reference consists of 5 different folders, each with 100 files, with each file representing a single subject/person. Each file is a recording of brain activity for 23.6 seconds. The corresponding time-series is sampled into 4097 data points. Each data point is the value of the EEG recording at a different point in time. So we have total 500 individuals with each has 4097 data points for 23.5 seconds.\n\nWe divided and shuffled every 4097 data points into 23 chunks, each chunk contains 178 data points for 1 second, and each data point is the value of the EEG recording at a different point in time. So now we have 23 x 500 = 11500 pieces of information(row), each information contains 178 data points for 1 second(column), the last column represents the label y {1,2,3,4,5}. \n\nThe response variable is y in column 179, the Explanatory variables X1, X2, ..., X178 \n\ny contains the category of the 178-dimensional input vector. Specifically y in {1, 2, 3, 4, 5}: \n\n5 - eyes open, means when they were recording the EEG signal of the brain the patient had their eyes open \n\n4 - eyes closed, means when they were recording the EEG signal the patient had their eyes closed \n\n3 - Yes they identify where the region of the tumor was in the brain and recording the EEG activity from the healthy brain area \n\n2 - They recorder the EEG from the area where the tumor was located \n\n1 - Recording of seizure activity \n\nAll subjects falling in classes 2, 3, 4, and 5 are subjects who did not have epileptic seizure. Only subjects in class 1 have epileptic seizure. Our motivation for creating this version of the data was to simplify access to the data via the creation of a .csv version of it. Although there are 5 classes most authors have done binary classification, namely class 1 (Epileptic seizure) against the rest.",
+    "FormatType": "Matrix",
+    "NumHits": 2
+}

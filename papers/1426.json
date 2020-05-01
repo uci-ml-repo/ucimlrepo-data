@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "90325B3F970152E022925C857371C7BF3C247134",
+    "rexaID": "81fe50fa69f7adda42abf462e865a3b68089f333",
+    "author": "Sreerama K. Murthy and Simon Kasif and Steven Salzberg",
+    "title": "A System for Induction of Oblique Decision Trees",
+    "venue": "Department of Computer Science Johns Hopkins University",
+    "year": "1994",
+    "window": "of three different types of iris flower. Weiss and Kapouleas (1989) obtained accuracies of 96.7% and 96.0% on this data with back propagation and 1-NN, respectively. <b>Housing</b> Costs in Boston. This data set, also available as a part of the UCI ML repository, describes housing values in the suburbs of Boston as a function of 12 continuous attributes and 1 binary attribute (Harrison & Rubinfeld, 1978).",
+    "mykey": 1426
+}

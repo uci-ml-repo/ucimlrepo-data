@@ -1,0 +1,11 @@
+{
+    "datasetID": 127,
+    "supportID": "98D6E2E3F83BB855FAEF19CF78C0CD69E6F4683F",
+    "rexaID": "8931d2a4a8256ea88abea3ea3ac820fd421ce0b1",
+    "author": "Stephen D. Bay and Michael J. Pazzani",
+    "title": "Detecting Group Differences: Mining Contrast Sets",
+    "venue": "Data Min. Knowl. Discov, 5",
+    "year": "2001",
+    "window": "example, if we are mining at a support difference of 10% and group A has a support of 11% we still need to mine group B as long as its support is non-zero. STUCCO was very fast and did well on all data sets, even on Mushroom and <b>IPUMS</b> which are among the most difficult data sets for mining algorithms. STUCCO was slower than Apriori on UCI Admissions by a factor of approximately three. This is probably",
+    "mykey": 1544
+}

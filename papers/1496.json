@@ -1,0 +1,11 @@
+{
+    "datasetID": 15,
+    "supportID": "95A785BEB7AA9BF691CE8FB330A7D36776B9BC56",
+    "rexaID": "8f5ae7219e74a85e3f722b58b3fedb30eab7a1d7",
+    "author": "Huan Liu",
+    "title": "A Family of Efficient Rule Generators",
+    "venue": "Department of Information Systems and Computer Science National University of Singapore",
+    "year": "",
+    "window": "testing set are randomly selected. The rest are used for training. The data has 22 discrete attributes. Each attribute can have 2 to 10 values. ffl <b>Wisconsin</b> <b>Breast</b> <b>Cancer</b> The training and testing datasets contains 350 and 349 instances respectively. 350 instances are randomly selected for training, the other half is for testing. There are 9 discrete attributes. Each attribute has 10 values. The",
+    "mykey": 1496
+}

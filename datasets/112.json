@@ -1,0 +1,23 @@
+{
+    "ID": 112,
+    "Name": "Undocumented",
+    "Abstract": "Various datasets without documentation (feel free to explore!)",
+    "Types": "",
+    "Task": "",
+    "AttributeTypes": "",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/undocumented/",
+    "URLReadme": "",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "",
+    "Source": "",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 16
+}

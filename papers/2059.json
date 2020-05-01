@@ -1,0 +1,11 @@
+{
+    "datasetID": 16,
+    "supportID": "CD6FD34EA5A5C1F7388324FCCEC3B50EE74C6E1C",
+    "rexaID": "42ba5137ab9d88dc1eae5caac18cb6a1818ae700",
+    "author": "Rudy Setiono",
+    "title": "Extracting M-of-N Rules from Trained Neural Networks",
+    "venue": "School of Computing National University of Singapore",
+    "year": "",
+    "window": "of the data were converted to 126 binary inputs before training. In order to reduce computation time, only 2000 randomly selected samples were used. 4. The <b>Wisconsin</b> <b>breast</b> <b>cancer</b> classification dataset [17]. Each of the 699 patterns in the 16 TABLE I: The initial network topology (input, hidden and output units) and the average user time required for training and pruning. Figures in parentheses",
+    "mykey": 2059
+}

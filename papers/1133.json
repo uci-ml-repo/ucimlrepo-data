@@ -1,0 +1,11 @@
+{
+    "datasetID": 46,
+    "supportID": "7471D780EE25D4010170C5BC233C38D5AFF3AF95",
+    "rexaID": "55a7f45a6b42ceb9097c7260032694bcbd8a2fd2",
+    "author": "Gary M. Weiss and Haym Hirsh",
+    "title": "A Quantitative Study of Small Disjuncts: Experiments and Results",
+    "venue": "Department of Computer Science Rutgers University",
+    "year": "2000",
+    "window": "in the high-ER/medium-EC group, which starts with the <b>Hepatitis</b> dataset, show more improvement, but have more room for improvement due to their higher error rate. The datasets in the high-ER/low-EC group, which start with the Coding dataset, show a net increase in error",
+    "mykey": 1133
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 150,
+    "supportID": "775C98323B7E30BAD65E90A22A39385E851E3CC8",
+    "rexaID": "21b1e6cdcd730f2bf7438109509c9abdf01767d7",
+    "author": "Rayid Ghani",
+    "title": "KDD Project Report Using Error-Correcting Codes for Efficient Text Classification with a Large Number of Categories",
+    "venue": "Center for Automated Learning and Discovery, School of Computer Science, Carnegie Mellon University",
+    "year": "",
+    "window": "After removing tokens that occur only once, the <b>corpus</b> contains 1.2 million words with a vocabulary size of 29964. 4.1.2 HOOVERS DATASET This corpus of company web pages was assembled using the Hoovers Online Web resource (www.hoovers.com) by obtaining a list of the names and home-page URLs for 4285 companies on the web and using a",
+    "mykey": 1187
+}

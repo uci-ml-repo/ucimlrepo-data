@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "FDAF6E5E00508C197E14960E82D5C593862CDD0F",
+    "rexaID": "8ea9716e5199404825766638c2cc07ec93be5236",
+    "author": "Jeff G. Schneider and Andrew W. Moore",
+    "title": "Active Learning in Discrete Input Spaces",
+    "venue": "School of Computer Science Carnegie Mellon University",
+    "year": "",
+    "window": "regression, confidence intervals can be obtained using the usual t distributions for the mean response of a linear fit. 3 Experimental Results We test our active learning algorithms using the <b>adult</b> data set from the UCI Irvine machine learning repository [2]. We use the age as a continuous output and all other attributes as inputs. The other continuous attributes were discretized to three levels for",
+    "mykey": 2568
+}

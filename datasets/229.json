@@ -1,0 +1,23 @@
+{
+    "ID": 229,
+    "Name": "Skin Segmentation",
+    "Abstract": "The Skin Segmentation dataset is constructed over B, G, R color space. Skin and Nonskin dataset is generated using skin textures from face images of diversity of age, gender, and race people.",
+    "Types": "Univariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 245057,
+    "NumAttributes": 4,
+    "DateDonated": "2012-07-17",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00229/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The skin dataset is collected by randomly sampling B,G,R values from face images of various age groups (young, middle, and old), race groups (white, black, and asian), and genders obtained from FERET database and PAL database. Total learning sample size is 245057; out of which 50859 is the skin samples and 194198 is non-skin samples. Color FERET Image Database: http://face.nist.gov/colorferet/request.html, PAL Face Database from Productive Aging Laboratory, The University of Texas at Dallas: https://pal.utdallas.edu/facedb/. \r\n\r\n ",
+    "Source": "Rajen Bhatt, Abhinav Dhall, rajen.bhatt@gmail.com, IIT Delhi.",
+    "Acknowledgements": "Rajen Bhatt, Abhinav Dhall, 'Skin Segmentation Dataset', UCI Machine Learning Repository",
+    "Area": "Computer",
+    "RelevantPapers": "1. Rajen B. Bhatt, Gaurav Sharma, Abhinav Dhall, Santanu Chaudhury, \u00e2\u20ac\u0153Efficient skin region segmentation using low complexity fuzzy decision tree model\u00e2\u20ac\u009d, IEEE-INDICON 2009, Dec 16-18, Ahmedabad, India, pp. 1-4.\r\n2. Abhinav Dhall, Gaurav Sharma, Rajen Bhatt, Ghulam Mohiuddin Khan, \u00e2\u20ac\u0153Adaptive Digital Makeup\u00e2\u20ac\u009d, in Proc. of International Symposium on Visual Computing (ISVC) 2009, Nov. 30 \u00e2\u20ac\u201c Dec. 02, Las Vegas, Nevada, USA, Lecture Notes in Computer Science, Vol. 5876, pp. 728-736. ",
+    "AttributeInfo": "This dataset is of the dimension 245057 * 4 where first three columns are B,G,R (x1,x2, and x3 features) values and fourth column is of the class labels (decision variable y). ",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

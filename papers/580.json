@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "4338C8EA1612D07F9044EB38BC431221B179721B",
+    "rexaID": "b7d95df073db5bba49052a1801fdc7deb9edd091",
+    "author": "Zoubin Ghahramani and Michael I. Jordan",
+    "title": "Learning from incomplete data",
+    "venue": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY ARTIFICIAL INTELLIGENCE LABORATORY and CENTER FOR BIOLOGICAL AND COMPUTATIONAL LEARNING DEPARTMENT OF BRAIN AND COGNITIVE SCIENCES",
+    "year": "1994",
+    "window": "stochastic estimator. 4.4 Classification Classification with missing inputs 0 20 40 60 80 100 20 40 60 80 100 % missing features EM % correct classification MI Figure 3: Classification of the <b>iris</b> data set. 100 data points were used for training and 50 for testing. Each data point consisted of 4 real-valued attributes and one of three class labels. The figure shows classification performance Sigma 1",
+    "mykey": 580
+}

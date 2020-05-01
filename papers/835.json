@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "5A94C9B8DE69C5A208F01804F7AE925600E0D012",
+    "rexaID": "a11c91c5cf02794b7d1d4bdc0222b3c11dce9cac",
+    "author": "David Page and Soumya Ray",
+    "title": "Skewing: An Efficient Alternative to Lookahead for Decision Tree Induction",
+    "venue": "IJCAI",
+    "year": "2003",
+    "window": "Skewing ID3, No Skewing Figure 8: Five-Variable Hard Targets 50 60 70 80 90 100 200 400 600 800 1000 Accuracy (%) Sample Size ID3 with Skewing ID3, No Skewing Figure 9: Six-Variable Hard Targets Data Set Standard ID3 ID3 with Skewing <b>Heart</b> 71.9 74.5 Voting 94.0 94.2 Voting-2 87.4 88.6 Contra 60.4 61.5 Monks-1 92.6 100.0 Monks-2 86.5 89.3 Monks-3 89.8 91.7 Table 4: Accuracies of ID3 and ID3 with",
+    "mykey": 835
+}

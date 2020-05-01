@@ -1,0 +1,11 @@
+{
+    "datasetID": 12,
+    "supportID": "2A6116D38E933FFADD1F86E0AE5D2722B87F17CA",
+    "rexaID": "c171fe96d278ffa703aa1310c738cad8586b4cb3",
+    "author": "Hirotaka Inoue and Hiroyuki Narihisa",
+    "title": "Experiments with an Ensemble Self-Generating Neural Network",
+    "venue": "Okayama University of Science",
+    "year": "",
+    "window": "The average classification accuracy of ten trials for single SGNN, ESGNN, nearest neighbor (1-NN), and 3-nearest neighbor (3-NN) with shuffling. The standard deviation is given inside the bracket. Dataset SGNN ESGNN 1-NN 3-NN <b>balance</b> <b>scale</b> 0.781(0.053) 0.843(0.059) 0.771(0.057) 0.816(0.049) breast-cancer-w 0.954(0.020) 0.967(0.023) 0.954(0.025) 0.963(0.024) glass 0.632(0.102) 0.692(0.075)",
+    "mykey": 349
+}

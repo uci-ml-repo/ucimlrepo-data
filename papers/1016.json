@@ -1,0 +1,11 @@
+{
+    "datasetID": 69,
+    "supportID": "6AAE0DC122102693E8136856FFC8B72DF7F78386",
+    "rexaID": "a27103950b8d7098468bd52f2af1d033fed91419",
+    "author": "Gustavo E. A and Gustavo E A P A Batista and Ronaldo C. Prati and Maria Carolina Monard",
+    "title": "A Study of the Behavior of Several Methods for Balancing Machine Learning Training Data",
+    "venue": "Instituto de Ci ^ encias Matem aticas e de Computac~ ao",
+    "year": "",
+    "window": "having more than two classes, we chose the class with fewer examples as the positive class, and collapsed the remainder as the negative class. As the Letter and <b>Splice</b> data sets have a similar number of examples in the minority classes, we created two data sets with each of them: Letter-a and Letter-vowel, Splice-ie and Splice-ei. In our experiments, we used release 8 of",
+    "mykey": 1016
+}

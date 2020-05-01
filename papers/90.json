@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "08758F084F0C61926AF47778A33DC294804540EF",
+    "rexaID": "9a75a9a8ce786d6a05ad51afa124cd4f70bfbb36",
+    "author": "Rudy Setiono and Huan Liu",
+    "title": "Neural-Network Feature Selector",
+    "venue": "Department of Information Systems and Computer Science National University of Singapore",
+    "year": "",
+    "window": "set consists of the remaining 384 samples. Applying the ADAP algorithm trained on 576 samples, Smith et al. [19] achieved an accuracy rate of 76 % on the remaining 192 samples. 4. <b>sonar</b> Targets Dataset. The sonar returns classification dataset [20] consists of 208 sonar returns, each of which is represented by 60 real numbers between 0.0 and 1.0. The task is to distinguish between returns from a",
+    "mykey": 90
+}

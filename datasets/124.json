@@ -1,0 +1,23 @@
+{
+    "ID": 124,
+    "Name": "CMU Face Images",
+    "Abstract": "This data consists of 640 black and white face images of people taken with varying pose (straight, left, right, up), expression (neutral, happy, sad, angry), eyes (wearing sunglasses or not), and size",
+    "Types": "Image",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 640,
+    "NumAttributes": 0,
+    "DateDonated": "1999-06-24",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/faces-mld/",
+    "URLReadme": "../machine-learning-databases/faces-mld/faces.data.html",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Each image can be characterized by the pose, expression, eyes, and size. There are 32 images for each person capturing every combination of features. \r\n\r\nTo view the images, you can use the program xv. \r\n\r\nThe image data can be found in /faces. This directory contains 20 subdirectories, one for each person, named by userid. Each of these directories contains several different face images of the same person. \r\n\r\nYou will be interested in the images with the following naming convention: \r\n\r\n<userid> <pose> <expression> <eyes> <scale>.pgm \r\n<userid> is the user id of the person in the image, and this field has 20 values: an2i, at33, boland, bpm, ch4f, cheyer, choon, danieln, glickman, karyadi, kawamura, kk49, megak, mitchell, night, phoebe, saavik, steffi, sz24, and tammo. \r\n<pose> is the head position of the person, and this field has 4 values: straight, left, right, up. \r\n<expression> is the facial expression of the person, and this field has 4 values: neutral, happy, sad, angry. \r\n<eyes> is the eye state of the person, and this field has 2 values: open, sunglasses. \r\n<scale> is the scale of the image, and this field has 3 values: 1, 2, and 4. 1 indicates a full-resolution image (128 columns by 120 rows); 2 indicates a half-resolution image (64 by 60); 4 indicates a quarter-resolution image (32 by 30). \r\nIf you've been looking closely in the image directories, you may notice that some images have a .bad suffix rather than the .pgm suffix. As it turns out, 16 of the 640 images taken have glitches due to problems with the camera setup; these are the .bad images. Some people had more glitches than others, but everyone who got ``faced'' should have at least 28 good face images (out of the 32 variations possible, discounting scale). \r\n\r\nMore information and C code for loading the images is available here: http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/faces.html. ",
+    "Source": "Original Owner and Donor:\r\n\r\nTom Mitchell\r\nSchool of Computer Science \r\nCarnegie Mellon University\r\ntom.mitchell@cmu.edu\r\nhttp://www.cs.cmu.edu/~tom/\r\n",
+    "Acknowledgements": "You may use this material free of charge for any educational purpose, provided attribution is given in any lectures or publications that make use of this material. ",
+    "Area": "Other",
+    "RelevantPapers": "T. Mitchell. Machine Learning, McGraw Hill, 1997. \r\n\r\n",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 10429
+}

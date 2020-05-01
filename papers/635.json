@@ -1,0 +1,11 @@
+{
+    "datasetID": 70,
+    "supportID": "48E3C24E1A609BE8ECC7908EC173EDC1665F4720",
+    "rexaID": "08bad2c42799dc0f04d6729f069239fba413cb8f",
+    "author": "Jan C. Bioch and D. Meer and Rob Potharst",
+    "title": "Bivariate Decision Trees",
+    "venue": "PKDD",
+    "year": "1997",
+    "window": "in which interactions between two variables occur. We will test our method on two artificial data sets. The first is the <b>monk</b> 1 data set [Thr91]. This data set contains 6 attributes and two classes. The rule that generates the data is: if (x 1 = x 2 or x 5 = 1) then yes else no. Note that x 5 takes",
+    "mykey": 635
+}

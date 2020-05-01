@@ -1,0 +1,11 @@
+{
+    "datasetID": 20,
+    "supportID": "EE6F31D462AE9E9223C0207BB5BBD02A5854E4D7",
+    "rexaID": "32c4d28ceaa19d2a6906dfa39df99da7026c9cc5",
+    "author": "Douglas Burdick and Manuel Calimlim and Jason Flannick and Johannes Gehrke and Tomi Yiu",
+    "title": "MAFIA: A Performance Study of Mining Maximal Frequent Itemsets",
+    "venue": "FIMI",
+    "year": "2003",
+    "window": "itemset patterns that peak around 10-25 items (see Figure 4). Chess and Connect4 are gathered from game state information and are available from the UCI Machine Learning Repository [5]. The Pumsb dataset is <b>census</b> data from PUMS (Public Use Microdata Sample). Pumsb-star is the same dataset as Pumsb except all items of 80% support or more have been removed, making it less dense and easier to mine.",
+    "mykey": 2407
+}

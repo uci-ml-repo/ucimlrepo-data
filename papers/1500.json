@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "95A785BEB7AA9BF691CE8FB330A7D36776B9BC56",
+    "rexaID": "8f5ae7219e74a85e3f722b58b3fedb30eab7a1d7",
+    "author": "Huan Liu",
+    "title": "A Family of Efficient Rule Generators",
+    "venue": "Department of Information Systems and Computer Science National University of Singapore",
+    "year": "",
+    "window": "are chosen for further experiments from the machine learning databases at University of California, Irvine [12]. They are: ffl <b>Mushroom</b> The training and testing datasets contains 7124 and 1000 instances respectively. The 1000 instances in the testing set are randomly selected. The rest are used for training. The data has 22 discrete attributes. Each attribute can",
+    "mykey": 1500
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 31,
+    "supportID": "9A4AB71FA8007EBC766C93E25181A097B2216D38",
+    "rexaID": "5193dfc0a9d39b5f86fe360d6beff81aa9b7390e",
+    "author": "Nikunj C. Oza and Stuart J. Russell",
+    "title": "Experimental comparisons of online and batch versions of bagging and boosting",
+    "venue": "KDD",
+    "year": "2001",
+    "window": "[2], two datasets (Census Income and Forest <b>Covertype</b>  from the UCI KDD archive [1], and three synthetic datasets. We give their sizes and numbers of attributes and classes in Table 1. All three of our synthetic",
+    "mykey": 1558
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "54C813567D0F4B1FA498A8F90FD9B20D3C4FE580",
+    "rexaID": "030d9becf3287c5da5f82e2c2da60937121b3ce5",
+    "author": "Wl odzisl/aw Duch and Rafal Adamczak and Norbert Jankowski",
+    "title": "Initialization of adaptive parameters in density networks",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "network parameters, but it is interesting to note that these results are frequently already of rather high quality. Except for galaxies all other data was obtained from the UCI repository [13]. <b>Iris</b> dataset contains 150 cases in 3 classes. After initialization with Gaussian functions including rotations only 4 classification errors are made (97.3% accuracy), which is a better results than many",
+    "mykey": 778
+}

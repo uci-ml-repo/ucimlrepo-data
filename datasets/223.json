@@ -1,0 +1,23 @@
+{
+    "ID": 223,
+    "Name": "YouTube Comedy Slam Preference Data",
+    "Abstract": "This dataset provides user vote data on which video from a pair of videos is funnier collected on YouTube Comedy Slam. The task is to automatically predict this preference based on video metadata.",
+    "Types": "Text",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 1138562,
+    "NumAttributes": 3,
+    "DateDonated": "2012-04-10",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00223/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "YouTube Comedy Slam (http://www.youtube.com/slam/comedy) is a video discovery experiment running on YouTube's version of labs (called TestTube) for a few months in 2011 and 2012. In this experiment, a pair of videos were shown to the user and the user was asked to vote for the video that they found funnier. Left/right positions of the videos were randomly selected before being presented to the user to eliminate position bias. Videos were selected from a large pool of weekly updated sets of videos.\r\n\r\nOne of the outcomes of this experiment is a training dataset for automatically predicting which video would be deemed funnier by users using a variety of features.  For example, uploader supplied metadata and/or user comments on watch pages of these videos could be used as features. See http://googleresearch.blogspot.com/2012/02/quantifying-comedy-on-youtube-why.html for more detail. The attached dataset includes roughly 1.7 million preference votes. The votes were recorded chronologically. The first 80% are provided here as the training dataset and the remaining 20% as the testing dataset. Each line in this dataset corresponds to one vote over a pair of YouTube videos. Each video is represented by its YouTube video ID. For example, the watch page URL for video ID 'txqiwrbYGrs' is http://www.youtube.com/watch?v=txqiwrbYGrs. User preference over a pair of videos is presented in the form of string \u00e2\u20ac\u0153left\u00e2\u20ac\u009d if the left video was deemed funnier, and \u00e2\u20ac\u0153right\u00e2\u20ac\u009d otherwise. This user vote should be used as ground truth for both training and testing. Evaluation should be based on average accuracy in predicting this preference over the testing partition (provided). Any other information about the vote (e.g. ID of the user) is not provided.",
+    "Source": "Provided by Google, Inc. Please contact duhadway@google.com if you have any questions.",
+    "Acknowledgements": "Sanketh Shetty, 'Quantifying comedy on YouTube: why the number of o\u00e2\u20ac\u2122s in your LOL matter,' Google Research Blog, http://googleresearch.blogspot.com/2012/02/quantifying-comedy-on-youtube-why.html.",
+    "Area": "Computer",
+    "RelevantPapers": "",
+    "AttributeInfo": "Each row in this text file represents one anonymous user vote. Each line contains three comma-separated fields. The first two fields are YouTube video IDs. The third field is either 'left' or 'right'. Left indicates the first video from the pair was voted to be funnier than the second. Right indicates the opposite preference.",
+    "FormatType": "",
+    "NumHits": 9
+}

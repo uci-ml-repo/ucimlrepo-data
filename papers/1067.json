@@ -1,0 +1,11 @@
+{
+    "datasetID": 22,
+    "supportID": "6DFAB362BC777E086E02A08CFE014188B26C3335",
+    "rexaID": "5976a7013ed27ef8dc3309ee0427e9e110b5323d",
+    "author": "Boonserm Kijsirikul and Sukree Sinthupinyo and Kongsak Chongkasemwongse",
+    "title": "Approximate Match of Rules Using Backpropagation Neural Networks",
+    "venue": "Machine Learning, 44",
+    "year": "2001",
+    "window": "& Feng, 1990) for learning rules. Normally we used rules produced byPROGOL as the input to BANNAR. However in our experiments on the finite element mesh design and the King-Rook-King <b>chess</b> endgame datasets described below, PROGOL failed to produce a rule set within a reasonable time. In those experiments, we employed GOLEM developed by the same research group of PROGOL. We then compared the results",
+    "mykey": 1067
+}

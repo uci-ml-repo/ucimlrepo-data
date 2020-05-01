@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "E36A67EE804B50D1EE16363F7A658E96D86159DB",
+    "rexaID": "d32b83c84ede5f9ed1b2bda59ec57d68228b6b01",
+    "author": "Venkatesh Ganti and Johannes Gehrke and Raghu Ramakrishnan",
+    "title": "CACTUS - Clustering Categorical Data Using Summaries",
+    "venue": "KDD",
+    "year": "1999",
+    "window": "which distance or similarity functions are not naturally defined. Recently, the problem of clustering categorical data started receiving interest [GKR98, GRS99]. As an example, consider the <b>MUSHROOM</b> dataset in the popular UCI Machine Learning repository [CBM98]. Each tuple in the dataset describes a sample of gilled mushrooms using 22 categorical attributes. # Contact author. This research was",
+    "mykey": 2304
+}

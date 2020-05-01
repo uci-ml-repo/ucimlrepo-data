@@ -1,0 +1,11 @@
+{
+    "datasetID": 30,
+    "supportID": "135C17D73BEA37CC8524AE84954DE1C2ECDF2EAA",
+    "rexaID": "15901017775c4db876288ac0f024da2ab7bb3738",
+    "author": "Earl Harris Jr",
+    "title": "Information Gain Versus Gain Ratio: A Study of Split Method Biases",
+    "venue": "The MITRE Corporation/Washington C",
+    "year": "2001",
+    "window": "method choiceproblem. attribute information gain 0 0.045 1 0.044 2 0.018 3 0.113 4 0.004 5 0.001 6 0.006 7 0.018 8 0.015 Table 2: Information gain scores for the <b>contraceptive</b> method choice data set (Does the woman use contraception?) Machine Learning Repository.[1] This data set, which Tjen-Sien Lim created, is a subset of the 1987 National Indonesia Contraceptive Prevalence Survey. Example",
+    "mykey": 178
+}

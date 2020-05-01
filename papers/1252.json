@@ -1,0 +1,11 @@
+{
+    "datasetID": 148,
+    "supportID": "7D5F0DD976FCF6D041FBCE07FC667B6FCA4C4C58",
+    "rexaID": "51207e20a41e3bd01fe89979f51688bdb782e4ef",
+    "author": "Richard Nock",
+    "title": "Inducing Interpretable Voting Classifiers without Trading Accuracy for Simplicity: Theoretical Results, Approximation Algorithms, and Experiments",
+    "venue": "J. Artif. Intell. Res. (JAIR, 17",
+    "year": "2002",
+    "window": "on which we ran C4.5, WIDC(p) finds smaller formulas, and still beats C4.5's accuracy on 9 of them. A quantitative comparison of l DC against the number of nodes of the DTs shows that on 4 datasets out of the 13 (Pole, <b>Shuttle</b>  TicTacToe, Australian), the DCs are more than 6 times smaller, while they only incur a loss in accuracy for 2 of them, and limited to 1.8%. For this latter problem",
+    "mykey": 1252
+}

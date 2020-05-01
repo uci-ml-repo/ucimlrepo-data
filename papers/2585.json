@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "FFB009681A2DF6A14F88336D04CB6758B090F8E4",
+    "rexaID": "93fcd9513832c5bf30d24120ab3bba1f9ec422b2",
+    "author": "Richard Maclin",
+    "title": "Boosting Classifiers Regionally",
+    "venue": "AAAI/IAAI",
+    "year": "1998",
+    "window": "always see reductions in error rate. One difference between the two methods for weighting the confidence of predictions is that the Continuous method produces significant gains for two data sets, <b>sonar</b> and vehicle, for which the Discrete method does not perform well. In a second set of experiments we tested the idea of using RegionBoost where the estimated accuracy for a new point is",
+    "mykey": 2585
+}

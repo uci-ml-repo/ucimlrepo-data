@@ -1,0 +1,23 @@
+{
+    "ID": 30,
+    "Name": "Contraceptive Method Choice",
+    "Abstract": "Dataset is a subset of the 1987 National Indonesia Contraceptive Prevalence Survey.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical, Integer",
+    "NumInstances": 1473,
+    "NumAttributes": 9,
+    "DateDonated": "1997-07-07",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/cmc/",
+    "URLReadme": "../machine-learning-databases/cmc/cmc.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset is a subset of the 1987 National Indonesia Contraceptive Prevalence Survey. The samples are married women who were either not pregnant or do not know if they were at the time of interview. The problem is to predict the current contraceptive method choice (no use, long-term methods, or short-term methods) of a woman based on her demographic and socio-economic characteristics.",
+    "Source": "Origin:  \r\n\r\nThis dataset is a subset of the 1987 National Indonesia Contraceptive Prevalence Survey\r\n\r\nCreator: \r\n\r\nTjen-Sien Lim (limt@stat.wisc.edu)\r\n\r\nDonor:   \r\n\r\nTjen-Sien Lim (limt@stat.wisc.edu)",
+    "Acknowledgements": "",
+    "Area": "Life",
+    "RelevantPapers": "Lim, T.-S., Loh, W.-Y. & Shih, Y.-S. (1999). A Comparison of Prediction Accuracy, Complexity, and Training Time of Thirty-three Old and New Classification Algorithms. Machine Learning.    (ftp://ftp.stat.wisc.edu/pub/loh/treeprogs/quest1.7/mach1317.pdf or http://www.stat.wisc.edu/~limt/mach1317.pdf)\r\nhttp://rexa.info/paper/db6d40facb609e2681727ef96e61dd49d42b4aff\r\n",
+    "AttributeInfo": "   1. Wife's age                     (numerical)\r\n   2. Wife's education               (categorical)      1=low, 2, 3, 4=high\r\n   3. Husband's education            (categorical)      1=low, 2, 3, 4=high\r\n   4. Number of children ever born   (numerical)\r\n   5. Wife's religion                (binary)           0=Non-Islam, 1=Islam\r\n   6. Wife's now working?            (binary)           0=Yes, 1=No\r\n   7. Husband's occupation           (categorical)      1, 2, 3, 4\r\n   8. Standard-of-living index       (categorical)      1=low, 2, 3, 4=high\r\n   9. Media exposure                 (binary)           0=Good, 1=Not good\r\n   10. Contraceptive method used     (class attribute)  1=No-use, 2=Long-term, 3=Short-term",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 11185
+}

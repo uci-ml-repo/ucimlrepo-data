@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "4827BE00C6A808214167F30BDDA4368A8D0AE258",
+    "rexaID": "351e173bc2176dbf14635cc5471660c911f8e79c",
+    "author": "Edward Snelson and Carl Edward Rasmussen and Zoubin Ghahramani",
+    "title": "Warped Gaussian Processes",
+    "venue": "NIPS",
+    "year": "2003",
+    "window": "predict the the age of <b>abalone</b> from various physical inputs [9]. ailerons is a simulated control problem, with the aim to predict the control action on the ailerons of an F16 aircraft [10, 11]. For datasets creep and abalone, which consist of positive observations only, standard practice may be to model the log of the data with a GP. So for these datasets we have compared three models: a GP directly",
+    "mykey": 627
+}

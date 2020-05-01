@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "996E461480D5974D242CD3AC5C6CE544311D43FA",
+    "rexaID": "546cbe749d666efb8ff699628e535e0fd083f6bc",
+    "author": "Norbert Jankowski",
+    "title": "Survey of Neural Transfer Functions",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "sphere defined by this metric. The influence of input renormalization (using Minkovsky distance functions) on the shapes of decision borders is illustrated in Fig. 30 for the classical <b>Iris</b> flowers dataset (only the last two input features, x 3 and x 4 are shown, for description of the data cf. [89]). Dramatic changes in the shapes of decision borders for different Minkovsky metrices are observed.",
+    "mykey": 1549
+}

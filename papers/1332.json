@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "84D58B0385515EA36E879662E4EBB69AAA6C9927",
+    "rexaID": "4bcdbeaa8f46590fca87d041c66b18a6622b82b3",
+    "author": "Kristiaan Pelckmans and Jos De Brabanter and J. A. K Suykens and Bart De Moor and K. U. Leuven - ESAT",
+    "title": "The Differogram: Non-parametric Noise Variance Estimation and its Use for Model Selection",
+    "venue": "SCDSISTA",
+    "year": "2004",
+    "window": "can therefor be used for picking good startingvalues for a local search based on a more powerful and computationally intensive way to achieve a good generalization performance. The Boston <b>housing</b> dataset (Blake and Merz, 1998) concerning the housing values in suburbs of Boston was used to benchmark the proposed method on a real world dataset. This set contains 506 instances of 12 continuous and 1",
+    "mykey": 1332
+}

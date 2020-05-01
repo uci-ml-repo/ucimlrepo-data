@@ -1,0 +1,23 @@
+{
+    "ID": 9,
+    "Name": "Auto MPG",
+    "Abstract": "Revised from CMU StatLib library, data concerns city-cycle fuel consumption",
+    "Types": "Multivariate",
+    "Task": "Regression",
+    "AttributeTypes": "Categorical, Real",
+    "NumInstances": 398,
+    "NumAttributes": 8,
+    "DateDonated": "1993-07-07",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/auto-mpg/",
+    "URLReadme": "../machine-learning-databases/auto-mpg/auto-mpg.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset is a slightly modified version of the dataset provided in the StatLib library.  In line with the use by Ross Quinlan (1993) in predicting the attribute \"mpg\", 8 of the original instances were removed because they had unknown values for the \"mpg\" attribute.  The original dataset is available in the file \"auto-mpg.data-original\".\r\n\r\n\"The data concerns city-cycle fuel consumption in miles per gallon, to be predicted in terms of 3 multivalued discrete and 5 continuous attributes.\" (Quinlan, 1993)",
+    "Source": "This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. The dataset was used in the 1983 American Statistical Association Exposition.",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "Quinlan,R. (1993). Combining Instance-Based and Model-Based Learning. In Proceedings on the Tenth International Conference of Machine Learning, 236-243, University of Massachusetts, Amherst. Morgan Kaufmann.\r\nhttp://rexa.info/paper/9eac95c36cbec1ef4954d3491df1ea0a1d09c6f0",
+    "AttributeInfo": "    1. mpg:           continuous\r\n    2. cylinders:     multi-valued discrete\r\n    3. displacement:  continuous\r\n    4. horsepower:    continuous\r\n    5. weight:        continuous\r\n    6. acceleration:  continuous\r\n    7. model year:    multi-valued discrete\r\n    8. origin:        multi-valued discrete\r\n    9. car name:      string (unique for each instance)",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 21055
+}

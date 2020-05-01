@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "4D6A96B3C5E714A2BD3F35087D918D0064AD5AB5",
+    "rexaID": "4dbb0e14d9556fd1099e129462d0bedcf35bd82b",
+    "author": "Nitesh V. Chawla and Kevin W. Bowyer and Lawrence O. Hall and W. Philip Kegelmeyer",
+    "title": "SMOTE: Synthetic Minority Over-sampling Technique",
+    "venue": "J. Artif. Intell. Res. (JAIR, 16",
+    "year": "2002",
+    "window": "is to distinguish between nasal (class 0) and oral sounds (class 1). There are 5 features. The class distribution is 3,818 samples in class 0 and 1,586 samples in class 1. 3. The <b>Adult</b> dataset (Blake & Merz, 1998) has 48,842 samples with 11,687 samples belonging to the minority class. This dataset has 6 continuous features and 8 nominal features. SMOTE and SMOTE-NC (see Section 6.1)",
+    "mykey": 680
+}

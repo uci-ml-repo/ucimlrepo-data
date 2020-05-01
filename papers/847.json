@@ -1,0 +1,11 @@
+{
+    "datasetID": 102,
+    "supportID": "5B9F86CB73E928810AA19489B0A8F36408033FED",
+    "rexaID": "02ececaa586677e52299e3881239ace545c6ec98",
+    "author": "Qiang Yang and Jing Wu",
+    "title": "Enhancing the Effectiveness of Interactive Case-Based Reasoning with Clustering and Decision Forests",
+    "venue": "Appl. Intell, 14",
+    "year": "2001",
+    "window": "from the UCI Repository of Machine Learning Databases and Domain Theories [Keogh et al. 1998] at the University of California at Irvine. Two data sets are first used for our experiments (the <b>Thyroid</b> Disease Database and the Mushroom (agaricus-lepiota) database). In addition, in order to test the system under the condition that there are missing",
+    "mykey": 847
+}

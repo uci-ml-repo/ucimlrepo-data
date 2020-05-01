@@ -1,0 +1,11 @@
+{
+    "datasetID": 91,
+    "supportID": "FCE7C429A21BDE5AABB1018671F4E52B41CACCD3",
+    "rexaID": "5912d80629bea5ba2a9d81f386defdc5096060ab",
+    "author": "Geoffrey I Webb",
+    "title": "Generality is more significant than complexity: Toward an alternative to Occam's Razor",
+    "venue": "School of Computing and Mathematics Deakin University",
+    "year": "",
+    "window": "(Murphy & Aha, 1994): breast cancer, 5 echocardiogram, glass type, hepatitis, house votes 84, hypothyroid, iris, lymphography, primary tumor, and <b>soybean</b> large. For all of these data sets, the cases are divided into a number of mutually exclusive classes. The induction task is to develop an expert system that can classify a object by reference to the values of its attributes. All",
+    "mykey": 2567
+}

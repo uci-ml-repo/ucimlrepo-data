@@ -1,0 +1,11 @@
+{
+    "datasetID": 185,
+    "supportID": "",
+    "rexaID": "782FDA3D0B7DDB80E80DD1754EA30622F3D56800",
+    "author": "Robert Bell and Yehuda Koren and Chris Volinsky",
+    "title": "Modeling relationships at multiple scales to improve accuracy of large recommender systems",
+    "venue": "KDD",
+    "year": "2007",
+    "window": "Both the local and the regional approaches, and in particular their combination through a unifying model, compare favorably with other approaches and deliver substantially better results than the commercial <b>Netflix</b> Cinematch recommender system on a large publicly available data set. ",
+    "mykey": 2591
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "06ACDBD2F69221EDC16B27650F29CBAE556242B6",
+    "rexaID": "490ddcab7a72db65c0752abf46f5692f53e6bedf",
+    "author": "Huan Li and Wenbin Chen",
+    "title": "Supervised Local Tangent Space Alignment for Classification",
+    "venue": " I-Fan Shen",
+    "year": "",
+    "window": "containing multiple classes. The results obtained with the unsupervised and supervised LTSA are expected to be different as is shown in Fig.1. The <b>iris</b> data set [Blake and Merz, 1998] includes 150 4-D data belonging to 3 different classes. Here first 100 data points are selected as training samples and mapped from the 4-D input space to a 2-D feature space",
+    "mykey": 43
+}

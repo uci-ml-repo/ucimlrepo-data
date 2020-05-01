@@ -1,0 +1,11 @@
+{
+    "datasetID": 79,
+    "supportID": "16335621FDE2CC36426D1D2E6F6F00356ABC93F9",
+    "rexaID": "4773165a9efff672af50f07beb5d38c9afc92f5f",
+    "author": "Lawrence O. Hall and Nitesh V. Chawla and Kevin W. Bowyer",
+    "title": "Combining Decision Trees Learned in Parallel",
+    "venue": "Department of Computer Science and Engineering, ENB 118 University of South Florida",
+    "year": "",
+    "window": "The Iris data (Fisher 1936; Merz & Murphy ) which has 4 continuous valued attributes and classifies 150 examples as one of 3 classes of Iris plant. The second is the <b>Pima</b> <b>Indians</b> <b>Diabetes</b> data set (Merz & Murphy ) which has 8 numeric attributes and classifies 768 examples into one of 2 classes. We have done an experiment simulating a parallel 2-processor implementation for both data sets and",
+    "mykey": 200
+}

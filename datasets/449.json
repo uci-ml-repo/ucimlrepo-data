@@ -1,0 +1,23 @@
+{
+    "ID": 449,
+    "Name": "Optical Interconnection Network ",
+    "Abstract": "This dataset contains 640 performance measurements from a simulation of 2-Dimensional Multiprocessor Optical Interconnection Network. ",
+    "Types": "Multivariate",
+    "Task": "Classification, Regression",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 640,
+    "NumAttributes": 10,
+    "DateDonated": "2018-03-29",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00449/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": " All simulations have done under the software named OPNET Modeler. Message passing is used as the communication mechanism in which any processor can submit to the network a point-to-point message destined at any other processor. M/M/1 queue is considered in the calculations which consist of a First-in First-Out buffer with packet arriving randomly according to a Poisson arrival process, and a processor, that retrieves packets from the buffer at a specified service rate. In all simulations, it is assumed that the processor at each node extracts a packet from an input queue, processes it for a period of time and when that period expires, it generates an output data message. The size of each input queue is assumed as infinite. A processor becomes idle only when all its input queues are empty.\r\n\r\n",
+    "Source": "Cigdem Inan ACI- Mersin University, Dept of Computer Engineering, caci '@' mersin.edu.tr\r\nMehmet Fatih AKAY- Cukurova University, Dept of Computer Engineering, mfakay '@' cu.edu.tr",
+    "Acknowledgements": "Ac\u00c4\u00b1, \u00c3\u2021.\u00c4\u00b0. & Akay, M.F. A hybrid congestion control algorithm for broadcast-based architectures with multiple input queues. J Supercomput (2015) 71: 1907. https://doi.org/10.1007/s11227-015-1384-1",
+    "Area": "Computer",
+    "RelevantPapers": "M.F. Akay, C\u00c2\u00b8.I. Aci, F. Abut, Predicting the Performance Measures of a 2-Dimensional Message Passing Multiprocessor Architecture by Using Machine Learning Methods. Neural Network World 71(5):1907-1931. DOI: 10.14311/NNW.2015.25.013.",
+    "AttributeInfo": "The summary of the attributes is given below. Please read the paper (https://doi.org/10.1007/s11227-015-1384-1) for detailed descriptions of the attributes. \r\n\r\nNode Number: The number of the nodes in the network. (8x8 or 4x4).\r\n\r\nThread Number: The number of threads in each node at the beginning of the simulation.\r\n\r\nSpatial Distribution: The performance of the network is evaluated using synthetic traffic workloads. Uniform (UN), Hot Region (HR), Bit reverse (BR) and Perfect Shuffle (PS) traffic models have been included.\r\n\r\nTemporal Distribution: Temporal distribution of packet generation is implemented by independent traffic sources. In our simulations, we utilized client\u00e2\u20ac\u201cserver traffic (i.e., a server node sends packets to respond to the reception of packets from clients) and asynchronous traffic (i.e., initially, all nodes generate traffic independently of the others; as time progresses, traffic generation at the source/destination nodes depends\r\non the receipt of messages from destination/source nodes).\r\n\r\nT/R: Message transfer time (T ) Uniformly distributed with mean in range from 20 to 100 clock cycles. Thread run time (R) Exponentially distributed with a mean of 100 clock cycles.\r\n\r\nProcessor Utilization: The average processor utilization measures the percent of time that threads are running in the processor.\r\n\r\nChannel Waiting Time: Average waiting time of a packet at the output channel queue until it is serviced by the channel.\r\n\r\nInput Waiting Time: Average waiting time of a packet until it is serviced by the processor.\r\n\r\nNetwork Response Time: The time between a request message is enqueued at the output channel and the corresponding data message is received in the input queue.\r\n\r\nChannel Utilization: The percent of time that the channel is busy transferring packets to the network.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

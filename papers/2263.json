@@ -1,0 +1,11 @@
+{
+    "datasetID": 8,
+    "supportID": "E010663615E360B673DBCED359BF165B65527E71",
+    "rexaID": "44b953c24c786a0472327b47b8682b97114621d6",
+    "author": "Pedro Domingos",
+    "title": "Unifying Instance-Based and Rule-Based Induction",
+    "venue": "Machine Learning, 24",
+    "year": "1996",
+    "window": "minimum of 4 examples (instead of 2) in two branches of a test, and use a confidence level of 37.5% for rule pruning (instead of 25%). The fine-tuned algorithms were then tested on the remaining 15 datasets in Table 4 (from <b>audiology</b> to zoology). Note that this procedure is somewhat unfavorable to RISE, since some of these domains were previously used in the development of the other algorithms, as",
+    "mykey": 2263
+}

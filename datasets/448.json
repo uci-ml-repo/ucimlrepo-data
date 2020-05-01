@@ -1,0 +1,23 @@
+{
+    "ID": 448,
+    "Name": "Carbon Nanotubes",
+    "Abstract": "This dataset contains 10721 initial and calculated atomic coordinates of carbon nanotubes.",
+    "Types": "Univariate",
+    "Task": "Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 10721,
+    "NumAttributes": 8,
+    "DateDonated": "2018-04-05",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00448/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "CASTEP can simulate a wide range of properties of materials proprieties using density functional theory (DFT). DFT is the most successful method calculates atomic coordinates faster than other mathematical approaches, and it also reaches more accurate results. The dataset is generated with CASTEP using CNT geometry optimization. Many CNTs are simulated in CASTEP, then geometry optimizations are calculated. Initial coordinates of all carbon atoms are generated randomly. Different chiral vectors are used for each CNT simulation. The atom type is selected as carbon, bond length is used as 1.42 A\u00c2\u00b0 (default value). CNT calculation parameters are used as default parameters. To finalize the computation, CASTEP uses a parameter named as elec_energy_tol (electrical energy tolerance) (default 1x10-5 eV) which represents that the change in the total energy from one iteration to the next remains below some tolerance value per atom for a few self-consistent field steps. Initial atomic coordinates (u, v, w), chiral vector (n, m) and calculated atomic coordinates (u\u00e2\u20ac\u2122, v\u00e2\u20ac\u2122, w\u00e2\u20ac\u2122) are obtained from the output files.",
+    "Source": "Mehmet ACI- Mersin University, Dept of Computer Engineering, maci '@' mersin.edu.tr\r\nMutlu AVCI- Cukurova University, Dept of Biomedical Engineering, mavci '@' cu.edu.tr\r\n",
+    "Acknowledgements": "Please cite as:\r\nACI, M , AVCI, M . (2016). ARTIFICIAL NEURAL NETWORK APPROACH FOR ATOMIC COORDINATE PREDICTION OF CARBON NANOTUBES.Applied Physics A, 122, 631. https://doi.org/10.1007/s00339-016-0153-1\r\nand\r\nACI, M , AVCI, M , ACI, \u00c3\u2021 . (2017). REDUCING SIMULATION DURATION OF CARBON NANOTUBE USING SUPPORT VECTOR REGRESSION METHOD. Journal of the Faculty of Engineering and Architecture of Gazi University, 32 (3), 901-907. DOI: 10.17341/gazimmfd.337642\r\n",
+    "Area": "Computer",
+    "RelevantPapers": "ACI, M , AVCI, M . (2016). ARTIFICIAL NEURAL NETWORK APPROACH FOR ATOMIC COORDINATE PREDICTION OF CARBON NANOTUBES.Applied Physics A, 122, 631. https://doi.org/10.1007/s00339-016-0153-1",
+    "AttributeInfo": "The summary of the attributes is given below. Please read the papers (https://doi.org/10.1007/s00339-016-0153-1 and https://doi.org/10.17341/gazimmfd.337642) for detailed descriptions of the attributes. \r\n\r\nChiral indice n: n parameter of the selected chiral vector.\r\nChiral indice m: n parameter of the selected chiral vector.\r\nInitial atomic coordinate u: Randomly generated u parameter of the initial atomic coordinates of all carbon atoms.\r\nInitial atomic coordinate v: Randomly generated v parameter of the initial atomic coordinates of all carbon atoms.\r\nInitial atomic coordinate w: Randomly generated w parameter of the initial atomic coordinates of all carbon atoms.\r\nCalculated atomic coordinate u\u00e2\u20ac\u2122: Calculated u\u00e2\u20ac\u2122 parameter of the atomic coordinates of all carbon atoms.\r\nCalculated atomic coordinate v\u00e2\u20ac\u2122: Calculated v\u00e2\u20ac\u2122 parameter of the atomic coordinates of all carbon atoms.\r\nCalculated atomic coordinate w\u00e2\u20ac\u2122: Calculated w\u00e2\u20ac\u2122 parameter of the atomic coordinates of all carbon atoms.\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

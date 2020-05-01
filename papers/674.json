@@ -1,0 +1,11 @@
+{
+    "datasetID": 109,
+    "supportID": "4CBDD239A1E3ABF3515B43DB3DE1AF919F5B824F",
+    "rexaID": "b08db10a1ffecdd5c69a23dc9ba5c0699c2b7db2",
+    "author": "Abdelhamid Bouchachia",
+    "title": "RBF Networks for Learning from Partially Labeled Data",
+    "venue": "Department of Informatics, University of Klagenfurt",
+    "year": "",
+    "window": "data points. Once selected, these data points and the given labeled data points are used to train the neural network. 13 4. Numerical Evaluation To evaluate the approach presented here, two data sets are used: the cancer and the <b>wine</b> data set (Hettich et al., 1998). The cancer data consists of 683 instances with 9 features, while the wine data set consists of 178 instances with 13 features.",
+    "mykey": 674
+}

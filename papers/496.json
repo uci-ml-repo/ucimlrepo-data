@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "3BBB4EEC31DC99D50332F05C1F75C1A468315D14",
+    "rexaID": "14f025e969e3a0418fd852ee46e54039ab3f216a",
+    "author": "Jianbin Tan and David L. Dowe",
+    "title": "MML Inference of Decision Graphs with Multi-way Joins and Dynamic Attributes",
+    "venue": "Australian Conference on Artificial Intelligence",
+    "year": "2003",
+    "window": "#6.7 5.2 Discussions of above test results Tables 2 and 3 clearly show the decision graph with dynamic attributes to always be either outright first or (sometimes) equal first. When testing on the data sets with disjunctions (like <b>abalone</b>  scale, tic-tac-toe and XD6), decision graph with dynamic attributes has a much lower error rate. On other data sets, it returns results not worse than those from",
+    "mykey": 496
+}

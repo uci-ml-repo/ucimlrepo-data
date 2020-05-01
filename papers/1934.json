@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "BEE1FB17A8C6610F46EC10FE3F8CF67F5242EAA6",
+    "rexaID": "4695569c53cd581fcc193415a8a94a1f92abf607",
+    "author": "Chotirat Ann and Dimitrios Gunopulos",
+    "title": "Scaling up the Naive Bayesian Classifier: Using Decision Trees for Feature Selection",
+    "venue": "Computer Science Department University of California",
+    "year": "",
+    "window": "9 attributes, 2 classes. Attributes selected by SBC = 4. Congressional Voting Records 80 85 90 95 100 10203040506070809099 Training Data (%) Accuracy (%) NBC SBC C4.5 Figure 11. Congressional <b>Voting dataset</b>  435 instances, 16 attributes, 2 classes. Attributes selected by SBC = 3. To see a clearer picture on the SBC performance, we did an experiment on the same set of data using the Augmented Bayesian",
+    "mykey": 1934
+}

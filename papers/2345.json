@@ -1,0 +1,11 @@
+{
+    "datasetID": 149,
+    "supportID": "EB886C3277758C81CA99A2F5804332013CE1377C",
+    "rexaID": "7bea464dce753e6523458d22de98a96004c1aac8",
+    "author": "James Bailey and Thomas Manoukian and Kotagiri Ramamohanarao",
+    "title": "Fast Algorithms for Mining Emerging Patterns",
+    "venue": "PKDD",
+    "year": "2002",
+    "window": "using thresholds. We see that mining with a threshold value of 4 is substantially faster than mining the complete set of JEPs using a ratio tree. Classification accuracy is degraded for three of the datasets  <b>Vehicle</b>  Waveform and Letter-recognition) though. Analysis of the vehicle and chess datasets aid in explaining this outcome (supporting figures have been excluded due to lack of space). It is",
+    "mykey": 2345
+}

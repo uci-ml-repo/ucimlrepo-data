@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "D05D5496F9011ABD68AF842228671FF3C4DC713D",
+    "rexaID": "0ded09c3d904c9f8eeef9ed0bc3445c2b44a6008",
+    "author": "William W. Cohen and Yoram Singer",
+    "title": "A Simple, Fast, and Effective Rule Learner",
+    "venue": "AT&T Labs--Research Shannon Laboratory",
+    "year": "",
+    "window": "average ranks among these three are 1.8, 2.3, and 1.9. The largest ruleset produced by SLIPPER is 49 rules (for coding). Finally, we evaluated the scalability of the rule learners on several large datasets. We used <b>adult</b>  blackjack, with the addition of 20 irrelevant noise variables; and market3, for which many examples were available. C4rules was not run, since it is known to have scalability",
+    "mykey": 2069
+}

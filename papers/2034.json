@@ -1,0 +1,11 @@
+{
+    "datasetID": 32,
+    "supportID": "CA755E6DE40ACE7FE9DA40FA67942E2E90865836",
+    "rexaID": "6046926fc134386ba1ce22047b0146525a5440b7",
+    "author": "Carlos J. Alonso Gonzalez and Juan J. Rodr and iguez Diez",
+    "title": "Time Series Classification by Boosting Interval Based Literals",
+    "venue": "Grupo de Sistemas Inteligentes Departamento de Informatica Universidad de Valladolid",
+    "year": "",
+    "window": "for classification of time series are not easy to find [9]. For this reason we have used four artificial datasets and only one \"real world\" dataset: <b>Cylinder</b>  Bell and Funnel (CBF). This is an artificial problem, introduced in [12]. The learning task is to distinguish between three classes: cylinder (c), bell",
+    "mykey": 2034
+}

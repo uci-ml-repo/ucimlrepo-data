@@ -1,0 +1,23 @@
+{
+    "ID": 205,
+    "Name": "OpinRank Review Dataset",
+    "Abstract": "This data set contains user reviews of cars and and hotels collected from Tripadvisor (~259,000 \r\nreviews) and Edmunds (~42,230 reviews).   ",
+    "Types": "Text",
+    "Task": "",
+    "AttributeTypes": "",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "2011-07-26",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00205/",
+    "URLReadme": "../machine-learning-databases/00205/OpinRankDataset.pdf",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Car Reviews\r\n------------\r\n-Full reviews of cars for model-years 2007, 2008, and 2009\r\n-There are about 140-250 cars for each model year\r\n-Extracted fields include dates, author names, favorites and the full textual review\r\n-Total number of reviews: ~42,230\r\n\r\nHotel Reviews\r\n--------------\r\n-Full reviews of hotels in 10 different cities (Dubai, Beijing, London, New York City, New Delhi, San Francisco, Shanghai, Montreal, Las Vegas, Chicago)\r\n-There are about 80-700 hotels in each city\r\n-Extracted fields include date, review title and the full review\r\n-Total number of reviews: ~259,000",
+    "Source": "Kavita Ganesan & ChengXiang Zhai\r\nUniversity of Illinois @ Urbana Champaign\r\nhttp://www.kavita-ganesan.com/entity-ranking-data",
+    "Acknowledgements": "Bibtex as follows: \r\n\r\n@article {opinrank,\r\n\ttitle = {Opinion-Based Entity Ranking},\r\n\tjournal = {Information Retrieval},\r\n\tyear = {2011},\r\n\tkeywords = {adhoc multifaceted search, entity oriented search, entity ranking, entity retrieval, product search},\r\n\tdoi = {10.1007/s10791-011-9174-8},\r\n\tattachments = {http://www.kavita-ganesan.com/sites/default/files/EntityRank.pdf},\r\n\tauthor = {Kavita Ganesan and ChengXiang Zhai}\r\n}",
+    "Area": "Computer",
+    "RelevantPapers": "Ganesan, K. A., and C. X. Zhai, 'Opinion-Based Entity Ranking', Information Retrieval, 2011.",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 9
+}

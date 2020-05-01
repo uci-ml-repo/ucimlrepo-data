@@ -1,0 +1,11 @@
+{
+    "datasetID": 147,
+    "supportID": "5B4B162BB62A5B5F8485DC741342F7445956954A",
+    "rexaID": "d8a0c5fd34dede91f5241e9b9dca0626f6969c0d",
+    "author": "Je Scott and Mahesan Niranjan and Richard W. Prager",
+    "title": "Realisable Classifiers: Improving Operating Performance on Variable Cost Problems",
+    "venue": "Cambridge University Department of Engineering",
+    "year": "",
+    "window": "for improving classification systems in problem domains within which classification costs may not be known apriori. Empirical results are presented for artificial data, and for two real world data sets: an <b>image segmentation</b> task and the diagnosis of abnormal thyroid condition. 1 Introduction A large fraction of decision support systems, particularly those used in medical diagnostics (e.g.",
+    "mykey": 843
+}

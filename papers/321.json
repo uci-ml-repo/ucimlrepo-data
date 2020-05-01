@@ -1,0 +1,11 @@
+{
+    "datasetID": 3,
+    "supportID": "2703BDDB7960D5BBF5FD4F42E55A3E664472D72E",
+    "rexaID": "0a882383e36d72c5890e2d191326433e23e53c9b",
+    "author": "James J. Liu and James Tin and Yau Kwok",
+    "title": "An Extended Genetic Rule Induction Algorithm",
+    "venue": "Department of Computer Science Wuhan University",
+    "year": "",
+    "window": "368 15 7 2 iris 150 0 4 3 vehicle 846 0 18 4 Table 2: Average accuracies and standard deviations over the ten folds (Numbers in bold indicate the highest accuracy obtained over the four methods). Dataset majority RISE SIA ESIA <b>annealing</b> 76.17#0.06 90.65#0.02 86.53#0.03 93.32 #0.01 australian 55.51#0.04 85.36#0.02 72.46#0.19 80.58#0.10 breast 65.52#0.02 91.85#0.07 84.84#0.02 94.71 #0.04 cleveland",
+    "mykey": 321
+}

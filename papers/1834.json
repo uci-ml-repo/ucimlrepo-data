@@ -1,0 +1,11 @@
+{
+    "datasetID": 74,
+    "supportID": "B2431272E2FC1B89CD41CEE4F841AEAD3D88A197",
+    "rexaID": "7f1ab881783b9b5384c1fd78ca126009a42adbcd",
+    "author": "Hendrik Blockeel and Luc De Raedt",
+    "title": "Lookahead and Discretization in ILP",
+    "venue": "ILP",
+    "year": "1997",
+    "window": "to an interval test in the discrete domain. The three approaches have been used and compared in our experiments. 3.2 Experimental Evaluation We evaluate the effect of discretization on two datasets: the <b>Musk</b> dataset (available at the UCI repository [11]) and the Diterpene dataset, generously provided to us by Steffen Schulze-Kremer and Saso Dzeroski. Both datasets contain nondeterminate",
+    "mykey": 1834
+}

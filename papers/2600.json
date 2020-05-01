@@ -1,0 +1,11 @@
+{
+    "datasetID": 185,
+    "supportID": "",
+    "rexaID": "3D1BD9134D34F2654328F605388541763F7E43FE",
+    "author": "Mingrui Wu",
+    "title": "Collaborative Filtering via Ensembles of Matrix Factorizations",
+    "venue": "Max Planck Institute for Biological Cybernetics",
+    "year": "",
+    "window": "We present a Matrix Factorization (MF) based approach for the <b>Netflix</b> Prize competition. Currently MF based algorithms are popular and have proved successful for collaborative filtering tasks.",
+    "mykey": 2600
+}

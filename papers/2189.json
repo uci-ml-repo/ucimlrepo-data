@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "D9564C076A9FBF4DC4F5E5F19B158598AA4BA910",
+    "rexaID": "ca1479cb43feeda16386d2e50460bd2c1230bc8b",
+    "author": "Robert E. Schapire and Yoav Freund and Peter Bartlett and Wee Sun Lee",
+    "title": "The Annals of Statistics, to appear. Boosting the Margin: A New Explanation for the Effectiveness of Voting Methods",
+    "venue": "AT&T Labs",
+    "year": "1998",
+    "window": "the generalization error more often than not. In one experiment reported by Breiman, the generalization error increases even though the margins of all of the instances are increased (for this dataset, called  <b>ionosphere</b> \" the number of instances is 351, much too small for our bounds to apply). While none of these experiments contradict the theory, they highlight the incompleteness of the theory",
+    "mykey": 2189
+}

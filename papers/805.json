@@ -1,0 +1,11 @@
+{
+    "datasetID": 51,
+    "supportID": "58E03FDBC096684DD3185EC538E082DC6CC6A464",
+    "rexaID": "1ddaa5b4eba8093faad88a5426ec586c6ac63f6e",
+    "author": "Dmitriy Fradkin and David Madigan",
+    "title": "Experiments with random projections for machine learning",
+    "venue": "KDD",
+    "year": "2003",
+    "window": "that we have used in our experiments. Ionosphere, Spambase and <b>Internet</b> <b>Ads</b> were taken from UCI repository [5]. Datasets Colon and Leukemia were first used in [3] and [10] respectfully. Datasets are used without modifications, except for the Ads dataset that originally contained 3 more attributes with missing values.",
+    "mykey": 805
+}

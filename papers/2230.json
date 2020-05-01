@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "DEA2FFAF3A1031738792A5567EE13717406348EF",
+    "rexaID": "fc0a66d3a7336b6eabad919a7389c68cc37f2564",
+    "author": "Ayhan Demiriz and Kristin P. Bennett and John Shawe and I. Nouretdinov V.",
+    "title": "Linear Programming Boosting via Column Generation",
+    "venue": "Dept. of Decision Sciences and Eng. Systems, Rensselaer Polytechnic Institute",
+    "year": "",
+    "window": "LPBoost has a well-defined stopping criterion that is reached in a few iterations. It uses few weak learners. There are only 81 possible stumps on the <b>Breast</b> <b>Cancer</b> dataset (nine attributes having nine possible values), so clearly AdaBoost may require the same tree to be generated multiple times. LPBoost generates a weak learner only once and can alter the weight on",
+    "mykey": 2230
+}

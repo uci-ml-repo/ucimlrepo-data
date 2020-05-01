@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "D9C661038F2121C87654791F973D3AF20794887C",
+    "rexaID": "56eb4e64499baa9ef620d2aeb5383e1739a2e6e3",
+    "author": "Remco R. Bouckaert and Eibe Frank",
+    "title": "Evaluating the Replicability of Significance Tests for Comparing Learning Algorithms",
+    "venue": "PAKDD",
+    "year": "2004",
+    "window": "perform differently in 19 out of 27 cases. For some rows, the test consistently indicates no difference between any two of the three schemes, in particular for the iris and Hungarian <b>heart</b> disease datasets. However, most rows contain at least one cell where the outcomes of the test are not consistent. The row labeled \"consistent\" at the bottom of the table lists the number of datasets for which all",
+    "mykey": 2196
+}

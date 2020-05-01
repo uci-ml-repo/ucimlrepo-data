@@ -1,0 +1,11 @@
+{
+    "datasetID": 60,
+    "supportID": "9F99E6F0A06D692FFF731EA175DAE71AEB4C2047",
+    "rexaID": "6c5be33e1f8da0388cb66c628ccad3a0b00eab57",
+    "author": "Guido Lindner and Rudi Studer",
+    "title": "AST: Support for Algorithm Selection with a CBR Approach",
+    "venue": "PKDD",
+    "year": "1999",
+    "window": "with the results of C5.0 on these datasets which are glass2 and <b>liver</b> from the UCI repository. Besides the results of applying the different algorithms on these applications the user gets a degree of similarity of the selected cases. This",
+    "mykey": 1641
+}

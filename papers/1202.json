@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "7989EBED2CD1267D5CD9F9025ECA48984E305D8C",
+    "rexaID": "72d5bd2d46a0dc05c20340f71ac9c9e0eb6e0abf",
+    "author": "Nir Friedman and Iftach Nachman",
+    "title": "Gaussian Process Networks",
+    "venue": "UAI",
+    "year": "2000",
+    "window": "from the UCI machine learning repository [2]. These data sets are: # Boston <b>housing</b> data set - a data set describing different aspects of neighborhoods in the Boston area, and the median price of houses in those neighborhoods. The data set contains 506",
+    "mykey": 1202
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "3E40EC8BCAC796786665E3F039284AA28425E3D8",
+    "rexaID": "df1dc2bd013ef17735eb85d2de85701f833db3ff",
+    "author": "I. Yoncaci",
+    "title": "Maximum a Posteriori Tree Augmented Naive Bayes Classifiers",
+    "venue": "O EN INTEL.LIG ` ENCIA ARTIFICIAL CSIC",
+    "year": "2003",
+    "window": "In the rest of the section we discuss and justify these assertions into more detail. 14 Dataset MAPTAN MAPTAN+BMA sTAN sTAN+BMA <b>adult</b> 17.18 \u00b1 0.68 17.19 \u00b1 0.71 17.60 \u00b1 0.82 17.60 \u00b1 0.80 australian 19.91 \u00b1 1.14 19.62 \u00b1 1.13 25.39 \u00b1 1.18 24.96 \u00b1 1.13 breast 17.23 \u00b1 1.21 16.89 \u00b1 1.28 8.73 \u00b1 0.87",
+    "mykey": 518
+}

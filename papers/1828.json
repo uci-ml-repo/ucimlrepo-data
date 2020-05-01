@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "B19BCB2705D3A970E1A2235C7F042EBCA49A13F5",
+    "rexaID": "b8a6771d62cfaaffe0071e498102432d8d800573",
+    "author": "Geoffrey Holmes and Bernhard Pfahringer and Richard Kirkby and Eibe Frank and Mark A. Hall",
+    "title": "Multiclass Alternating Decision Trees",
+    "venue": "ECML",
+    "year": "2002",
+    "window": "cleveland 81.72 80.36hepatitis 79.78 77.65 ionosphere 90.49 89.72 labor 84.67 87.5 + promoters 86.8 87.3 sick-euthyroid 97.71 97.85 + sonar 76.65 74.1296.18Table 3. Wrapping two-class ADTree results dataset 1vs1 1vsRest Random Exhaustive <b>iris</b> 95.13 95.33 95.33 95.33 balance-scale 83.94 85.06 + 85.06 + 85.06 + hypothyroid 99.61 99.63 99.64 99.64 anneal 99.01 98.96 99.05 99.19 + zoo 90.38 93.45 + 95.05 +",
+    "mykey": 1828
+}

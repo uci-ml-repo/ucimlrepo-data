@@ -1,0 +1,11 @@
+{
+    "datasetID": 19,
+    "supportID": "3DEA50949D8BD6D943BC878D9E1AA5BF11FC3FC4",
+    "rexaID": "e2e72927eb590e2b7daf9095e42d6ed43ce21e68",
+    "author": "Shi Zhong and Weiyu Tang and Taghi M. Khoshgoftaar",
+    "title": "Boosted Noise Filters for Identifying Mislabeled Data",
+    "venue": "Department of Computer Science and Engineering Florida Atlantic University",
+    "year": "",
+    "window": "in Table 1. Overall, BBF-I significantly outperforms BBF-II, except for low ( 20%) noise levels for the adult, <b>car</b>  and nursery datasets. The reason BBF-II performs poorly may be that too many clean instances are weighted low. The noise filter constructed in the next round loses strong support from clean data instances, which are",
+    "mykey": 505
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 120,
+    "supportID": "520ED04C93149D14B3E77588906F3CB7EED2927A",
+    "rexaID": "f006e50cdba5e00538e2b48452e1d0bab8ed02b9",
+    "author": "Mukund Deshpande and George Karypis",
+    "title": "Evaluation of Techniques for Classifying Biological Sequences",
+    "venue": "PAKDD",
+    "year": "2002",
+    "window": "and contains 10,918 sequences of average length 361.6 symbols, it will be referred as M-EI. The <b>E</b> <b>Coli</b> Genome dataset contains sequences from the genome of prokaryote organism Escherichia coli (ecoli) [NTPP01]. To build this dataset the e-coli genome was first split into two sets of sequences, one containing",
+    "mykey": 722
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "F2729FEB3087B04F7B27E8924E6F64F3C45EABB0",
+    "rexaID": "b0009a0081cc5fbfbae758def55cfd5b3256623b",
+    "author": "",
+    "title": "Prototype Selection for Composite Nearest Neighbor Classifiers",
+    "venue": "Department of Computer Science University of Massachusetts",
+    "year": "1997",
+    "window": "there is no sense of positive and negative examples. For example, in the <b>Glass</b> Recognition data set, there are six classes and therefore six prototypes will be selected. There, the classes correspond to the source and manufacturing process of glass fragments for crime scene analysis: building",
+    "mykey": 2449
+}

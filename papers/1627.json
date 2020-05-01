@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "9E1FA5B9196F81C37C01592F5FFE69CD2BF7D1FD",
+    "rexaID": "2aefeeb5c89fa6bd9fe7606fee20e1285438d5a5",
+    "author": "Chris Drummond and Robert C. Holte",
+    "title": "Explicitly representing expected cost: an alternative to ROC representation",
+    "venue": "KDD",
+    "year": "2000",
+    "window": "classifier for a particular PCF(+) value is not necessarily the one produced by a training set with the same PCF(+) characteristics is illustrated in figure 17, which shows ROC curves for the <b>sonar</b> data set from the UCI collection [1]. The points represented by circles, and connected by solid lines, were generated using C4.5 (release 7 using information gain) modified to account for costs (by altering",
+    "mykey": 1627
+}

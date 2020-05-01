@@ -1,0 +1,11 @@
+{
+    "datasetID": 105,
+    "supportID": "5FD66E44BB96F8919F46F1E20FB1F1CBECB487F3",
+    "rexaID": "632fe4095475bee152843a02969ade56a290db39",
+    "author": "Igor Kononenko and Edvard Simec and Marko Robnik-Sikonja",
+    "title": "Overcoming the Myopia of Inductive Learning Algorithms with RELIEFF",
+    "venue": "Appl. Intell, 7",
+    "year": "1997",
+    "window": "Assistant-R and LFC achieve significantly better result (99.95% confidence level). This result confirms that RELIEFF estimates the quality of attributes better than the information gain. On the <b>VOTE data</b> set the naive Bayesian classifier is the worst, while both versions of Assistant are comparable to the rule based classifier by Smyth et al. [31]. The most interesting results appear in the MESH",
+    "mykey": 897
+}

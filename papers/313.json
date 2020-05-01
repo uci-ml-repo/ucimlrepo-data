@@ -1,0 +1,11 @@
+{
+    "datasetID": 150,
+    "supportID": "26AEA27D034C1DA2F37B2AD0DF34C786F73E1E32",
+    "rexaID": "1c251864a7292b2f635e211e0027653df4b382a2",
+    "author": "Dietrich Wettschereck and David W. Aha",
+    "title": "Weighting Features",
+    "venue": "ICCBR",
+    "year": "1995",
+    "window": "contains some redundant features, while the <b>NETtalk</b> dataset has no irrelevant or redundant features (Wettschereck, 1994). Each dataset was randomly partitioned 25 times into disjoint training and test sets. Table 4 lists the algorithms' average test set",
+    "mykey": 313
+}

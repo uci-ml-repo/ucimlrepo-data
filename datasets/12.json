@@ -1,0 +1,23 @@
+{
+    "ID": 12,
+    "Name": "Balance Scale",
+    "Abstract": "Balance scale weight & distance database",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 625,
+    "NumAttributes": 4,
+    "DateDonated": "1994-04-22",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/balance-scale/",
+    "URLReadme": "../machine-learning-databases/balance-scale/balance-scale.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This data set was generated to model psychological experimental results.  Each example is classified as having the balance scale tip to the right, tip to the left, or be balanced.  The attributes are the left weight, the left distance, the right weight, and the right distance.  The correct way to find the class is the greater of  (left-distance * left-weight) and (right-distance * right-weight).  If they are equal, it is balanced.",
+    "Source": "Generated to model psychological experiments reported by Siegler, R. S. (1976).\r\nThree Aspects of Cognitive Development.  Cognitive Psychology, 8, 481-520.\r\n\r\nDonor: \r\n\r\nTim Hume (hume@ics.uci.edu)",
+    "Acknowledgements": "",
+    "Area": "Social",
+    "RelevantPapers": "Klahr, D., & Siegler, R.S. (1978).  The Representation of Children's Knowledge.  In H. W. Reese & L. P. Lipsitt (Eds.), Advances in Child Development and Behavior, pp. 61-116.  New York: Academic Press \r\nhttp://rexa.info/paper/2ef380b06ce9d1b17eb4cd74ef3a90099d8d713b\r\n\r\nLangley,P. (1987).  A General Theory of Discrimination Learning.  In D. Klahr, P. Langley, & R. Neches (Eds.), Production System Models of Learning and Development, pp. 99-161. Cambridge, MA: MIT Press\r\nhttp://rexa.info/paper/faf49a24bd50d12e111dd6cc6a3b2833189b3375\r\n\r\nNewell, A. (1990).  Unified Theories of Cognition. Cambridge, MA: Harvard University Press\r\nhttp://rexa.info/paper/9d57f20c42bc53c5becb15e127ccfc0ed8a22132\r\n\r\nMcClelland, J.L. (1988).  Parallel Distibuted Processing: Implications for Cognition and Development.  Technical Report AIP-47, Department of Psychology, Carnegie-Mellon University \r\nhttp://rexa.info/paper/7d9ba067ebaac69829036f782e6b99d4449b561f\r\n\r\nShultz, T., Mareschal, D., & Schmidt, W. (1994).  Modeling Cognitive Development on Balance Scale Phenomena. Machine Learning, Vol. 16, pp. 59-88.\r\nhttp://rexa.info/paper/c59164e3cbba0f0f49b4538806ced684bc1690e2",
+    "AttributeInfo": "\t1. Class Name: 3 (L, B, R)\r\n\t2. Left-Weight: 5 (1, 2, 3, 4, 5)\r\n\t3. Left-Distance: 5 (1, 2, 3, 4, 5)\r\n\t4. Right-Weight: 5 (1, 2, 3, 4, 5)\r\n\t5. Right-Distance: 5 (1, 2, 3, 4, 5)",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 13283
+}

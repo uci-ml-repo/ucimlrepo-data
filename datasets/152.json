@@ -1,0 +1,23 @@
+{
+    "ID": 152,
+    "Name": "Connectionist Bench (Vowel Recognition - Deterding Data)",
+    "Abstract": "Speaker independent recognition of the eleven steady state vowels of British English using a specified training set of lpc derived log area ratios.",
+    "Types": "",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 528,
+    "NumAttributes": 10,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/undocumented/connectionist-bench/vowel/",
+    "URLReadme": "../machine-learning-databases/undocumented/connectionist-bench/vowel/vowel.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The problem is specified by the accompanying data file, \"vowel.data\".  This consists of a three dimensional array: voweldata [speaker, vowel, input]. The speakers are indexed by integers 0-89.  (Actually, there are fifteen individual speakers, each saying each vowel six times.)  The vowels are indexed by integers 0-10.  For each utterance, there are ten floating-point input values, with array indices 0-9.\r\n\r\nThe problem is to train the network as well as possible using only on data from \"speakers\" 0-47, and then to test the network on speakers 48-89, reporting the number of correct classifications in the test set.\r\n\r\nFor a more detailed explanation of the problem, see the excerpt from Tony Robinson's Ph.D. thesis in the COMMENTS section.  In Robinson's opinion, connectionist problems fall into two classes, the possible and the impossible.  He is interested in the latter, by which he means problems that have no exact solution.  Thus the problem here is not to see how fast a network can be trained (although this is important), but to maximise a less than perfect performance.",
+    "Source": "David Deterding  (data and non-connectionist analysis)\r\nMahesan Niranjan (first connectionist analysis)\r\nTony Robinson    (description, program, data, and results) - \"ajr@dsl.eng.cam.ac.uk\"\r\n",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "[Deterding89] D. H. Deterding, 1989, University of Cambridge, \"Speaker Normalisation for Automatic Speech Recognition\", submitted for PhD.\r\nhttp://rexa.info/paper/0c79f4d4df0373647249823aaf7b55e54023f3ed\r\n\r\n[NiranjanFallside88] M. Niranjan and F. Fallside, 1988, Cambridge University Engineering Department, \"Neural Networks and Radial Basis Functions in Classifying Static Speech Patterns\", CUED/F-INFENG/TR.22.\r\nhttp://rexa.info/paper/f9194f42e8820b2b50a7c80ee98c2ee30d6d7a6a\r\n\r\n[RenalsRohwer89-ijcnn] Steve Renals and Richard Rohwer, \"Phoneme Classification Experiments Using Radial Basis Functions\", International Joint Conference on Neural Networks, Washington, 1989.\r\nhttp://rexa.info/paper/d6a24cc8280eaa9f675700d4b0bf409bdb8186b0",
+    "AttributeInfo": "",
+    "FormatType": "",
+    "NumHits": 8043
+}

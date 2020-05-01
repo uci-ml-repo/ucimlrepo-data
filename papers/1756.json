@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "AB73B18C24486B8AB786ACE3D38A490E20D425EE",
+    "rexaID": "0b088e37f14f4bd30ad6c550b543306c6363eaa7",
+    "author": "Marina Skurichina and Robert P W Duin",
+    "title": "Boosting in Linear Discriminant Analysis",
+    "venue": "Multiple Classifier Systems",
+    "year": "2000",
+    "window": "are taken from the UCI Repository [14]. The first is the 34dimensional <b>ionosphere</b> data set (Data II) with 225 and 126 objects belonging to the first and the second data class, respectively. The second is the 8-dimensional diabetes data set (Data III) consisting of 500 and 268 objects from",
+    "mykey": 1756
+}

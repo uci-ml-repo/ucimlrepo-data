@@ -1,0 +1,23 @@
+{
+    "ID": 59,
+    "Name": "Letter Recognition",
+    "Abstract": "Database of character image features; try to identify the letter",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 20000,
+    "NumAttributes": 16,
+    "DateDonated": "1991-01-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/letter-recognition/",
+    "URLReadme": "../machine-learning-databases/letter-recognition/letter-recognition.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The objective is to identify each of a large number of black-and-white rectangular pixel displays as one of the 26 capital letters in the English alphabet.  The character images were based on 20 different fonts and each letter within these 20 fonts was randomly distorted to produce a file of 20,000 unique stimuli.  Each stimulus was converted into 16 primitive numerical attributes (statistical moments and edge counts) which were then scaled to fit into a range of integer values from 0 through 15.  We typically train on the first 16000 items and then use the resulting model to predict the letter category for the remaining 4000.  See the article cited above for more details.",
+    "Source": "Creator: \r\n\r\nDavid J. Slate\r\nOdesta Corporation; 1890 Maple Ave; Suite 115; Evanston, IL 60201\r\n\r\nDonor: \r\n\r\nDavid J. Slate (dave@math.nwu.edu) (708) 491-3867   ",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "P. W. Frey and D. J. Slate. \"Letter Recognition Using Holland-style Adaptive Classifiers\". (Machine Learning Vol 6 #2 March 91)\r\nhttp://rexa.info/paper/20ffa3d5e05b868d49b102b97c2a60037e85f34e",
+    "AttributeInfo": "\t 1.\tlettr\tcapital letter\t(26 values from A to Z)\r\n\t 2.\tx-box\thorizontal position of box\t(integer)\r\n\t 3.\ty-box\tvertical position of box\t(integer)\r\n\t 4.\twidth\twidth of box\t\t\t(integer)\r\n\t 5.\thigh \theight of box\t\t\t(integer)\r\n\t 6.\tonpix\ttotal # on pixels\t\t(integer)\r\n\t 7.\tx-bar\tmean x of on pixels in box\t(integer)\r\n\t 8.\ty-bar\tmean y of on pixels in box\t(integer)\r\n\t 9.\tx2bar\tmean x variance\t\t\t(integer)\r\n\t10.\ty2bar\tmean y variance\t\t\t(integer)\r\n\t11.\txybar\tmean x y correlation\t\t(integer)\r\n\t12.\tx2ybr\tmean of x * x * y\t\t(integer)\r\n\t13.\txy2br\tmean of x * y * y\t\t(integer)\r\n\t14.\tx-ege\tmean edge count left to right\t(integer)\r\n\t15.\txegvy\tcorrelation of x-ege with y\t(integer)\r\n\t16.\ty-ege\tmean edge count bottom to top\t(integer)\r\n\t17.\tyegvx\tcorrelation of y-ege with x\t(integer)",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 19709
+}

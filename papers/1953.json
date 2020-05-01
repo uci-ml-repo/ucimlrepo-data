@@ -1,0 +1,11 @@
+{
+    "datasetID": 1,
+    "supportID": "C1664239D276062B38DB65251983020A1C4B4AA1",
+    "rexaID": "1b77c2b6fd8a261af286cf411879f9f520824bd6",
+    "author": "Marc Sebban and Richard Nock and St\u00e9phane Lallich",
+    "title": "Stopping Criterion for Boosting-Based Data Reduction Techniques: from Binary to Multiclass Problem",
+    "venue": "Journal of Machine Learning Research, 3",
+    "year": "2002",
+    "window": "are negative (-1). When a class j is tested against the others, the current label of the instance e is the value M(y(e); j), where y(e) 2 f1; 2; ::; cg. Table 4: Multiclass classification problems. Dataset # classes jLSj # features Waves 3 500 21 <b>Abalone</b> 3 1000 8 Glass 6 214 9 Balance 3 625 4 Iris 3 150 4 Led 10 500 7 Led+17 10 500 24 Dermatology 6 366 34 18 Stopping criterion for boosting 1 2 3 4 5 6",
+    "mykey": 1953
+}

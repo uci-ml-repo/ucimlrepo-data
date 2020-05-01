@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "53BE2C9C67B260720C526879C0004AD76388148F",
+    "rexaID": "8be22c7cb4b6b5d2147c5376492279b13ba12e07",
+    "author": "",
+    "title": "Eectiveness of Error Correcting Output Coding methods in ensemble and monolithic learning machines",
+    "venue": "Dipartimento di Informatica, Universitdi Pisa",
+    "year": "",
+    "window": "and composed by normal distributed clusters of data. The set p6 contains 6 classes with no overlapping regions, while the regions of the 9 classes of p9 hardly overlap. <b>Glass</b>  letter and optdigits data sets are from the UCI repository [42]. In the experimentation we have used exhaustive [17] and BCH ECOC generation algorithms [8]. ECOC exhaustive algorithms select among all possible 2 K dichotomies",
+    "mykey": 758
+}

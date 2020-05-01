@@ -1,0 +1,11 @@
+{
+    "datasetID": 140,
+    "supportID": "465A4BEAE130CAF080C34F8DE0884A27D16D123B",
+    "rexaID": "c58fd4c0c5b8fefc00686150d5af26f6966807ef",
+    "author": "Stephen D. Bay and Dennis F. Kibler and Michael J. Pazzani and Padhraic Smyth",
+    "title": "The UCI KDD Archive of Large Data Sets for Data Mining Research and Experimentation",
+    "venue": "SIGKDD Explorations, 2",
+    "year": "2000",
+    "window": "and surface meteorological readings taken from a series of buoys positioned throughout the equatorial Pacific. Text Data suchaswebpages or newspaper articles. For example, the <b>Syskill</b> and <b>Webert</b> data set contains webpages dealing with four different topic areas (music bands, bio-medical, goats, and sheep). Time series and Sequence data which consists of a consecutively ordered set of observations,",
+    "mykey": 610
+}

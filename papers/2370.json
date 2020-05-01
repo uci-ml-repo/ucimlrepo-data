@@ -1,0 +1,11 @@
+{
+    "datasetID": 108,
+    "supportID": "EC7FEEF4845B232307D7A88A8B760D1D4F5536FB",
+    "rexaID": "7ee121b26e79c0a7aa5c80979e275fc3592d0638",
+    "author": "Giorgio Valentini",
+    "title": "Ensemble methods based on bias--variance analysis Theses Series DISI-TH-2003",
+    "venue": "Dipartimento di Informatica e Scienze dell'Informazione ",
+    "year": "2003",
+    "window": "polynomial degrees: (a) degree = 2, (b) degree = 3, (c) degree = 5, (d) degree = 10 . . . . . . . . . . . . . . . . . . . . . . . . . . 67 4.17 Bias in polynomial SVMs with (a) <b>Waveform</b> and (b) Spam data sets, varying both C and polynomial degree. . . . . . . . . . . . . . . . . . . . . . . 68 4.18 Bias-variance decomposition of error in bias, net variance, unbiased and biased variance in polynomial",
+    "mykey": 2370
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 105,
+    "Name": "Congressional Voting Records",
+    "Abstract": "1984 United Stated Congressional Voting Records; Classify as Republican or Democrat",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 435,
+    "NumAttributes": 16,
+    "DateDonated": "1987-04-27",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/voting-records/",
+    "URLReadme": "../machine-learning-databases/voting-records/house-votes-84.names",
+    "HighestAccuracy": 95,
+    "RelevantInfo": "This data set includes votes for each of the U.S. House of Representatives Congressmen on the 16 key votes identified by the CQA.  The CQA lists nine different types of votes: voted for, paired for, and announced for (these three simplified to yea), voted against, paired against, and announced against (these three simplified to nay), voted present, voted present to avoid conflict of interest, and did not vote or otherwise make a position known (these three simplified to an unknown disposition).",
+    "Source": "Origin:\r\n\r\nCongressional Quarterly Almanac, 98th Congress,  2nd session 1984, Volume XL: Congressional Quarterly Inc. Washington, D.C., 1985.\r\n\r\nDonor: \r\n\r\nJeff Schlimmer (Jeffrey.Schlimmer@a.gp.cs.cmu.edu)",
+    "Acknowledgements": "",
+    "Area": "Social",
+    "RelevantPapers": "Schlimmer, J. C. (1987).  Concept acquisition through representational adjustment.  Doctoral dissertation, Department of Information and Computer Science, University of California, Irvine, CA.\r\nhttp://rexa.info/paper/fbd1dcb58b86c6fa9bb5eadb994213d751a55ff7",
+    "AttributeInfo": "   1. Class Name: 2 (democrat, republican)\r\n   2. handicapped-infants: 2 (y,n)\r\n   3. water-project-cost-sharing: 2 (y,n)\r\n   4. adoption-of-the-budget-resolution: 2 (y,n)\r\n   5. physician-fee-freeze: 2 (y,n)\r\n   6. el-salvador-aid: 2 (y,n)\r\n   7. religious-groups-in-schools: 2 (y,n)\r\n   8. anti-satellite-test-ban: 2 (y,n)\r\n   9. aid-to-nicaraguan-contras: 2 (y,n)\r\n  10. mx-missile: 2 (y,n)\r\n  11. immigration: 2 (y,n)\r\n  12. synfuels-corporation-cutback: 2 (y,n)\r\n  13. education-spending: 2 (y,n)\r\n  14. superfund-right-to-sue: 2 (y,n)\r\n  15. crime: 2 (y,n)\r\n  16. duty-free-exports: 2 (y,n)\r\n  17. export-administration-act-south-africa: 2 (y,n)",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 21479
+}

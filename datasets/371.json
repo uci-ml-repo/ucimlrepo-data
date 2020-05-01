@@ -1,0 +1,23 @@
+{
+    "ID": 371,
+    "Name": "NIPS Conference Papers 1987-2015",
+    "Abstract": "This data set contains the distribution of words in the full text of the NIPS conference papers published from 1987 to 2015.",
+    "Types": "Text",
+    "Task": "Clustering",
+    "AttributeTypes": "Integer",
+    "NumInstances": 11463,
+    "NumAttributes": 5812,
+    "DateDonated": "2016-11-23",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00371/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The dataset is in the form of a 11463 x 5812 matrix of word counts, containing 11463 words and 5811 NIPS conference papers (the first column contains the list of words). Each column contains the number of times each word appears in the corresponding document. The names of the columns give information about each document and its timestamp in the following format: Xyear_paperID. \r\n\r\nThe matrix of word counts was obtained using the R package 'tm\u00e2\u20ac\u009d to process the raw .txt files of the full text of the NIPS conference papers published between 1987 and 2015. The document-term matrix was constructed after tokenization, removal of stopwords and truncation of the vocabulary by only keeping words occurring more than 50 times.",
+    "Source": "Valerio Perrone\r\nv.perrone@warwick.ac.uk\r\nDepartment of Statistics\r\nUniversity of Warwick\r\nCoventry (UK)",
+    "Acknowledgements": "If you use this data please cite 'Poisson Random Fields for Dynamic Feature Models'. Perrone V., Jenkins P. A., Spano D., Teh Y. W. (2016). arXiv:1611.07460 (https://arxiv.org/abs/1611.07460).",
+    "Area": "Computer",
+    "RelevantPapers": "Perrone V., Jenkins P. A., Spano D., Teh Y. W. (2016). Poisson Random Fields for Dynamic Feature Models. arXiv:1611.07460 (https://arxiv.org/abs/1611.07460).",
+    "AttributeInfo": "Column 1: 'X' (list of words)\r\nColumns 2-5812: 'Xyear_ID' (timestamp and paper ID)",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

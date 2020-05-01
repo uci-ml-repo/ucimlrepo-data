@@ -1,0 +1,11 @@
+{
+    "datasetID": 137,
+    "supportID": "4C2F166E8384723CD8E5E872FFCF52859F95F6BB",
+    "rexaID": "480c0ae46486d7a7881f88224c5216ea0b7da839",
+    "author": "David Littau and Daniel Boley",
+    "title": "Using Low-Memory Representations to Cluster Very Large Data Sets",
+    "venue": "SDM",
+    "year": "2003",
+    "window": "which are already sparse to begin with, such as the document datasets k1 and <b>reuters</b>  However, a larger document data set would probably see a higher percentage of memory savings, since the number of possible attributes in document data sets is limited by the number",
+    "mykey": 673
+}

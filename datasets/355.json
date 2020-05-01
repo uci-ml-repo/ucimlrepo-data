@@ -1,0 +1,23 @@
+{
+    "ID": 355,
+    "Name": "Detect Malacious Executable(AntiVirus)",
+    "Abstract": "I extract features from malacious and non-malacious and create and training dataset to teach svm classifier.Dataset made of unknown executable to detect if it is virus or normal safe executable.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 373,
+    "NumAttributes": 513,
+    "DateDonated": "2016-03-03",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00355/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "TRAINING File : I have created training file with 100+ non malacious examples and 250+ malacious samples. NON-MALACIOUS dataset is represented by +1 while MALACIOUS datset     is represented by -1 as label. Based on comparison and analysis I have selected 500 most commonly occuring features in MALACIOUS and NON-MALACIOUS file and compared extracted features of each file with this best features. The file is saved with .train extension.\r\n\r\nTESTING file: We select a unknown malacious executable and carry out same procedure on it ( however we can put it in any class +1/ -1) cuz svmpredict will any way corretly find it for us. We save this testing file with .test extension. ",
+    "Source": "Piyush Anasta Rumao,\r\nUnderGrad Computer Engineer from Fr.Conceicao Rodrigues College of Enginerring,Bandra,Mumbai,\r\nUniversity of Mumbai, \r\nemail:- piyushrumao@gmail.com\r\nphone- +91-7387712196 / +91-8554041806\r\nyou can call / mail me anytime regarding any query or to know more about working model of antivrius that I can created.",
+    "Acknowledgements": "I found no dataSet on AntiVirus techniques which is need of hour.\r\nSo I hope you encourage this work.\r\nLooking forward for positive response.",
+    "Area": "Computer",
+    "RelevantPapers": "my project is been done based on paper published by\r\nA hybrid Model to detect malacious executable( using data mining and machine learning concept) by -- MM Masud , Latifur Khan, Bhavani Thuraisingham ",
+    "AttributeInfo": "For best results I have used Hybrid Features ( hexdump and DLL) from an executable. After extracting this features I find out the top 500 hex features and top 13 DLL features which are most commonly occuring and prepare file with best features.Now feature amoung this which are found in individual file is been stated in dataset along with 1 while rest are ignored and feature set ends with -1  ie say ( +1 2:1 5:1 45:1 .............. -1)  \r\nso here +1 states a NON-malacious file while 2:1 states 2nd feature exists similarly for 5,45 while features which do not occur are simply ignored.\r\nFor MALACIOUS executable we write it as ( -1 6:1 56:1 ............ -1)\r\nso Attribute which exists is given a  colon 1 ahead of it (:1)  ",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

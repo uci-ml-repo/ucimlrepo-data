@@ -1,0 +1,11 @@
+{
+    "datasetID": 9,
+    "supportID": "C9498206B4C372BCDBBF1FC7DA3B4E743E131DA6",
+    "rexaID": "3caf773de7b1ad6c9236cbd03763058bc8846e9d",
+    "author": "Dan Pelleg",
+    "title": "Scalable and Practical Probability Density Estimators for Scientific Anomaly Detection",
+    "venue": "School of Computer Science Carnegie Mellon University",
+    "year": "2004",
+    "window": "would be to first try and estimate \u00be (say, using a model with spherical Gaussians) and use the estimate to set the rectangle tails. Experiments on real-life data were done on the  <b>mpg</b>  and \"census\" datasets from the UCI repository (Blake & Merz, 1998). The \"mpg\" data has about 400 records with 7 continuous 2 attributes. Running on this data with the number of components set to three, we get the",
+    "mykey": 2005
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 349,
+    "Name": "Open University Learning Analytics dataset",
+    "Abstract": "Open University Learning Analytics Dataset contains data about courses, students and their interactions with Virtual Learning Environment for seven selected courses and more than 30000 students.",
+    "Types": "Multivariate, Sequential, Time-Series",
+    "Task": "Classification, Regression, Clustering",
+    "AttributeTypes": "Integer",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "2015-12-21",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00349/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Open University Learning Analytics Dataset (OULAD) contains data about courses, students and their interactions with Virtual Learning Environment (VLE) for seven selected courses (called modules). Presentations of courses start in February and October - they are marked by 'B' and 'J' respectively. The dataset consists of tables connected using unique identifiers. Dataset is stored in several csv files. More information, examples and news can be found at:       https://analyse.kmi.open.ac.uk/open_dataset",
+    "Source": "Jakub Kuzilek (jakub.kuzilek@gmail.com)\r\nKnowledge Media Institute, The Open University\r\nWalton Hall, Milton Keynes, MK7 6AA, UK\r\nCIIRC, CTU in Prague\r\nZikova 1903/4, Prague, CZ\r\nMartin Hlosta (martin.hlosta@open.ac.uk)\r\nKnowledge Media Institute, The Open University\r\nWalton Hall, Milton Keynes, MK7 6AA, UK\r\nZdenek Zdrahal (zdenek.zdrahal@open.ac.uk)\r\nKnowledge Media Institute, The Open University\r\nWalton Hall, Milton Keynes, MK7 6AA, UK\r\nCIIRC, CTU in Prague\r\nZikova 1903/4, Prague, CZ\r\n",
+    "Acknowledgements": "Released under CC-BY 4.0. Please use this paper for your citation: Kuzilek, J., Hlosta, M., Herrmannova, D., Zdrahal, Z. and Wolff, A. OU Analyse: Analysing At-Risk Students at The Open University. Learning Analytics Review, no. LAK15-1, March 2015, ISSN: 2057-7494.",
+    "Area": "Computer",
+    "RelevantPapers": "",
+    "AttributeInfo": "see description file",
+    "FormatType": "Matrix",
+    "NumHits": 8
+}

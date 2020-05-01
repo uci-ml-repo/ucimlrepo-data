@@ -1,0 +1,23 @@
+{
+    "ID": 419,
+    "Name": "Autistic Spectrum Disorder Screening Data for Children  ",
+    "Abstract": "Children screening data for autism suitable for classification and predictive tasks ",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 292,
+    "NumAttributes": 21,
+    "DateDonated": "2017-12-24",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00419/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "see attached file for variables' description ",
+    "Source": "Fadi Fayez Thabtah\r\nDepartment of Digital Technology\r\nManukau Institute of Technology,\r\nAuckland, New Zealand\r\nfadi.fayez@manukau.ac.nz\r\n",
+    "Acknowledgements": "If you have no special citation requests, please leave this field blank.",
+    "Area": "Life",
+    "RelevantPapers": "1) Tabtah, F. (2017). Autism Spectrum Disorder Screening: Machine Learning Adaptation and DSM-5 Fulfillment. Proceedings of the 1st International Conference on Medical and Health Informatics 2017, pp.1-6. Taichung City, Taiwan, ACM.\r\n2) Thabtah, F. (2017). ASDTests. A mobile app for ASD screening. www.asdtests.com [accessed December  20th, 2017].\r\n3) Thabtah, F. (2017). Machine Learning in Autistic Spectrum Disorder Behavioural Research: A Review. To Appear in Informatics for Health and Social Care Journal. December, 2017 (in press)\r\n",
+    "AttributeInfo": "see attached file for variables' description ",
+    "FormatType": "",
+    "NumHits": 0
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "2232BCB796B214EAF95BB80BF5193EC483C3B230",
+    "rexaID": "3c1b37ca3a2f0825890509a5ff17081cf012fffd",
+    "author": "Anthony K H Tung and Xin Xu and Beng Chin Ooi",
+    "title": "CURLER: Finding and Visualizing Nonlinear Correlated Clusters",
+    "venue": "SIGMOD Conference",
+    "year": "2005",
+    "window": "of three helix clusters with different cluster existence spaces, the <b>iris</b> plant dataset and the image segmentation dataset from the UCI Repository of Machine Learning Databases and Domain Theories [6], and the Iyer time series gene expression data with 10 well-known linear clusters",
+    "mykey": 273
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 293,
+    "Name": "Twitter Data set for Arabic Sentiment Analysis",
+    "Abstract": "This problem of Sentiment Analysis (SA) has been studied well on the English language but not Arabic one. Two main approaches have been devised: corpus-based and lexicon-based. ",
+    "Types": "Text",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 2000,
+    "NumAttributes": 2,
+    "DateDonated": "2014-04-11",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00293/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": " --- By using a tweet crawler, we collect 2000 labelled tweets (1000 positive tweets and 1000 negative ones)\r\n       on various topics such as: politics and arts. These tweets include opinions written in both\r\n       Modern Standard Arabic (MSA) and the Jordanian dialect.\r\n\r\n   --- The selected tweets convey some kind of feelings (positive or negative) and the objective of our model is\r\n        to extract valuable information from such tweets in order to determine the sentiment orientation of the inputted text.\r\n       The months-long annotation process of the tweets is manually conducted mainly by two human experts\r\n       (native speakers of Arabic). If both experts agree on the label of a certain tweet, then the tweet is assigned this label.\r\n       Otherwise, a third expert is consulted to break the tie. \r\n\r\n   --- Predicted attribute: class of opinion polarity.",
+    "Source": "N. A. Abdulla, naabdulla11@cit.just.edu.jo",
+    "Acknowledgements": "Please cite the above paper if you utilize the data set.",
+    "Area": "Social",
+    "RelevantPapers": "Abdulla N. A., Mahyoub N. A., Shehab M., Al-Ayyoub M.,\u00e2\u20ac\u0153Arabic Sentiment Analysis: Corpus-based and Lexicon-based\u00e2\u20ac\u009d,IEEE conference on Applied Electrical Engineering and Computing Technologies (AEECT 2013),December 3-12, 2013, Amman, Jordan. (Accepted for Publication).",
+    "AttributeInfo": "1. Tweet as a string vector\r\n   2. class: \r\n      -- Positive polarity\r\n      -- Negative poalrity\r\n\r\nSummary Statistics:\r\n\t \t\t\t        Positive\tNegative        \r\n  \tTotal tweets\t\t        1000\t        1000\r\n\tTotal words\t\t        7189\t        9769\r\n\tAvg. words in each tweet        7.19\t        9.97\r\n\tAvg. characters in each tweet\t40.04\t        59.02\r\n",
+    "FormatType": "",
+    "NumHits": 8
+}

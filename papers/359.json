@@ -1,0 +1,11 @@
+{
+    "datasetID": 42,
+    "supportID": "2B523CE5C92F095B443C424A714B2C8DB80EB769",
+    "rexaID": "78b94c51025c63bb39ea776347fe151e203eaa24",
+    "author": "Francesco Masulli",
+    "title": "An experimental analysis of the dependence among codeword bit errors in ECOC learning machines",
+    "venue": "and Giorgio Valentini b,c",
+    "year": "2003",
+    "window": "machine, varying the number of hidden units between 5 to 50, yielding to 11\u00d720 = 220 evaluations of I E , I SE , \u00a9R and \u00a9 S both for ECOC monolithic and ECOC PND learning machines. For the UCI data sets <b>glass</b>  letter and optdigits we used only 2 di\u00aeerent structures, using, respectively, 5 and 9, 120 and 140, 60 and 70 hidden units, yielding to 2 \u00d7 20 = 40 evaluations of the mutual information",
+    "mykey": 359
+}

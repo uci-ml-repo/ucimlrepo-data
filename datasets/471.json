@@ -1,0 +1,23 @@
+{
+    "ID": 471,
+    "Name": "Electrical Grid Stability Simulated Data ",
+    "Abstract": "The local stability analysis of the 4-node star system (electricity producer is in the center) implementing Decentral Smart Grid Control concept. ",
+    "Types": "Multivariate",
+    "Task": "Classification, Regression",
+    "AttributeTypes": "Real",
+    "NumInstances": 10000,
+    "NumAttributes": 14,
+    "DateDonated": "2018-11-16",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00471/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The analysis is performed for different sets of input values using the methodology similar to that described in [Sch\u00c3\u00a4fer, Benjamin, et al. 'Taming instabilities in power grid networks by decentralized control.' The European Physical Journal Special Topics 225.3 (2016): 569-582.]. Several input values are kept the same: averaging time: 2 s; coupling strength: 8 s^-2; damping: 0.1 s^-1",
+    "Source": "   -- Creator and donor: Vadim  Arzamasov (vadim.arzamasov@kit.edu),\r\n   Department of computer science,\r\n   Karlsruhe Institute of Technology; \r\n   Karlsruhe, 76131; Germany  \r\n   -- Date: November, 2018\r\n",
+    "Acknowledgements": "We thank Dr. Benjamin Sch\u00c3\u00a4fer for helping us with the initial version of the code used for simulations.",
+    "Area": "Physical",
+    "RelevantPapers": "Arzamasov, Vadim, Klemens B\u00c3\u00b6hm, and Patrick Jochem. 'Towards Concise Models of Grid Stability.' Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2018 IEEE International Conference on. IEEE, 2018  \r\n(Section V-A)\r\n",
+    "AttributeInfo": "11 predictive attributes, 1 non-predictive(p1), 2 goal fields:\r\n1. tau[x]: reaction time of participant (real from the range [0.5,10]s). Tau1 - the value for electricity producer.\r\n   2. p[x]: nominal power consumed(negative)/produced(positive)(real). For consumers from the range [-0.5,-2]s^-2; p1 = abs(p2 + p3 + p4)\r\n   3. g[x]: coefficient (gamma) proportional to price elasticity (real from the range [0.05,1]s^-1). g1 - the value for electricity producer.\r\n   4. stab: the maximal real part of the characteristic equation root (if positive - the system is linearly unstable)(real)\r\n   5. stabf: the stability label of the system (categorical: stable/unstable)\r\n",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

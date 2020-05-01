@@ -1,0 +1,11 @@
+{
+    "datasetID": 73,
+    "supportID": "74C01DA43B215794D83BBB05569B744721F382EA",
+    "rexaID": "66e4adde5454a4c13960687a350b7bd2b12859db",
+    "author": "Hyunsoo Kim and Se Hyun Park",
+    "title": "Data Reduction in Support Vector Machines by a Kernelized Ionic Interaction Model",
+    "venue": "SDM",
+    "year": "2004",
+    "window": "time to obtain ten-fold cross validation accuracy. (c) The number of support vectors. All results were drawn against the percentage of selected data points on the UC Irvine 8124 \u00d7 22 <b>Mushroom</b> data set. The solid, dashed, and dashdot lines were the results of IoI for the selection threshold values \u00a9 t of 0.1, 0.01, and 0.0, respectively. The circle points were the results of KIB2. The star,",
+    "mykey": 1144
+}

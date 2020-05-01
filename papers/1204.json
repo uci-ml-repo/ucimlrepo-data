@@ -1,0 +1,11 @@
+{
+    "datasetID": 69,
+    "supportID": "7A30125A4EFBF73DE5CAFB65326D7B8AB83EF20A",
+    "rexaID": "f877b9d13dc80d6292789ea42108706658a378ab",
+    "author": "Susanne Hoche and Stefan Wrobel",
+    "title": "Scaling Boosting by Margin-Based Inclusionof Features and Relations",
+    "venue": "ECML",
+    "year": "2002",
+    "window": "in four domains, and without a significant deterioration of predictive accuracy in the one domain where only few features are present. C 2 RIB shows a poor performance on the <b <b>splice</b> junction</b> dataset, most likely due to the great number of features. However, C 2 RIB D clearly outperforms C 2 RIB both in accuracy and learning time. Table 3. Accuracy, standard deviation and learning time in",
+    "mykey": 1204
+}

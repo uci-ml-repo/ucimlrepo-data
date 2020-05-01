@@ -1,0 +1,11 @@
+{
+    "datasetID": 141,
+    "supportID": "EB0B4ADDF0A39E2D2F4AD6085ECE2C988149D212",
+    "rexaID": "6858832ba8e9e4ac002900af151a8ffcc1796f8f",
+    "author": "Stefan Aeberhard and Danny Coomans and De Vel",
+    "title": "THE PERFORMANCE OF STATISTICAL PATTERN RECOGNITION METHODS IN HIGH DIMENSIONAL SETTINGS",
+    "venue": "James Cook University",
+    "year": "",
+    "window": "RDA, and only so in the case of identical class covariance matrices with many training objects. RDA has otherwise outperformed all other methods except for some of the exponential data. A method 14 Data Set QDA LDA RDA 1NN FDP FF FR FV <b>UNIX</b> Commands 11.5% 21.3% 70.5% 62.3% (1) 57.4% 9.4% 14.7% 50.8% Wine Data 99.4% 98.9% 100% 91.0% (7) 88.2% 99.4% 93.8% 74.1% Tert. Institutions 37.5% 31.2% 84.4% 75.0%",
+    "mykey": 2339
+}

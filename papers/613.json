@@ -1,0 +1,11 @@
+{
+    "datasetID": 46,
+    "supportID": "4706480C9E7BF0F35D0816255195ED2523352D95",
+    "rexaID": "341c37581773a2a38cecc290e6272ca752b9df84",
+    "author": "Suresh K. Choubey and Jitender S. Deogun and Vijay V. Raghavan and Hayri Sever",
+    "title": "A comparison of feature selection algorithms in the context of rough classifiers",
+    "venue": "",
+    "year": "",
+    "window": "different and zero otherwise, and the difference between two quantitative values is normalized into the interval [0,1]. We first consider results from Table 2. Except for Glass, Monks, and <b>Hepatitis</b> data sets, the performance obtained in Predictive Experiments approach those in the case of Upperbound Experiments. This suggests that for Glass, Monks, and Hepatitis data data set Size No. of Attributes",
+    "mykey": 613
+}

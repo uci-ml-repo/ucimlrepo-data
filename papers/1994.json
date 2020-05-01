@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "C5E4B20ED612B93444217F385FD169BF04C7343E",
+    "rexaID": "104a89897dc4a05cb068858194d1d78ad98d5012",
+    "author": "Sugato Basu",
+    "title": "Semi-Supervised Clustering with Limited Background Knowledge",
+    "venue": "AAAI",
+    "year": "2004",
+    "window": "like stop-word removal, tf-idf weighting, and removal of very high-frequency and very low-frequency words (Dhillon & Modha, 2001). From the UCI collection we selected <b>Iris</b>  which is a well-known dataset having 150 points in 4 dimensions. We used the active pairwise constrained version of KMeans on Iris, and SPKMeans on Classic3-subset. Learning curves with cross validation For all algorithms on",
+    "mykey": 1994
+}

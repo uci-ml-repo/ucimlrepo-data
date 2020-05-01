@@ -1,0 +1,11 @@
+{
+    "datasetID": 147,
+    "supportID": "1B1C671C9F423A7622E15D2E11BCCF149E2884EE",
+    "rexaID": "865daf468f10c99d290f47cc77c2a1c463e001ce",
+    "author": "Manoranjan Dash and Huan Liu and Peter Scheuermann and Kian-Lee Tan",
+    "title": "Fast hierarchical clustering and its validation",
+    "venue": "Data Knowl. Eng, 44",
+    "year": "2003",
+    "window": "the estimated K 0 is close to K; e.g. for C5 type with M = 20, N = 10k, and K = 100, the estimated K 0 is 110. Results for high-dimensional benchmark datasets (e.g. Pendigit, <b>image segmentation</b>  and character) also show similar close estimates. The reason is with increasing dimensionality the difference between intra-cluster and inter-cluster distances",
+    "mykey": 240
+}

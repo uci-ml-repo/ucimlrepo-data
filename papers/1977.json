@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "C2EE689A27EF525B05E11475D3DD937C4F3A910E",
+    "rexaID": "283e535d8f512eedabbd803c72a86b891eed8474",
+    "author": "Chun-Nan Hsu and Hilmar Schuschel and Ya-Ting Yang",
+    "title": "The ANNIGMA-Wrapper Approach to Neural Nets Feature Selection for Knowledge Discovery and Data Mining",
+    "venue": "Institute of Information Science",
+    "year": "1999",
+    "window": "concentrated on distinguishing the presence of heart disease (value 1,2 3,4 in the classification) from absence (value 0). Missing values in both databases are all replaced by zero. <b>Ionosphere</b> This dataset has 351 records of 34 features. The goal is to classify two types of radar returns from the ionosphere. ``Good'' radar returns are those showing evidence of some type of structure in the ionosphere.",
+    "mykey": 1977
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 15,
+    "supportID": "96255EE83ABB19925C340F5124EA14A75D3D853F",
+    "rexaID": "3c3eb7beca3f6ab6fcebe2863131fa3dbae6cb7f",
+    "author": "Yuh-Jeng Lee",
+    "title": "Smooth Support Vector Machines",
+    "venue": "Preliminary Thesis Proposal Computer Sciences Department University of Wisconsin",
+    "year": "2000",
+    "window": "[37]. To evaluate the efficacy of SSVM, we compared computational times of SSVM with those of RLP and SV M k\u00b7k1 . We ran all tests on six publicly available datasets: the <b>Wisconsin</b> Prognostic <b>Breast</b> <b>Cancer</b> Database [34] and five datasets from the Irvine Machine Learning Database Repository [36]. It turned out that tenfold testing correctness of the SSVM is the",
+    "mykey": 1509
+}

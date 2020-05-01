@@ -1,0 +1,11 @@
+{
+    "datasetID": 14,
+    "supportID": "17F5F627AA64D0A726E51B382398A2E23F7997B0",
+    "rexaID": "e4ce48114dcd770134f22df787d55e8daf02ac4a",
+    "author": "Karthik Ramakrishnan",
+    "title": "UNIVERSITY OF MINNESOTA",
+    "venue": "",
+    "year": "",
+    "window": "the number of output classes, and the number of continuous and discrete input features. Features Data set Cases Class Continuous Discrete <b>breast</b> <b>cancer</b> w 699 2 9 - credit-a 690 2 6 9 credit-g 1000 2 7 13 glass 214 6 9 - heart-cleveland 303 2 8 5 hypo 3772 5 7 22 ionosphere 351 2 34 - iris 159 3 4 -",
+    "mykey": 209
+}

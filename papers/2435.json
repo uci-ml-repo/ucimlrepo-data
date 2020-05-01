@@ -1,0 +1,11 @@
+{
+    "datasetID": 52,
+    "supportID": "F1A2B03BBC2588D3EFBE86DA0AAB311F85CF3D81",
+    "rexaID": "e100b0bcc229ac20bf69c9a7a6bcc360ea16a720",
+    "author": "Wl/odzisl/aw Duch and Karol Grudzinski",
+    "title": "Meta-learning: searching in the model space",
+    "venue": "Department of Computer Methods, Nicholas Copernicus University",
+    "year": "",
+    "window": "to find classification models that achieve 100% accuracy on the test set. For hepatobiliary disorders a model with highest accuracy for real medical data has been found automatically. For some data sets, such as the <b>ionosphere</b>  there seems to be no correlation between the results on the training and on the test set. Although the use of a validation set (or the use of the crossvalidation",
+    "mykey": 2435
+}

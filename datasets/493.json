@@ -1,0 +1,23 @@
+{
+    "ID": 493,
+    "Name": "Query Analytics Workloads Dataset",
+    "Abstract": "The data-set contains three (3) sets of range/radius query workloads from Gaussian distributions over a real dataset; Each query is associated with aggregate scalar values (count/sum/average).",
+    "Types": "Multivariate",
+    "Task": "Regression, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 260000,
+    "NumAttributes": 8,
+    "DateDonated": "2019-06-22",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00493/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The data-set contains three (3) sets of synthetic range and radius query workloads derived from Gaussian distributions over the real dataset in [URL-1]. Each processed query is associated with aggregate scalar values (count, sum, average) over the dataset in [URL-1].\r\n\r\n[URL-1]: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2\r\n\r\nNote: the current dataset is processed data derived after synthetic query analytics workloads over the real-dataset in [URL-1] and does not include any data from [URL-1]",
+    "Source": "Source: Dr Christos Anagnostopoulos; School of Computing Science, University of Glasgow; email: christos.anagnostopoulos '@' glasgow.ac.uk; G12 8QQ Scotland, UK. (Essence: Pervasive & Distributed Intelligence: http://www.dcs.gla.ac.uk/essence/)\r\n",
+    "Acknowledgements": "[1] Savva, F. , Anagnostopoulos, C. and Triantafillou, P. (2018) Explaining Aggregates for Exploratory Analytics. In: IEEE Big Data 2018, Seattle, WA, USA, 10-13 Dec 2018\r\n\r\n[2] Anagnostopoulos, C. , Savva, F. and Triantafillou, P. (2018) Scalable aggregation predictive analytics: a query-driven machine learning approach. Applied Intelligence, 48(9), pp. 2546-2567.",
+    "Area": "Computer",
+    "RelevantPapers": "[1] Savva, F. , Anagnostopoulos, C. and Triantafillou, P. (2018) Explaining Aggregates for Exploratory Analytics. In: IEEE Big Data 2018, Seattle, WA, USA, 10-13 Dec 2018\r\n\r\n[2] Anagnostopoulos, C. , Savva, F. and Triantafillou, P. (2018) Scalable aggregation predictive analytics: a query-driven machine learning approach. Applied Intelligence, 48(9), pp. 2546-2567.",
+    "AttributeInfo": "[*] The dataset 'Radius Queries' contains records of the format: {'X-coordinate','Y-coordinate', 'R-Radius'}. These queries define a disc over a 2D space with center (X,Y) and radius R in order to investigate the number of crime incidents, the total arrests and the average beat of the disc region (spatial area) defined by each query.   \r\n\r\n[*] The dataset 'Radius Queries Count' contains records of the format: {'X-coordinate','Y-coordinate', 'R-Radius', 'Count'}. These queries define a disc over a 2D space with center (X,Y) and radius R and the number of crime incidents Count of the disc region (spatial area) defined by each query.\r\n\r\n[*] The dataset 'Range Queries Aggregates' contains records of the format: {'X-coordinate','Y-coordinate', 'X-range', 'Y-range', 'Count', 'SUM', 'AVG'}. \r\nThese queries define a rectangle over a 2D space with coordinates/points: X +/- X-range and Y +/- Y-range. The count, sum, and avg is the number of incidents, total arrests and average beat of the rectangle region (spatial area) defined by each query.\r\n\r\n[*] All datasets are .csv\r\n\r\nExample of a Range Query with Count, SUM, and AVG: \r\n\r\n[1159191.2534425869,1894755.9479944962,5225.375665408865,2981.728430851036,96046.0,34927.0,1111.618901359765]\r\n\r\nwhere: \r\n'X-coordinate' = 1159191.2534425869, \r\n'Y-coordinate' = 1894755.9479944962, \r\n'X-range' = 5225.375665408865, \r\n'Y-range' = 2981.728430851036, \r\n'Count' = 96046.0, \r\n'SUM' = 34927, \r\n'AVG' = 1111.618901359765.\r\n\r\nAttribute Information:\r\n\r\nAttributes:\r\n'ID' = serial number of query (optional) \r\n'X-coordinate' = spatial x-coordinate (float) \r\n'Y-coordinate' = spatial y-coordinate (float) \r\n'R-Radius' = spatial radius of a disc (X,Y) for radius query (float) \r\n'X-range' = spatial x-range for range query (float) \r\n'Y-range' = spatial y-range for range query (float) \r\n'Count' = number of crime incidents in the 2D disc (radius queries) or rectangle (range queries)\r\n'SUM' = summation of Arrests in the 2D disc (radius queries) or rectangle (range queries)\r\n'AVG' = average Beat in the 2D disc (radius queries) or rectangle (range queries)",
+    "FormatType": "",
+    "NumHits": 0
+}

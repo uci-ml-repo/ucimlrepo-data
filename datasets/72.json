@@ -1,0 +1,23 @@
+{
+    "ID": 72,
+    "Name": "Multiple Features",
+    "Abstract": "This dataset consists of features of handwritten numerals (`0'--`9') extracted from a collection of Dutch utility maps",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer, Real",
+    "NumInstances": 2000,
+    "NumAttributes": 649,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/mfeat/",
+    "URLReadme": "../machine-learning-databases/mfeat/mfeat.info",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "This dataset consists of features of handwritten numerals (`0'--`9') extracted from a collection of Dutch utility maps. 200 patterns per class (for a total of 2,000 patterns) have been digitized in  binary images. These digits are represented in terms of the following six feature sets (files): \r\n\r\n1. mfeat-fou: 76 Fourier coefficients of the character shapes; \r\n2. mfeat-fac: 216 profile correlations; \r\n3. mfeat-kar: 64 Karhunen-Love coefficients; \r\n4. mfeat-pix: 240 pixel averages in 2 x 3 windows; \r\n5. mfeat-zer: 47 Zernike moments; \r\n6. mfeat-mor: 6 morphological features. \r\n\r\nIn each file the 2000 patterns are stored in ASCI on 2000 lines. The first 200 patterns are of class `0', followed by sets of 200 patterns for each of the classes `1' - `9'. Corresponding patterns in different feature sets (files) correspond to the same original character.\r\n\r\nThe source image dataset is lost. Using the pixel-dataset (mfeat-pix) sampled versions of the original images may be obtained (15 x 16 pixels).",
+    "Source": "Robert P.W. Duin\r\nDepartment of Applied Physics \r\nDelft University of Technology \r\nP.O. Box 5046, 2600 GA Delft\r\nThe Netherlands\r\n\r\nemail: duin@ph.tn.tudelft.nl\r\nhttp : //www.ph.tn.tudelft.nl/~duin\r\ntel +31 15 2786143",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "M. van Breukelen, R.P.W. Duin, D.M.J. Tax, and J.E. den Hartog, Handwritten digit recognition by combined classifiers, Kybernetika, vol. 34, no. 4, 1998, 381-386.\r\nhttp://rexa.info/paper/76afd3f8caf9d74d3a3845ad5f7a5517bca39a64\r\n\r\nM. van Breukelen and R.P.W. Duin, Neural Network Initialization by Combined Classifiers, in: A.K. Jain, S. Venkatesh, B.C. Lovell (eds.), ICPR'98, Proc. 14th Int. Conference on Pattern Recognition (Brisbane, Aug. 16-20),\r\n\r\nA.K. Jain, R.P.W. Duin, J. Mao, Statisitcal Pattern Recognition: A Review, in preparation",
+    "AttributeInfo": "6 Files:\r\n1. mfeat-fou: 76 Fourier coefficients of the character shapes; \r\n2. mfeat-fac: 216 profile correlations; \r\n3. mfeat-kar: 64 Karhunen-Love coefficients; \r\n4. mfeat-pix: 240 pixel averages in 2 x 3 windows; \r\n5. mfeat-zer: 47 Zernike moments; \r\n6. mfeat-mor: 6 morphological features. ",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 10029
+}

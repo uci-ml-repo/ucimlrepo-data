@@ -1,0 +1,11 @@
+{
+    "datasetID": 151,
+    "supportID": "CA0EB2AD2AE47FACD2EACFE2F715C8C9ED5938B3",
+    "rexaID": "b859b5cc14ac44c92ce02385f20204fdf9e32714",
+    "author": "Christos Emmanouilidis and A. Hunter and Dr J. MacIntyre",
+    "title": "A Multiobjective Evolutionary Setting for Feature Selection and a Commonality-Based Crossover Operator",
+    "venue": "Centre for Adaptive Systems, School of Computing, Engineering and Technology University of Sunderland",
+    "year": "",
+    "window": "the individual features distribution during evolution (Figure 5, lower row). Once feature selection is completed, final MLP models are built, based on the training and validation data. The <b>sonar</b> data set and, to a lesser extent the ionoshpere, is so sparse that employing a large number of hidden units seems to lead to overfit. Both MLP and PNN models are tested on the independent evaluation data. 0",
+    "mykey": 2025
+}

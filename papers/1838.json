@@ -1,0 +1,11 @@
+{
+    "datasetID": 149,
+    "supportID": "B27601200B051645A7C2F3A810CD3B4613F37780",
+    "rexaID": "a5de010b13b49c05ccdf94f823248eba956d8d6b",
+    "author": "Ronaldo C. Prati and Peter A. Flach",
+    "title": "ROCCER: an Algorithm for Rule Learning Based on ROC Analysis",
+    "venue": "Institute of Mathematics and Computer Science University of S~ ao Paulo",
+    "year": "",
+    "window": "351 64.10 10 Kr-vs-Kp 37 3196 52.22 11 Letter-a 17 20000 96.06 12 New-thyroid 6 215 83.72 13 Nursery 9 12960 97.45 14 Pima 9 768 65.10 15 Satimage 37 6435 90.27 16 <b>Vehicle</b> 19 846 76.48 Table 1: UCI data sets used in our experiments. been modified to incorporate the induction of unordered rule sets and Laplace error correction as evaluation function [Clark and Boswell, 1991] . Ripper [Cohen, 1995]",
+    "mykey": 1838
+}

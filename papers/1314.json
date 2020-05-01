@@ -1,0 +1,11 @@
+{
+    "datasetID": 148,
+    "supportID": "82E59B02699154AF3FA45D86133372F7737D69A1",
+    "rexaID": "44326d77510f1b8976c3d73c224e9a1cb80ecc3c",
+    "author": "Khaled A. Alsabti and Sanjay Ranka and Vineet Singh",
+    "title": "CLOUDS: A Decision Tree Classifier for Large Datasets",
+    "venue": "KDD",
+    "year": "1998",
+    "window": "lower than most of the other points along the splitting attribute as well as other attributes. Figure 1 gives the value of the gini index along each of the nine numeric attributes of the <b>Shuttle</b> dataset. We show that the above properties can be used to develop an I/O and computationally e\u00c6cient method for estimating the split at every internal node. Experimental results on real and synthetic",
+    "mykey": 1314
+}

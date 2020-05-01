@@ -1,0 +1,11 @@
+{
+    "datasetID": 2,
+    "supportID": "EDD363946C4004C5ED90EDDD449FC364AD488A13",
+    "rexaID": "c7d3013a5143009f65d4303e65d8ecfcc892fa2e",
+    "author": "Haixun Wang and Philip S. Yu",
+    "title": "SSDT-NN: A Subspace-Splitting Decision Tree Classifier with Application to Target Selection",
+    "venue": "IBM T. J. Watson Research Center",
+    "year": "",
+    "window": "that have biased data distribution. We use 25% of the cases for training and the rest 75% for testing. The results in shown in Table 3. 19 Datasets Dataset Size Bias SPRINT SSDT-NN <b>Adult</b> 32561 0.24 68 72.1 Anneal 5 798 0.08 100 100 Anneal U 798 0.04 100 100 breast-cancer 466 0.37 76.9 89.2 Vehicle bus 846 0.23 43.3 68.2 Sick 3770 0.06 72.3",
+    "mykey": 2398
+}

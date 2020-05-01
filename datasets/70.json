@@ -1,0 +1,23 @@
+{
+    "ID": 70,
+    "Name": "MONK's Problems",
+    "Abstract": "A set of three artificial domains over the same attribute space; Used to test a wide range of induction algorithms",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Categorical",
+    "NumInstances": 432,
+    "NumAttributes": 7,
+    "DateDonated": "1992-10-01",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/monks-problems/",
+    "URLReadme": "../machine-learning-databases/monks-problems/monks.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The MONK's problem were the basis of a first international comparison of learning algorithms. The result of this comparison is summarized in \"The MONK's Problems - A Performance Comparison of Different Learning algorithms\" by S.B. Thrun, J. Bala, E. Bloedorn, I.  Bratko, B. Cestnik, J. Cheng, K. De Jong, S.  Dzeroski, S.E. Fahlman, D. Fisher, R. Hamann, K. Kaufman, S. Keller, I. Kononenko, J.  Kreuziger, R.S. Michalski, T. Mitchell, P.  Pachowicz, Y. Reich H.  Vafaie, W. Van de Welde, W. Wenzel, J. Wnek, and J. Zhang has been published as Technical Report CS-CMU-91-197, Carnegie Mellon University in Dec. 1991.\r\n\r\nOne significant characteristic of this comparison is that it was performed by a collection of researchers, each of whom was an advocate of the technique they tested (often they were the creators of the various methods). In this sense, the results are less biased than in comparisons performed by a single person advocating a specific learning method, and more accurately reflect the generalization behavior of the learning techniques as applied by knowledgeable users.\r\n\r\nThere are three MONK's problems.  The domains for all MONK's problems are the same (described below).  One of the MONK's problems has noise added. For each problem, the domain has been partitioned into a train and test set.",
+    "Source": "Donor: \r\n\r\nSebastian Thrun\r\nSchool of Computer Science\r\nCarnegie Mellon University\r\nPittsburgh, PA 15213, USA\r\nE-mail: thrun@cs.cmu.edu",
+    "Acknowledgements": "",
+    "Area": "Other",
+    "RelevantPapers": "Wnek, J., \"Hypothesis-driven Constructive Induction,\" PhD dissertation, School of Information Technology and Engineering, Reports of Machine Learning and Inference Laboratory, MLI 93-2, Center for Artificial Intelligence, George Mason University, March 1993.\r\nhttp://rexa.info/paper/5595d2ecdc3a5ab1a5676a84202b5ceeb118d8cc\r\n\r\nWnek, J. and Michalski, R.S., \"Comparing Symbolic and Subsymbolic Learning: Three Studies,\" in Machine Learning: A Multistrategy Approach, Vol. 4., R.S. Michalski and G. Tecuci (Eds.), Morgan Kaufmann, San Mateo, CA, 1993.\r\nhttp://rexa.info/paper/d9e2a62b964fe99fed2b027cc0dfcc5ac86c2b4c\r\n\r\nSee File: thrun.comparison.ps.Z\r\n",
+    "AttributeInfo": "    1. class: 0, 1 \r\n    2. a1:    1, 2, 3\r\n    3. a2:    1, 2, 3\r\n    4. a3:    1, 2\r\n    5. a4:    1, 2, 3\r\n    6. a5:    1, 2, 3, 4\r\n    7. a6:    1, 2\r\n    8. Id:    (A unique symbol for each instance)",
+    "FormatType": "Dense-Matrix, Multiple",
+    "NumHits": 14437
+}

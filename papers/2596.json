@@ -1,0 +1,11 @@
+{
+    "datasetID": 185,
+    "supportID": "",
+    "rexaID": "9C50171861081DE67E20861A765893B42B5C9059",
+    "author": "Ruslan Salakhutdinov and Andriy Mnih",
+    "title": "Probabilistic Matrix Factorization",
+    "venue": "NIPS",
+    "year": "2007",
+    "window": "In this paper we present the Probabilistic Matrix Factorization (PMF) model which scales linearly with the number of observations and, more importantly, performs well on the large, sparse, and very imbalanced <b>Netflix</b>  dataset. ",
+    "mykey": 2596
+}

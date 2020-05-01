@@ -1,0 +1,11 @@
+{
+    "datasetID": 53,
+    "supportID": "63D83289E3183E39B73E260F4C0131ACE7C4BE9A",
+    "rexaID": "8a6877d257fd7de465ca5f47834294629105e92c",
+    "author": "Michael P. Cummings and Daniel S. Myers and Marci Mangelson",
+    "title": "Applying Permuation Tests to Tree-Based Statistical Models: Extending the R Package rpart",
+    "venue": "Center for Bioinformatics and Computational Biology, Institute for Advanced Computer Studies, University of Maryland",
+    "year": "",
+    "window": "In this section we show several examples of the application of permutation tests to tree-based statistical models. We begin by permutation testing a classification tree built on the famous <b>Iris</b> dataset setosa: 50 versicolor: 50 virginica: 50 virginica: 0 versiolor: 0 setosa: 0 versicolor: 50 virginica: 50 virginica: 45 versicolor: 1 virginica: 5 versicolor: 49 setosa: 0 petal length < 2.45 cm",
+    "mykey": 939
+}

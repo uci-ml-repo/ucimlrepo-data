@@ -1,0 +1,23 @@
+{
+    "ID": 479,
+    "Name": "Somerville Happiness Survey",
+    "Abstract": "A data extract of a non-federal dataset posted here https://catalog.data.gov/dataset/somerville-happiness-survey-responses-2011-2013-2015",
+    "Types": "",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 143,
+    "NumAttributes": 7,
+    "DateDonated": "2018-05-24",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00479/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "It is a case of supervised learning with the use of Receiver Operating Characteristic (ROC) to select the minimal set of attributes preserving or increasing predictability of the data.\r\n ",
+    "Source": "Waldemar W. Koczkodaj, wkoczkodaj@gmail, independent researcher.",
+    "Acknowledgements": "For the method: \r\nW.W. Koczkodaj, T. Kakiashvili, A. Szymanska, J. Montero-Marin, R. Araya, J. Garcia-Campayo, K. Rutkowski, D. Strzalka, How to reduce the number of rating scale items without predictability loss? Scientometrics, 111(2): 581-593, 2017.",
+    "Area": "Life",
+    "RelevantPapers": "Koczkodaj, W.W.; Li, F.; Wolny-Dominiak, A., RatingScaleReduction package: stepwise rating scale item reduction without predictability loss, R JOURNAL, 10(1): 43-55, 2018.\r\n\r\nW.W. Koczkodaj, T. Kakiashvili, A. Szymanska, J. Montero-Marin, R. Araya, J. Garcia-Campayo, K. Rutkowski, D. Strzalka, How to reduce the number of rating scale items without predictability loss? Scientometrics, 111(2): 581-593, 2017.\r\n\r\nProject R package: https://cran.r-project.org/web/packages/RatingScaleReduction/index.html",
+    "AttributeInfo": "D = decision attribute (D) with values 0 (unhappy) and 1 (happy)\r\nX1 = the availability of information about the city services\r\nX2 = the cost of housing\r\nX3 = the overall quality of public schools\r\nX4 = your trust in the local police\r\nX5 = the maintenance of streets and sidewalks \r\nX6 = the availability of social community events\r\n\r\nAttributes X1 to X6 have values 1 to 5.",
+    "FormatType": "Matrix",
+    "NumHits": 0
+}

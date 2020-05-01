@@ -1,0 +1,11 @@
+{
+    "datasetID": 153,
+    "supportID": "9A8276E97FC149884AD95CD5A9AAE312A351FFE0",
+    "rexaID": "3fe33086239c6beec412b11fde015871a85c6011",
+    "author": "Sally Jo Cunningham",
+    "title": "Dataset cataloging metadata for machine learning applications and research",
+    "venue": "Department of Computer Science University of Waikato",
+    "year": "",
+    "window": ";;; -*- Mode: LISP; Syntax: common-lisp; Base: 10 -*- ;;;totally undocumented <b>sanctions</b> database. ;;;Pazzani AAAI-86 or EWSL-88 (a) portion of abalone data description (b) <b>economic sanctions</b> dataset header Figure 1. Content independent catalog samples from the UCI ML dataset repository content-dependent: In comparison to content-independent metadata, content-dependent descriptors are directly",
+    "mykey": 1564
+}

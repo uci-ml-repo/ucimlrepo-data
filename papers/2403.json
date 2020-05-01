@@ -1,0 +1,11 @@
+{
+    "datasetID": 149,
+    "supportID": "EE042EB33F4320908C19EF5C8E4863C4F84EFFF9",
+    "rexaID": "22dbe26a460522ada68b637b8a3483c717b671fa",
+    "author": "Maria Salamo and Elisabet Golobardes",
+    "title": "Analysing Rough Sets weighting methods for Case-Based Reasoning Systems",
+    "venue": "Enginyeria i Arquitectura La Salle",
+    "year": "",
+    "window": "are obtained from the UCI repository [MM98]. They are: breast cancer, glass, ionosphere, iris, led, sonar, <b>vehicle</b> and vowel. Private datasets are from our own repository. They deal with diagnosis of breast cancer and synthetic datasets. Datasets related to diagnosis are biopsy and mammogram. Biopsy is the result of digitally processed",
+    "mykey": 2403
+}

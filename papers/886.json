@@ -1,0 +1,11 @@
+{
+    "datasetID": 38,
+    "supportID": "5F6472F0C8B67ED76F4B12F29F10E625C9F9F467",
+    "rexaID": "287f8092a743949a6e0151893b9e3bc4d03466ed",
+    "author": "Gabor Melli",
+    "title": "A Lazy Model-Based Approach to On-Line Classification",
+    "venue": "University of British Columbia",
+    "year": "1989",
+    "window": "The five selected datasets were: <b>echocardiogram</b>  hayes-roth, heart, horse-colic,andiris datasets. These datasets (marked in Table 7.1 with a * symbol beside their name) contain a sampling of attribute types and domains. For",
+    "mykey": 886
+}

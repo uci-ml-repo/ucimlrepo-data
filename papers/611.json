@@ -1,0 +1,11 @@
+{
+    "datasetID": 144,
+    "supportID": "46C9D50C8B5A15A56C1290626C644CC44557F8E5",
+    "rexaID": "acecd401473cf6df8234b59ef16f347cb77f6853",
+    "author": "Paul O' Dea and Josephine Griffith and Colm O' Riordan",
+    "title": "Combining Feature Selection and Neural Networks for Solving Classification Problems",
+    "venue": "Information Technology Department, National University of Ireland",
+    "year": "",
+    "window": "network (as described earlier), using back-propagation as a learning algorithm, is used to classify the tuples \u00d1\u00b7\u00c4#\u00c7\u00ae\u00c7\u00ab\u00c7}\u00d1 \u00de based on the attributes \u00dc\u00c4#\u00c7\u00ab\u00c7\u00ae\u00c7\u00b7\u00dc \u00de . 5 Results 5.1 The <b>German Credit</b> Data Set In order to facilitate testing of the developed approach, experiments were conducted using the german credit data set 1 . The german credit data set contains information on 1000 loan applicants.",
+    "mykey": 611
+}

@@ -1,0 +1,11 @@
+{
+    "datasetID": 69,
+    "supportID": "950F28AC7FCB5EC339FAB6BF3E1B61C9D055F1D5",
+    "rexaID": "939595ca638eb3390e9bb9c4e6cc1352163cbf18",
+    "author": "Kai Ming Ting and Ian H. Witten",
+    "title": "Stacked Generalization: when does it work",
+    "venue": "Department of Computer Science University of Waikato",
+    "year": "",
+    "window": "other three level-1 generalizers in that its model can easily be interpreted. Examples of the combination weights it derives (for the probability-based model ~ M 0 ) appear in Table 5 for the <b>Splice</b> dataset. The weights indicate the relative importance of the level-0 generalizers for each prediction class. In this dataset, NB is the dominant generalizer for predicting class 2, NB and IB1 are both good",
+    "mykey": 1489
+}

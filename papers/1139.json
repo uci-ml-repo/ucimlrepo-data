@@ -1,0 +1,11 @@
+{
+    "datasetID": 34,
+    "supportID": "74B340C88F0DB5AF29EB2EE70B523CCC72D11692",
+    "rexaID": "d328ae33fb50756832a1c6cd703f7176c361923f",
+    "author": "Peter Sykacek and Stephen J. Roberts",
+    "title": "Adaptive Classification by Variational Kalman Filtering",
+    "venue": "NIPS",
+    "year": "2002",
+    "window": "which were both used as training and independent test sets respectively. We also use the pima <b>diabetes</b> data set from [16] 3 . Table 1 compares the generalization accuracies (in fractions) obtained with the variational Kalman filter with generalization accuracies obtained with sequential variational inference.",
+    "mykey": 1139
+}

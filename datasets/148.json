@@ -1,0 +1,23 @@
+{
+    "ID": 148,
+    "Name": "Statlog (Shuttle)",
+    "Abstract": "The shuttle dataset contains 9 attributes all of which are numerical. Approximately 80% of the data belongs to class 1",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Integer",
+    "NumInstances": 58000,
+    "NumAttributes": 9,
+    "DateDonated": "",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/statlog/shuttle/",
+    "URLReadme": "../machine-learning-databases/statlog/shuttle/shuttle.doc",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Approximately 80% of the data belongs to class 1. Therefore the default accuracy is about 80%. The aim here is to obtain an accuracy of 99 - 99.9%.\r\n\r\nThe examples in the original dataset were in time order, and this time order could presumably be relevant in classification.   However, this was not deemed relevant for StatLog purposes, so the order of the examples in the original dataset was randomised, and a portion of the original dataset removed for validation purposes.\r\n",
+    "Source": "Donor:\r\n\r\nJason Catlett \r\nBasser Department of Computer Science, \r\nUniversity of Sydney, N.S.W., Australia \r\n\r\n",
+    "Acknowledgements": "Thanks to NASA for allowing us to use the shuttle datasets.\r\n",
+    "Area": "Physical",
+    "RelevantPapers": "",
+    "AttributeInfo": "The shuttle dataset contains 9 attributes all of which are numerical. The first one being time.  The last column is the class which has been coded as follows :\r\n        1       Rad Flow\r\n        2       Fpv Close\r\n        3       Fpv Open\r\n        4       High\r\n        5       Bypass\r\n        6       Bpv Close\r\n        7       Bpv Open\r\n",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 14877
+}

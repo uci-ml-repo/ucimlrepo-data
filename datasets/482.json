@@ -1,0 +1,23 @@
+{
+    "ID": 482,
+    "Name": "Parking Birmingham",
+    "Abstract": "Data collected from car parks in Birmingham that are operated by NCP from \r\nBirmingham City Council. UK Open Government Licence (OGL).\r\nhttps://data.birmingham.gov.uk/dataset/birmingham-parking",
+    "Types": "Multivariate, Univariate, Sequential, Time-Series",
+    "Task": "Classification, Regression, Clustering",
+    "AttributeTypes": "Real",
+    "NumInstances": 35717,
+    "NumAttributes": 4,
+    "DateDonated": "2019-01-02",
+    "MissingValues": 1,
+    "URLFolder": "../machine-learning-databases/00482/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Occupancy rates (8:00 to 16:30) from 2016/10/04 to 2016/12/19",
+    "Source": "Daniel H. Stolfi, dhstolfi@lcc.uma.es, University of Malaga - Spain.",
+    "Acknowledgements": "+ Daniel H. Stolfi, Enrique Alba, and Xin Yao. Predicting Car Park Occupancy Rates in Smart Cities. In: Smart Cities: Second International Conference, Smart-CT 2017, M\u00c3\u00a1laga, Spain, June 14-16, 2017, pp. 107\u00e2\u20ac\u201c117. doi> 10.1007/978-3-319-59513-9_11\r\n+ Birmingham City Council. https://data.birmingham.gov.uk/dataset/birmingham-parking",
+    "Area": "Computer",
+    "RelevantPapers": "+ D. H. Stolfi, E. Alba, and X. Yao. Predicting Car Park Occupancy Rates in Smart Cities. In: Smart Cities: Second International Conference, Smart-CT 2017, M\u00c3\u00a1laga, Spain, June 14-16, 2017, pp. 107\u00e2\u20ac\u201c117. doi> 10.1007/978-3-319-59513-9_11\r\n+ A. Camero, J. Toutouh, D. H. Stolfi, and E. Alba, Evolutionary Deep Learning for Car Park Occupancy Prediction in Smart Cities. In International Conference on Learning and Intelligent Optimization, 2019, pp. 386\u00e2\u20ac\u201c401. doi> 10.1007/978-3-030-05348-2_32\r\n",
+    "AttributeInfo": "SystemCodeNumber: Car park ID\r\nCapacity: Car park capacity\r\nOccupancy: Car park occupancy rate\r\nLastUpdated: Date and Time of the measure\r\n",
+    "FormatType": "",
+    "NumHits": 0
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 281,
+    "Name": "Qualitative_Bankruptcy",
+    "Abstract": "Predict the Bankruptcy from Qualitative parameters from experts.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "",
+    "NumInstances": 250,
+    "NumAttributes": 7,
+    "DateDonated": "2014-02-09",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/00281/",
+    "URLReadme": "#",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "The parameters which we used for collecting the dataset is referred from the paper 'The discovery of experts\u00e2\u20ac\u2122 decision rules from qualitative bankruptcy data using genetic algorithms' by Myoung-Jong Kim*, Ingoo Han.",
+    "Source": "Source Information\n    -- Creator      :  Mr.A.Martin(jayamartin@yahoo.com)\n                          Mr.J.Uthayakumar (uthayakumar17691@gmail.com)\n                          Mr.M.Nadarajan(nadaraj.muthuvel@gmail.com)\n    -- Guided By    :  Dr.V.Prasanna Venkatesan\n    -- Institution  :  Sri Manakula Vinayagar Engineering College and Pondicherry University\n    -- Country      :  India\n    -- Date         :  February 2014",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "The parameters which we used for collecting the dataset is referred from the paper 'The discovery of experts\u00e2\u20ac\u2122 decision rules from qualitative bankruptcy data using genetic algorithms' by Myoung-Jong Kim*, Ingoo Han.",
+    "AttributeInfo": "Attribute Information: (P=Positive,A-Average,N-negative,B-Bankruptcy,NB-Non-Bankruptcy)\r\n \r\n     1. Industrial Risk: {P,A,N}\r\n     2. Management Risk: {P,A,N}\r\n     3. Financial Flexibility: {P,A,N}\r\n     4. Credibility: {P,A,N}\r\n     5. Competitiveness: {P,A,N}\r\n     6. Operating Risk: {P,A,N}\r\n     7. Class: {B,NB}",
+    "FormatType": "Matrix",
+    "NumHits": 9
+}

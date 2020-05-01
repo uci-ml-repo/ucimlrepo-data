@@ -1,0 +1,23 @@
+{
+    "ID": 54,
+    "Name": "ISOLET",
+    "Abstract": " Goal: Predict which letter-name was spoken--a simple classification task.",
+    "Types": "Multivariate",
+    "Task": "Classification",
+    "AttributeTypes": "Real",
+    "NumInstances": 7797,
+    "NumAttributes": 617,
+    "DateDonated": "1994-09-12",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/isolet/",
+    "URLReadme": "../machine-learning-databases/isolet/isolet.info",
+    "HighestAccuracy": 96,
+    "RelevantInfo": "This data set was generated as follows. 150 subjects spoke the name of each letter of the alphabet twice. Hence, we have 52 training examples from each speaker. The speakers are grouped into sets of 30 speakers each, and are referred to as isolet1, isolet2, isolet3, isolet4, and isolet5. The data appears in isolet1+2+3+4.data in sequential order, first the speakers from isolet1, then isolet2, and so on.  The test set, isolet5, is a separate file.\r\n\r\nYou will note that 3 examples are missing.  I believe they were dropped due to difficulties in recording.\r\n\r\nI believe this is a good domain for a noisy, perceptual task.  It is also a very good domain for testing the scaling abilities of algorithms. For example, C4.5 on this domain is slower than backpropagation!\r\n\r\nI have formatted the data for C4.5 and provided a C4.5-style names file as well.",
+    "Source": "Creators: \r\n\r\nRon Cole and Mark Fanty\r\nDepartment of Computer Science and Engineering,\r\nOregon Graduate Institute, Beaverton, OR 97006.\r\ncole@cse.ogi.edu, fanty@cse.ogi.edu\r\n\r\nDonor: \r\n\r\nTom Dietterich\r\nDepartment of Computer Science\r\nOregon State University, Corvallis, OR 97331\r\ntgd@cs.orst.edu",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "Fanty, M., Cole, R. (1991).  Spoken letter recognition.  In Lippman, R. P., Moody, J., and Touretzky, D. S. (Eds). Advances in Neural Information Processing Systems 3.  San Mateo, CA: Morgan Kaufmann.\r\nhttp://rexa.info/paper/bee6de062d0d168c5c5b5290b11cd6b12ca8472e\r\n\r\nDietterich, T. G., Bakiri, G. (1991)  Error-correcting output codes: A general method for improving multiclass inductive learning programs.  Proceedings of the Ninth National Conference on Artificial Intelligence (AAAI-91), Anaheim, CA: AAAI Press.\r\nhttp://rexa.info/paper/7204f897813fe60bd8db373e5f1afe35475bb48e\r\n\r\nDietterich, T. G., Bakiri, G. (1994) Solving Multiclass Learning Problems via Error-Correcting Output Codes. Available as URL: ftp://ftp.cs.orst.edu/pub/tgd/papers/tr-ecoc.ps.gz\r\nhttp://rexa.info/paper/019c2f2e77588b6e654cc5c4c27ae643d3bd0f62\r\n",
+    "AttributeInfo": "The features are described in the paper by Cole and Fanty cited above.  The features include spectral coefficients; contour features, sonorant features, pre-sonorant features, and post-sonorant features.  Exact order of appearance of the features is not known.",
+    "FormatType": "Dense-Matrix",
+    "NumHits": 14459
+}

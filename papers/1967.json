@@ -1,0 +1,11 @@
+{
+    "datasetID": 9,
+    "supportID": "C2E1DE1627E3AA365E09DE5AA79DDF335846C699",
+    "rexaID": "5d88347a087b01681bec3121a13b7b29465cdc71",
+    "author": "Mauro Birattari and Gianluca Bontempi and Hugues Bersini",
+    "title": "Lazy Learning Meets the Recursive Least Squares Algorithm",
+    "venue": "NIPS",
+    "year": "1998",
+    "window": "The first five, described by Quinlan (1993), were obtained from the UCI Repository of machine learning databases (Merz & Murphy, 1998), while the 4 Table 1: A summary of the characteristics of the datasets considered. Dataset Housing Cpu Prices <b>Mpg</b> Servo Ozone Number of examples 506 209 159 392 167 330 Number of regressors 13 6 16 7 8 8 Table 2: Mean absolute error on unseen cases. Method Housing Cpu",
+    "mykey": 1967
+}

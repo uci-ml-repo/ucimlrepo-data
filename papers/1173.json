@@ -1,0 +1,11 @@
+{
+    "datasetID": 67,
+    "supportID": "75EBD298A57E2BBB3DE34EA2E6D6997E61E6944F",
+    "rexaID": "349644828ad3c8da8e1a15eee5aec0d704db34a1",
+    "author": "Kamal Ali and Michael J. Pazzani",
+    "title": "Error Reduction through Learning Multiple Descriptions",
+    "venue": "Machine Learning, 24",
+    "year": "1996",
+    "window": "(representing an increase in accuracy from 93.3% to 98.9%!) and by large (around 3 or 4) factors for LED and Tic-tactoe. The <b>molecular biology</b> data sets also experienced significant reduction with the error being halved (for DNA this represented an increase in accuracy from 67.9% to 86.8%!). The error reduction is least for the noisy KRK and LED",
+    "mykey": 1173
+}

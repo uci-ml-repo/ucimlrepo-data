@@ -1,0 +1,11 @@
+{
+    "datasetID": 45,
+    "supportID": "AC7E05133014FD03F82D4B2A37095F5344D00191",
+    "rexaID": "4ce4c96181e2836dd80a71c2efebc7fb030c55d8",
+    "author": "Baback Moghaddam and Gregory Shakhnarovich",
+    "title": "Boosted Dyadic Kernel Discriminants",
+    "venue": "NIPS",
+    "year": "2002",
+    "window": "and k-Nearest Neighbor (k-NN). We chose sets large enough for reasonable training/validation/test partitioning, and that represent binary (or easily converted to binary) classification problems. Dataset N d k-NN SVM #SV Hypercuts #k.ev. <b>Heart</b> 90 13 .196 #.042 .202 #.038 62 #10 .202 #.030 50 #12 Ionosphere 120 34 .168 #.024 .064 #.018 73 #7 .083 #.022 63 #7 WBC 200 9 .034 #.011 .032 #.008 50 #26",
+    "mykey": 1772
+}

@@ -1,0 +1,23 @@
+{
+    "ID": 66,
+    "Name": "Mobile Robots",
+    "Abstract": "Learning concepts from sensor data of a mobile robot; set of data sets",
+    "Types": "Domain-Theory",
+    "Task": "",
+    "AttributeTypes": "Categorical, Integer, Real",
+    "NumInstances": 0,
+    "NumAttributes": 0,
+    "DateDonated": "1995-07-15",
+    "MissingValues": 0,
+    "URLFolder": "../machine-learning-databases/mobile-robots/",
+    "URLReadme": "../machine-learning-databases/mobile-robots/mobile-robots.names",
+    "HighestAccuracy": 0,
+    "RelevantInfo": "Please view the associated .names file",
+    "Source": "Donors:\r\n\r\nVolker Klingspor, Katharina J. Morik, Anke D. Rieger\r\nComputer Science Dept. LS VIII\r\nUniversity of Dortmund, Germany ",
+    "Acknowledgements": "",
+    "Area": "Computer",
+    "RelevantPapers": "Volker Klingspor, Katharina Morik, Anke Rieger. Learning Concepts from Sensor Data of a Mobile Robot. Machine Learning Journal, 1995.\r\nhttp://rexa.info/paper/95c5e33ec8b4cdd29c2a313da481647f601b9f1e",
+    "AttributeInfo": "   Tr (Trace)           (integer)\r\n   T (Time)             (integer)\r\n   S (Sensor)           (integer 0-23)\r\n   Or (Orientation)     (real 0-360)\r\n   Sa (S-Orientation)   (real 0-360)\r\n   Gr (Gradient)        (real)\r\n   Dist (Distance)      (real)\r\n   Sx,Sy\r\n   (Sensor-coordinates) (real)\r\n   Obj (Object)         (integer)\r\n   E (Edge)             (integer)\r\n   S_C (Sensorclass)    (set of front_side,right_side,back_side,left_side ...)\r\n   Mv (Movement)        (set of parallel, diagonal)\r\n   MD (MoveDirection)   (set of forward, backward, right, left)\r\n   PD (PerceptionDir.)  (set of front, rear, right, left)\r\n   Perc (perceptual features)",
+    "FormatType": "Multiple",
+    "NumHits": 6195
+}

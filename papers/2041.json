@@ -1,0 +1,11 @@
+{
+    "datasetID": 48,
+    "supportID": "CBA38ADC105B8B99FD109C5967472AE614A0B0DD",
+    "rexaID": "965bcc99a91fa65151f0985f3813992c6403c2f6",
+    "author": "Tapani Raiko and Harri Valpola",
+    "title": "MISSING VALUES IN NONLINEAR FACTOR ANALYSIS",
+    "venue": "Helsinki University of Technology, Neural Networks Research Centre",
+    "year": "",
+    "window": "The training set contains vectors more similar to the test set now. 4. Training and testing sets are permuted and 10 percent of the values are set to miss independently of any neighbours. The second data set is Boston <b>housing</b> data, which is publicly available at [2]. It concerns housing values in suburbs of Boston. Data set contains 506 vectors of 13 dimensions excluding one binary attribute. Four of",
+    "mykey": 2041
+}
